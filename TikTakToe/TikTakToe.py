@@ -4,67 +4,73 @@
 # Changes:
 # ======================================
 # 15.04.2020 --> Cross und Circle ohne abwechslung
+# 16.04.2020 --> Spiel Logik angefangen
 
 from tkinter import *
-global count
+
+
+def getCount():
+    global count
+    count += 1
+    return count
 
 
 def OnButtonEnter(button):
+    zahl = getCount()
     if button == "tl":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canTopLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopLeft.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canTopLeft.create_oval(10, 10, 190, 190, width=5)
     elif button == "tm":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canTopMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopMid.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canTopMid.create_oval(10, 10, 190, 190, width=5)
     elif button == "tr":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canTopRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopRight.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canTopRight.create_oval(10, 10, 190, 190, width=5)
     elif button == "ml":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canMidLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidLeft.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canMidLeft.create_oval(10, 10, 190, 190, width=5)
     elif button == "mm":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canMidMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidMid.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canMidMid.create_oval(10, 10, 190, 190, width=5)
     elif button == "mr":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canMidRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidRight.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canMidRight.create_oval(10, 10, 190, 190, width=5)
     elif button == "bl":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canBotLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotLeft.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canBotLeft.create_oval(10, 10, 190, 190, width=5)
     elif button == "bm":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canBotMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotMid.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canBotMid.create_oval(10, 10, 190, 190, width=5)
     elif button == "br":
-        if count % 2 == 1:
+        if zahl % 2 == 1:
             canBotRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotRight.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canBotRight.create_oval(10, 10, 190, 190, width=5)
-    count += 1
 
 
 def InitialiseComponents():
@@ -93,6 +99,7 @@ def InitialiseComponents():
 
 top = Tk()
 top.title('Tik Tak Toe')
+count = 0
 height = 2
 width = 4
 color = "black"
