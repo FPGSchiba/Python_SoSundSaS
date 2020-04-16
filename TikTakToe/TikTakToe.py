@@ -1,79 +1,119 @@
 # SoS und SaS Projects Presents: TikTakToe
+# Author: Jann Erhardt
+# Version: 1.1
+# Changes:
+# ======================================
+# 15.04.2020 --> Cross und Circle ohne abwechslung
 
 from tkinter import *
-from tkinter import messagebox
+global count
+
+
+def OnButtonEnter(button):
+    if button == "tl":
+        if count % 2 == 1:
+            canTopLeft.create_line(0, 0, 200, 200, fill=color, width=5)
+            canTopLeft.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canTopLeft.create_oval(10, 10, 190, 190, width=5)
+    elif button == "tm":
+        if count % 2 == 1:
+            canTopMid.create_line(0, 0, 200, 200, fill=color, width=5)
+            canTopMid.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canTopMid.create_oval(10, 10, 190, 190, width=5)
+    elif button == "tr":
+        if count % 2 == 1:
+            canTopRight.create_line(0, 0, 200, 200, fill=color, width=5)
+            canTopRight.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canTopRight.create_oval(10, 10, 190, 190, width=5)
+    elif button == "ml":
+        if count % 2 == 1:
+            canMidLeft.create_line(0, 0, 200, 200, fill=color, width=5)
+            canMidLeft.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canMidLeft.create_oval(10, 10, 190, 190, width=5)
+    elif button == "mm":
+        if count % 2 == 1:
+            canMidMid.create_line(0, 0, 200, 200, fill=color, width=5)
+            canMidMid.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canMidMid.create_oval(10, 10, 190, 190, width=5)
+    elif button == "mr":
+        if count % 2 == 1:
+            canMidRight.create_line(0, 0, 200, 200, fill=color, width=5)
+            canMidRight.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canMidRight.create_oval(10, 10, 190, 190, width=5)
+    elif button == "bl":
+        if count % 2 == 1:
+            canBotLeft.create_line(0, 0, 200, 200, fill=color, width=5)
+            canBotLeft.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canBotLeft.create_oval(10, 10, 190, 190, width=5)
+    elif button == "bm":
+        if count % 2 == 1:
+            canBotMid.create_line(0, 0, 200, 200, fill=color, width=5)
+            canBotMid.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canBotMid.create_oval(10, 10, 190, 190, width=5)
+    elif button == "br":
+        if count % 2 == 1:
+            canBotRight.create_line(0, 0, 200, 200, fill=color, width=5)
+            canBotRight.create_line(200, 0, 0, 200, fill=color, width=5)
+        else:
+            canBotRight.create_oval(10, 10, 190, 190, width=5)
+    count += 1
+
+
+def InitialiseComponents():
+    top.maxsize(600, 800)
+    top.minsize(600, 800)
+    B_topLeft = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("tl"))
+    B_topMid = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("tm"))
+    B_topRight = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("tr"))
+    B_midLeft = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("ml"))
+    B_midMid = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("mm"))
+    B_midRight = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("mr"))
+    B_botLeft = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("bl"))
+    B_botMid = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("bm"))
+    B_botRight = Button(top, height=height, width=width, bg=color, command=lambda: OnButtonEnter("br"))
+    B_topLeft.place(x=200, y=625)
+    B_topMid.place(x=250, y=625)
+    B_topRight.place(x=300, y=625)
+    B_midLeft.place(x=200, y=675)
+    B_midMid.place(x=250, y=675)
+    B_midRight.place(x=300, y=675)
+    B_botLeft.place(x=200, y=725)
+    B_botMid.place(x=250, y=725)
+    B_botRight.place(x=300, y=725)
+    top.mainloop()
+
 
 top = Tk()
-top.geometry("600x600")
 top.title('Tik Tak Toe')
-height = 13
-width = 33
+height = 2
+width = 4
 color = "black"
-
-
-def TopLeft(event):
-    msg = messagebox.showinfo("Top Left", "Top Left Pressed")
-
-
-def TopMid(event):
-    msg = messagebox.showinfo("Top Mid", "Top Mid Pressed")
-
-
-def TopRight(event):
-    msg = messagebox.showinfo("Top Right", "Top Right Pressed")
-
-
-def MidLeft(event):
-    msg = messagebox.showinfo("Mid Left", "Mid Left Pressed")
-
-
-def MidMid(event):
-    msg = messagebox.showinfo("Mid Mid", "Mid Mid Pressed")
-
-
-def MidRigth(event):
-    msg = messagebox.showinfo("Mid Right", "Mid Right Pressed")
-
-
-def BotLeft(event):
-    msg = messagebox.showinfo("Bot Left", "Bot Left Pressed")
-
-
-def BotMid(event):
-    msg = messagebox.showinfo("Bot Mid", "Bot Mid Pressed")
-
-
-def BotRight(event):
-    msg = messagebox.showinfo("Bot Right", "Bot Right Pressed")
-
-
-top.maxsize(600, 600)
-top.minsize(600, 600)
-B_topLeft = Button(top, height=height, width=width, bg=color)
-B_topMid = Button(top, height=height, width=width, bg=color)
-B_topRight = Button(top, height=height, width=width, bg=color)
-B_midLeft = Button(top, height=height, width=width, bg=color)
-B_midMid = Button(top, height=height, width=width, bg=color)
-B_midRight = Button(top, height=height, width=width, bg=color)
-B_botLeft = Button(top, height=height, width=width, bg=color)
-B_botMid = Button(top, height=height, width=width, bg=color)
-B_botRight = Button(top, height=height, width=width, bg=color)
-B_topLeft.place(x=0, y=0)
-B_topMid.place(x=200, y=0)
-B_topRight.place(x=400, y=0)
-B_midLeft.place(x=0, y=200)
-B_midMid.place(x=200, y=200)
-B_midRight.place(x=400, y=200)
-B_botLeft.place(x=0, y=400)
-B_botMid.place(x=200, y=400)
-B_botRight.place(x=400, y=400)
-B_topLeft.bind('<Button-1>', TopLeft)
-B_topMid.bind('<Button-1>', TopMid)
-B_topRight.bind('<Button-1>', TopRight)
-B_midLeft.bind('<Button-1>', MidLeft)
-B_midMid.bind('<Button-1>', MidMid)
-B_midRight.bind('<Button-1>', MidRigth)
-B_botLeft.bind('<Button-1>', BotLeft)
-B_botMid.bind('<Button-1>', BotMid)
-B_botRight.bind('<Button-1>', BotRight)
-top.mainloop()
+can_color = "orange"
+can_size = 200
+canTopLeft = Canvas(top, width=can_size, height=can_size, background=can_color)
+canTopLeft.grid(row=0, column=0)
+canTopMid = Canvas(top, width=can_size, height=can_size, background=can_color)
+canTopMid.grid(row=0, column=1)
+canTopRight = Canvas(top, width=can_size, height=can_size, background=can_color)
+canTopRight.grid(row=0, column=2)
+canMidLeft = Canvas(top, width=can_size, height=can_size, background=can_color)
+canMidLeft.grid(row=1, column=0)
+canMidMid = Canvas(top, width=can_size, height=can_size, background=can_color)
+canMidMid.grid(row=1, column=1)
+canMidRight = Canvas(top, width=can_size, height=can_size, background=can_color)
+canMidRight.grid(row=1, column=2)
+canBotLeft = Canvas(top, width=can_size, height=can_size, background=can_color)
+canBotLeft.grid(row=2, column=0)
+canBotMid = Canvas(top, width=can_size, height=can_size, background=can_color)
+canBotMid.grid(row=2, column=1)
+canBotRight = Canvas(top, width=can_size, height=can_size, background=can_color)
+canBotRight.grid(row=2, column=2)
+InitialiseComponents()
