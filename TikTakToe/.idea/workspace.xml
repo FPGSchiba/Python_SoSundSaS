@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f157ce6a-71d5-4535-9c9c-8f3488266689" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.py" beforeDir="false" afterPath="$PROJECT_DIR$/TikTakToe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouWon.py" beforeDir="false" afterPath="$PROJECT_DIR$/YouWon.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.YouWon">
     <configuration name="TikTakToe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TikTakToe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,8 +54,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="YouWon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TikTakToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YouWon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.YouWon" />
         <item itemvalue="Python.TikTakToe" />
       </list>
     </recent_temporary>
@@ -95,6 +117,7 @@
     </state>
     <state x="493" y="182" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1587032874583" />
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586857775678" />
+<<<<<<< HEAD
     <state width="1259" height="166" key="GridCell.Tab.0.bottom" timestamp="1587047550089">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -115,6 +138,24 @@
     </state>
     <state width="1259" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587047550089" />
     <state width="1899" height="211" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587032369595" />
+=======
+    <state width="1899" height="211" key="GridCell.Tab.0.bottom" timestamp="1587042232203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587042232203" />
+    <state width="1899" height="211" key="GridCell.Tab.0.center" timestamp="1587042232202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587042232202" />
+    <state width="1899" height="211" key="GridCell.Tab.0.left" timestamp="1587042232202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587042232202" />
+    <state width="1899" height="211" key="GridCell.Tab.0.right" timestamp="1587042232202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587042232202" />
+>>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1586961503355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -135,10 +176,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586956770123" />
+<<<<<<< HEAD
     <state x="437" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1587043112877">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="437" y="229" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1587043112877" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587030251067" />
+=======
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1587041920044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587041920044" />
+>>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
   </component>
 </project>
