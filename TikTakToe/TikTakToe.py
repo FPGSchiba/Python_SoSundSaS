@@ -16,56 +16,74 @@ def getCount():
 
 
 def OnButtonEnter(button):
+    global tl
+    global tm
+    global tr
+    global ml
+    global mm
+    global mr
+    global bl
+    global bm
+    global br
     zahl = getCount()
-    if button == "tl":
+    if button == "tl" and not tl:
+        tl = True
         if zahl % 2 == 1:
             canTopLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopLeft.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canTopLeft.create_oval(10, 10, 190, 190, width=5)
-    elif button == "tm":
+    elif button == "tm" and not tm:
+        tm = True
         if zahl % 2 == 1:
             canTopMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopMid.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canTopMid.create_oval(10, 10, 190, 190, width=5)
-    elif button == "tr":
+    elif button == "tr" and not tr:
+        tr = True
         if zahl % 2 == 1:
             canTopRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopRight.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canTopRight.create_oval(10, 10, 190, 190, width=5)
-    elif button == "ml":
+    elif button == "ml" and not ml:
+        ml = True
         if zahl % 2 == 1:
             canMidLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidLeft.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canMidLeft.create_oval(10, 10, 190, 190, width=5)
-    elif button == "mm":
+    elif button == "mm" and not mm:
+        mm = True
         if zahl % 2 == 1:
             canMidMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidMid.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canMidMid.create_oval(10, 10, 190, 190, width=5)
-    elif button == "mr":
+    elif button == "mr" and not mr:
+        mr = True
         if zahl % 2 == 1:
             canMidRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidRight.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canMidRight.create_oval(10, 10, 190, 190, width=5)
-    elif button == "bl":
+    elif button == "bl" and not bl:
+        bl = True
         if zahl % 2 == 1:
             canBotLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotLeft.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canBotLeft.create_oval(10, 10, 190, 190, width=5)
-    elif button == "bm":
+    elif button == "bm" and not bm:
+        bm = True
         if zahl % 2 == 1:
             canBotMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotMid.create_line(200, 0, 0, 200, fill=color, width=5)
         else:
             canBotMid.create_oval(10, 10, 190, 190, width=5)
-    elif button == "br":
+    elif button == "br" and not br:
+        br = True
         if zahl % 2 == 1:
             canBotRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotRight.create_line(200, 0, 0, 200, fill=color, width=5)
@@ -100,6 +118,15 @@ def InitialiseComponents():
 top = Tk()
 top.title('Tik Tak Toe')
 count = 0
+tl = False
+tm = False
+tr = False
+ml = False
+mm = False
+mr = False
+bl = False
+bm = False
+br = False
 height = 2
 width = 4
 color = "black"
