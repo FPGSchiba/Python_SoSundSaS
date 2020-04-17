@@ -25,7 +25,7 @@ def OnButtonEnter(button):
     global bl
     global bm
     global br
-<<<<<<< HEAD
+
 
     #wert hat was gesetzt
 
@@ -50,134 +50,134 @@ def OnButtonEnter(button):
             tlset = 'Kreuz'
             canTopLeft.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canTopLeft.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
     _count = getCount()
     if button == "tl" and not tl:
         tl = True
         if _count % 2 == 1:
             canTopLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopLeft.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             tlset = 'Kreis'
             canTopLeft.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "tm" and not tm:
         tm = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             tmset = 'Kreuz'
             canTopMid.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canTopMid.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canTopMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopMid.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             tmset = 'Kreis'
             canTopMid.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "tr" and not tr:
         tr = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             trset = 'Kreuz'
             canTopRight.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canTopRight.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canTopRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canTopRight.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             trset = 'Kreis'
             canTopRight.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "ml" and not ml:
         ml = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             mlset = 'Kreuz'
             canMidLeft.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canMidLeft.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canMidLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidLeft.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             mlset = 'Kreis'
             canMidLeft.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "mm" and not mm:
         mm = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             mmset = 'Kreuz'
             canMidMid.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canMidMid.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canMidMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidMid.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             mmset = 'Kreis'
             canMidMid.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "mr" and not mr:
         mr = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             mrset = 'Kreuz'
             canMidRight.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canMidRight.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canMidRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canMidRight.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             mrset = 'Kreis'
             canMidRight.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "bl" and not bl:
         bl = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             blset = 'Kreuz'
             canBotLeft.create_line(0, 0, crosspoint, crosspoint , fill=color, width=5)
             canBotLeft.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canBotLeft.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotLeft.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             blset = 'Kreis'
             canBotLeft.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "bm" and not bm:
         bm = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             bmset = 'Kreuz'
             canBotMid.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canBotMid.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canBotMid.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotMid.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             bmset = 'Kreis'
             canBotMid.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "br" and not br:
         br = True
-<<<<<<< HEAD
+
         if zahl % 2 == 1:
             brset = 'Kreuz'
             canBotRight.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canBotRight.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
+
         if _count % 2 == 1:
             canBotRight.create_line(0, 0, 200, 200, fill=color, width=5)
             canBotRight.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
+
         else:
             brset = 'Kreis'
             canBotRight.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
