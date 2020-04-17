@@ -7,6 +7,8 @@
 # 16.04.2020 --> Spiel Logik angefangen
 # 16.04.2020 --> Gewinn Mechanismus impementiert (Worm.exe ebenfalls implementiert xD)
 from tkinter import *
+
+
 # initate worm.explode(dest=all, 10)
 
 def getCount():
@@ -25,9 +27,8 @@ def OnButtonEnter(button):
     global bl
     global bm
     global br
-<<<<<<< HEAD
 
-    #wert hat was gesetzt
+    # wert hat was gesetzt
 
     global tlset
     global tmset
@@ -39,7 +40,6 @@ def OnButtonEnter(button):
     global bmset
     global brset
 
-
     crosspoint = 100
     scirclepoint = 95
     ecirclepoint = 5
@@ -50,192 +50,136 @@ def OnButtonEnter(button):
             tlset = 'Kreuz'
             canTopLeft.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canTopLeft.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-    _count = getCount()
-    if button == "tl" and not tl:
-        tl = True
-        if _count % 2 == 1:
-            canTopLeft.create_line(0, 0, 200, 200, fill=color, width=5)
-            canTopLeft.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             tlset = 'Kreis'
             canTopLeft.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "tm" and not tm:
         tm = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             tmset = 'Kreuz'
             canTopMid.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canTopMid.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canTopMid.create_line(0, 0, 200, 200, fill=color, width=5)
-            canTopMid.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             tmset = 'Kreis'
             canTopMid.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "tr" and not tr:
         tr = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             trset = 'Kreuz'
             canTopRight.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canTopRight.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canTopRight.create_line(0, 0, 200, 200, fill=color, width=5)
-            canTopRight.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             trset = 'Kreis'
             canTopRight.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "ml" and not ml:
         ml = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             mlset = 'Kreuz'
             canMidLeft.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canMidLeft.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canMidLeft.create_line(0, 0, 200, 200, fill=color, width=5)
-            canMidLeft.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             mlset = 'Kreis'
             canMidLeft.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "mm" and not mm:
         mm = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             mmset = 'Kreuz'
             canMidMid.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canMidMid.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canMidMid.create_line(0, 0, 200, 200, fill=color, width=5)
-            canMidMid.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             mmset = 'Kreis'
             canMidMid.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "mr" and not mr:
         mr = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             mrset = 'Kreuz'
             canMidRight.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canMidRight.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canMidRight.create_line(0, 0, 200, 200, fill=color, width=5)
-            canMidRight.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             mrset = 'Kreis'
             canMidRight.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "bl" and not bl:
         bl = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             blset = 'Kreuz'
-            canBotLeft.create_line(0, 0, crosspoint, crosspoint , fill=color, width=5)
+            canBotLeft.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canBotLeft.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canBotLeft.create_line(0, 0, 200, 200, fill=color, width=5)
-            canBotLeft.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             blset = 'Kreis'
             canBotLeft.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "bm" and not bm:
         bm = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             bmset = 'Kreuz'
             canBotMid.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canBotMid.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canBotMid.create_line(0, 0, 200, 200, fill=color, width=5)
-            canBotMid.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             bmset = 'Kreis'
             canBotMid.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
     elif button == "br" and not br:
         br = True
-<<<<<<< HEAD
         if zahl % 2 == 1:
             brset = 'Kreuz'
             canBotRight.create_line(0, 0, crosspoint, crosspoint, fill=color, width=5)
             canBotRight.create_line(crosspoint, 0, 0, crosspoint, fill=color, width=5)
-=======
-        if _count % 2 == 1:
-            canBotRight.create_line(0, 0, 200, 200, fill=color, width=5)
-            canBotRight.create_line(200, 0, 0, 200, fill=color, width=5)
->>>>>>> 125af7619498e1d0e140ada50ff74d8daa2ea7a1
         else:
             brset = 'Kreis'
             canBotRight.create_oval(ecirclepoint, ecirclepoint, scirclepoint, scirclepoint, width=5)
 
-    if(tl and tm and tr):
-        if(tlset == 'Kreuz' and tmset == 'Kreuz' and trset == 'Kreuz'):
+    if tl and tm and tr:
+        if tlset == 'Kreuz' and tmset == 'Kreuz' and trset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif(tlset == 'Kreis' and tmset == 'Kreis' and trset == 'Kreis'):
+        elif tlset == 'Kreis' and tmset == 'Kreis' and trset == 'Kreis':
             print('Kreis hat gewonnen')
 
-    if (ml and mm and mr):
-        if (mlset == 'Kreuz' and mmset == 'Kreuz' and mrset == 'Kreuz'):
+    if ml and mm and mr:
+        if mlset == 'Kreuz' and mmset == 'Kreuz' and mrset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif (mlset == 'Kreis' and mmset == 'Kreis' and mrset == 'Kreis'):
+        elif mlset == 'Kreis' and mmset == 'Kreis' and mrset == 'Kreis':
             print('Kreis hat gewonnen')
 
     if (bl and bm and br):
-        if (blset == 'Kreuz' and bmset == 'Kreuz' and brset == 'Kreuz'):
+        if blset == 'Kreuz' and bmset == 'Kreuz' and brset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif (blset == 'Kreis' and bmset == 'Kreis' and brset == 'Kreis'):
+        elif blset == 'Kreis' and bmset == 'Kreis' and brset == 'Kreis':
             print('Kreis hat gewonnen')
 
-    if (tr and mr and br):
-        if (trset == 'Kreuz' and mrset == 'Kreuz'and brset == 'Kreuz'):
+    if tr and mr and br:
+        if trset == 'Kreuz' and mrset == 'Kreuz' and brset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif (trset == 'Kreis' and mrset == 'Kreis' and brset == 'Kreis'):
+        elif trset == 'Kreis' and mrset == 'Kreis' and brset == 'Kreis':
             print('Kreis hat gewonnen')
 
-    if (tm and mm and bm):
-        if (tmset == 'Kreuz' and mmset == 'Kreuz' and bmset == 'Kreuz'):
+    if tm and mm and bm:
+        if tmset == 'Kreuz' and mmset == 'Kreuz' and bmset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif (tmset == 'Kreis' and mmset == 'Kreis' and bmset == 'Kreis'):
+        elif tmset == 'Kreis' and mmset == 'Kreis' and bmset == 'Kreis':
             print('Kreis hat gewonnen')
 
-    if (tl and ml and bl):
-        if (tlset == 'Kreuz' and mlset == 'Kreuz' and blset == 'Kreuz'):
+    if tl and ml and bl:
+        if tlset == 'Kreuz' and mlset == 'Kreuz' and blset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif (tlset == 'Kreis' and mlset == 'Kreis' and blset == 'Kreis'):
+        elif tlset == 'Kreis' and mlset == 'Kreis' and blset == 'Kreis':
             print('Kreis hat gewonnen')
 
-    if (tr and mm and bl):
-        if (trset == 'Kreuz' and mmset == 'Kreuz' and blset == 'Kreuz'):
+    if tr and mm and bl:
+        if trset == 'Kreuz' and mmset == 'Kreuz' and blset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif (trset == 'Kreis'and mmset == 'Kreis' and blset == 'Kreis'):
+        elif trset == 'Kreis' and mmset == 'Kreis' and blset == 'Kreis':
             print('Kreis hat gewonnen')
 
-    if (tl and mm and br):
-        if (tlset == 'Kreuz' and mmset == 'Kreuz' and brset == 'Kreuz'):
+    if tl and mm and br:
+        if tlset == 'Kreuz' and mmset == 'Kreuz' and brset == 'Kreuz':
             print('Kreuz hat gewonnen')
 
-        elif (tlset == 'Kreis' and mmset == 'Kreis'and brset == 'Kreis'):
+        elif tlset == 'Kreis' and mmset == 'Kreis' and brset == 'Kreis':
             print('Kreis hat gewonnen')
 
 
