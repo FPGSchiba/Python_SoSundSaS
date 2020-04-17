@@ -2,7 +2,11 @@
 # Author: Das Internet mit Ergänzungen von Jann Erhardt
 # Version 1.0
 # Changes:
+# ===============================================
+#
 #   - 16.04.2020 --> Init / Jann Erhardt
+#
+# ================================================
 
 import turtle
 from random import randint
@@ -80,5 +84,6 @@ def SaSundSpass():
         c = c + 0.1
 
     turtle.exitonclick()
+
 
 SaSundSpass()
