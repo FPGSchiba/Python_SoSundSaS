@@ -5,22 +5,23 @@
 # ===============================================
 #
 #   - 16.04.2020 --> Init / Jann Erhardt
+#   - 28.04.2020 --> Messagebox und who / Jann Erhardt
 #
 # ================================================
 
 import turtle
+from tkinter import messagebox
 from random import randint
 
 
-def YouWon():
+def YouWon(who):
+    messagebox.showinfo("YouWon", who + " hat gewonnen")
     t = turtle.Turtle()
     t.hideturtle()
-
     turtle.bgcolor('black')
-
     x = 0
 
-    while x < 1600:
+    while x < 300:
         r = randint(0, 255)
         g = randint(0, 255)
         b = randint(0, 255)
@@ -84,6 +85,3 @@ def SaSundSpass():
         c = c + 0.1
 
     turtle.exitonclick()
-
-
-SaSundSpass()

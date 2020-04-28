@@ -1,6 +1,6 @@
 # SoS und SaS Projects Presents: TikTakToe
 # Author: Jann Erhardt
-# Version: 1.1
+# Version: 1.2
 # Changes:
 # ======================================================================================
 #
@@ -8,10 +8,12 @@
 # 16.04.2020 --> Spiel Logik angefangen
 # 16.04.2020 --> Gewinn Mechanismus impementiert (Worm.exe ebenfalls implementiert xD)
 # 17.04.2020 --> Fix GitHub fail
+# 28.04.2020 --> Win eingebaut
 #
 # ======================================================================================
 # initate worm.explode(dest=all, 10)
 from tkinter import *
+from YouWon import *
 
 
 def getCount():
@@ -137,59 +139,58 @@ def OnButtonEnter(button):
 
     if tl and tm and tr:
         if tlset == 'Kreuz' and tmset == 'Kreuz' and trset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif tlset == 'Kreis' and tmset == 'Kreis' and trset == 'Kreis':
-            print('Kreis hat gewonnen')
+            YouWon("Kreis")
 
     if ml and mm and mr:
         if mlset == 'Kreuz' and mmset == 'Kreuz' and mrset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif mlset == 'Kreis' and mmset == 'Kreis' and mrset == 'Kreis':
-            print('Kreis hat gewonnen')
+            YouWon("Kreis")
 
     if bl and bm and br:
         if blset == 'Kreuz' and bmset == 'Kreuz' and brset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif blset == 'Kreis' and bmset == 'Kreis' and brset == 'Kreis':
-            print('Kreis hat gewonnen')
+            YouWon("Kreis")
 
     if tr and mr and br:
         if trset == 'Kreuz' and mrset == 'Kreuz' and brset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif trset == 'Kreis' and mrset == 'Kreis' and brset == 'Kreis':
-            print('Kreis hat gewonnen')
+            YouWon("Kreis")
 
     if tm and mm and bm:
         if tmset == 'Kreuz' and mmset == 'Kreuz' and bmset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif tmset == 'Kreis' and mmset == 'Kreis' and bmset == 'Kreis':
-            print('Kreis hat gewonnen')
+            YouWon("Kreis")
 
     if tl and ml and bl:
         if tlset == 'Kreuz' and mlset == 'Kreuz' and blset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif tlset == 'Kreis' and mlset == 'Kreis' and blset == 'Kreis':
-            print('Kreis hat gewonnen')
+            YouWon("Kreis")
 
     if tr and mm and bl:
         if trset == 'Kreuz' and mmset == 'Kreuz' and blset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif trset == 'Kreis' and mmset == 'Kreis' and blset == 'Kreis':
-            print('Kreis hat gewonnen')
-
+            YouWon("Kreis")
     if tl and mm and br:
         if tlset == 'Kreuz' and mmset == 'Kreuz' and brset == 'Kreuz':
-            print('Kreuz hat gewonnen')
+            YouWon("Kreuz")
 
         elif tlset == 'Kreis' and mmset == 'Kreis' and brset == 'Kreis':
-            print('Kreis hat gewonnen')
+            YouWon("Kreis")
 
 
 def InitialiseComponents():
