@@ -8,7 +8,8 @@
 # 16.04.2020 --> Gewinn Mechanismus impementiert (Worm.exe ebenfalls implementiert xD)
 from tkinter import *
 # initate worm.explode(dest=all, 10)
-
+#Mit random ki Gegner erstellen
+#r = randint(0, 255)
 def getCount():
     global count
     count += 1
