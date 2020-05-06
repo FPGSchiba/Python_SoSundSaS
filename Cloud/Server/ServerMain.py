@@ -14,6 +14,6 @@
 # 1 --> Init // import socket // Jann Erhardt
 #
 # ===================================================
+from socket import *
 
-import socket
 
