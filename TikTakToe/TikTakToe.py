@@ -12,10 +12,8 @@
 #
 # ======================================================================================
 # initate worm.explode(dest=all, 10)
-from tkinter import *
-from YouWon import *
-
-
+#Mit random ki Gegner erstellen
+#r = randint(0, 255)
 def getCount():
     global count
     count += 1
