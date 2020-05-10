@@ -16,3 +16,8 @@
 # ===================================================
 
 import socket
+import datetime
+
+
+def Log(msg):
+    print("[" + socket.gethostname() + "|" + str(datetime.datetime.now()) + "]: " + msg)
