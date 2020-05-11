@@ -21,3 +21,7 @@ import datetime
 
 def Log(msg):
     print("[" + socket.gethostname() + "|" + str(datetime.datetime.now()) + "]: " + msg)
+
+
+def outPut(addr, msg):
+    print("[" + addr + "|" + str(datetime.datetime.now()) + "]: " + msg)
