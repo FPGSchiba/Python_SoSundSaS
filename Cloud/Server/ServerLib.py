@@ -4,7 +4,8 @@
 # Changes:
 # ===================================================
 #
-#  1 --> Init // 06.05.2020 // Jann Erhardt
+# 1 --> Init // 06.05.2020 // Jann Erhardt
+# 2 --> Log + ouPut // 11.05.2020 // Jann Erhardt
 #
 # ===================================================
 #
@@ -16,3 +17,12 @@
 # ===================================================
 
 import socket
+import datetime
+
+
+def Log(msg):
+    print("[" + socket.gethostname() + "|" + str(datetime.datetime.now()) + "]: " + msg)
+
+
+def outPut(addr, msg):
+    print("[" + addr + "|" + str(datetime.datetime.now()) + "]: " + msg)
