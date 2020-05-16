@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ce19075-5e05-4250-a23e-09a20cc5cfad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Server/ServerLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ServerLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/ServerMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ServerMain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
