@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ce19075-5e05-4250-a23e-09a20cc5cfad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/ServerMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ServerMain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +80,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.ServerMain" />
+      <item itemvalue="Python.Unnamed" />
     </list>
     <recent_temporary>
       <list>
@@ -108,6 +107,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1588766202236" />
+    <state x="683" y="190" key="FileChooserDialogImpl" timestamp="1590659464640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="190" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1590659464640" />
     <state width="1899" height="235" key="GridCell.Tab.0.bottom" timestamp="1589106183125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
