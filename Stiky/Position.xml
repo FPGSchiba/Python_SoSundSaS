@@ -1,1 +1,13 @@
-der Test 
+<?xml version="1.0" encoding="UTF-8" ?>
+<StickyNotes>
+    <Note1>
+        <Position>1231x686+101+131</Position>
+        <Name>Das SoS</Name>
+        <Content>Das ist alles, was ich weiss, denn ich weiss nichts.</Content>
+    </Note1>
+    <Note2>
+        <Position>1231x686+101+131</Position>
+        <Name>Das Sas</Name>
+        <Content>Das ist nichts, was ich weiss, denn ich weiss alles.</Content>
+    </Note2>
+</StickyNotes>

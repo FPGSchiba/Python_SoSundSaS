@@ -3,6 +3,7 @@
 # Changes:==============================
 #
 # Init: 03.06.2020
+# Tests: 03.06.2020
 #
 # ======================================
 #
@@ -16,9 +17,11 @@
 def write(inputStr):
     posf = open("./Position.xml", "w+")
     posf.write(inputStr)
+    posf.close()
 
 
 def read():
-    posf = open("./Position.xml", "w+")
+    posf = open("./Position.xml", "r")
     str = posf.read()
+    posf.close()
     return str
