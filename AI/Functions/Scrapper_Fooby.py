@@ -170,3 +170,12 @@ def ScrapFooby(URL):
     XMLString += "</Rezept>"
 
     print(XMLString)
+    url = str(URL).split("/")
+    nummer = url[6]
+    temmp = url[7]
+    temmps = temmp.split("?")
+    Namen = temmps[0]
+    FileName = nummer + "/" + Namen + ".xml"
+    file = open("../Daten/Rezepte/"+FileName, "w+")
+    file.write(XMLString)
+    file.close()

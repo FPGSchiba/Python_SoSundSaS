@@ -25,3 +25,5 @@ def read():
     str = posf.read()
     posf.close()
     return str
+
+"https://fooby.ch/de/rezepte/18080/suesskartoffel-quinoa-bowl?startAuto1=0"
