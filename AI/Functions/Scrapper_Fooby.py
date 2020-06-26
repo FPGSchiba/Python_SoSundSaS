@@ -1,3 +1,12 @@
+#! Für Linux ausführung freihalten
+# Author: Jann Erhardt
+# Version 1.0.1
+# Changes:
+# ================
+# No changes yet
+# ================
+# No Copy Right yet
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -37,9 +46,11 @@ def getClass(inpString):
 def ScrapFooby(URL):
     Rezept = []
     Liste = []
-
-    page = requests.get(URL)
-
+    try:
+        page = requests.get(URL)
+    except:
+        print("Wrong URL")
+        return ""
     soup = BeautifulSoup(page.content, 'html.parser')
 
     # Parsen der Einzelnen Meta-infos zum Gericht
@@ -84,7 +95,7 @@ def ScrapFooby(URL):
                 ListString += ";" + header
             print(deleteTagsQuant(quant), "", deleteTagsEinzel(desc))
             Liste.append(deleteTagsQuant(quant) + " " + deleteTagsEinzel(desc))
-            ListString += ", " + deleteTagsQuant(quant) + " " + deleteTagsEinzel(desc)
+            ListString += "\\" + deleteTagsQuant(quant) + " " + deleteTagsEinzel(desc)
         wrappercount += 1
         headerWrite = False
 
@@ -107,7 +118,7 @@ def ScrapFooby(URL):
         else:
             print(deleteTagsEinzel(temps[i]))
             Rezept.append(deleteTagsEinzel(temps[i]))
-            RezeptString += ", " + deleteTagsEinzel(temps[i])
+            RezeptString += "\\" + deleteTagsEinzel(temps[i])
 
     print()
 
@@ -125,7 +136,7 @@ def ScrapFooby(URL):
     except Exception:
         print("no vid")
 
-    # Alles in einzelne Strings
+    # Ein XML-Dokument ertsellen mit den parsed Daten
     XMLString = "<Rezept>\n"
     XMLString += "   <meta>\n"
     XMLString += "       <NährwertProPerson>{kcal:8s}</NährwertProPerson>\n".format(kcal=deleteTagsEinzel(resultMetaNaehrwert))
@@ -139,7 +150,7 @@ def ScrapFooby(URL):
     headercout = 0
     for list in Lists:
         if not list == "":
-            tempps = list.split(",")
+            tempps = list.split("\\")
             for i in tempps:
                 if headerslist.__contains__(i):
                     if not i == "":
@@ -155,13 +166,13 @@ def ScrapFooby(URL):
     Lists = RezeptString.split(";")
     for list in Lists:
         if not list == "":
-            tempps = list.split(",")
+            tempps = list.split("\\")
             for i in tempps:
                 if headerslist.__contains__(i):
                     XMLString += "      <{header:10s}>\n".format(header=i)
                 else:
                     XMLString += "          <inhalt>{inhalt:30s}</inhalt>\n".format(inhalt=i)
-            XMLString += "       </{header:10s}>\n".format(header=headerslist[headercout])
+            XMLString += "      </{header:10s}>\n".format(header=headerslist[headercout])
             headercout += 1
 
     XMLString += "   </rezept>\n"
@@ -169,13 +180,16 @@ def ScrapFooby(URL):
         XMLString += "   <video href=\"{video:43s}\"/>\n".format(video=yt)
     XMLString += "</Rezept>"
 
-    print(XMLString)
+    # Den Namen der Datei bestimmen
     url = str(URL).split("/")
-    nummer = url[6]
-    temmp = url[7]
-    temmps = temmp.split("?")
-    Namen = temmps[0]
-    FileName = nummer + "/" + Namen + ".xml"
-    file = open("../Daten/Rezepte/"+FileName, "w+")
-    file.write(XMLString)
-    file.close()
+    nummer = url[4]
+    FileName = nummer + "/" + ".xml"
+
+    # Die Datei Speichern
+    try:
+        file = open(FileName, "w")
+        file.write("SoS")
+        file.close()
+        print("\nfile done")
+    except:
+        print("\nfile error")
