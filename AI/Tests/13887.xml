@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><Rezept>
+   <meta>
+       <NaehrwertProPerson>348 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Trockene_Zutaten>
+          <inhalt>80 g Weissmehl                </inhalt>
+          <inhalt>100 g Zucker                  </inhalt>
+          <inhalt>1 Prise Natron                </inhalt>
+          <inhalt>1/4 TL Backpulver               </inhalt>
+          <inhalt>1 Prise Salz                  </inhalt>
+      </Trockene_Zutaten>
+      <Schokolade>
+          <inhalt>100 g dunkle Schokolade (50% Kakao), zerbroeckelt</inhalt>
+          <inhalt>100 g Cashewmus               </inhalt>
+      </Schokolade>
+      <Fruchtmus >
+          <inhalt>150 g tiefgekuehlte Himbeeren  </inhalt>
+          <inhalt>3 EL Wasser                   </inhalt>
+          <inhalt>3 EL Randensaft               </inhalt>
+      </Fruchtmus >
+      <Backen_   >
+          <inhalt>wenig  Puderzucker            </inhalt>
+          <inhalt>1 EL Mohn                     </inhalt>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Trockene_Zutaten>
+          <inhalt>Mehl und alle Zutaten bis und mit Salz mischen. </inhalt>
+      </Trockene_Zutaten>
+      <Schokolade>
+          <inhalt>Schokolade in einer duennwandigen Schuessel ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Cashewmus darunterziehen. </inhalt>
+      </Schokolade>
+      <Fruchtmus >
+          <inhalt>Himbeeren und Wasser aufkochen, puerieren, etwas abkuehlen. Mit dem Randensaft unter die Schokolademasse ruehren. Mehlmasse mit dem Gummischaber darunterziehen. Teig in die vorbereiteten Foermchen fuellen. </inhalt>
+      </Fruchtmus >
+      <Backen_   >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Die Kuechlein sollen innen noch leicht fluessig sein. Herausnehmen, noch heiss auf Teller stuerzen. Lava Cakes mit Puderzucker bestaeuben, mit Mohn bestreuen, sofort servieren.</inhalt>
+      </Backen_   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

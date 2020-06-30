@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>578 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>65 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>350 g</quant>
+          <zutat>Bauernmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>300 g</quant>
+          <zutat>tiefgekuehlte Gemuesemischung, aufgetaut</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Pouletbruestli (ca. 300 g), in ca. 1 cm breiten Streifen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>180 g</quant>
+          <zutat>Creme fraiche mit Kraeutern</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Bauernmehl zum Bestaeuben</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz und Hefe in einer Schuessel mischen. Wasser dazugiessen, mischen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Gemuesemischung wuerzen. Pouletstreifen salzen, mit 3 EL Creme fraiche mischen. Restliche Creme fraiche mit der Petersilie mischen. Teig halbieren, Teigstuecke auf wenig Mehl oval ca. 5 mm dick auswallen. Auf ein mit Backpapier belegtes Blech legen, Raender mit wenig Mehl bestaeuben. Petersilien- Creme fraiche bis zum Mehlrand auf den Teigboeden verteilen. Gemuesemischung und Pouletstreifen darauf verteilen.</inhalt>
+      </Belag     >
+   </rezept>
+</Rezept>

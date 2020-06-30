@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>162 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Stecchini >
+          <inhalt>8  duenne Kalbsplaetzli (z.B. Eckstueck, je ca. 75 g)</inhalt>
+          <inhalt>1/2 TL Salz                     </inhalt>
+          <inhalt>wenig  Pfeffer                </inhalt>
+          <inhalt>8 Tranchen Rohschinken (ca. 80 g)</inhalt>
+          <inhalt>250 g gruene Spargeln, extrafein, ca. 2 Min. blanchiert</inhalt>
+          <inhalt>  Bratbutter zum Anbraten     </inhalt>
+          <inhalt>1 EL Butter, fluessig          </inhalt>
+      </Stecchini >
+      <Jus       >
+          <inhalt>2 dl Fleischbouillon          </inhalt>
+          <inhalt>1 EL Aceto balsamico          </inhalt>
+          <inhalt>40 g Butter, kalt in Stuecken  </inhalt>
+          <inhalt>  Salz, Pfeffer, nach Bedarf  </inhalt>
+      </Jus       >
+   </einkaufliste>
+   <rezept>
+      <Stecchini >
+          <inhalt>Ofen auf 80 Grad vorheizen, Platte und Teller vorwaermen. Plaetzli auslegen, wuerzen, je 1 Tranche Rohschinken und 3 Spargeln darauf legen. Plaetzli aufrollen, mit je einem Zahnstocher fixieren. Restliche Spargeln beiseite stellen.</inhalt>
+      </Stecchini >
+      <Jus       >
+          <inhalt>Niedergaren: ca. 40 Min. in der Mitte des vorgeheizten Ofens. Die Stecchini koennen anschliessend bei 60 Grad bis zu 30 Min. warm gehalten werden.</inhalt>
+      </Jus       >
+          <inhalt>Bouillon und Aceto in derselben Bratpfanne aufkochen, Hitze reduzieren. Fluessigkeit auf die Haelfte einkoecheln. Butter portionenweise unter Ruehren beigeben. Dabei die Pfanne hin und wieder kurz auf die Platte stellen, um den Jus nur leicht zu erwaermen, er darf nicht kochen, wuerzen. Fleisch und Spargeln auf den vorgewaermten Tellern anrichten, mit dem Jus servieren.</inhalt>
+   </rezept>
+</Rezept>

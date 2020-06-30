@@ -8,9 +8,10 @@
 # No Copy Right yet
 
 import time
-from Scrapper_Fooby import *
+from Functions import Scrapper_Fooby
 
 finished = False
 
-for i in range(0,19478):
-    ScrapFooby("fooby.ch/de/rezepte/{number}/?startAuto1=0".format(number=i))
+for i in range(5100,20000):
+    print("https://fooby.ch/de/rezepte/{number}/?startAuto1=0".format(number=i))
+    Scrapper_Fooby.ScrapFooby("https://fooby.ch/de/rezepte/{number}/?startAuto1=0".format(number=i))

@@ -28,8 +28,10 @@ def deleteTagsEinzel(inpString):
 def deleteTagsQuant(inpString):
     temps = str(inpString).split(">")
     temp = temps[2]
+    tempp = temps[3]
     temps = temp.split("<")
-    end = temps[0]
+    tempps = tempp.split("<")
+    end = temps[0] + tempps[0]
     return end
 
 
@@ -42,6 +44,29 @@ def getClass(inpString):
         end = "sos"
     return end
 
+def replaceNonASCII(String):
+    String = String.replace("ä", "ae")
+    String = String.replace("Ä", "Ae")
+    String = String.replace("à", "a")
+    String = String.replace("â", "a")
+    String = String.replace("ö", "oe")
+    String = String.replace("Ö", "Oe")
+    String = String.replace("ô", "o")
+    String = String.replace("ü", "ue")
+    String = String.replace("Ü", "Ue")
+    String = String.replace("û", "u")
+    String = String.replace("é", "e")
+    String = String.replace("è", "e")
+    String = String.replace("ê", "e")
+    String = String.replace("î", "i")
+    String = String.replace("½", "1/2")
+    String = String.replace("⅓", "1/3")
+    String = String.replace("⅔", "2/3")
+    String = String.replace("¼", "1/4")
+    String = String.replace("¾", "3/4")
+    String = String.replace("⅕", "1/5")
+    return String
+
 
 def ScrapFooby(URL):
     Rezept = []
@@ -51,7 +76,16 @@ def ScrapFooby(URL):
     except:
         print("Wrong URL")
         return ""
+
     soup = BeautifulSoup(page.content, 'html.parser')
+
+    resultMetaHeadercomplete = soup.find(class_="page-header-recipe__meta-container")
+
+    if resultMetaHeadercomplete == None:
+        print("wrong URL")
+        return ""
+
+    print("start parsing...")
 
     # Parsen der Einzelnen Meta-infos zum Gericht
     resultMetaHeadercomplete = soup.find(class_="page-header-recipe__meta-container")
@@ -60,12 +94,6 @@ def ScrapFooby(URL):
     resultMetaHydrate = resultMetaHeadercomplete.find("span", itemprop="carbohydrateContent")
     resultMetaEi = resultMetaHeadercomplete.find("span", itemprop="proteinContent")
 
-    # output der einzelnen Meta-Infos zum Gericht
-    print("Nährwert / Person: {zahl:15s}".format(zahl=deleteTagsEinzel(resultMetaNaehrwert)))
-    print("Fett:              {zahl:15s}".format(zahl=deleteTagsEinzel(resultMetaFett)))
-    print("Kohlenhydrate:     {zahl:15s}".format(zahl=deleteTagsEinzel(resultMetaHydrate)))
-    print("Eiweiss:           {zahl:15s} \n".format(zahl=deleteTagsEinzel(resultMetaEi)))
-
     # Header der Zutaten Liste Parsen
     resultIngListcomplete = soup.find(class_="recipe-ingredientlist")
     resultsIngListHeaders = resultIngListcomplete.find_all("p", class_="heading--h3")
@@ -73,33 +101,37 @@ def ScrapFooby(URL):
 
     # Alle Header in Headers speichern
     for header in resultsIngListHeaders:
-        headerslist.append(deleteTagsEinzel(header))
+        headerslist.append(deleteTagsEinzel(header).replace(" ", "_"))
 
     # Alle Zutaten Parsen
     resultsIngListwrappers = resultIngListcomplete.find_all("div", class_="recipe-ingredientlist__step-wrapper")
     wrappercount = 0
     headerWrite = False
     ListString = ""
+    isheader = False
+    debugHeader = []
 
     # Alle Header und Zutaten einander zuweisen und ausgeben
     for wrapper in resultsIngListwrappers:
         wrapps = wrapper.find_all("div", class_="recipe-ingredientlist__ingredient-wrapper")
+        if getClass(wrapper.find_previous()) == "heading--h3":
+            if not debugHeader.__contains__(deleteTagsEinzel(wrapper.find_previous())):
+                isheader = True
+                debugHeader.append(deleteTagsEinzel(wrapper.find_previous()))
         for wrapp in wrapps:
             quant = wrapp.find("span", class_="recipe-ingredientlist__ingredient-quantity")
             desc = wrapp.find("span", class_="recipe-ingredientlist__ingredient-desc")
-            header = headerslist[wrappercount]
-            if not headerWrite:
-                print(header)
-                Liste.append(header)
-                headerWrite = True
-                ListString += ";" + header
-            print(deleteTagsQuant(quant), "", deleteTagsEinzel(desc))
-            Liste.append(deleteTagsQuant(quant) + " " + deleteTagsEinzel(desc))
-            ListString += "\\" + deleteTagsQuant(quant) + " " + deleteTagsEinzel(desc)
-        wrappercount += 1
+            if isheader:
+                if not headerWrite:
+                    header = headerslist[wrappercount]
+                    Liste.append(header)
+                    ListString += "{" + header
+                    headerWrite = True
+                    isheader = False
+                    wrappercount += 1
+            Liste.append(deleteTagsQuant(quant) + "&&" + deleteTagsEinzel(desc))
+            ListString += "\\" + deleteTagsQuant(quant) + "&&" + deleteTagsEinzel(desc)
         headerWrite = False
-
-    print()
 
     # Rezepte Alles Parsen
     resultRezeptcomplete = soup.find("div", itemprop="recipeInstructions")
@@ -108,88 +140,122 @@ def ScrapFooby(URL):
     # Alle <p> aus dem Rezept Parsen
     temps = resultRezeptcomplete.find_all("p")
     RezeptString = ""
+    rezheaderslist = []
 
     # Alles Ausgeben
     for i in range(len(temps)):
         if getClass(temps[i]) == "heading--h3":
-            print("{titel:20s}:".format(titel=deleteTagsEinzel(temps[i])))
             Rezept.append(deleteTagsEinzel(temps[i]))
-            RezeptString += ";" + deleteTagsEinzel(temps[i])
+            RezeptString += "{" + deleteTagsEinzel(temps[i])
+            rezheaderslist.append(deleteTagsEinzel(temps[i]))
         else:
-            print(deleteTagsEinzel(temps[i]))
             Rezept.append(deleteTagsEinzel(temps[i]))
             RezeptString += "\\" + deleteTagsEinzel(temps[i])
 
-    print()
-
     # Den YouTube URL aus den Bild ableiten und ausgeben
-    resultVidcomplete = soup.find("div", class_="recipedetail-how-to-videos__image-wrapper")
+    resultsVidcomplete = soup.find_all("div", class_="recipedetail-how-to-videos__image-wrapper")
     containsVid = False
-    try:
-        resultVidImgs = resultVidcomplete.find_all("img")
-        for resultVidImg in resultVidImgs:
-            temps = str(resultVidImg).split("/")
-            end = temps[4]
-            yt = "https://www.youtube.com/watch?v={id:11s}".format(id=end)
-            print(yt)
-            containsVid = True
-    except Exception:
-        print("no vid")
+    vids = []
+
+    for i in resultsVidcomplete:
+        try:
+            resultVidImgs = i.find_all("img")
+            for resultVidImg in resultVidImgs:
+                temps = str(resultVidImg).split("/")
+                end = temps[4]
+                vids.append("https://www.youtube.com/watch?v={id:11s}".format(id=end))
+                yt = "https://www.youtube.com/watch?v={id:11s}".format(id=end)
+                containsVid = True
+        except Exception:
+            print("", end="")
+
+    print("parsing complete.")
+    print("creating XML...")
 
     # Ein XML-Dokument ertsellen mit den parsed Daten
-    XMLString = "<Rezept>\n"
+    # Alle Metha-Daten ins XML einfügen
+    XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+    XMLString += "<Rezept>\n"
     XMLString += "   <meta>\n"
-    XMLString += "       <NährwertProPerson>{kcal:8s}</NährwertProPerson>\n".format(kcal=deleteTagsEinzel(resultMetaNaehrwert))
+    XMLString += "       <NaehrwertProPerson>{kcal:8s}</NaehrwertProPerson>\n".format(
+        kcal=deleteTagsEinzel(resultMetaNaehrwert))
     XMLString += "       <Fett>{fett:6s}</Fett>\n".format(fett=deleteTagsEinzel(resultMetaFett))
-    XMLString += "       <Kohlenhydrate>{hydrate:6s}</Kohlenhydrate>\n".format(hydrate=deleteTagsEinzel(resultMetaHydrate))
+    XMLString += "       <Kohlenhydrate>{hydrate:6s}</Kohlenhydrate>\n".format(
+        hydrate=deleteTagsEinzel(resultMetaHydrate))
     XMLString += "       <Eiweiss>{ei:6s}</Eiweiss>\n".format(ei=deleteTagsEinzel(resultMetaEi))
     XMLString += "   </meta>\n"
     XMLString += "   <einkaufliste>\n"
 
-    Lists = ListString.split(";")
+    hasNoHeader = False
+
+    if headerslist.__len__() == 0:
+        headerslist.append("Liste")
+        hasNoHeader = True
+
+    # Die Einkaufsliste ins File einfügen
+    Lists = ListString.split("{")
     headercout = 0
     for list in Lists:
         if not list == "":
             tempps = list.split("\\")
             for i in tempps:
+                if hasNoHeader:
+                    XMLString += "      <{header:10s}>\n".format(header=headerslist[0])
+                    hasNoHeader = False
                 if headerslist.__contains__(i):
                     if not i == "":
                         XMLString += "      <{header:10s}>\n".format(header=i)
                 else:
-                    XMLString += "          <inhalt>{inhalt:30s}</inhalt>\n".format(inhalt=i)
+                    ingreds = i.split("&&")
+                    if not ingreds == ['']:
+                        XMLString += "          <quant>{inhalt:s}</quant>\n".format(inhalt=ingreds[0])
+                        XMLString += "          <zutat>{inhalt:s}</zutat>\n".format(inhalt=ingreds[1])
             XMLString += "      </{header:10s}>\n".format(header=headerslist[headercout])
             headercout += 1
 
     XMLString += "   </einkaufliste>\n"
     XMLString += "   <rezept>\n"
+    isHeader = True
     headercout = 0
-    Lists = RezeptString.split(";")
-    for list in Lists:
-        if not list == "":
-            tempps = list.split("\\")
-            for i in tempps:
-                if headerslist.__contains__(i):
-                    XMLString += "      <{header:10s}>\n".format(header=i)
-                else:
-                    XMLString += "          <inhalt>{inhalt:30s}</inhalt>\n".format(inhalt=i)
-            XMLString += "      </{header:10s}>\n".format(header=headerslist[headercout])
+
+    if rezheaderslist.__len__() == 0:
+        rezheaderslist.append("Rezept")
+        Rezept.insert(0, "Rezept")
+
+    # Das Rezept ins File einfügen
+    for i in Rezept:
+        if isHeader:
+            if not headercout >= rezheaderslist.__len__():
+                XMLString += "      <{header:10s}>\n".format(header=rezheaderslist[headercout].replace(" ", "_"))
+            isHeader = not isHeader
+        else:
+            XMLString += "          <inhalt>{inhalt:30s}</inhalt>\n".format(inhalt=i)
+            if not headercout >= rezheaderslist.__len__():
+                XMLString += "      </{header:10s}>\n".format(header=rezheaderslist[headercout].replace(" ", "_"))
+            isHeader = not isHeader
+        if isHeader:
             headercout += 1
 
+    # Video ins XML einfügen und File schliessen
     XMLString += "   </rezept>\n"
     if containsVid:
-        XMLString += "   <video href=\"{video:43s}\"/>\n".format(video=yt)
+        for vid in vids:
+            XMLString += "   <video href=\"{video:43s}\"/>\n".format(video=vid)
     XMLString += "</Rezept>"
+
+    # Alle nicht ASCII Zeichen in Fooby ersetzten
+    XMLString = replaceNonASCII(XMLString)
 
     # Den Namen der Datei bestimmen
     url = str(URL).split("/")
-    nummer = url[4]
-    FileName = nummer + "/" + ".xml"
+    nummer = url[5]
+    FileName = "Rezepte/" + nummer + ".xml"
 
     # Die Datei Speichern
     try:
         file = open(FileName, "w")
-        file.write("SoS")
+        file.write(XMLString)
         file.close()
-        print("\nfile done")
+        print("XML done")
     except:
-        print("\nfile error")
+        print("XML error!")

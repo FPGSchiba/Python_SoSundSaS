@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>254 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1/2 </quant>
+          <zutat>roter Peperoncino, entkernt, in feinen Streifen</zutat>
+          <quant>4 </quant>
+          <zutat>Pfefferminzblaettchen, in feinen Streifen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 </quant>
+          <zutat>ProSpecieRara Tomaten Orange a gros fruits (ca. 600 g), in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>50 g</quant>
+          <zutat>Tortilla-Chips</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <Rezept    >
+          <inhalt>Zitronensaft, Knoblauch, Peperoncino und Minze verruehren, wuerzen. Tomaten beigeben, sorgfaeltig mischen.Zugedeckt ca. 30 Min. ziehen lassen. Tomatensalat mit Creme fraiche und Chips anrichten.</inhalt>
+      </Rezept    >
+   </rezept>
+</Rezept>

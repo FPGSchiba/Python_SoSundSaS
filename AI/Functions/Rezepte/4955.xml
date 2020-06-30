@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>724 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>65 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kalbsbraten>
+          <inhalt>2 1/5 kg Kalbsbraten (z.B. Hals)</inhalt>
+      </Kalbsbraten>
+      <Fuellung   >
+          <inhalt>300 g weiche Doerraprikosen    </inhalt>
+          <inhalt>1/2 dl Grand Marnier            </inhalt>
+          <inhalt>5 Scheiben Toastbrot          </inhalt>
+          <inhalt>2 EL Butter                   </inhalt>
+          <inhalt>1  Zwiebel                    </inhalt>
+          <inhalt>2  Knoblauchzehen             </inhalt>
+          <inhalt>2 EL Thymianblaettchen         </inhalt>
+          <inhalt>5  schwarzer Pfeffer          </inhalt>
+          <inhalt>1/2 TL Salz                     </inhalt>
+          <inhalt>1 Bund Petersilie             </inhalt>
+          <inhalt>1/2 TL Salz                     </inhalt>
+      </Fuellung   >
+      <Schmoren  >
+          <inhalt>wenig  Bratbutter             </inhalt>
+          <inhalt>2 dl Weisswein                </inhalt>
+          <inhalt>1 dl Fleischbouillon          </inhalt>
+          <inhalt>1/2 dl Grand Marnier            </inhalt>
+      </Schmoren  >
+      <Polenta   >
+          <inhalt>1 3/4 Liter Wasser              </inhalt>
+          <inhalt>2 EL Butter                   </inhalt>
+          <inhalt>1 3/4 TL Salz                   </inhalt>
+          <inhalt>400 g grobkoerniger Maisgriess (Bramata)</inhalt>
+      </Polenta   >
+   </einkaufliste>
+   <rezept>
+      <Kalbsbraten>
+          <inhalt>Braten vom Metzger zum Fuellen so aufschneiden lassen, dass ein grosses, ca. 3 cm dickes Rechteck entsteht.</inhalt>
+      </Kalbsbraten>
+      <Fuellung   >
+          <inhalt>Doerraprikosen grob hacken, mit dem Grand Marnier mischen, zugedeckt ca. 20 Min. marinieren. Toastbrot in Wuerfeli schneiden. Butter in einer Bratpfanne warm werden lassen, Brotwuerfeli goldbraun roesten, herausnehmen.</inhalt>
+      </Fuellung   >
+      <Schmoren  >
+          <inhalt>Petersilie fein schneiden, mit den Brotwuerfeli daruntermischen.</inhalt>
+      </Schmoren  >
+      <Polenta   >
+          <inhalt>Schmoren                      </inhalt>
+      </Polenta   >
+          <inhalt>Weisswein, Bouillon und Grand Marnier dazugiessen. Braten zugedeckt in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens ca. 1 1/2 Std. schmoren, von Zeit zu Zeit mit der Fluessigkeit uebergiessen.</inhalt>
+          <inhalt>Polenta                       </inhalt>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

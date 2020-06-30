@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><Rezept>
+   <meta>
+       <NaehrwertProPerson>338 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fenchel-Bohnen>
+          <inhalt>1 EL Olivenoel                 </inhalt>
+          <inhalt>1  Fenchel, fein gehobelt     </inhalt>
+          <inhalt>1/4 TL Salz                     </inhalt>
+          <inhalt>1 Dose weisse Bohnen (ca. 400 g), abgespuelt, abgetropft</inhalt>
+          <inhalt>1 dl Gemuesebouillon           </inhalt>
+          <inhalt>1/2 Bund Dill, zerzupft         </inhalt>
+          <inhalt>  Salz, Pfeffer, nach Bedarf  </inhalt>
+      </Fenchel-Bohnen>
+      <Eglifilets>
+          <inhalt>1 EL Olivenoel                 </inhalt>
+          <inhalt>300 g Eglifilets              </inhalt>
+          <inhalt>1/2 TL Salz                     </inhalt>
+          <inhalt>wenig  Pfeffer                </inhalt>
+      </Eglifilets>
+   </einkaufliste>
+   <rezept>
+      <Fenchel-Bohnen>
+          <inhalt>Oel in einer Pfanne erwaermen. Fenchel ca. 7 Min. andaempfen, salzen. Bohnen und Bouillon beigeben, ca. 3 Min. koecheln. Dill daruntermischen, wuerzen.</inhalt>
+      </Fenchel-Bohnen>
+      <Eglifilets>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Fisch wuerzen,  ca. 2 Min. anbraten, wenden, ca. 1 Min. fertig braten. Fenchel-Bohnen in tiefen Tellern anrichten, Eglifilets darauf geben.</inhalt>
+      </Eglifilets>
+   </rezept>
+</Rezept>

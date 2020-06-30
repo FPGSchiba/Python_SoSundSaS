@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>107 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>dunkle Sojasauce</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Pouletbruestli (je ca. 150 g), laengs halbiert, in feinen Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, an der Roestiraffel gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln, in feinen Ringen</zutat>
+          <quant>120 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkle Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>30 g</quant>
+          <zutat>Glasnudeln, in kaltem Wasser ca. 10 Min. eingeweicht, abgetropft</zutat>
+      </Fuellung   >
+      <Fruehlingsrollen>
+          <quant>16 </quant>
+          <zutat>Reisblaetter (ca. 16 cm, z.B. Suzi Wan)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel zum Bestreichen</zutat>
+      </Fruehlingsrollen>
+      <Sauce     >
+          <quant>1 TL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sambal Oelek</zutat>
+          <quant>4 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 </quant>
+          <zutat>Limetten, nur Saft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Maizena mit</zutat>
+          <quant>1 EL</quant>
+          <zutat>dunkle Sojasauce angeruehrt</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Fuer die Marinade Limettensaft, Sojasauce und Pfeffer in einer Schuessel verruehren, Pouletstreifen beigeben, mischen, zugedeckt im Kuehlschrank ca. 30 Min. marinieren. Oel warm werden lassen. Rueebli, Bundzwiebeln, Mungbohnensprossen und Chili andaempfen. Fleisch aus der Marinade nehmen, trockentupfen, zusammen mit Sojasauce, Sambal Oelek und Rohzucker beigeben, mischen, zugedeckt ca. 5 Min. ziehen lassen. Glasnudeln mit der Kuechenschere in ca. 10 cm lange Stuecke schneiden, zur Fuellung geben, mischen, auskuehlen.</inhalt>
+      </Fuellung   >
+      <Fruehlingsrollen>
+          <inhalt>1 Reisblatt kurz in heisses Wasser legen und auf feuchtem Kuechentuch ausbreiten. Ca. 3 EL Fuellung daraufgeben. Reisblatt beidseitig einschlagen, von oben her einrollen, wenden, auf ein mit Backpapier belegtes Blech legen, mit Oel bestreichen. Mit den restlichen Reisblaettern gleich verfahren. </inhalt>
+      </Fruehlingsrollen>
+      <Sauce     >
+          <inhalt>Sauce                         </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

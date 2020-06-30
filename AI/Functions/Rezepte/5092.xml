@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>717 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bierteig_ >
+          <inhalt>60 g Weissmehl                </inhalt>
+          <inhalt>20 g gemahlene Haselnuesse     </inhalt>
+          <inhalt>1/4 TL Salz                     </inhalt>
+          <inhalt>1 dl Bier                     </inhalt>
+          <inhalt>1  frisches Eigelb            </inhalt>
+          <inhalt>1 EL fluessiger Honig          </inhalt>
+          <inhalt>1/2 TL Oel                       </inhalt>
+          <inhalt>1  frisches Eiweiss           </inhalt>
+          <inhalt>1 Prise Salz                  </inhalt>
+          <inhalt>1 EL fluessiger Honig          </inhalt>
+      </Bierteig_ >
+      <Aepfel     >
+          <inhalt>4  Aepfel (z.B. Golden Delicious)</inhalt>
+          <inhalt>1/2  Zitrone, nur Saft          </inhalt>
+          <inhalt>2 EL fluessiger Honig          </inhalt>
+      </Aepfel     >
+      <Zimtsauce >
+          <inhalt>4 dl Milch                    </inhalt>
+          <inhalt>1 TL Zimt                     </inhalt>
+          <inhalt>2 EL Zucker                   </inhalt>
+          <inhalt>1 EL Maizena                  </inhalt>
+          <inhalt>1  frisches Ei, verklopft     </inhalt>
+      </Zimtsauce >
+      <Frittieren>
+          <inhalt>  Oel zum Frittieren           </inhalt>
+          <inhalt>5 EL Zucker                   </inhalt>
+      </Frittieren>
+   </einkaufliste>
+   <rezept>
+      <Bierteig_ >
+          <inhalt>Mehl, Nuesse und Salz in einer Schuessel mischen. Bier auf einmal zum Mehl geben, glatt ruehren. Eigelb, Honig und Oel darunter ruehren, zugedeckt ca. 30 Min. kuehl stellen. Eiweiss kurz vor dem Backen mit dem Salz steif schlagen, Honig beigeben, kurz weiterschlagen, unter den Teig ziehen.</inhalt>
+      </Bierteig_ >
+      <Aepfel     >
+          <inhalt>Aepfel schaelen, Kerngehaeuse ausstechen, quer in ca. 1 cm dicke Ringe schneiden. Zitronensaft und Honig mischen, mit den Apfelringen mischen, zugedeckt ca. 30 Min. ziehen lassen.</inhalt>
+      </Aepfel     >
+      <Zimtsauce >
+          <inhalt>Milch und alle Zutaten bis und mit Ei mit dem Schwingbesen in einer Pfanne verruehren, dann bei mittlerer Hitze unter Ruehren bis vors Kochen bringen. Pfanne von der Platte nehmen, ca. 2 Min. weiterruehren, durch ein Sieb in eine Schuessel giessen, zugedeckt auskuehlen.</inhalt>
+      </Zimtsauce >
+      <Frittieren>
+          <inhalt>Oel auf 190 Grad erhitzen. Apfelringe portionenweise in den Teig tauchen, abtropfen und beidseitig je ca. 1 1/2  Min. goldbraun backen, auf Haushaltpapier abtropfen. Zucker in einen Teller geben, Apfelkuechlein darin wenden, warm servieren.</inhalt>
+      </Frittieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

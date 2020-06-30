@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><Rezept>
+   <meta>
+       <NaehrwertProPerson>731 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>80 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+          <inhalt>;Tomato_&amp;_bean_patties_(makes_6)</inhalt>
+          <inhalt>1 tin white beans (250 g), drained</inhalt>
+          <inhalt>2 tsp oregano leaves          </inhalt>
+          <inhalt>1 tbsp sunflower seeds        </inhalt>
+          <inhalt>8  dried tomatoes, cut into strips</inhalt>
+          <inhalt>½ tsp salt                    </inhalt>
+          <inhalt>4 tbsp rolled oats;Roast_peppers</inhalt>
+          <inhalt>1  yellow pepper, halved, deseeded</inhalt>
+          <inhalt>1  garlic clove, pressed      </inhalt>
+          <inhalt>1 tbsp lemon juice            </inhalt>
+          <inhalt>some  basil leaves            </inhalt>
+          <inhalt>1 tsp olive oil               </inhalt>
+          <inhalt>a little  salt;Lentil_pasta   </inhalt>
+          <inhalt>140 g pasta (lentil pasta)    </inhalt>
+          <inhalt>  salted water, boiling;Avocado_pesto</inhalt>
+          <inhalt>1  avocado, cut into pieces   </inhalt>
+          <inhalt>1 bunch basil                 </inhalt>
+          <inhalt>1  garlic clove               </inhalt>
+          <inhalt>2 tbsp water;Serving_and_garnishing</inhalt>
+          <inhalt>2 tbsp pine nuts, toasted     </inhalt>
+          <inhalt>a little  rocket              </inhalt>
+          <inhalt>some  cherry tomatoes, halved </inhalt>
+          <inhalt>1  courgette, cut into noodles ("zoodles")</inhalt>
+      </Tomato_&amp;_bean_patties_(makes_6)>
+   </einkaufliste>
+   <rezept>
+      <Tomato_&amp;_bean_patties_(makes_6)>
+          <inhalt>In a food processor, blitz all the ingredients until smooth and shape into 6 evenly-sized patties. Place on a baking tray lined with baking paper. </inhalt>
+      </Tomato_&amp;_bean_patties_(makes_6)>
+      <Roast_peppers>
+          <inhalt>Roast peppers                 </inhalt>
+      </Roast_peppers>
+      <Lentil_pasta>
+          <inhalt>Lentil pasta                  </inhalt>
+      </Lentil_pasta>
+      <Avocado_pesto>
+          <inhalt>Avocado pesto                 </inhalt>
+      </Avocado_pesto>
+      <Serving_and_garnishing>
+          <inhalt>Serving and garnishing        </inhalt>
+      </Serving_and_garnishing>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gNS4xhVOmUA"/>
+</Rezept>
