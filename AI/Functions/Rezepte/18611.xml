@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>57 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>275 g</quant>
+          <zutat>helles Dinkelmehl oder Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange (z.B. Blutorange), abgeriebene Schale und 2 EL Saft beiseite gestellt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>175 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>75 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Teig      >
+      <Glasur    >
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Orangenschale und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben, Mandeln daruntermischen. Eiweiss und Puderzucker gut verklopfen, beigeben, rasch zu einem weichen Teig zusammenfuegen, etwas flach druecken, zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig zwischen einem aufgeschnittenen Plastikbeutel ca. 5 mm dick auswallen, in ca. 3 x 4 cm grosse Rechtecke schneiden, auf zwei mit Backpapier belegte Bleche legen.</inhalt>
+      </Formen    >
+      <Backen_pro_Blech>
+          <inhalt>Ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen_pro_Blech>
+      <Glasur    >
+          <inhalt>Puderzucker mit dem beiseite gestelltem Blutorangensaft verruehren, bis eine dickfluessige Glasur entsteht. Guetzli zur Haelfte eintauchen, auf einem Gitter trocknen lassen. </inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

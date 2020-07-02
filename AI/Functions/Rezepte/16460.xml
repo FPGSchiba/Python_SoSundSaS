@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>284 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbis    >
+          <quant>2 </quant>
+          <zutat>Kuerbis (z.B. Butternuss, je ca. 800 g), laengs halbiert, Fruchtfleisch kreuzweise eingeschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Kuerbis    >
+      <Backen    >
+          <quant>1/2 EL</quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+      </Backen    >
+      <Fuellung   >
+          <quant>50 g</quant>
+          <zutat>schwarze Linsen (Beluga)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+          <quant>1 </quant>
+          <zutat>Fenchel (ca. 300 g), in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Anrichten >
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, zerzupft</zutat>
+          <quant>wenig </quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Kuerbis    >
+          <inhalt>Kuerbis auf ein mit Backpapier belegtes Blech legen. Oel mit Knoblauch und Salz verruehren, Kuerbisfleisch damit bestreichen. </inhalt>
+      </Kuerbis    >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 200 Grad vorgeheizten Ofens.  Herausnehmen, entstandene Fluessigkeit abgiessen. Dukkah ueber die Kuerbisse streuen. </inhalt>
+      </Backen    >
+      <Fuellung   >
+          <inhalt>Linsen offen im Wasser ca. 20 Min. knapp weich koecheln, abtropfen. Oel in einer Bratpfanne erwaermen. Zwiebel, Knoblauch und Dukkah kurz andaempfen. Linsen, Fenchel und Apfel kurz mitdaempfen. Nuesse und Petersilie daruntermischen, wuerzen. </inhalt>
+      </Fuellung   >
+      <Anrichten >
+          <inhalt>Kuerbisse mit der Fuellung fuellen, Petersilie und Dukkah darueberstreuen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

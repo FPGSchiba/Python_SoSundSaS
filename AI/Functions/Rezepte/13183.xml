@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>650 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaghetti >
+          <quant>350 g</quant>
+          <zutat>Vollkorn-Teigwaren (z.B. Spaghetti)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaghetti >
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 </quant>
+          <zutat>rote Peperoni, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce     >
+      <Anrichten >
+          <quant>100 g</quant>
+          <zutat>Pecorino (italienischer Schafskaese), grob gerieben</zutat>
+          <quant>20 g</quant>
+          <zutat>Rucola</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Spaghetti >
+          <inhalt>Teigwaren im Salzwasser al dente kochen , ca. 2 dl Kochwasser beiseite stellen. Teigwaren abtropfen.</inhalt>
+      </Spaghetti >
+      <Sauce     >
+          <inhalt>Oel in der selben Pfanne warm werden lassen. Peperoni, Zwiebel, Knoblauch und Peperoncino im heissen Oel ca. 2 Min. andaempfen. Rahm und beiseite gestelltes Kochwasser dazugiessen, salzen, ca. 5 Min. koecheln. Spaghetti daruntermischen.</inhalt>
+      </Sauce     >
+      <Anrichten >
+          <inhalt>Kaese und Rucola auf den Spaghetti verteilen.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>407 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reduktion >
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+      </Reduktion >
+      <Sauce     >
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Reduktion >
+          <inhalt>Bouillon und alle Zutaten bis und mit Lorbeer in einer Pfanne aufkochen, Hitze reduzieren. Fluessigkeit auf ca. 2 Essloeffel einkoecheln, absieben, in die Pfanne zurueckgiessen. </inhalt>
+      </Reduktion >
+      <Sauce     >
+          <inhalt>Rahm und Saucen-Halbrahm dazugiessen, aufkochen, Hitze reduzieren, unter gelegentlichem Ruehren bei kleiner Hitze ca. 2 Min. einkoecheln, bis die Sauce saemig ist, wuerzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

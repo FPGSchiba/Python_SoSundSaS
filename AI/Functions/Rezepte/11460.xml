@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>382 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>150 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>250 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Amaretti</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Jogurt mit Mascarpone und Honig mit dem Schwingbesen gut verruehren. 4 Erdbeeren fuer die Verzierung beiseite legen, Rest in Stuecke schneiden, unter die Creme mischen. Creme in 4 Schaelchen oder Glaeser verteilen. Amaretti zerbroeckeln, vor dem Servieren auf der Creme verteilen. Beiseite gestellte Erdbeeren in Scheiben schneiden, Creme damit verzieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>668 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>55 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>2 1/5 kg</quant>
+          <zutat>Schweinsbraten (Schweinshals)</zutat>
+          <quant>100 g</quant>
+          <zutat>Raeuchermehl  in der Aluschale (siehe Hinweis)</zutat>
+      </Fleisch   >
+      <Marinade_ >
+          <quant>50 g</quant>
+          <zutat>Ketchup</zutat>
+          <quant>30 g</quant>
+          <zutat>Senf</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Whiskey (z.B. Bourbon)</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+      </Marinade_ >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Fleisch ca. 1 Std. vor dem Raeuchern aus dem Kuehlschrank nehmen, trocken tupfen.</inhalt>
+      </Fleisch   >
+      <How_To1   >
+          <inhalt>Ketchup und alle restlichen Zutaten verruehren. Fleisch mit der Haelfte der Marinade bestreichen, restliche Marinade beiseite stellen. </inhalt>
+      </How_To1   >
+      <Marinade_ >
+          <inhalt>Braten im Ofen: ca. 41/2 Std. in der Mitte des auf 140 Grad vorgeheizten Ofens. Herausnehmen, ca. 15 Min. ruhen lassen, aus der Folie nehmen, mit zwei Gabeln zerzupfen.</inhalt>
+      </Marinade_ >
+   </rezept>
+</Rezept>

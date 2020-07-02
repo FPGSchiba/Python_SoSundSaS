@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>483 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kichererbsen>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 410 g), abgespuelt, abgetropft</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kichererbsen>
+      <Hackbaellchen>
+          <quant>500 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>3 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Hackbaellchen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kichererbsen                  </inhalt>
+      </How_To    >
+      <Kichererbsen>
+          <inhalt>Hackbaellchen                  </inhalt>
+      </Kichererbsen>
+      <Hackbaellchen>
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Kugeln rumdum ca. 8 Min. braten. Mit den Kichererbsen servieren.</inhalt>
+      </Hackbaellchen>
+   </rezept>
+</Rezept>

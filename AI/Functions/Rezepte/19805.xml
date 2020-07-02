@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>585 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>73 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>180 g</quant>
+          <zutat>Schinken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum-Pesto</zutat>
+          <quant>150 g</quant>
+          <zutat>geriebene Mozzarella</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Olive</zutat>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>180 g</quant>
+          <zutat>Schinken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum-Pesto</zutat>
+          <quant>150 g</quant>
+          <zutat>geriebene Mozzarella</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Olive</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Fuellung                       </inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Formen                        </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>                              </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. auf der untersten Rille des auf 240Grad C vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

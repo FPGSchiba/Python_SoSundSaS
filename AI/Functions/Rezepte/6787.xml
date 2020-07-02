@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>427 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gnocchi   >
+          <quant>75 g</quant>
+          <zutat>getrocknete Kartoffelflocken (fuer Kartoffelstock)</zutat>
+          <quant>170 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Gnocchi   >
+      <Pilzgeschnetzeltes>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>500 g</quant>
+          <zutat>gemischte  Pilze</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant>4 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Estragon</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Pilzgeschnetzeltes>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gnocchi                       </inhalt>
+      </How_To    >
+      <Gnocchi   >
+          <inhalt>Kartoffelflocken, Mehl, Salz und Safran in einer Schuessel mischen. In der Mitte eine Mulde eindruecken.</inhalt>
+      </Gnocchi   >
+      <How_To1   >
+          <inhalt>Milchwasser und Eier verruehren, nach und nach unter Ruehren in die Mulde giessen, mit einer Kelle sehr gut mischen. Zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Masse in einen festen Gefrierbeutel geben, eine Ecke abschneiden. Von der Masse ca. 2 cm lange Stuecke direkt ins siedende Salzwasser herausdruecken, mit einem Messer oder einer sauberen Kuechenschere abschneiden.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Gnocchi ziehen lassen, bis sie an die Oberflaeche steigen (ca. 3 Min.), mit einer Schaumkelle herausnehmen, abtropfen. </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Hitze reduzieren, Gnocchi unter gelegentlichem Wenden knusprig braten.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Pilze je nach Groesse halbieren oder vierteln. Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Pilze portionenweise je ca. 3 Min. anbraten.</inhalt>
+      </How_To5   >
+      <Pilzgeschnetzeltes>
+          <inhalt>Hitze reduzieren, ca. 10 Min. koecheln. Rahm daruntermischen, ca. 2 Min. weiterkoecheln. Beiseite gestelltes Zwiebelgruen beigeben, wuerzen.</inhalt>
+      </Pilzgeschnetzeltes>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=b-77ZZItFdA"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

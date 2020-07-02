@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>236 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>20 g</quant>
+          <zutat>eingelegter Ingwer, fein gehackt</zutat>
+          <quant>4 TL</quant>
+          <zutat>Hot Chili Sauce  (z.B. Sriracha)</zutat>
+          <quant>400 g</quant>
+          <zutat>Lachsrueckenfilet (Sushiqualitaet), in ca. 1.5 cm grossen Wuerfeln</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Eigelb mit Senf, Zitronensaft und Salz verruehren. Oel unter staendigem Ruehren anfangs tropfenweise, dann im Faden dazugiessen, bis eine dickfluessige Mayonnaise entsteht. Ingwer und Hot Chili Sauce darunterruehren. Lachswuerfel sorgfaeltig daruntermischen</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

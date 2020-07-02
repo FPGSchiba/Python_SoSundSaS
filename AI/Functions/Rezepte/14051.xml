@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>666 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caprese-Hackbaellchen>
+          <quant>600 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>4 EL</quant>
+          <zutat>Pesto verde</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>12 </quant>
+          <zutat>Mozzarella-Mini-Kugeln</zutat>
+      </Caprese-Hackbaellchen>
+      <Tomatensauce>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>350 g</quant>
+          <zutat>passierte Tomaten</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tomatensauce>
+      <Polenta   >
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>150 g</quant>
+          <zutat>feiner Maisgriess (2 Min.)</zutat>
+          <quant>2 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+      </Polenta   >
+   </einkaufliste>
+   <rezept>
+      <Caprese-Hackbaellchen>
+          <inhalt>Fleisch und alle Zutaten bis und mit Pfeffer in einer Schuessel mischen. Gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden. Masse in 12 Portionen teilen, mit nassen Haenden zu Kugeln formen. Je 1 Mini-Mozzarella in die Mitte stecken.</inhalt>
+      </Caprese-Hackbaellchen>
+      <Tomatensauce>
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Hackbaellchen portionenweise bei mittlerer Hitze rundum ca. 10 Min. braten. Herausnehmen, warm stellen. Bratfett auftupfen, passierte Tomaten beigeben, wuerzen und ca. 5 Min. koecheln. Hackbaellchen zur Sauce geben, zugedeckt ca. 5 Min. koecheln. </inhalt>
+      </Tomatensauce>
+      <Polenta   >
+          <inhalt>Milch und Bouillon aufkochen, Maisgriess einruehren, unter haeufigem Ruehren bei kleinster Hitze ca. 2 Min. zu einem dicken Brei koecheln. Kaese daruntermischen, wuerzen. Zu den Hackbaellchen servieren, mit Basilikum bestreuen. </inhalt>
+      </Polenta   >
+   </rezept>
+</Rezept>

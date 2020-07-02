@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>850 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>88 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>330 ml</quant>
+          <zutat>Betty Bossi Kuerbis-Curry Suppe</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+      </Risotto   >
+      <Garnitur  >
+          <quant>2 EL</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>Manchego, in Wuerfeln</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Risotto   >
+          <inhalt>Oel in einer Pfanne warm werden lassen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Suppe und Wasser unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Ca. 20 Min. koecheln, bis der Reis cremig und al dente ist .</inhalt>
+      </Risotto   >
+      <Garnitur  >
+          <inhalt>Nuesse in einer Pfanne ohne Fett ca. 3 Min. goldbraun roesten. Manchego unter den Risotto ruehren, Nuesse darueberstreuen. </inhalt>
+      </Garnitur  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>646 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>78 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Porridge  >
+          <quant>140 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>3 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1 TL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Bluetenhonig oder Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+      </Porridge  >
+      <Toppings  >
+          <quant>250 g</quant>
+          <zutat>Kokosnussmilch-Jogurt oder Nature-Jogurt</zutat>
+          <quant>1 </quant>
+          <zutat>Banane, in Scheiben</zutat>
+          <quant>2 TL</quant>
+          <zutat>Granola oder Nussmischung</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Porridge  >
+          <inhalt>Alle Zutaten in einer Schuessel mischen, einige Minuten ziehen lassen.</inhalt>
+      </Porridge  >
+      <Toppings  >
+          <inhalt>Je 1 EL Jogurt in 2 Glaeser geben, Bananen, dann Porridge darin verteilen. Restliches Jogurt darauf geben. Mindestens 2 Std. (oder ueber Nacht) zugedeckt kuehl stellen. Vor dem Servieren mit Granola oder Nuessen verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

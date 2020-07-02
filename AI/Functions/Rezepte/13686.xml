@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>356 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spinat    >
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Spinat    >
+      <Taler     >
+          <quant>500 g</quant>
+          <zutat>Betty Bossi Roesti fixfertig</zutat>
+          <quant>200 g</quant>
+          <zutat>Lachsrueckenfilet, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Taler     >
+      <Anbraten  >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Anbraten  >
+   </einkaufliste>
+   <rezept>
+      <Spinat    >
+          <inhalt>Oel in einer grossen Pfanne warm werden lassen, Spinat beigeben und bei mittlerer Hitze zusammenfallen lassen. Spinat abtropfen, fein schneiden, in eine Schuessel geben.   </inhalt>
+      </Spinat    >
+      <Taler     >
+          <inhalt>Roesti und alle Zutaten bis und mit Pfeffer zum Spinat geben, gut mischen.</inhalt>
+      </Taler     >
+      <Anbraten  >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Portionenweise ca. 2 EL Masse beigeben, Hitze reduzieren, Taler bei mittlerer Hitze beidseitig je ca. 4 Min. braten.</inhalt>
+      </Anbraten  >
+   </rezept>
+</Rezept>

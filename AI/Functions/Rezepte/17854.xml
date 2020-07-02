@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>644 kcal</NaehrwertProPerson>
+       <Fett>50 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rauchmandel-Feta-Streusel>
+          <quant>50 g</quant>
+          <zutat>Rauchmandeln, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>1 TL</quant>
+          <zutat>getrockneter Oregano</zutat>
+      </Rauchmandel-Feta-Streusel>
+      <Grillieren_(Holzkohle-/Gas-/Elektrogrill):>
+          <quant>4 </quant>
+          <zutat>Poulet-Unterschenkel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Grillieren_(Holzkohle-/Gas-/Elektrogrill):>
+      <Salat_    >
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungsalat</zutat>
+      </Salat_    >
+   </einkaufliste>
+   <rezept>
+      <Rauchmandel-Feta-Streusel>
+          <inhalt>Rauchmandeln, Feta und Oregano mischen. </inhalt>
+      </Rauchmandel-Feta-Streusel>
+      <Grillieren_(Holzkohle-/Gas-/Elektrogrill):>
+          <inhalt>Poulet wuerzen, ueber starker Glut / auf hoechster Stufe (ca. 220 Grad) beidseitig je ca. 6 Min grillieren. </inhalt>
+      </Grillieren_(Holzkohle-/Gas-/Elektrogrill):>
+      <Salat_    >
+          <inhalt>Aceto und Oel  in einer Schuessel verruehren, wuerzen, Salat daruntermischen. Poulet und Streusel dazu servieren. </inhalt>
+      </Salat_    >
+   </rezept>
+</Rezept>

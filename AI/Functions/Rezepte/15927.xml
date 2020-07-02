@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>371 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Vinaigrette_>
+          <quant>3/4 dl</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>5 </quant>
+          <zutat>Radiesli, in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Vinaigrette_>
+   </einkaufliste>
+   <rezept>
+      <Vinaigrette_>
+          <inhalt>Essig, Oel und Bouillon verruehren. Radiesli und Kraeuter beigeben, mischen, wuerzen.</inhalt>
+      </Vinaigrette_>
+   </rezept>
+</Rezept>

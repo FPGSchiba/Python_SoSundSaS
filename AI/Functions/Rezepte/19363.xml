@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>508 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>200 g</quant>
+          <zutat>Mandelmasse</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>350 g</quant>
+          <zutat>Erdbeeren, in duennen Scheiben</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Mandelmasse, Butter, Zitronensaft und Kardamom verruehren. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Strudelteigblaetter entrollen, in ca. 8 cm breite Streifen schneiden. 4 Streifen leicht ueberlappend nebeneinander legen, mit wenig Butter bestreichen. 4 weitere Streifen darauf legen, mit wenig Butter bestreichen. Die Haelfte der Fuellung darauf verteilen, die Haelfte der Erdbeeren mit der Spitze nach oben auf die Mitte der Teigstreifen legen, restlichen Teig darueberfalten, zu einer Spirale aufdrehen. Vorgang mit den restlichen Zutaten wiederholen, an die bestehende Spirale anhaengen und weiter eindrehen. Spirale auf ein mit Backpapier belegtes Blech legen, mit restlicher Butter bestreichen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

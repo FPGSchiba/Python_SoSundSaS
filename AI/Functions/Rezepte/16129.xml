@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorteig_  >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Sauerteigpulver (10 g)</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+      </Vorteig_  >
+      <Teig_     >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>130 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Bittermandelaroma</zutat>
+          <quant>70 g</quant>
+          <zutat>Rosinen</zutat>
+          <quant>30 g</quant>
+          <zutat>Orangeat</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>3 </quant>
+          <zutat>Eier (je ca. 60 g)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Teig_     >
+      <Backen_   >
+          <quant>10 g</quant>
+          <zutat>Butterfloeckli</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Vorteig_  >
+          <inhalt>Mehl, Zucker, Sauerteilgpulver und Hefe in einer Schuessel mischen. Milch dazugiessen, daruntermischen, ca. 1 Std. quellen lassen. </inhalt>
+      </Vorteig_  >
+      <Teig_     >
+          <inhalt>Mehl und alle Zutaten bis und mit Salz zum Vorteig geben, ca. 15 Min. mit einer Kuechenmaschine auf kleiner Stufe zu einem weichen, glatten Teig kneten. Butter beigeben, ca. 5 Min. weiterkneten. Teig in die vorbereitete Form geben, zugedeckt ca. 21/2 Std. aufgehen lassen. </inhalt>
+      </Teig_     >
+      <Backen_   >
+          <inhalt>Butterfloeckli auf dem Teig verteilen, ca. 75 Min. auf der untersten Rille des auf 160 Grad vorgeheizten Ofens backen.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

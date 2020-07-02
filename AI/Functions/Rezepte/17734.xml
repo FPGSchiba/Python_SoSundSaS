@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>375 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade_ >
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, wenig abgeriebene Schale, ganzer Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sweet Chili Sauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>200 g</quant>
+          <zutat>Tofu (z.B. geraeuchert), halbiert</zutat>
+          <quant>2 </quant>
+          <zutat>Pak Choi, laengs geviertelt</zutat>
+      </Marinade_ >
+      <Glasnudelsalat_>
+          <quant>100 g</quant>
+          <zutat>Glasnudeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>40 g</quant>
+          <zutat>gesalzene Erdnuesse, geroestet, grob gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Mango, in Wuerfeln</zutat>
+      </Glasnudelsalat_>
+   </einkaufliste>
+   <rezept>
+      <Marinade_ >
+          <inhalt>Limettenschale und 1 EL Limettensaft mit allen Zutaten bis und mit Knoblauch verruehren. Tofu und Pak-Choi mit 3 EL Marinade bestreichen, mind. 30 Min. marinieren. Restliche Marinade beseite stellen. </inhalt>
+      </Marinade_ >
+      <Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+          <inhalt>Tofu und Pak-Choi beidseitig je ca. 3 Min. ueber mittelstarker Glut/auf mittlerer Stufe (ca. 200 Grad) grillieren.  </inhalt>
+      </Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+      <Glasnudelsalat_>
+          <inhalt>Glasnudeln in eine Schuessel geben, Wasser daruebergiessen, ca. 5 Min. stehen lassen. Nudeln kalt abspuelen, abtropfen. Restliche Marinade mit dem restlichen Limettensaft, Erdnuesse und Koriander verruehren, ueber die Glasnudeln giessen. Mango beigeben, mischen. Tofu und Pak Choi dazu servieren.  </inhalt>
+      </Glasnudelsalat_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>375 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs halbiert, Samen ausgekratzt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>180 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Himbeer-Frosting>
+          <quant>125 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>80 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Himbeer-Streusel, fein gemahlen</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>50 g</quant>
+          <zutat>Himbeeren, zerdrueckt</zutat>
+          <quant>20 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosraspel</zutat>
+      </Himbeer-Frosting>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Backen                        </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Himbeer-Frosting              </inhalt>
+      </Backen    >
+      <Himbeer-Frosting>
+          <inhalt>Himbeeren und Kokosraspeln darueberstreuen. </inhalt>
+      </Himbeer-Frosting>
+   </rezept>
+</Rezept>

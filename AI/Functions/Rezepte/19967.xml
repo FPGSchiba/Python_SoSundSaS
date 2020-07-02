@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>722 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>98 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Penne     >
+          <quant>500 g</quant>
+          <zutat>Penne rigate</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Penne     >
+      <Fenchel   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>800 g</quant>
+          <zutat>Fenchel, in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>3 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Fenchel   >
+   </einkaufliste>
+   <rezept>
+      <Penne     >
+          <inhalt>Penne im Salzwasser al dente kochen, abtropfen.</inhalt>
+      </Penne     >
+      <Fenchel   >
+          <inhalt>Oel in einer Pfanne erwaermen. Fenchel ca. 3 Min. andaempfen. Bouillon dazugiessen, ca. 10 Min. koecheln. Halbrahm, Zitronenschale und -saft beigeben, wuerzen. Penne beigeben, mischen, nur noch heiss werden lassen, anrichten. Petersilie darueberstreuen.</inhalt>
+      </Fenchel   >
+   </rezept>
+</Rezept>

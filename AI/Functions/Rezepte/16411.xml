@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>240 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Zuckersirup>
+          <quant>1 1/2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 kg</quant>
+          <zutat>Zucker</zutat>
+          <quant>30 g</quant>
+          <zutat>Zitronensaeure</zutat>
+      </Zuckersirup>
+      <Ziehen_lassen>
+          <quant>15 </quant>
+          <zutat>Holunderblueten</zutat>
+      </Ziehen_lassen>
+   </einkaufliste>
+   <rezept>
+      <Zuckersirup>
+          <inhalt>Wasser und Zucker unter Ruehren aufkochen. Zitronensaeure darunterruehren. </inhalt>
+      </Zuckersirup>
+      <Ziehen_lassen>
+          <inhalt>Holunderblueten schuetteln um allfaellige Insekten zu entfernen, in eine grosse Schuessel oder grosses Glas (mind. 3 Liter) schichten, siedend heissen Sirup darueber giessen. Mit einem Tuch zudecken, bei Raumtemperatur ca. 24 Std. ziehen lassen. </inhalt>
+      </Ziehen_lassen>
+      <Holunderbluetensirup>
+          <inhalt>Sirup durch ein mit einem feinen Tuch ausgelegten Sieb in eine Pfanne giessen. Sirup unter Ruehren aufkochen, siedend heiss bis knapp unter den Rand in saubere, vorgewaermte Flaschen fuellen, sofort verschliessen, auskuehlen lassen. </inhalt>
+      </Holunderbluetensirup>
+   </rezept>
+</Rezept>

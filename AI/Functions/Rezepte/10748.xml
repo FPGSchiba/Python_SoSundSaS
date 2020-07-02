@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>873 kcal</NaehrwertProPerson>
+       <Fett>68 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Curry_Tartar>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>100 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>50 g</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>2 EL</quant>
+          <zutat>milder Curry</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Curry_Tartar>
+      <Bierteig  >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>helles Bier (Zimmertemperatur)</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Bierteig  >
+      <Egli-Chnusperli>
+          <quant>1/2 EL</quant>
+          <zutat>Worcestershire-Sauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>600 g</quant>
+          <zutat>Eglifilets ohne Haut</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+      </Egli-Chnusperli>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Curry Tartar                  </inhalt>
+      </How_To    >
+      <Curry_Tartar>
+          <inhalt>Eier hart kochen, schaelen, grob hacken. Petersilie fein schneiden. </inhalt>
+      </Curry_Tartar>
+      <How_To1   >
+          <inhalt>Quark, Mayonnaise, Curry, Eier, Petersilie und Salz mischen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Bierteig                      </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Fuer den Bierteig Mehl, Eigelbe und Bier verruehren. </inhalt>
+      </How_To3   >
+      <Bierteig  >
+          <inhalt>Einen  Brattopf ca. 3 cm hoch mit Oel fuellen, erhitzen. </inhalt>
+      </Bierteig  >
+      <How_To4   >
+          <inhalt>Worcestersauce und Zitronensaft in einer Schuessel verruehren, Eglifilets darin wenden, salzen.</inhalt>
+      </How_To4   >
+      <Egli-Chnusperli>
+          <inhalt>Egli-Chnusperli mit einer Schaumkelle herausnehmen, auf einem Haushaltspapier abtropfen.</inhalt>
+      </Egli-Chnusperli>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

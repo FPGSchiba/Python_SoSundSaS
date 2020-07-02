@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>377 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>20 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Roggenbrot, in Wuerfeli</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 </quant>
+          <zutat>Stoeckli Schabziger (ca. 50 g), fein gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Aprikosen, in Schnitzchen</zutat>
+          <quant>4 </quant>
+          <zutat>Radiesli, gesechstelt</zutat>
+          <quant>50 g</quant>
+          <zutat>Buendnerfleisch, in Streifen</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nuesse und Brotwuerfeli unter staendigem Ruehren in einer weiten Pfanne bei mittlerer bis grosser Hitze roesten, bis sie haselnussbraun sind. Rahm, Salz und Kaese gut verruehren. Nuesse und Brotwuerfeli in die Glaeser verteilen. Rahm-Masse, Aprikosen, Radiesli und Buendnerfleisch abwechslungsweise in Schichten darauf verteilen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

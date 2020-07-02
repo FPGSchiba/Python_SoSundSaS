@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>426 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Vollmilch, lauwarm</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>120 g</quant>
+          <zutat>Mandelmasse</zutat>
+          <quant>90 g</quant>
+          <zutat>Pistazien</zutat>
+          <quant>70 g</quant>
+          <zutat>Quittengelee</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Milch und Ei beigeben, ca. 3 Min. zu einem Teig kneten, Butter beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Mandelmasse und Pistazien mit dem Quittengelee und Zitronensaft puerieren. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl zu einem Rechteck von ca. 30 x 50 cm auswallen. Fuellung darauf verteilen, dabei oben und unten einen Rand von ca. 1 cm frei lassen. Teig von der Laengsseite her aufrollen, mit einem Brotmesser ohne Druck in 8  je ca. 6 cm breite Stuecke schneiden. Jedes Stueck in der Mitte ein - aber nicht ganz durchschneiden. Teigstuecke auf ein mit Backpapier belegtes Blech legen, mit Ei bestreichen.</inhalt>
+      </Formen    >
+      <Backen_   >
+          <inhalt>Ca. 25 Min. im auf 180 Grad vorgeheizten Ofen. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

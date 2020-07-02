@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>565 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>59 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muerbeteig >
+          <quant>300 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+      </Muerbeteig >
+      <Fuellung   >
+          <quant>3 EL</quant>
+          <zutat>Zwetschenkonfituere</zutat>
+          <quant>500 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>80 g</quant>
+          <zutat>Mohn</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>50 g</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Belag_    >
+          <quant>350 g</quant>
+          <zutat>Zwetschgen, geviertelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Belag_    >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Muerbeteig >
+          <inhalt>Butter in eine Schuessel geben, Zucker, Vanillezucker und Salz darunterruehren. Eigelbe darunterruehren, weiterruehren, bis die Masse heller ist. Mehl, Backpulver und Zitronenschale mischen, unter die Masse mischen, Teig zugedeckt ca. 1 Std. kuehl stellen. 1/4 des Teiges  fuer die Streusel kuehl stellen. Die Haelfte des restlichen Teiges auf dem vorbereiteten Formenboden auswallen, Formenrand schliessen. Restlichen Teig zu einer ca. 60 cm langen Rolle formen, an den Formenrand legen, leicht andruecken und ihn dabei ca. 4 cm hochziehen. Boden mit einer Gabel dicht einstechen, ca. 15 Min. kuehl stellen.</inhalt>
+      </Muerbeteig >
+      <Fuellung   >
+          <inhalt>Teigboden mit Konfituere bestreichen. Quark und alle Zutaten bis und mit Salz verruehren, auf dem Teigboden verteilen. </inhalt>
+      </Fuellung   >
+      <Belag_    >
+          <inhalt>Zwetschgen und Zucker mischen, auf der Quarkmasse verteilen. Kuehl gestellten Teig von Hand zerkruemeln, ueber die Zwetschgen streuen. </inhalt>
+      </Belag_    >
+      <Backen    >
+          <inhalt>Ca. 1 1/4 Std.  in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Kuchen auf ein Gitter schieben, auskuehlen,  mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

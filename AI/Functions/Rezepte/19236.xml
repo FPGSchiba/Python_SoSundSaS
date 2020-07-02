@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>432 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig_ >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Hefeteig_ >
+      <Formen_   >
+          <quant>3 </quant>
+          <zutat>Schokolade-Staengeli</zutat>
+      </Formen_   >
+      <Dekoration>
+          <quant>1 </quant>
+          <zutat>Zuckerdekor-Stift  (schwarz)</zutat>
+          <quant>1 </quant>
+          <zutat>Zuckerdekor-Stift  (weiss)</zutat>
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>3 </quant>
+          <zutat>Schokolade-Staengeli</zutat>
+          <quant>1 </quant>
+          <zutat>Zuckerdekor-Stift  (schwarz)</zutat>
+          <quant>1 </quant>
+          <zutat>Zuckerdekor-Stift  (weiss)</zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hefeteig                      </inhalt>
+      </How_To    >
+      <Hefeteig_ >
+          <inhalt>                              </inhalt>
+      </Hefeteig_ >
+      <How_To1   >
+          <inhalt>                              </inhalt>
+      </How_To1   >
+      <Formen_   >
+          <inhalt>Backen                        </inhalt>
+      </Formen_   >
+      <Backen_   >
+          <inhalt>Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen_   >
+      <Dekoration>
+          <inhalt>                              </inhalt>
+      </Dekoration>
+   </rezept>
+</Rezept>

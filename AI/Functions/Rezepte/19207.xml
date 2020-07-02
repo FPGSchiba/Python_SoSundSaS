@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>375 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brot      >
+          <quant>250 g</quant>
+          <zutat>Brot (z.B. Pagnol, in Scheiben)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Brot      >
+      <Chicoree  >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Chicoree, laengs gesechstelt</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Thymian, zerzupft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>weisser Aceto balsamico</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Chicoree  >
+      <Crostini  >
+          <quant>125 g</quant>
+          <zutat>Frischkaese</zutat>
+      </Crostini  >
+   </einkaufliste>
+   <rezept>
+      <Brot      >
+          <inhalt>Brotscheiben mit Oel bestreichen, portionenweise in einer heissen Bratpfanne beidseitig je ca. 1 Min. roesten, herausnehmen. </inhalt>
+      </Brot      >
+      <Chicoree  >
+          <inhalt>Oel in derselben Bratpfanne erhitzen. Chicoree beigeben, unter gelegentlichem Wenden ca. 10 Min. anbraten. Zucker, Ingwer und zwei Zweiglein Thymian beigeben, kurz mitbraten. Wasser und Aceto dazugiessen, ca. 10 Min. einkoecheln, wuerzen. </inhalt>
+      </Chicoree  >
+      <Crostini  >
+          <inhalt>Brotscheiben mit dem Frischkaese bestreichen, Chicoree darauf verteilen, restlichen Thymian darueberstreuen. </inhalt>
+      </Crostini  >
+   </rezept>
+</Rezept>

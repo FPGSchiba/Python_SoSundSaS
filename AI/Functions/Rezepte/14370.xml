@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>56 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schuemli   >
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>feinster Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Prosecco</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+      </Schuemli   >
+      <Verzieren >
+          <quant>1 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 120 g), geschmolzen</zutat>
+          <quant>50 g</quant>
+          <zutat>Nonpareilles</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <Schuemli   >
+          <inhalt>Eiweisse mit dem Salz steif schlagen. Die Haelfte des Zuckers beigeben, weiterschlagen, bis der Eischnee glaenzt. Prosecco mit dem Maizena in einer kleinen Schuessel anruehren, mit dem restlichen Zucker beigeben, kurz weiterschlagen. Masse sofort in einen Spritzsack mit glatter Tuelle (ca. 8 mm Ø) geben. Haeufchen von ca. 3 cm Ø mit genuegend Abstand auf ein mit Backpapier belegtes Blech spritzen.</inhalt>
+      </Schuemli   >
+      <Backen/Trocknen>
+          <inhalt>Ca. 65 Min. in der unteren Haelfte des auf 100 Grad vorgeheizten Ofens, dabei Ofentuere mit einer Holzkelle leicht offen halten. Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, auskuehlen.</inhalt>
+      </Backen/Trocknen>
+      <Verzieren >
+          <inhalt>Glasur und Nonpareilles je in eine kleine Schuessel geben. Schuemli bis zur Haelfte in die Glasur tauchen, etwas abtopfen, in den Nonpareilles wenden, trocknen lassen.</inhalt>
+      </Verzieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

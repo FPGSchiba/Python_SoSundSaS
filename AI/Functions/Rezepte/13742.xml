@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>302 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>120 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Teig      >
+      <Zitronencreme_>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>120 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, abgeriebene Schale und Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, grob geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Zitronencreme_>
+      <Verzierung>
+          <quant>250 g</quant>
+          <zutat>gemischte Beeren (z.B. Erdbeeren, Brombeeren, Heidelbeeren)</zutat>
+          <quant>wenig </quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Mandeln, Zucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Zitronenschale und Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig      >
+      <Formen_   >
+          <inhalt>Teig auf wenig Mehl ca. 2 mm dick auswallen. 12 Rondellen von ca. 11 cm Ø ausstechen, in die vorbereiteten  Vertiefungen legen. Teig dicht einstechen, ca. 15 Min. kuehl stellen. </inhalt>
+      </Formen_   >
+      <Backen_   >
+          <inhalt>Ca. 10 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Boedeli herausnehmen, etwas abkuehlen, aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen_   >
+      <Zitronencreme_>
+          <inhalt>Wasser und alle Zutaten bis und mit Salz mit dem Schwingbesen in einer Pfanne verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Sobald die Masse bindet, die Pfanne sofort von der Platte nehmen, ca. 2 Min. weiterruehren. Creme durch ein Sieb in eine Schuessel giessen, etwas abkuehlen, in die Boedeli verteilen, auskuehlen.</inhalt>
+      </Zitronencreme_>
+      <Verzierung>
+          <inhalt>Tartlets mit Beeren und mit Basilikum verzieren. </inhalt>
+      </Verzierung>
+   </rezept>
+</Rezept>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>74 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig_     >
+      <Fuellung_  >
+          <quant>1 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>200 g</quant>
+          <zutat>Hackfleisch (Schwein)</zutat>
+          <quant>80 g</quant>
+          <zutat>geschaelte rohe Crevetten , fein gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Chinakohl, fein geschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>Rueebli, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>1 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+      </Fuellung_  >
+      <Daempfen_  >
+          <quant> </quant>
+          <zutat>geroestetes Sesamoel zum Braten</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Daempfen_  >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Wasser dazugiessen, zu einem geschmeidigen, glatten Teig kneten, zugedeckt bei Raumtemperatur ca. 20 Min. ruhen lassen.</inhalt>
+      </Teig_     >
+      <Fuellung_  >
+          <inhalt>Oel in einer Bratpfanne erwaermen, Knoblauch, Chili und Ingwer andaempfen, Hackfleisch und Crevetten kurz mitdaempfen. Chinakohl, Rueebli, Bundzwiebel und Sesam beigeben, ca.3 Min. fertig daempfen. Sojasauce und Limettensaft beigeben, mischen. </inhalt>
+      </Fuellung_  >
+      <Formen_   >
+          <inhalt>Teig zu 2 Rollen von je ca. 20 cm formen. Jede Rolle in 10 gleich grosse Stuecke schneiden. Teigstuecke mit einem Wallholz auf wenig Mehl zu Rondellen von je ca. 12 cm Ø auswallen. Je 1 Essloeffel Fuellung auf die Mitte der Teigstuecke geben, mit wenig Wasser bestreichen, Teigraender mit Daumen und Zeigefinger zusammendruecken.</inhalt>
+      </Formen_   >
+      <Daempfen_  >
+          <inhalt>Wenig Oel in einer weiter beschichten Bratpfanne erhitzen. Gyoza portionenweise ca. 3 Min. braten. Je 1 dl Wasser dazugiessen, zugedeckt ca. 6 Min. daempfen, dabei den Deckel nicht abheben.  </inhalt>
+      </Daempfen_  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>311 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kalbshaxen>
+          <quant>4 </quant>
+          <zutat>Kalbshaxen (je ca. 250 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+      </Kalbshaxen>
+      <Schmoren_im_Ofen>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, fein gehackt</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Stangensellerie (ca. 60 g), fein gehackt</zutat>
+          <quant>4 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>400 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Schmoren_im_Ofen>
+      <Gremolata >
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Gremolata >
+   </einkaufliste>
+   <rezept>
+      <Kalbshaxen>
+          <inhalt>Haut der Haxen ringsum mehrmals etwas einschneiden, evtl. mit Kuechenschnur nicht zu satt binden. Fleisch wuerzen, mit Mehl bestaeuben. Bratbutter im Brattopf heiss werden lassen, beidseitig je ca. 2 Min. anbraten. Herausnehmen, Hitze reduzieren. Bratfett auftupfen, wenig Bratbutter beigeben.</inhalt>
+      </Kalbshaxen>
+      <Schmoren_im_Ofen>
+          <inhalt>Zwiebel und Knoblauch andaempfen, Rueebli und Sellerie kurz mitdaempfen. Wein, Lorbeerblatt und Rosmarin beigeben, Wein fast vollstaendig einkochen lassen. Cherry-Tomaten, Bouillon, Zucker und Salz beigeben, mischen. Haxen beigeben, aufkochen. Zugedeckt ca. 2 Std. in der unteren Haelfte des auf 170 Grad vorgeheizten Ofens schmoren. 15 Min. vor Ende der Garzeit Deckel entfernen. Rosmarin und Lorbeerblatt vor dem Servieren entfernen, wuerzen.</inhalt>
+      </Schmoren_im_Ofen>
+      <Gremolata >
+          <inhalt>Petersilie, Zitronenschale, Knoblauch und Salz mischen, auf den Haxen verteilen. </inhalt>
+      </Gremolata >
+   </rezept>
+</Rezept>

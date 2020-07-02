@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>303 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>600 g</quant>
+          <zutat>Kuerbis (Butternuss oder Muskat), in Wuerfeli</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Salbeiblaetter</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>150 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+      </Fuellung   >
+      <Boden     >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (Betty Bossi, 120 g)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Blaumohnsamen</zutat>
+      </Boden     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Butter in einer weiten Pfanne erwaermen, Zwiebel, Knoblauch, Kuerbis und Salbei einige Minuten andaempfen. Wein und Bouillon dazugiessen, aufkochen, Fluessigkeit vollstaendig einkochen, wuerzen. In eine Schuessel geben, etwas abkuehlen. Feta daruntermischen.</inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Boden                         </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Die Foermchen mit Butter bestreichen. </inhalt>
+      </How_To2   >
+      <Boden     >
+          <inhalt>Butter bestreichen, auf einem Kuechentuch aufeinanderlegen,</inhalt>
+      </Boden     >
+      <How_To3   >
+          <inhalt>Backen: 20-25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

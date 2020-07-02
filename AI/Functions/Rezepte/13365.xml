@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>392 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spiess    >
+          <quant>8 </quant>
+          <zutat>lange Metallspiesschen</zutat>
+          <quant>500 g</quant>
+          <zutat>Pouletbrust-Wuerfel</zutat>
+          <quant>330 g</quant>
+          <zutat>Ananaswuerfel, Ananassaft beiseite gestellt</zutat>
+          <quant>3 </quant>
+          <zutat>rote Zwiebeln, in Schnitzen</zutat>
+      </Spiess    >
+      <Marinade  >
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Erdnussbutter</zutat>
+      </Marinade  >
+      <Dip-Sauce >
+          <quant>1 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussbutter</zutat>
+      </Dip-Sauce >
+      <Grillieren>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein gehackt</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <Spiess    >
+          <inhalt>Poulet, Ananas und Zwiebel abwechslungsweise an die Spiesschen stecken.</inhalt>
+      </Spiess    >
+      <Marinade  >
+          <inhalt>Sojasauce und alle Zutaten bis und mit Erdnussbutter verruehren. Spiesse mit der Haelfte der Marinade bestreichen, zugedeckt im Kuehlschrank ca. 1 Std. marinieren. </inhalt>
+      </Marinade  >
+      <Dip-Sauce >
+          <inhalt>Restliche Marinade mit Kokosmilch, Chili, Erdnussbutter und beiseitegestelltem Ananassaft ca. 5 Min koecheln. </inhalt>
+      </Dip-Sauce >
+      <Grillieren>
+          <inhalt>Spiesse ueber mittelstarker Glut / auf mittlerer Stufe rundum ca. 15 Min. grillieren, mit Fleur de Sel und Koriander bestreuen. Dip-Sauce dazu servieren.</inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

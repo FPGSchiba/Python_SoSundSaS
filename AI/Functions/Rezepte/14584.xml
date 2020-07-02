@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>364 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>3 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+      </Teig_     >
+      <Fuellung_  >
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+      </Fuellung_  >
+      <Formen_   >
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Formen_   >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Rahm und Eier beigeben, mischen, mit dem Knethaken der Kuechenmaschine zu einem weichen, glatten Teig kneten. Butter beigeben, ca. 5 Min. weiter kneten. Zugedeckt bei Raumtemperatur ca. 21/2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig_     >
+      <Fuellung_  >
+          <inhalt>Schokolade und Butter in einer Pfanne bei kleiner Hitze schmelzen. </inhalt>
+      </Fuellung_  >
+      <Formen_   >
+          <inhalt>Teig auf wenig Mehl zu einem Rechteck von ca. 40 x 50 cm auswallen. Fuellung darauf verteilen, dabei einen Rand von ca. 1 cm frei lassen. Teig von der Laengsseite her aufrollen, mit dem Brotmesser ohne Druck in ca. 12 Stuecke schneiden. Teigstuecke in die vorbereiteten Vertiefungen setzen. Zugedeckt nochmals ca. 15 Min. aufgehen lassen. Brioches mit Ei bestreichen. </inhalt>
+      </Formen_   >
+      <Backen_   >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, lauwarm servieren.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

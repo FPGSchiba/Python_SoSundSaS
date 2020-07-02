@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>15 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Melonensirup_>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 </quant>
+          <zutat>Netzmelone, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Melonensirup_>
+      <Limonade_ >
+          <quant>1/4 </quant>
+          <zutat>Gurke, in duennen Scheiben</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Zitronenmelisse</zutat>
+          <quant>einige </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>1 1/2 Liter</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+      </Limonade_ >
+   </einkaufliste>
+   <rezept>
+      <Melonensirup_>
+          <inhalt>Wasser mit Melone, Limettensaft und Honig aufkochen, zugedeckt ca. 3 Min. koecheln, puerieren, auskuehlen (ergibt ca. 31/2 dl).</inhalt>
+      </Melonensirup_>
+      <Limonade_ >
+          <inhalt>Melonensirup, Gurkenscheiben, Zitronenmelisse und Eiswuerfel in einen grossen Krug geben, mit Mineralwasser auffuellen.  </inhalt>
+      </Limonade_ >
+   </rezept>
+</Rezept>

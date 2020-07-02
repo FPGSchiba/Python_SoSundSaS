@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>436 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lauwarmer_Kartoffelsalat>
+          <quant>1 kg</quant>
+          <zutat>Gschwellti (Raclettekartoffeln), frisch gekocht, heiss</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kapern, abgespuelt, abgetropft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+      </Lauwarmer_Kartoffelsalat>
+      <Zander-Saltimbocca>
+          <quant>8 Tranchen</quant>
+          <zutat>Rohschinken</zutat>
+          <quant>8 </quant>
+          <zutat>Salbeiblaetter</zutat>
+          <quant>8 </quant>
+          <zutat>Zanderfilets ohne Haut, je ca. 60 g</zutat>
+          <quant>einige </quant>
+          <zutat>Zahnstocher</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Zander-Saltimbocca>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lauwarmer Kartoffelsalat      </inhalt>
+      </How_To    >
+      <Lauwarmer_Kartoffelsalat>
+          <inhalt>Senf, Essig und Oel gut verruehren, Zwiebel und Kapern daruntermischen, wuerzen. Sauce mit den Kartoffeln mischen, Petersilie darauf verteilen.</inhalt>
+      </Lauwarmer_Kartoffelsalat>
+      <Zander-Saltimbocca>
+          <inhalt>Rohschinken und Salbei auf die Zanderfilets legen, mit Zahnstochern fixieren. Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Filets portionenweise  beidseitig je ca. 1 Min. braten, herausnehmen, mit dem Kartoffelsalat anrichten.</inhalt>
+      </Zander-Saltimbocca>
+   </rezept>
+</Rezept>

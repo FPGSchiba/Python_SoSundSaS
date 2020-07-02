@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>244 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlter Blattspinat, angetaut</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Kefen, angetaut</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Erbsli, angetaut</zutat>
+      </Gemuese    >
+      <Guss      >
+          <quant>6 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 EL</quant>
+          <zutat>gelbe Currypaste</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Jogurt nature (z.B. Isey Skyr)</zutat>
+          <quant>wenig </quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Zwiebel im Oel andaempfen, Spinat, Kefen und Erbsen beigeben, ca. 1 Min. mitdaempfen. </inhalt>
+      </Gemuese    >
+      <Guss      >
+          <inhalt>Eier mit Milch und Currypaste verruehren, wuerzen. Zum Gemuese in die Pfanne giessen. Zugedeckt bei kleiner Hitze ca. 20 Min. fest, aber nicht trocken werden lassen. Frittata auf eine Platte gleiten lassen. Mit Jogurt und Petersilie garnieren.</inhalt>
+      </Guss      >
+   </rezept>
+</Rezept>

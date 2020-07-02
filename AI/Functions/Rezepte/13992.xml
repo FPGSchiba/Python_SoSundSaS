@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>484 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>1/2 </quant>
+          <zutat>Gurke, fein gerieben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Meerrettich, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 2 EL Saft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm, knapp steif geschlagen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>Rauchlachs</zutat>
+          <quant>6 </quant>
+          <zutat>Holzspiesschen</zutat>
+          <quant>1/2 </quant>
+          <zutat>Baguette</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Fill_Header>
+      <Roesten    >
+          <quant>20 g</quant>
+          <zutat>Zwiebelsprossen</zutat>
+      </Roesten    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gurke mit Salz mischen, in ein Sieb geben, ca. 30 Min. ziehen lassen, gut ausdruecken. Meerretttich, Gurke, Zitronenschale und Schlagrahm mischen, wuerzen. Lachs wellenfoermig an die Spiesschen stecken, Zitronensaft daruebertraeufeln. Baguette in ca. 6 schraege Scheiben schneiden, mit Oel betraeufeln, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </How_To    >
+      <Roesten    >
+          <inhalt>Ca. 6 Min. in der Mitte des auf 22 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter abkuehlen, mit dem Meerrettich-Gurken-Schaum zu den Lachsspiessli servieren, mit Zwiebelsprossen garnieren.</inhalt>
+      </Roesten    >
+   </rezept>
+</Rezept>

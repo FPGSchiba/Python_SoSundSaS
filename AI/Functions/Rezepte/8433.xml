@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>400 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>3 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Senfkoerner</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, 1/2 abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>3 </quant>
+          <zutat>Lammnierstuecke (je ca. 200 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Carribbean Curry</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mango-Chutney</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 EL</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Niedergaren: ca. 35 Min. in der Mitte des auf 80 Grad vorgeheizten Ofens (Kerntemperatur: 52-55 Grad). Das Fleisch kann anschliessend bei 60 Grad bis zu 30 Min. warm gehalten werden.</inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Oel erwaermen, Zwiebel andaempfen. Curry und Chutney kurz mitduensten. Bouillon und Wein dazugiessen, aufkochen. Fluessigkeit ca. 5 Min. koecheln, absieben. Rahm beigeben, nochmals aufkochen, wuerzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

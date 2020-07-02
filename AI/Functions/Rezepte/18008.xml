@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>244 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>600 g</quant>
+          <zutat>Kalbsplaetzli (z.B. Huft)</zutat>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, wenig abgeriebene Schale, ganzer Saft (ca. 1 1/2 dl)</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Plaetzli etwas flach klopfen. Oe l in einer Bratpfanne erhitzen, Plaetzli portionenweise beidseitig je 1-2 Min. braten. Plaetzli wuerzen, warm stellen.</inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Zitronenschale, -saft und Bouillon beigeben, aufkochen, Hitze reduzieren. Butter und Mehl mischen, unter Ruehren beigeben, ca. 5 Min. koecheln. Plaetzli mit dem entstandenen Fleischsaft beigeben, wuerzen, nur noch heiss werden lassen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

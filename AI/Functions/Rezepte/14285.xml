@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>248 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Als_Vorspeise_oder_Snack>
+          <quant>1 </quant>
+          <zutat>Avocado, in Scheiben</zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+          <quant>100 g</quant>
+          <zutat>Rauchlachs, in Tranchen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Meerrettich-Mousse</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Kresse</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer nach Bedarf</zutat>
+      </Als_Vorspeise_oder_Snack>
+   </einkaufliste>
+   <rezept>
+      <Als_Vorspeise_oder_Snack>
+          <inhalt>Avocado-Scheiben sofort mit Limettensaft betraeufeln. Lachstranchen auslegen, je etwas Meerrettich-Mousse darauf verteilen, je eine Avocado-Scheibe darauf geben, Lachs-Scheiben aufrollen. Mit etwas Kresse garnieren und mit Pfeffer wuerzen.</inhalt>
+      </Als_Vorspeise_oder_Snack>
+   </rezept>
+</Rezept>

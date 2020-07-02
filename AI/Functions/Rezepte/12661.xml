@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>551 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dunkle_Schokolade>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+          <quant>2 EL</quant>
+          <zutat>Cognac</zutat>
+          <quant>25 g</quant>
+          <zutat>ungesalzene gehackte Pistazien</zutat>
+      </Dunkle_Schokolade>
+      <Weisse_Schokolade>
+          <quant>3 </quant>
+          <zutat>weiche Doerraprikosen</zutat>
+          <quant>200 g</quant>
+          <zutat>weisse Schokolade</zutat>
+          <quant>3 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Weisse_Schokolade>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Dunkle Schokolade             </inhalt>
+      </How_To    >
+      <Dunkle_Schokolade>
+          <inhalt>Dunkle Schokolade fein hacken. </inhalt>
+      </Dunkle_Schokolade>
+      <How_To1   >
+          <inhalt>Schokolade und Cognac in einer duennwandigen Schuessel ueber dem nur leicht siedenden Wasserbad schmelzen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Geschmolzene Schokolade glatt ruehren, in ein mit Backpapier belegtes Blech giessen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Pistazien darauf verteilen, auskuehlen, ca. 1 Std. kuehl stellen. </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Aprikosen fein hacken.        </inhalt>
+      </How_To4   >
+      <Weisse_Schokolade>
+          <inhalt>Aprikosen und Fleur de Sel darauf verteilen, auskuehlen, ca. 1 Std. kuehl stellen. </inhalt>
+      </Weisse_Schokolade>
+      <Servieren >
+          <inhalt>Dunkle und weisse Schokolade in Stuecke brechen. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

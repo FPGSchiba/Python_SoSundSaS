@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>686 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet_marinieren>
+          <quant>1 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>Poulet-Minifilets</zutat>
+      </Poulet_marinieren>
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen</zutat>
+          <quant>1 Dose</quant>
+          <zutat>schwarze Bohnen (ca. 130 g), abgespuelt, abgetropft</zutat>
+      </Fuellung   >
+      <Grillieren_und_fuellen>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>8 </quant>
+          <zutat>Mini-Tortillas (ca. 220 g)</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+      </Grillieren_und_fuellen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Poulet marinieren             </inhalt>
+      </How_To    >
+      <Poulet_marinieren>
+          <inhalt>Fuellung                       </inhalt>
+      </Poulet_marinieren>
+      <Fuellung   >
+          <inhalt>Grillieren und fuellen         </inhalt>
+      </Fuellung   >
+      <Grillieren_und_fuellen>
+          <inhalt>Grillieren (Holzkohle-/ Gas-/ Elektrogrill):  Poulet-Innenfilets ueber starker Glut/hoechster Stufe beidseitig je ca. 3 Min. grillieren. Tortillas auf dem Grill beidseitig je ca. 30 Sek. erhitzen. Tortillas mit Creme fraiche bestreichen, Poulet und Fuellung darauf verteilen, einrollen, sofort servieren.</inhalt>
+      </Grillieren_und_fuellen>
+   </rezept>
+</Rezept>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>926 kcal</NaehrwertProPerson>
+       <Fett>52 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Calamares_zubereiten>
+          <quant>400 g</quant>
+          <zutat>tiefgekuehlte Calamares (Arbi), aufgetaut</zutat>
+          <quant>250 g</quant>
+          <zutat>Luganighe</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Calamares_zubereiten>
+      <Sauce     >
+          <quant>1 dl</quant>
+          <zutat>Prosecco</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Sauce     >
+      <Nudeln_kochen>
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Tagliatelle)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Parmesan am Stueck</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+      </Nudeln_kochen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Calamares zubereiten          </inhalt>
+      </How_To    >
+      <Calamares_zubereiten>
+          <inhalt>Calamares innen und aussen kalt abspuelen, trocken tupfen. Tentakel beiseite stellen.</inhalt>
+      </Calamares_zubereiten>
+      <How_To1   >
+          <inhalt>Lughanighe einschneiden, Braet heraus druecken.  </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Zwiebel fein hacken, Knoblauch pressen, Petersilie fein schneiden.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Wurstbraet, Zwiebel, Knoblauch und Petersilie in eine Schuessel geben, wuerzen, gut mischen.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Masse in einen Einweg-Spritzsack fuellen, eine ca. 1 cm grosse Ecke abschneiden. Calamares mit der Wurstfuellung fuellen.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Calamares rundum ca. 6 Min. braten, herausnehmen. </inhalt>
+      </How_To5   >
+      <How_To6   >
+          <inhalt>Sauce                         </inhalt>
+      </How_To6   >
+      <Sauce     >
+          <inhalt>Nudeln kochen                 </inhalt>
+      </Sauce     >
+      <Nudeln_kochen>
+          <inhalt>Kaese mit dem Sparschaeler in Spaene schaelen, Petersilie fein schneiden, darueberstreuen.</inhalt>
+      </Nudeln_kochen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+</Rezept>

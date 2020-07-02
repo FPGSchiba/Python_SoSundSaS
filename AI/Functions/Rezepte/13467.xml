@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>16 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Aprikosen-Eiswuerfel>
+          <quant>1 </quant>
+          <zutat>Aprikosen, in Wuerfeli</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Thymian, Blaettchen abgezupft</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+      </Aprikosen-Eiswuerfel>
+      <Ice_Tea   >
+          <quant>8 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>Gruentee</zutat>
+          <quant>2 EL</quant>
+          <zutat>Bluetenhonig</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Pfefferminze, ein Zweiglein beiseite gestellt</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian, ein Zweiglein beiseite gestellt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+      </Ice_Tea   >
+   </einkaufliste>
+   <rezept>
+      <Aprikosen-Eiswuerfel>
+          <inhalt>Aprikosen und Thymian in die Eiswuerfelform verteilen, mit Wasser auffuellen, ca. 2 Std. gefrieren. </inhalt>
+      </Aprikosen-Eiswuerfel>
+      <Ice_Tea   >
+          <inhalt>Wasser aufkochen, Pfanne von der Platte nehmen. Gruentee beigeben, ca. 5 Min. ziehen lassen, herausnehmen. Honig darunterruehren, Pfefferminze, Thymian, Kurkuma und Zitronensaft beigeben, auskuehlen. Durch ein Sieb in Glaeser giessen, Eiswuerfel beigeben, mit beiseite gestellter Minze und Thymian verzieren. </inhalt>
+      </Ice_Tea   >
+   </rezept>
+</Rezept>

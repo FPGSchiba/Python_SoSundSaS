@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>667 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lachs     >
+          <quant>500 g</quant>
+          <zutat>Lachsfilets ohne Haut </zutat>
+          <quant>2 EL</quant>
+          <zutat>Baerlauch-Pesto</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Lachs     >
+      <Cannelloni>
+          <quant>12 </quant>
+          <zutat>gruene Lasagne-Blaetter</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser</zutat>
+          <quant>250 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>4 EL</quant>
+          <zutat>geriebener Sbrinz</zutat>
+      </Cannelloni>
+      <Sauce     >
+          <quant>2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>2 TL</quant>
+          <zutat>Baerlauch-Pesto</zutat>
+          <quant>2 EL</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne</zutat>
+      </Sauce     >
+      <Gratinieren>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>wenig </quant>
+          <zutat>Rucola</zutat>
+      </Gratinieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lachs                         </inhalt>
+      </How_To    >
+      <Lachs     >
+          <inhalt>Lachs laengs halbieren,  quer in 12 Stuecke schneiden.</inhalt>
+      </Lachs     >
+      <How_To1   >
+          <inhalt>Lachsstuecke mit Pesto und Zitronensaft mischen, zugedeckt kurz stehen lassen</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Cannelloni                    </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Ricotta und Kaese verruehren, wuerzen. Die Ricottafuellung so auf die Lasagneblatter verteilen, dass an den Querseiten je ein ca. 1 cm breiter Rand frei bleibt. </inhalt>
+      </How_To3   >
+      <Cannelloni>
+          <inhalt>Sauce                         </inhalt>
+      </Cannelloni>
+      <Sauce     >
+          <inhalt>Gratinieren                   </inhalt>
+      </Sauce     >
+      <Gratinieren>
+          <inhalt>Herausnehmen, Zitronenschale darueberreiben, mit Rucola bestreuen.</inhalt>
+      </Gratinieren>
+   </rezept>
+</Rezept>

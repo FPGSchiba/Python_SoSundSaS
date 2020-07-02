@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>431 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fladen    >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 25 x 42 cm)</zutat>
+          <quant>200 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant>500 g</quant>
+          <zutat>gekochtes Sauerkraut</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fladen    >
+      <Backen    >
+          <quant>200 g</quant>
+          <zutat>geraeucherter Lachs, in Tranchen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Kerbel</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fladen                        </inhalt>
+      </How_To    >
+      <Fladen    >
+          <inhalt>Backen                        </inhalt>
+      </Fladen    >
+      <Backen    >
+          <inhalt>Rille des auf 240 Grad vorgeheizten Ofens. Herausnehmen, Lachs in Stuecke zupfen, auf dem Fladen verteilen. Kerbelblaettchen darueber streuen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

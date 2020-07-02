@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>459 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>12 </quant>
+          <zutat>Kardamomkapseln</zutat>
+          <quant>275 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosenwasser (Coop Vitality Apotheke)</zutat>
+      </Teig      >
+      <Rosenwassersirup_zum_Betraeufeln>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 Saft, restlichen Saft beiseite gestellt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Rosenwasser (Coop Vitality Apotheke)</zutat>
+          <quant>2 EL</quant>
+          <zutat>feinster Zucker</zutat>
+      </Rosenwassersirup_zum_Betraeufeln>
+      <Zuckerguss>
+          <quant>200 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>ungesalzene geschaelte Pistazien, grob gehackt</zutat>
+      </Zuckerguss>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter und Zucker in eine Schuessel geben, mit den Schwingbesen des Handruehrgeraetes verruehren. Ein Ei nach dem anderen darunterruehren, weiterruehren, bis die Masse heller ist. Die Kardamomkapseln aufbrechen, Kapseln entfernen, Samen im Moerser fein zerstossen, mit den Mandeln und allen Zutaten bis und mit Salz mischen. Zitronenschale und -saft mit dem Rosenwasser und der Mandelmischung unter die Eimasse mischen, Teig in die vorbereitete Form fuellen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, auf ein Gitter stellen. </inhalt>
+      </Backen    >
+      <Rosenwassersirup_zum_Betraeufeln>
+          <inhalt>Zitronensaft und Rosenwasser mit dem Zucker unter Ruehren in einer kleinen Pfanne erwaermen, bis sich der Zucker aufgeloest hat. Kuchen mehrmals mit einem Holzspiesschen einstechen, mit dem warmen Sirup betraeufeln, in der Form auskuehlen. Kuchen aus der Form nehmen. </inhalt>
+      </Rosenwassersirup_zum_Betraeufeln>
+      <Zuckerguss>
+          <inhalt>Puderzucker und Wasser mit dem beiseite gestellten Zitronensaft in einer Schuessel zu einer dicken Glasur verruehren, auf dem Kuchen verteilen, Pistazien darueberstreuen, trocknen lassen. </inhalt>
+      </Zuckerguss>
+   </rezept>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>188 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaesesauce >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>dunkles Bier (z.B. Porter oder Ale)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>150 g</quant>
+          <zutat>Cheddar, grob gerieben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Worcestershire-Sauce</zutat>
+      </Kaesesauce >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>250 g</quant>
+          <zutat>Brot, in 8 Scheiben</zutat>
+          <quant>4 TL</quant>
+          <zutat>Senf (z.B. englischer oder Dijon)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </einkaufliste>
+   <rezept>
+      <Kaesesauce >
+          <inhalt>Butter in einer Pfanne erwaermen. Mehl beigeben, kurz duensten, das Mehl darf dabei keine Farbe annehmen. Bier und Milch auf einmal dazugiessen, unter Ruehren aufkochen, Hitze reduzieren, ca. 5 Min. koecheln. Kaese und Worcestershire-Sauce darunterruehren, weiterruehren, bis der Kaese geschmolzen ist. </inhalt>
+      </Kaesesauce >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Brotscheiben bei geschlossenem ueber mittelstarker Glut/ auf mittlerer Stufe (ca. 200 Grad) zugedeckt auf einer Seite ca. 2 Min. grillieren. Herausnehmen, grillierte Brotseite mit Senf bestreichen, Kaesesauce darauf verteilen, Paprika darueberstreuen. Brotscheiben nochmals mit geschlossenem Deckel ca. 10 Min. fertig grillieren. Herausnehmen, Kaeseschnitten mit Petersilie bestreuen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

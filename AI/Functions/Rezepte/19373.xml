@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>463 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli-Cakes>
+          <quant>3 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>250 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>50 g</quant>
+          <zutat>Pekannuesse</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3 </quant>
+          <zutat>Eiweisse</zutat>
+      </Rueebli-Cakes>
+      <Crumble   >
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Zucker</zutat>
+      </Crumble   >
+      <Backen    >
+          <quant>8 </quant>
+          <zutat>Marzipanrueebli</zutat>
+          <quant>1 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+          <quant>3 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>250 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>50 g</quant>
+          <zutat>Pekannuesse</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>8 </quant>
+          <zutat>Marzipanrueebli</zutat>
+          <quant>1 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rueebli-Cakes                  </inhalt>
+      </How_To    >
+      <Rueebli-Cakes>
+          <inhalt>Eigelbe mit Zucker und Salz schaumig ruehren. Zitronenschale abreiben, </inhalt>
+      </Rueebli-Cakes>
+      <How_To1   >
+          <inhalt>                              </inhalt>
+      </How_To1   >
+      <Crumble   >
+          <inhalt>Butter schmelzen und etwas abkuehlen. </inhalt>
+      </Crumble   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

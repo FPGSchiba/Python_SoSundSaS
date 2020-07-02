@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>451 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>59 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gersotto  >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in feinen Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>300 g</quant>
+          <zutat>geschaelte Rollgerste (z.B. Pro Montagna)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+      </Gersotto  >
+      <Gemuese    >
+          <quant>300 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Streifen</zutat>
+          <quant>80 g</quant>
+          <zutat>Bergkaese (z.B. Pro Montagna), grob gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Gersotto  >
+          <inhalt>Oel in einer Pfanne warm werden lassen. Zwiebeln und Knoblauch andaempfen. Gerste beigeben, unter Ruehren ca. 1 Min. duensten. Wein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass die Gerste immer knapp mit Fluessigkeit bedeckt ist, ca. 30 Min. koecheln.</inhalt>
+      </Gersotto  >
+      <Gemuese    >
+          <inhalt>Spinat nach und nach beigeben, zusammenfallen lassen, ca. 5 Min. weiterkoecheln, bis die Gerste al dente ist. Radiesli und Kaese daruntermischen, wuerzen.</inhalt>
+      </Gemuese    >
+   </rezept>
+</Rezept>

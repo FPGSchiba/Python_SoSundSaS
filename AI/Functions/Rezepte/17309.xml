@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>657 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuchenteig_>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Kuchenteig_>
+      <Quiche_   >
+          <quant>1 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>300 g</quant>
+          <zutat>roter Rhabarber, schraeg in ca. 6 cm langen Stuecken, quer und laengs halbiert</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>250 g</quant>
+          <zutat>gruene Spargeln, laengs halbiert, in ca. 6 cm langen Stuecken</zutat>
+      </Quiche_   >
+   </einkaufliste>
+   <rezept>
+      <Kuchenteig_>
+          <inhalt>Mehle und Salz in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Kuchenteig_>
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl rund (ca. 32 cm Ø) auswallen. Teig in das vorbereitete Blech legen. Boden mit einer Gabel dicht einstechen.</inhalt>
+      </Formen    >
+      <Blindbacken>
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. Ofentemperatur auf 200 Grad reduzieren. </inhalt>
+      </Blindbacken>
+      <Quiche_   >
+          <inhalt>Rahm, Huettenkaese und Ei verruehren, wuerzen. Guss auf den Teig verteilen. Rhabarber und Zucker mischen, mit dem Spargeln vom Rand Richtung Mitte spiralfoermig darauflegen.</inhalt>
+      </Quiche_   >
+      <Backen_   >
+          <inhalt>Ca. 40 Min. auf der untersten Rille des Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech nehmen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

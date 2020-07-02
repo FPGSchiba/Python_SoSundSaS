@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>211 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Tofu</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1/2 </quant>
+          <zutat>gelbe Peperoni (ca. 100 g)</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>60 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tofu in ca. 1cm grosse Wuerfel schneiden, in einen tiefen Teller geben. Sojasauce daruebergiessen, zugedeckt im Kuehlschrank ca. 30 Min. marinieren.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Knoblauch in Scheibchen, Peperoni in Wuerfel, Bundzwiebeln in Streifchen, Gruen in Ringe schneiden. Oel warm werden lassen, Knoblauch, Zwiebeln und Peperoni ca. 3 Min. andaempfen. Bouillon dazugiessen, aufkochen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Hitze reduzieren, Suppe bei kleiner Hitze ca. 5 Min. koecheln. Tofu mit  Marinade, Sprossen und Zwiebelgruen beigeben, nur noch heiss werden lassen, Suppe wuerzen, anrichten. Mit Weissbrot servieren.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>173 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Einweichen>
+          <quant>150 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Einweichen>
+   </einkaufliste>
+   <rezept>
+      <Einweichen>
+          <inhalt>Die Mandeln ueber Nacht in kaltem Wasser einweichen. Mandeln abtropfen, mit kaltem Wasser abspuelen. </inhalt>
+      </Einweichen>
+      <Puerieren  >
+          <inhalt>Mandeln mit 5 dl frischem Wasser und Salz im Mixglas puerieren.</inhalt>
+      </Puerieren  >
+      <Absieben  >
+          <inhalt>Mandeln durch ein Passiertuch aus Vlies giessen.</inhalt>
+      </Absieben  >
+      <Masse_pressen>
+          <inhalt>Mandeln im Tuch leicht pressen. </inhalt>
+      </Masse_pressen>
+      <Mandelreste>
+          <inhalt>Die "Reste" der Mandeln, die im Passiertuch verbleiben, kann man aufbewahren, gut trocknen und daraus Cracker herstellen. Siehe Rezept: "Nusscracker".</inhalt>
+      </Mandelreste>
+      <Abfuellen  >
+          <inhalt>Mandel-Drink in eine saubere, heiss ausgespuelte Flasche abfuellen.</inhalt>
+      </Abfuellen  >
+   </rezept>
+</Rezept>

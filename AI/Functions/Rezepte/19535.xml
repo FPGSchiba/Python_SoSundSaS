@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>338 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fenchel-Bohnen>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Fenchel, fein gehobelt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Dose</quant>
+          <zutat>weisse Bohnen (ca. 400 g), abgespuelt, abgetropft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Dill, zerzupft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Fenchel-Bohnen>
+      <Eglifilets>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>300 g</quant>
+          <zutat>Eglifilets</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Eglifilets>
+   </einkaufliste>
+   <rezept>
+      <Fenchel-Bohnen>
+          <inhalt>Oel in einer Pfanne erwaermen. Fenchel ca. 7 Min. andaempfen, salzen. Bohnen und Bouillon beigeben, ca. 3 Min. koecheln. Dill daruntermischen, wuerzen.</inhalt>
+      </Fenchel-Bohnen>
+      <Eglifilets>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Fisch wuerzen,  ca. 2 Min. anbraten, wenden, ca. 1 Min. fertig braten. Fenchel-Bohnen in tiefen Tellern anrichten, Eglifilets darauf geben.</inhalt>
+      </Eglifilets>
+   </rezept>
+</Rezept>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>361 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+      </Teig_     >
+      <Fruechte_  >
+          <quant>150 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>2 </quant>
+          <zutat>Pfirsiche, in Scheiben oder Schnitzen</zutat>
+          <quant>100 g</quant>
+          <zutat>weisse Schokolade, grob gehackt</zutat>
+      </Fruechte_  >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Butter in eine Schuessel geben, Zucker, Zitronenschale und Salz mit den Schwingbesen des Mixers darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist. Mehl, Haselnuesse und Backpulver mischen, darunterruehren, Milch daruntermischen. Teig in die vorbereitete Form fuellen. </inhalt>
+      </Teig_     >
+      <Fruechte_  >
+          <inhalt>Himbeeren und Pfirsiche auf dem Teig verteilen. Schokolade darueberstreuen. </inhalt>
+      </Fruechte_  >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen, in Stuecke schneiden.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

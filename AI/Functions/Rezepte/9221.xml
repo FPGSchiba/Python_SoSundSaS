@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>320 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tofu      >
+          <quant>100 g</quant>
+          <zutat>chinesische Nuedeli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>4 EL</quant>
+          <zutat>milde Sojasauce</zutat>
+          <quant>3 TL</quant>
+          <zutat>Thailand 7-Spice</zutat>
+          <quant>3 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>400 g</quant>
+          <zutat>geraeucherter Tofu, in ca. 2 cm grossen Stuecken</zutat>
+      </Tofu      >
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln, in Ringen</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in Staengeli</zutat>
+          <quant>200 g</quant>
+          <zutat>Mini-Kefen, in Streifen</zutat>
+      </Gemuese    >
+      <Formen    >
+          <quant>4 </quant>
+          <zutat>Backpapiere</zutat>
+          <quant>4 Stueck</quant>
+          <zutat>Kuechenschnur</zutat>
+          <quant>4 EL</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, in Schnitzen</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tofu                          </inhalt>
+      </How_To    >
+      <Tofu      >
+          <inhalt>Nudeln im Salzwasser knapp weich koecheln, abtropfen, kalt abspuelen, beiseite stellen. Limettensaft und alle Zutaten bis und mit Ingwer gut verruehren. Tofu beigeben, mischen, zugedeckt ca. 30 Min. marinieren. Tofu aus der Marinade nehmen, restliche Marinade beiseite stellen.</inhalt>
+      </Tofu      >
+      <How_To1   >
+          <inhalt>Oel in weiter Bratpfanne erhitzen. Zwiebeln, Rueebli und Kefen ca. 3 Min. ruehrbraten, herausnehmen. Wenig Oel beigeben. Tofu ca. 5 Min. braten, Gemuese, Teigwaren und beiseite gestellte Marinade beigeben, sorgfaeltig mischen.	</inhalt>
+      </How_To1   >
+      <Gemuese    >
+          <inhalt>Ein Backpapier in einen Suppenteller druecken. 1/4 der Tofu- Gemuesemischung hineingeben. Backpapier zu einem Paeckli formen, mit Kuechenschnur zubinden. Vorgang wiederholen. </inhalt>
+      </Gemuese    >
+      <Formen    >
+          <inhalt>Herausnehmen, Paeckli oeffnen, mit Koriander bestreuen, mit Limettensaft betraeufeln.</inhalt>
+      </Formen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+</Rezept>

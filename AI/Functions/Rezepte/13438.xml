@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>549 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sandwiches>
+          <quant>8 Scheiben</quant>
+          <zutat>Brot (z.B. Ruchbrot)</zutat>
+          <quant>140 g</quant>
+          <zutat>gekochter Schweinsbraten in Tranchen</zutat>
+          <quant>140 g</quant>
+          <zutat>Schinken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>150 g</quant>
+          <zutat>Cheddar, gehobelt</zutat>
+          <quant>8 Stueck</quant>
+          <zutat>Essiggurken, in Scheiben</zutat>
+      </Sandwiches>
+      <Grillieren>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <Sandwiches>
+          <inhalt>4 Brotscheiben mit Braten und Schinken belegen, mit Honig betraeufeln. Cheddar und Essiggurken darauf verteilen. Mit den restlichen Brotscheiben bedecken. </inhalt>
+      </Sandwiches>
+      <Grillieren>
+          <inhalt>Sandwiches beidseitig mit Oel bestreichen. Holzkohle-/Gas-/Elektrogrill Sandwich bei geschlossenem Deckel ueber mittlerer Glut oder auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 4 Min. grillieren.</inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

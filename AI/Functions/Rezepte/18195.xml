@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>406 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>120 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Teig      >
+      <Backen    >
+          <quant>2 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+      </Backen    >
+      <Meringue_ >
+          <quant>3 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>500 g</quant>
+          <zutat>Johannisbeeren</zutat>
+      </Meringue_ >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Backen                        </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Mandeln auf den Teigboden streuen. </inhalt>
+      </Backen    >
+      <Meringue_ >
+          <inhalt>Eiweisse mit dem Salz steif schlagen. Zucker nach und nach beigeben, weiterschlagen, bis der Eischnee glaenzt. Mandeln und Beeren sorgfaeltig darunterziehen. Masse auf dem Kuchenboden verteilen.</inhalt>
+      </Meringue_ >
+      <Fertig_backen>
+          <inhalt>Ca. 25 Min. in der Mitte des Ofens. Kuchen herausnehmen, etwas abkuehlen,  auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Fertig_backen>
+   </rezept>
+</Rezept>

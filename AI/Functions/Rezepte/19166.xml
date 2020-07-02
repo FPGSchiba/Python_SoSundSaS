@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>381 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muscheln  >
+          <quant>1 kg</quant>
+          <zutat>Vongole (Venusmuscheln)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, kalt</zutat>
+      </Muscheln  >
+      <Sud       >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>4 </quant>
+          <zutat>getrocknete Tomaten in Oel, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>9 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>300 g</quant>
+          <zutat>Fregola Sarda (z.B. Fine Food)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Sud       >
+   </einkaufliste>
+   <rezept>
+      <Muscheln  >
+          <inhalt>Muscheln unter fliessendem kaltem Wasser sehr gut waschen. Muscheln in eine Schuessel mit kaltem Salzwasser legen, ca. 1 Std. stehen lassen. Wasser abgiessen, Muscheln unter fliessendem kaltem Wasser abspuelen. </inhalt>
+      </Muscheln  >
+      <Sud       >
+          <inhalt>Oel in einer Pfanne erhitzen. Knoblauch, Tomaten, Tomatenpueree und die Haelfte der Petersilie kurz andaempfen. Muscheln beigeben, zugedeckt unter gelegentlichem Hin-und-her-Bewegen der Pfanne bei grosser Hitze ca. 4 Min. daempfen, bis sich die Muscheln geoeffnet haben. Wein dazugiessen, ca. 2 Min. einkoecheln. Wasser dazugiessen, aufkochen, salzen. Pasta beigeben, unter gelegentlichem Ruehren ca. 20 Min. al dente kochen. Muscheln mit Pasta und Sud in tiefen Tellern anrichten, restliche Petersilie darueberstreuen, wuerzen. </inhalt>
+      </Sud       >
+   </rezept>
+</Rezept>

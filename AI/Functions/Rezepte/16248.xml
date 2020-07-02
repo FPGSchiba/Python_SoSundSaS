@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>228 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauerteig >
+          <quant>20 g</quant>
+          <zutat>Sauerteig Starterkultur (siehe Rezept unten)</zutat>
+          <quant>20 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>30 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Sauerteig >
+      <Vorteig   >
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>350 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Vorteig   >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Vollkornmehl</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sauerteig                     </inhalt>
+      </How_To    >
+      <Sauerteig >
+          <inhalt>Vorteig                       </inhalt>
+      </Sauerteig >
+      <Vorteig   >
+          <inhalt>Falten &amp; aufgehen lassen  </inhalt>
+      </Vorteig   >
+      <Falten_&amp;_aufgehen_lassen_>
+          <inhalt>Teig zugedeckt bei Raumtemperatur nochmals ca. 3 Std. aufgehen lassen. </inhalt>
+      </Falten_&amp;_aufgehen_lassen_>
+      <Backen    >
+          <inhalt>Brattopf mit dem Deckel in die untere Haelfte des kalten Ofens schieben. Ofen auf 240 Grad vorheizen. Brattopf herausnehmen. Teig mit einem Teighorn vom Rand loesen, in den Brattopf geben, mit wenig Mehl bestaeuben, mit einem scharfen Messer kreuzweise einschneiden, zugedeckt ca. 30 Min. backen. Deckel entfernen, ca. 15 Min. fertig backen. Herausnehmen, Brot aus dem Brattopf nehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>701 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>120 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>125 g</quant>
+          <zutat>dunkle Schokolade, in Stuecken</zutat>
+          <quant>120 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+          <quant>70 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>70 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Himbeerkonfituere</zutat>
+          <quant>4 </quant>
+          <zutat>Guetzli (z.B. Digestive)</zutat>
+      </Formen    >
+      <Dekorieren_>
+          <quant>150 g</quant>
+          <zutat>helles Marzipan</zutat>
+          <quant>300 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+      </Dekorieren_>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Zucker, Vanille, Zimt, Salz und Eier in einer Schuessel gut verruehren, weiterruehren, bis die Masse heller ist. Schokolade und Butter in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade und Butter unter Ruehren schmelzen, unter die Masse ruehren. Mehl und Mandeln daruntermischen, Teig auf einem mit Backpapier belegten Blech zu einem Rechteck von ca. 20x30 cm ausstreichen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 10 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, auskuehlen.</inhalt>
+      </Backen    >
+      <Formen    >
+          <inhalt>Kuchen in kleine Stuecke schneiden, mit Wasser zu einer kompakten, formbaren Masse mischen. Klarsichtfolie in 4 Tassen legen, Masse portionenweise eindruecken und zu halbrunden Hueten formen. Guetzli mit je 1/2 EL Konfi bestreichen, Huete sorgfaeltig aus der Tasse loesen, daraufsetzen. Klarsichtfolie entfernen.  </inhalt>
+      </Formen    >
+      <Dekorieren_>
+          <inhalt>1/2 des Marzipans zu 8 Hoernern formen, diese beiseite stellen. Restlichen Marzipan zwischen zwei Backpapieren ca. 4 mm dick auswallen. Rondellen mit Tuellen ausstechen, Baender ausschneiden. Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Huete auf einem Backpapier mit der Schokolade ueberziehen, ca. 2 Min. abkuehlen lassen. Marzipandekorationen darauf setzen. </inhalt>
+      </Dekorieren_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

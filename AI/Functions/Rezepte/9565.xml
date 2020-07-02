@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>314 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Tofu, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, schraeg in 1 cm breiten Ringen</zutat>
+          <quant>300 g</quant>
+          <zutat>Zucchetti, laengs halbiert, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe und rote Peperoni, geschaelt, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, schraeg in feinen Ringen</zutat>
+          <quant> </quant>
+          <zutat>Sojasauce, nach Bedarf</zutat>
+          <quant>3 EL</quant>
+          <zutat>Korianderblaettchen, zerzupft</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tofu mit Sojasauce mischen, kurz marinieren. Oel in einem Wok oder  einer weiten Bratpfanne heiss werden lassen, Hitze reduzieren.Tofu trocken tupfen, portionenweise ca. 3 Min. ruehrbraten, herausnehmen, zugedeckt warm stellen. Wasser mit allen Zutaten bis und mit Zucker in derselben Pfanne aufkochen, Hitze reduzieren, ca. 3 Min. koecheln. Zwiebeln und Zucchini beigeben, aufkochen, Hitze reduzieren, ca. 10 Min. knapp weich koecheln. Peperoni beigeben, ca. 5 Min. fertig koecheln. Tofu und Chili daruntermischen, nur noch heiss werden lassen, wuerzen, Koriander dazu servieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>275 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Involtini >
+          <quant>12 </quant>
+          <zutat>Kalbsplaetzli (z.B. Nuss, je ca. 50 g)</zutat>
+          <quant>12 </quant>
+          <zutat>Basilikumblaetter</zutat>
+          <quant>150 g</quant>
+          <zutat>Ziegenfrischkaese (Chavroux)</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Involtini >
+      <Braten    >
+          <quant> </quant>
+          <zutat>Olivenoel, zum Braten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Braten    >
+      <Sauce     >
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>einige </quant>
+          <zutat>Safranfaeden</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Involtini >
+          <inhalt>Plaetzli etwas flach klopfen, je 1 Basilikumblatt darauflegen. Frischkaese mit gepresstem Knoblauch mischen, wuerzen, auf den Plaetzli verteilen, aufrollen, mit je einem Zahnstocher fixieren.</inhalt>
+      </Involtini >
+      <Braten    >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Involtini portionenweise bei mittlerer Hitze rundum ca. 5 Min. braten, herausnehmen, wuerzen, warm stellen.</inhalt>
+      </Braten    >
+      <Sauce     >
+          <inhalt>Bratfett in der Pfanne auftupfen, Wein, Bouillon und Safran beigeben, aufkochen, Hitze reduzieren. Butter und Mehl mischen, unter Ruehren beigeben, ca. 5 Min. koecheln. Involtini wieder beigeben, nur noch heiss werden lassen, Sauce wuerzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

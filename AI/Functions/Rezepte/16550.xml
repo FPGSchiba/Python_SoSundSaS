@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>640 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cordon_bleu_>
+          <quant>4 </quant>
+          <zutat>Kalbsplaetzli (z.B. Nuss, Unterspaelte, je ca. 150 g), vom Metzger zum Fuellen aufschneiden und flach klopfen lassen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Trockenfleisch (z.B. Bresaola)</zutat>
+          <quant>200 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Roquefort), in Stuecken</zutat>
+      </Cordon_bleu_>
+      <Panieren  >
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Panieren  >
+      <Braten_   >
+          <quant>4 EL</quant>
+          <zutat>Bratbutter</zutat>
+      </Braten_   >
+   </einkaufliste>
+   <rezept>
+      <Cordon_bleu_>
+          <inhalt>Plaetzli aufklappen, beidseitig wuerzen. Je zwei Fleischtranchen auf den Plaetzli auslegen, Kaese darauf verteilen. Plaetzli einmal ueberschlagen, mit Zahnstochern fixieren. </inhalt>
+      </Cordon_bleu_>
+      <Panieren  >
+          <inhalt>Mehl und Paniermehl in je einen flachen Teller geben. Ei in einem tiefen Teller verklopfen. Plaetzli portionenweise im Mehl wenden, ueberschuessiges Mehl abschuetteln, im Ei, dann im Paniermehl wenden. Panade gut andruecken.</inhalt>
+      </Panieren  >
+      <Braten_   >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Hitze reduzieren, Cordons bleus bei mittlerer Hitze beidseitig je ca. 4 Min. braten. </inhalt>
+      </Braten_   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>422 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 24 x 45 cm)</zutat>
+          <quant>80 g</quant>
+          <zutat>Mandelmasse, in Stuecken</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>650 g</quant>
+          <zutat>Aprikosen, halbiert</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandelstifte</zutat>
+      </Belag     >
+      <Dekorieren>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Teig entrollen, mit dem Backpapier in das Blech legen, Mandelmasse darauf verteilen.</inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Aprikosen auf dem Teig verteilen. Butter, Zucker und Mandeln darauf verteilen.</inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Ca. 30 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Waehe herausnehmen.</inhalt>
+      </Backen    >
+      <Dekorieren>
+          <inhalt>Waehe mit Puderzucker bestaeuben.</inhalt>
+      </Dekorieren>
+   </rezept>
+</Rezept>

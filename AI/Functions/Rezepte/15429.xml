@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>657 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>91 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Holzkohle-/Gas-/Elektrogrill>
+          <quant>2 </quant>
+          <zutat>Baguettes (je ca. 300 g), halbiert, laengs aufgeschnitten</zutat>
+          <quant>4 </quant>
+          <zutat>Wienerli</zutat>
+      </Holzkohle-/Gas-/Elektrogrill>
+      <Hot_Dog   >
+          <quant>4 EL</quant>
+          <zutat>Ketchup</zutat>
+          <quant>1 </quant>
+          <zutat>Eisbergsalat, Blaetter grob zerzupft</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, grob gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>Gruyere, grob gerieben</zutat>
+      </Hot_Dog   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill  </inhalt>
+      </How_To    >
+      <Holzkohle-/Gas-/Elektrogrill>
+          <inhalt>Baguettes ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad)beidseitig je ca. 1 Min. grillieren. </inhalt>
+      </Holzkohle-/Gas-/Elektrogrill>
+      <How_To1   >
+          <inhalt>Hot Dog                       </inhalt>
+      </How_To1   >
+      <Hot_Dog   >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Hotdogs ca. 1 Min. zugedeckt ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) grillieren. </inhalt>
+      </Hot_Dog   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>433 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kompott   >
+          <quant>wenig </quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Schnitzen</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Pekannuesse, grob gehackt</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>2 </quant>
+          <zutat>Medjool-Datteln, in Wuerfeln</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Kompott   >
+      <Pancakes  >
+          <quant>120 g</quant>
+          <zutat>Suesskartoffeln</zutat>
+          <quant>wenig </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>50 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant> </quant>
+          <zutat>Kokosoel zum Braten</zutat>
+          <quant>wenig </quant>
+          <zutat>Ahornsirup</zutat>
+      </Pancakes  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kompott                       </inhalt>
+      </How_To    >
+      <Kompott   >
+          <inhalt>Pancakes                      </inhalt>
+      </Kompott   >
+      <Pancakes  >
+          <inhalt>Wenig Kokosoel in beschichteter Bratpfanne erhitzen, Teig loeffelweise hineingeben. Pancakes beidseitig je  2-3 Min. backen. Pancakes anrichten, mit dem Kompott und wenig Ahornsirup verzieren.</inhalt>
+      </Pancakes  >
+   </rezept>
+</Rezept>

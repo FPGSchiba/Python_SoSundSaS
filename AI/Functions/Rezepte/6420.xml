@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>243 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinieren>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>weisser Pfeffer</zutat>
+          <quant>500 g</quant>
+          <zutat>Kapseeteufel Suedafrika und Seeteufel Island</zutat>
+      </Marinieren>
+      <Seeteufel >
+          <quant>wenig </quant>
+          <zutat>nicht kalt gepresstes Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Seeteufel >
+      <Peperoni-Schaum>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>2 </quant>
+          <zutat>rote Peperoni</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rahm</zutat>
+      </Peperoni-Schaum>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Marinieren                    </inhalt>
+      </How_To    >
+      <Marinieren>
+          <inhalt>Fuer die Marinade Zitronenschale abreiben , 1 1/2 EL Saft auspressen. Pfefferkoerner zerdruecken, beigeben, mischen. </inhalt>
+      </Marinieren>
+      <How_To1   >
+          <inhalt>Fisch in 12 gleich grosse Stuecke schneiden, in der Zitronenmischung wenden, zugedeckt im Kuehlschrank ca. 30 Min. marinieren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Seeteufel                     </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Fische salzen, auf der vorgewaermten Platte warm stellen.</inhalt>
+      </How_To3   >
+      <Seeteufel >
+          <inhalt>Schalotte fein hacken, Peperoni in kleine Stuecke schneiden. Oel warm werden lassen. Schalotte andaempfen, Peperoni kurz mitdaempfen.</inhalt>
+      </Seeteufel >
+      <Peperoni-Schaum>
+          <inhalt>Hitze reduzieren, zugedeckt ca. 10 Min. weich koecheln. Peperoni puerieren. Rahm flaumig schlagen, sorgfaeltig darunterziehen.</inhalt>
+      </Peperoni-Schaum>
+      <Servieren >
+          <inhalt>Wenig Peperoni-Schaum auf die vorgewaermten Teller geben, Seeteufel- Medaillons darauf anrichten. Restlichen Peperoni-Schaum in der vorgewaermten Sauciere separat dazu servieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

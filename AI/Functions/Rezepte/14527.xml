@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>868 kcal</NaehrwertProPerson>
+       <Fett>71 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 </quant>
+          <zutat>Saucissons ( z.B. Bell Saucisson mit Kohl je ca. 320 g )</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>800 g</quant>
+          <zutat>Lauch, in feinen Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>500 g</quant>
+          <zutat>fest kochende Kartoffeln, in ca. 2 cm grossen Wuerfen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>In jede Wurst einen Zahnstocher stecken und ins Wasser legen. Knapp unter dem Siedepunkt ca. 30 Min. ziehen lassen. Butter erwaermen, Lauch ca. 3 Min. andaempfen, salzen. Kartoffeln ca. 3 Min. mitdaempfen. Rahm und Wein dazugiessen, zugedeckt unter gelegentlichem Ruehren ca. 15 Min. koecheln. Saucissons auf den Lauch und die Kartoffeln legen, Hitze reduzieren, ca. 5 Min. zugedeckt fertig koecheln.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

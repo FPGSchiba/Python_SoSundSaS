@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>333 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kandierte_Baumnuesse_>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fenchelsamen</zutat>
+      </Kandierte_Baumnuesse_>
+      <Sauce_    >
+          <quant>1 1/2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce_    >
+      <Salat     >
+          <quant>500 g</quant>
+          <zutat>gekochte Randen, in duennen Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>rohe Randen (z.B. Pro Spezie Rara Chioggia Rande), in ca. 2 mm duenne Scheiben gehobelt</zutat>
+          <quant>2 </quant>
+          <zutat>Orangen, geschaelt, in Scheiben</zutat>
+          <quant>4 </quant>
+          <zutat>Burrate piccole (je ca. 50 g)</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Kandierte_Baumnuesse_>
+          <inhalt>Wasser mit dem Zucker in einer Pfanne aufkochen, sirupartig einkoecheln. Baumnuesse und Fenchelsamen beigeben, unter staendigem Ruehren bei mittlerer Hitze einkochen, bis der Zucker trocken wird und an den Nuessen haftet. Pfanne von der Platte nehmen ca. 2 Min. weiterruehren, auf ein Backpapier geben, auskuehlen.</inhalt>
+      </Kandierte_Baumnuesse_>
+      <Sauce_    >
+          <inhalt>Senf, Aceto und Oel gut verruehren, wuerzen. </inhalt>
+      </Sauce_    >
+      <Salat     >
+          <inhalt>Randen und Orangen auf Tellern anrichten. Burrate darueberzupfen, wuerzen. Sauce daruebertraeufeln, Nuesse darueberstreuen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

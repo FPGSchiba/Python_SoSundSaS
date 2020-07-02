@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>101 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Kumquats  >
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>8 </quant>
+          <zutat>Kumquats, heiss abgespuelt, trocken getupft, in Scheibchen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+      </Kumquats  >
+      <Cocktail_ >
+          <quant>4 dl</quant>
+          <zutat>Champagner (z. B. Veuve Clicquot Rose brut), kalt</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+      </Cocktail_ >
+   </einkaufliste>
+   <rezept>
+      <Kumquats  >
+          <inhalt>Wasser mit allen Zutaten bis und mit Thymian aufkochen. Hitze reduzieren, ca. 5 Min. koecheln, auskuehlen, Thymian entfernen.</inhalt>
+      </Kumquats  >
+      <Cocktail_ >
+          <inhalt>Kurz vor dem Servieren Kumquats mit dem Saft in Glaeser verteilen, Champagner dazugiessen. Thymianzweiglein in die Glaeser verteilen.</inhalt>
+      </Cocktail_ >
+   </rezept>
+</Rezept>

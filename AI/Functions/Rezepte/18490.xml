@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>211 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sellerie  >
+          <quant>1 </quant>
+          <zutat>Knollensellerie, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 EL</quant>
+          <zutat>Rosmarinnadeln, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sellerie  >
+      <Backen    >
+          <quant>150 g</quant>
+          <zutat>Ziegenfrischkaese</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>fluessiger Akazienhonig</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Sellerie  >
+          <inhalt>Sellerie auf ein mit Backpapier belegtes Blech legen, mit Oel bestreichen, die Haelfte vom Rosmarin darueberstreuen, wuerzen. </inhalt>
+      </Sellerie  >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der oberen Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, Kaese auf dem Sellerie verteilen, ca. 10 Min. fertigbacken. Mit Honig betraeufeln, restlichen Rosmarin darueberstreuen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

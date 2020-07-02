@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>660 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>65 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Belag     >
+          <quant>2 </quant>
+          <zutat>ausgewallte Flammkuchenteige</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+      </Belag     >
+      <Backen    >
+          <quant>1/2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, Blaetter zerzupft</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Belag                         </inhalt>
+      </How_To    >
+      <Belag     >
+          <inhalt>Backen                        </inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Essig und Oel verruehren, salzen. Radiesli beigeben, mischen, mit dem Basilikum auf den Flammkuchen verteilen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

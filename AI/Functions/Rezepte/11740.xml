@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>88 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Apfelschnitze, in Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>weiche Doerraprikosen, in Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>helle Sultaninen</zutat>
+          <quant>80 g</quant>
+          <zutat>Haselnuesse, geroestet, fein gehackt</zutat>
+          <quant>120 g</quant>
+          <zutat>glutenfreie Mehlmischung  (Schaer)</zutat>
+          <quant>1 TL</quant>
+          <zutat>glutenfreies Backpulver (Dr. Oetker)</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in eine Schuessel geben. Rohzucker, Vanillezucker, Salz und Ei mit den Schwingbesen des Handruehrgeraets darunterruehren, weiterruehren, bis die Masse heller ist.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Apfelwuerfeli und alle Zutaten bis und mit Nuessen daruntermischen. Mehl und Backpulver mischen, daruntermischen. Teig mit einem Teeloeffel in kleinen Haeufchen mit genuegend Abstand auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 12 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen, mit Puderzucker bestaeuben.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

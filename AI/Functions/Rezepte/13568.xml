@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>357 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuchenteig>
+          <quant>120 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>125 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Weissweinessig</zutat>
+      </Kuchenteig>
+      <Fuellen    >
+          <quant>3 EL</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>500 g</quant>
+          <zutat>Zwetschgen, in Schnitzen</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+      </Fuellen    >
+      <Bestaeuben >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Bestaeuben >
+   </einkaufliste>
+   <rezept>
+      <Kuchenteig>
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Quark, Wasser und Essig beigeben, rasch zu einem glatten Teig zusammenfuegen, nicht kneten. Teig vierteln,  auf wenig Mehl auswallen  (je ca. 18 cm Ø), auf zwei mit Backpapier belegte Bleche legen. </inhalt>
+      </Kuchenteig>
+      <Fuellen    >
+          <inhalt>Nuesse auf die Mitte der Teigrondellen streuen. Zwetschgen darauf verteilen, dabei einen Rand von ca. 4 cm frei lassen.  Butter und Zucker darauf verteilen. Teigrand ueber die Zwetschgen legen.</inhalt>
+      </Fuellen    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. im auf 200 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, etwas abkuehlen.</inhalt>
+      </Backen    >
+      <Bestaeuben >
+          <inhalt>Waehen mit Puderzucker bestaeuben.</inhalt>
+      </Bestaeuben >
+   </rezept>
+</Rezept>

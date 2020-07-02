@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>475 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Kuchenteig</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>500 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Belag     >
+      <Guss      >
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Belag                         </inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Guss                          </inhalt>
+      </Belag     >
+      <Guss      >
+          <inhalt>Backen: ca. 35 Min. auf der untersten Rille des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, lauwarm servieren.</inhalt>
+      </Guss      >
+   </rezept>
+</Rezept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>74 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>4 </quant>
+          <zutat>rote Peperoni</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, quer halbiert</zutat>
+      </Fill_Header>
+      <Backen    >
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Brot (z. B. Olivenbrot, ca. 320 g, in 20 Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Peperoni und Knoblauch auf einem mit Backpapier belegten Blech verteilen</inhalt>
+      </How_To    >
+      <Backen    >
+          <inhalt>ca. 30 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, mit einem feuchten Tuch zuge-deckt ca. 10 Min. stehen lassen. Peperoni schaelen, entkernen, in Stuecke schneiden, Knoblauchzehen aus der Schale loesen, die Haelfte mit den Peperoni in eine Schuessel geben, Oel und Aceto beigeben, wuerzen, mischen. Peperoni-Knoblauchmasse auf die Brotscheiben verteilen, Thymian und Fleur de Sel darueberstreuen.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

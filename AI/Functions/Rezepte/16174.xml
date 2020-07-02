@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>372 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vanillecreme>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>2 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelgt, abgetropft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Vanillecreme>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 25 x 42 cm)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+      </Teig      >
+      <Beeren    >
+          <quant>500 g</quant>
+          <zutat>Erdbeeren, geviertelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>ungesalzene geschaelte Pistazien, grob gehackt</zutat>
+      </Beeren    >
+   </einkaufliste>
+   <rezept>
+      <Vanillecreme>
+          <inhalt>Milch und alle Zutaten bis und mit Eigelben mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze bis vors Kochen bringen. Pfanne sofort von der Platte nehmen. Gelatine unter die heisse Creme ruehren, durch ein Sieb in eine Schuessel giessen, zugedeckt auskuehlen, kuehl stellen, bis die Creme am Rand leicht fest ist. Vanillecreme glatt ruehren, Schlagrahm darunterziehen, ca. 20 Min. kuehl stellen.</inhalt>
+      </Vanillecreme>
+      <Teig      >
+          <inhalt>Teig mit dem Backpapier auf ein Blech legen, mit einer Gabel dicht einstechen, Zucker darueberstreuen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Beeren    >
+          <inhalt>Erdbeeren und Puderzucker mischen. Creme auf dem Teig verteilen. Erdbeeren, Himbeeren, Johannisbeeren und Pistazien darauf verteilen.</inhalt>
+      </Beeren    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>710 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>3 EL</quant>
+          <zutat>Senf mit Bluetenhonig</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>milder Paprika</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>einige </quant>
+          <zutat>schwarzer Pfeffer, zerdrueckt</zutat>
+          <quant>1 </quant>
+          <zutat>Poulet  (ca. 1.4 kg)</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauch, quer halbiert</zutat>
+          <quant>1 Pack</quant>
+          <zutat>gekochte Maiskolben (ca. 500 g), quer 2-mal halbiert</zutat>
+          <quant>500 g</quant>
+          <zutat>fest kochende Kartoffeln, in Sechsteln</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Achteln</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, in Ringen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuer die Marinade Senf mit Oel und Gewuerzen gut verruehren. Poulet innen und aussen kalt abspuelen, trocken tupfen. Poulet mit 2/3 der Marinade bestreichen. Den Rest mit den Maiskolben, Kartoffeln und Zwiebeln mischen. Fuer die Tomatensauce Tomaten mit Chili und Rosmarin mischen, wuerzen. Sauce auf ein mit Backpapier belegtes Blech verteilen, Poulet und Knoblauch darauflegen.  </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Braten im Ofen: ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, Kartoffeln und Mais dazulegen, ca. 30 Min. fertigbraten, dabei Kartoffeln und Mais einmal wenden.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

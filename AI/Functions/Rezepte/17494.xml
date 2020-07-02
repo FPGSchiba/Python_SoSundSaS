@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>716 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>87 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ofengemuese>
+          <quant>1 </quant>
+          <zutat>rohe Rande, in Scheiben</zutat>
+          <quant>200 g</quant>
+          <zutat>Pastinaken, in Staengel</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Ofengemuese>
+      <Salatsauce>
+          <quant>80 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 EL</quant>
+          <zutat>Oreganoblaettchen, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Salatsauce>
+      <Pita      >
+          <quant>4 </quant>
+          <zutat>Pitabrote, halbiert</zutat>
+          <quant>40 g</quant>
+          <zutat>Jungsalat</zutat>
+          <quant>50 g</quant>
+          <zutat>Linsen, gekocht</zutat>
+      </Pita      >
+   </einkaufliste>
+   <rezept>
+      <Ofengemuese>
+          <inhalt>Randen, Pastinaken, Oel und Salz in eine Schuessel geben, mischen, auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Ofengemuese>
+      <Backen    >
+          <inhalt>ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Salatsauce>
+          <inhalt>Jogurt, Essig und Oel verruehren, Basilikum daruntermischen, salzen.</inhalt>
+      </Salatsauce>
+      <Pita      >
+          <inhalt>Pita nach Angabe auf der Verpackung zubereiten. Pita aufschneiden, nach Belieben mit 4 EL Salatsauce, Jungsalat, Ofengemuese, Radiesli- und Gurkenpickels und Linsen fuellen. Salatsauce in ein kleines Geschirr fuellen, kurz vor dem Servieren darauf geben.</inhalt>
+      </Pita      >
+   </rezept>
+</Rezept>

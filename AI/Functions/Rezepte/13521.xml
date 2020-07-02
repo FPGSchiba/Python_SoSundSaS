@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>739 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Basis     >
+          <quant>4 </quant>
+          <zutat>rohe Schweinsbratwuerste</zutat>
+          <quant>4 </quant>
+          <zutat>Baguettes (je ca. 100 g)</zutat>
+      </Basis     >
+      <Classic-Hot-Dog>
+          <quant>20 g</quant>
+          <zutat>Eisbergsalat, in feinen Streifen</zutat>
+          <quant>20 g</quant>
+          <zutat>Essiggurken, in feinen Streifen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Ketchup</zutat>
+          <quant>20 g</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Classic-Hot-Dog>
+      <Grillierter-Fenchel-Rucola-Dog>
+          <quant>1 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sweet Chili Sauce</zutat>
+          <quant>1/2 </quant>
+          <zutat>Fenchel, fein gehobelt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>10 g</quant>
+          <zutat>Rucola</zutat>
+      </Grillierter-Fenchel-Rucola-Dog>
+      <Breakfast-Hot-Dog>
+          <quant>30 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Cherry-Tomaten, geviertelt</zutat>
+      </Breakfast-Hot-Dog>
+      <Exotic-Hot-Dog>
+          <quant>2 EL</quant>
+          <zutat>Curry Sauce</zutat>
+          <quant>1/4 </quant>
+          <zutat>Mango, in Streifen</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Cashew-Nuss, grob gehackt</zutat>
+      </Exotic-Hot-Dog>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Basis                         </inhalt>
+      </How_To    >
+      <Basis     >
+          <inhalt>Glut oder auf mittlerer Stufe (ca. 200 Grad) Rundum ca. 10 Min. grillieren, Baguettes laengs aufschneiden, sodass sie noch zusammenhalten.</inhalt>
+      </Basis     >
+      <Classic-Hot-Dog>
+          <inhalt>Salat in ein Baguette verteilen, 1 Bratwurst und Essiggurken hineinlegen. Mayonnaise und Ketchup darauf verteilen, mit Roestzwiebeln garnieren. </inhalt>
+      </Classic-Hot-Dog>
+      <Grillierter-Fenchel-Rucola-Dog>
+          <inhalt>Mayonnaise und Sweet-Chili-Sauce verruehren. Fenchel ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) beidseitig ca. 1 Min. grillieren. In eine Schuessel geben, Zitronensaft beigeben, salzen. Sauce und Rucola in ein Baguette fuellen, 1 Bratwurst hineinlegen, Fenchel darauf verteilen. </inhalt>
+      </Grillierter-Fenchel-Rucola-Dog>
+      <Breakfast-Hot-Dog>
+          <inhalt>Speck in einer beschichteten Bratpfanne ca.1 Min. ruehrbraten. Ei und Schnittlauch mischen, wuerzen, in die Pfanne giessen, etwas stocken lassen, hin und her schieben, bis die Eimasse leicht fest, aber noch feucht ist. 1 Bratwurst in 1 Baguette hineinlegen, mit dem Ruehrei belegen, mit den Cherry-Tomaten garnieren.</inhalt>
+      </Breakfast-Hot-Dog>
+      <Exotic-Hot-Dog>
+          <inhalt>Sauce und Mango in 1 Baguette fuellen. 1 Bratwurst und Bundzwibeln hineinlegen, mit Cashew-Nuessen bestreuen.</inhalt>
+      </Exotic-Hot-Dog>
+   </rezept>
+</Rezept>

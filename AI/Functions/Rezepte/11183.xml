@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>265 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Roellchen  >
+          <quant>200 g</quant>
+          <zutat>Zucchetti, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in feinen Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>8 </quant>
+          <zutat>duenne Rindsplaetzli (z.B. Huft) (je ca. 80 g )</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Roellchen  >
+   </einkaufliste>
+   <rezept>
+      <Roellchen  >
+          <inhalt>Zucchini und alle Zutaten bis und mit Salz mischen, zu-gedeckt, ca. 30 Min. mari-nieren. Gemuese abtropfen, Marinade beiseite stellen. Plaetzli, salzen, mit dem Gemuese belegen, aufrollen, mit Zahnstochern fixieren.</inhalt>
+      </Roellchen  >
+      <Holzkohle-/Gas-/Elektrogrill:_>
+          <inhalt>Rindsroellchen ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) rundum ca. 3 Min. grillieren. Beiseite gestellte Marinade zu den Rindsroell-chen servieren.</inhalt>
+      </Holzkohle-/Gas-/Elektrogrill:_>
+   </rezept>
+</Rezept>

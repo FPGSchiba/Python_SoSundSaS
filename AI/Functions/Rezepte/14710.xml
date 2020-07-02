@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>259 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lachs-Tatar>
+          <quant>300 g</quant>
+          <zutat>Rauchlachs, in Tranchen, fein gewuerfelt</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>trockener weisser Vermouth</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kapern, grob gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer, nach Bedarf</zutat>
+      </Lachs-Tatar>
+      <Apfelsalat>
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel, halbiert, Kerngehaeuse entfernt, in Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>20 g</quant>
+          <zutat>Haselnuesse, geroestet, grob gehackt</zutat>
+      </Apfelsalat>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lachs-Tatar                   </inhalt>
+      </How_To    >
+      <Lachs-Tatar>
+          <inhalt>Apfelsalat                    </inhalt>
+      </Lachs-Tatar>
+      <Apfelsalat>
+          <inhalt>Zum Anrichten Tatar und Apfelsalat auf Teller geben, mit Haselnuessen bestreuen, nach Belieben mit Dill garnieren.</inhalt>
+      </Apfelsalat>
+   </rezept>
+</Rezept>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>599 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>150 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Sonnenblumenoel</zutat>
+      </Teig      >
+      <Traenken   >
+          <quant>1 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>40 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Traenken   >
+      <Topping   >
+          <quant>1 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>25 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, in duennen Scheiben</zutat>
+          <quant>40 g</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+          <quant>20 g</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und alle Zutaten bis und mit Natron in einer Schuessel mischen. Kokosmilch und Oel darunterruehren. Teig in die vorbereitete Form fuellen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. herausnehmen, etwas abkuehlen, mit einem Holzspiesschen dicht einstechen. </inhalt>
+      </Backen    >
+      <Traenken   >
+          <inhalt>Orangen-, Zitronensaft und Puderzucker verruehren. Guss ueber den Kuchen giessen, ca. 10 Min. stehen lassen. Kuchen aus der Form nehmen, auf deinem Gitter auskuehlen.</inhalt>
+      </Traenken   >
+      <Topping   >
+          <inhalt>Orangensaft mit dem Zucker in einer Pfanne aufkochen. Orangenscheiben beigeben, zugedeckt bei kleiner Hitze ca. 15 Min. koecheln, bis die Orangenschale weich ist, auskuehlen. Kuchen mit den Orangenscheiben, Kokosnuss und Mandeln garnieren.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

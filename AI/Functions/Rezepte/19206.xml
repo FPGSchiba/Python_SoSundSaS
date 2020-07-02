@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>812 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>84 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargeln_kochen>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>400 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt</zutat>
+      </Spargeln_kochen>
+      <Fregola_Sarda>
+          <quant>400 g</quant>
+          <zutat>Fregola Sarda (z.B. Fine Food)</zutat>
+      </Fregola_Sarda>
+      <Spargelsalat>
+          <quant>3 EL</quant>
+          <zutat>Condimento bianco (z.B. Fine Food)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel mit Basilikum (z.B. Fine Food)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, mit dem Sparschaeler laengs in Streifen abgeschaelt</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, nur Gruen fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+      </Spargelsalat>
+      <Anrichten >
+          <quant>2 </quant>
+          <zutat>Burratas (z.B. Fine Food, je ca. 150 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel mit Basilikum (z.B. Fine Food)</zutat>
+          <quant>80 g</quant>
+          <zutat>Rohschinken in Tranchen (z.B. Iberico de Bellota Reserva)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Spargeln_kochen>
+          <inhalt>Salz, Zucker und Butter ins siedende Wasser geben, Spargeln beigeben, nochmals aufkochen. Pfanne von der Platte nehmen, zugedeckt ca.10 Min. ziehen lassen. Spargeln herausnehmen, abtropfen. </inhalt>
+      </Spargeln_kochen>
+      <Fregola_Sarda>
+          <inhalt>Kochwasser nochmals aufkochen, Teigwaren darin al dente kochen, abtropfen. Spargelspitzen  abschneiden, beiseite stellen, Rest in Wuerfeli schneiden und unter die Teigwaren mischen. </inhalt>
+      </Fregola_Sarda>
+      <Spargelsalat>
+          <inhalt>Condimento und Oel verruehren, salzen. Spargelstreifen, Bundzwiebelgruen und Schnittlauch mit den beiseite gestellten Spargelspitzen beigeben, mischen. </inhalt>
+      </Spargelsalat>
+      <Anrichten >
+          <inhalt>Burratas zerzupfen, mit dem Oel mischen. 1/4 davon mit der Fregola Sarda mischen, restlichen Burrata auf Tellern verteilen. Fregola sarda mithilfe eines runden Ausstechers darauf geben, etwas andruecken, Ausstecher entfernen. Spargelsalat auf und neben der Fregola Sarda anrichten, mit Rohschinken und Pinienkernen garnieren.  </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

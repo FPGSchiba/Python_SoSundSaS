@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>237 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>450 g</quant>
+          <zutat>Maiskoerner</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant> </quant>
+          <zutat>Kraeutersalz, nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Micro Greens, nach Belieben</zutat>
+      </Suppe     >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel kurz andaempfen. Mais beigeben, ca. 1 Min. mitdaempfen. Bouillon dazugiessen, aufkochen, Hitze reduzieren, bei kleiner Hitze ca. 15 Min. koecheln. Suppe puerieren, Kokosmilch dazugiessen, nur noch heiss werden lassen, wuerzen. Suppe mit Micro Greens oder Kresse garnieren. </inhalt>
+      </Suppe     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

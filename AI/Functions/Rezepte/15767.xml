@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>336 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace     >
+          <quant>5 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>70 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Basler Laeckerli, fein gehackt</zutat>
+      </Glace     >
+      <Kompott   >
+          <quant>2 </quant>
+          <zutat>Aepfel, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Nelke</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sauerkirschen Konfituere</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kirsch (z.B. Baselbieter Kirsch)</zutat>
+      </Kompott   >
+   </einkaufliste>
+   <rezept>
+      <Glace     >
+          <inhalt>2 dl Rahm mit dem Zucker aufkochen, auskuehlen. Restlichen Rahm steif schlagen, abgekuehlten Rahm daruntermischen. Zugedeckt ca. 2 Std. gefrieren, dabei 2-mal durchruehren. Eiweiss mit dem Salz steif schlagen, mit den Basler Laeckerli unter die angefrorene Masse ruehren, nochmals ca. 2 Std. gefrieren, dabei 2-mal durchruehren. </inhalt>
+      </Glace     >
+      <Kompott   >
+          <inhalt>Aepfel, Zucker, Wasser, Nelken und Sternanis in einer Pfanne mischen, zugedeckt ca. 5 Min. koecheln. Konfituere und Kirsch daruntermischen, ca. 1 Min. weiterkoecheln, etwas abkuehlen. Nelke und Sternanis entfernen. </inhalt>
+      </Kompott   >
+      <Servieren >
+          <inhalt>Laeckerli-Glace ca. 30 Min. vor dem Servieren in den Kuehlschrank stellen. Von der Glace Kugeln ausstechen, mit dem lauwarmen Apfelkompott anrichten.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>171 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>50 g</quant>
+          <zutat>feine Vollkorn-Haferflocken (glutenfrei)</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>250 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>40 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Quinoapops</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Haferflocken und Mandeln im Cutter fein mahlen. Datteln, Kokosraspeln und Salz beigeben, weitermahlen. Masse in eine Schuessel geben, Quinoapops beigeben, mit den Haenden zu einer kruemeligen Masse verarbeiten. In ein verschliessbares Glas abfuellen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

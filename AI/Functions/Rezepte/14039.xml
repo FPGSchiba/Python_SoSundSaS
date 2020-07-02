@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>134 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 </quant>
+          <zutat>Bio-Zitronen, abgeriebene Schale von 1 Zitrone, ganzer Saft</zutat>
+          <quant>80 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 </quant>
+          <zutat>Zimtstangen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter, weich</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wasser mit allen Zutaten bis und mit Zimt in einer Pfanne zum Kochen bringen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Pfanne von der Platte nehmen und ca. 5 Min. ziehen lassen. Butter beigeben, gut verruehren. Durch ein Sieb in Glaeser verteilen. </inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

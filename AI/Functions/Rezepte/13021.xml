@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>857 kcal</NaehrwertProPerson>
+       <Fett>59 g  </Fett>
+       <Kohlenhydrate>69 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Frittieren>
+          <quant> </quant>
+          <zutat>Sonnenblumenoel, zum Frittieren</zutat>
+          <quant>1 1/2 kg</quant>
+          <zutat>Suesskartoffeln, in Schnitzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Frittieren>
+      <Kaesedip   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>100 g</quant>
+          <zutat>Cheddar, grob gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, fein geschnitten</zutat>
+      </Kaesedip   >
+   </einkaufliste>
+   <rezept>
+      <Frittieren>
+          <inhalt>Brattopf bis 1/2 Hoehe mit Oel fuellen, auf ca. 160 Grad erhitzen. Kartoffeln mit dem Mehl mischen, ueberschuessiges Mehl abschuetten. Kartoffeln portionenweise je ca. 5 Min. goldbraun frittieren. Herausnehmen, auf Haushaltpapier abtropfen. Curry, Knoblauchpulver und Salz mischen, darueberstreuen.</inhalt>
+      </Frittieren>
+      <Kaesedip   >
+          <inhalt>Butter in einer Pfanne erwaermen. Mehl unter Ruehren mit dem Schwingbesen duensten, das Mehl darf dabei keine Farbe annehmen. Pfanne von der Platte nehmen. Milch dazugiessen, unter Ruehren aufkochen, Hitze reduzieren, ca. 2 Min. koecheln. Cheddar und Peperoncino beigeben, unter Ruehren schmelzen. Sauce zu den Wedges serviern.</inhalt>
+      </Kaesedip   >
+   </rezept>
+</Rezept>

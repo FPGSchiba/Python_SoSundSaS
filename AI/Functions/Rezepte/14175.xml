@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>346 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig  >
+          <quant>250 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Betty Bossi Vanillepaste</zutat>
+      </Ruehrteig  >
+      <Marmorierung>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (64 % Kakao), grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rum oder Milch</zutat>
+      </Marmorierung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ruehrteig                      </inhalt>
+      </How_To    >
+      <Ruehrteig  >
+          <inhalt>Mehl und Backpulver mischen, abwechslungsweise mit der Milch unter die Masse ruehren. Teig in 2 Portionen teilen. Vanillepaste unter eine Teighaelfte mischen, in die vorbereitete Form fuellen.</inhalt>
+      </Ruehrteig  >
+      <Marmorierung>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Mit dem Rum oder er Milch unter die zweite Teighaelfte ruehren, auf den hellen Teig geben. Mit einer Gabel in spiralfoermiger Bewegung marmorieren.</inhalt>
+      </Marmorierung>
+      <Backen    >
+          <inhalt>Ca. 60 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf ein Gitter stuerzen, auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>880 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>82 g  </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinierter_Dorsch>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale und Saft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen, Gruen beiseite gestellt</zutat>
+          <quant>400 g</quant>
+          <zutat>Dorschfilets Royal (MSC), in ca. 1 cm grossen Wuerfeln</zutat>
+      </Marinierter_Dorsch>
+      <Lachs_mit_spicy_Mayonnaise>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>20 g</quant>
+          <zutat>eingelegter Ingwer, fein gehackt</zutat>
+          <quant>4 TL</quant>
+          <zutat>Hot Chili Sauce  (z.B. Sriracha)</zutat>
+          <quant>400 g</quant>
+          <zutat>Lachsrueckenfilet (Sushiqualitaet), in ca. 1.5 cm grossen Wuerfeln</zutat>
+      </Lachs_mit_spicy_Mayonnaise>
+      <Erdnussbutter-Sauce>
+          <quant>2 EL</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale und Saft</zutat>
+          <quant>6 EL</quant>
+          <zutat>Sweet Chili Sauce</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+      </Erdnussbutter-Sauce>
+      <Sushi-Reis>
+          <quant>600 g</quant>
+          <zutat>Sushi-Reis</zutat>
+          <quant>1 1/5 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>geroesteter Sesam</zutat>
+      </Sushi-Reis>
+      <Bowls     >
+          <quant>400 g</quant>
+          <zutat>Gelbflossen­-Thunfisch-Steaks, in feinen Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Avocados, in feinen Scheiben</zutat>
+          <quant>300 g</quant>
+          <zutat>Rueebli, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Mango, in feinen Scheiben</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, Blaetter abgezupft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Thai-Basilikum, Blaetter abgezupft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Pfefferminze, Blaetter abgezupft</zutat>
+          <quant>320 g</quant>
+          <zutat>Edamame</zutat>
+          <quant>40 g</quant>
+          <zutat>eingelegter Ingwer</zutat>
+      </Bowls     >
+   </einkaufliste>
+   <rezept>
+      <Marinierter_Dorsch>
+          <inhalt>Sojasauce, Oel, Limettenschale und -saft, Reisessig und Bundzwiebeln verruehren. Fisch beigeben, zugedeckt im Kuehlschrank ca. 20 Min. marinieren. Beiseite gestelltes Gruen darueberstreuen. </inhalt>
+      </Marinierter_Dorsch>
+      <Lachs_mit_spicy_Mayonnaise>
+          <inhalt>Eigelb mit Senf, Zitronensaft und Salz verruehren. Oel unter staendigem Ruehren anfangs tropfenweise, dann im Faden dazugiessen, bis eine dickfluessige Mayonnaise entsteht. Ingwer und Hot Chili Sauce darunterruehren. Lachswuerfel sorgfaeltig daruntermischen. </inhalt>
+      </Lachs_mit_spicy_Mayonnaise>
+      <Erdnussbutter-Sauce>
+          <inhalt>Erdnussbutter mit allen Zutaten bis und mit Chili verruehren. </inhalt>
+      </Erdnussbutter-Sauce>
+      <Sushi-Reis>
+          <inhalt>Reis in einem Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Reis zusammen mit dem Wasser und dem Salz in eine Pfanne geben, ca. 15 Min. quellen lassen. Offen aufkochen, Hitze reduzieren, koecheln, bis das Wasser so weit verdampft ist, dass sich kleine Krater im Reis bilden. Zugedeckt bei kleinster Hitze ca. 10 Min. quellen lassen. Essig und Sesam daruntermischen.</inhalt>
+      </Sushi-Reis>
+      <Bowls     >
+          <inhalt>Reis, marinierter Dorsch, Lachs mit spicy Mayonnaise, Thunfisch und alle Zutaten bis und mit Edamame in Bowls anrichten. Erdnussbutter-Sauce und eingelegter Ingwer darauf verteilen. </inhalt>
+      </Bowls     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

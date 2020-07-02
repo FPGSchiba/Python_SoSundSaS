@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>420 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Raeuchermischung_>
+          <quant>100 g</quant>
+          <zutat>Raeucherchips</zutat>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Salbei</zutat>
+          <quant>5 </quant>
+          <zutat>Wacholderbeeren</zutat>
+      </Raeuchermischung_>
+      <Lachs_vorbereiten>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>10 </quant>
+          <zutat>Pfefferkoerner, zerstossen</zutat>
+          <quant>500 g</quant>
+          <zutat>Lachsfilets mit Haut (Bio)</zutat>
+      </Lachs_vorbereiten>
+      <Chili-Salsa>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>rote Chilis, entkernt, in feinen Ringen</zutat>
+          <quant>100 g</quant>
+          <zutat>Stangensellerie, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Chili-Salsa>
+   </einkaufliste>
+   <rezept>
+      <Raeuchermischung_>
+          <inhalt>Raeucherchips, Wasser, Rosmarin, Salbei und Wacholder in eine Schuessel geben, gut mischen, ca. 30 Min. stehen lassen.</inhalt>
+      </Raeuchermischung_>
+      <Lachs_vorbereiten>
+          <inhalt>Oel, Honig, Salz und Pfeffer verruehren, Lachs damit bestreichen.</inhalt>
+      </Lachs_vorbereiten>
+      <Raeuchern_auf_dem_Holzkohlegrill>
+          <inhalt>Raeuchermischung abtropfen, direkt auf der Glut verteilen. Lachs in eine Grillschale oder auf das Grillholzbrettchen legen, zugedeckt ueber schwacher Glut (ca. 150 Grad) ca. 15 Min. heiss raeuchern.</inhalt>
+      </Raeuchern_auf_dem_Holzkohlegrill>
+      <Chili-Salsa>
+          <inhalt>Oel und Limettensaft verruehren, wuerzen. Chilis und alle restlichen Zutaten beigeben, mischen, zum Lachs servieren. </inhalt>
+      </Chili-Salsa>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=xoDfx5yo5LQ"/>
+</Rezept>

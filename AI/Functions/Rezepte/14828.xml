@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>636 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>83 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>3 </quant>
+          <zutat>Thymianzweiglein, Blaettchen abgezupft</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Steinpilze, in Wasser eingeweicht</zutat>
+          <quant>400 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>trockener Weisswein</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>60 g</quant>
+          <zutat>Parmesan, frisch gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Parmesan, frisch gerieben</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Haselnuesse, grob gehackt, leicht geroestet</zutat>
+          <quant>einige </quant>
+          <zutat>Thymianzweiglein</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zwiebel und Thymian in der Butter bei kleiner Hitze ca. 5 Min. daempfen, Zwiebel soll sehr weich und glasig, aber nicht braun sein. Pilze ausdruecken, mit dem Reis beigeben, bei mittlerer Hitze glasig duensten. Wein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 18 Min. koecheln, bis der Reis cremig und al dente ist. Butter und Kaese darunterruehren, Risotto wuerzen. Vor dem Servieren mit Parmesan und Haselnuessen bestreuen und mit Thymian garnieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

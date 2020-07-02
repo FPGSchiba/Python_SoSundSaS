@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>288 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Carpaccio >
+          <quant>400 g</quant>
+          <zutat>Rindshuft, in hauchduennen Tranchen</zutat>
+          <quant>3 </quant>
+          <zutat>saeuerliche Aepfel (z.B. ProSpecieRara Glockenapfel), in duenne Scheiben gehobelt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Carpaccio >
+      <Sauce     >
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, grob zerzupft</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Pfefferminze, grob zerzupft</zutat>
+          <quant>50 g</quant>
+          <zutat>Sbrinz, mit dem Sparschaeler in Spaene gehobelt</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Carpaccio >
+          <inhalt>Fleischtranchen portionenweise zwischen einem aufgeschnittenen Plastikbeutel sorgfaeltig flach klopfen. Apfelscheiben mit Zitronensaft mischen, abwechslungsweise mit dem Fleisch auf Tellern anrichten. </inhalt>
+      </Carpaccio >
+      <Sauce     >
+          <inhalt>Zitronensaft und Oel verruehren, wuerzen. Die Haelfte ueber das Fleisch traeufeln, restliche Sauce mit den Kraeutern mischen, mit dem Sbrinz auf dem Fleisch verteilen. Wenig Fleur de Sel darueberstreuen </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

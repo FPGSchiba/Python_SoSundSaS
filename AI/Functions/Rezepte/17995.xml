@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>153 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aubergine_>
+          <quant>1 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine, in Wuerfeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Hoisin-Sauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+      </Aubergine_>
+   </einkaufliste>
+   <rezept>
+      <Aubergine_>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen, Aubergine und Ingwer ca. 10 Min. ruehrbraten. Wasser, Hoisin-Sauce, Sojasauce und Zucker beigeben, ca. 10 Min. koecheln. </inhalt>
+      </Aubergine_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>56 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Birnen_   >
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>1 kg</quant>
+          <zutat>Birnen (z.B. Gute Luise), halbiert</zutat>
+      </Birnen_   >
+      <Sirup     >
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten</zutat>
+      </Sirup     >
+   </einkaufliste>
+   <rezept>
+      <Glaeser_vorbereiten>
+          <inhalt>Glaeser gruendlich waschen, heiss abspuelen. Glaeser und Deckel in eine Pfanne mit ca. 70 Grad heissem Wasser legen. </inhalt>
+      </Glaeser_vorbereiten>
+      <Birnen_   >
+          <inhalt>Wasser mit dem Zitronensaft in einer Schuessel mischen. Birnen schaelen und Kerngehaeuse ausstechen, sofort in das Zitronenwasser geben.</inhalt>
+      </Birnen_   >
+      <Sirup     >
+          <inhalt>Wasser und alle Zutaten bis und mit Vanille in einer Pfanne aufkochen, Birnen beigeben, knapp weich kochen, satt in die Glaeser fuellen. Zuckersirup nochmals aufkochen bis zum ueberlaufen ueber die Birnen giessen, Glas sofort verschliessen, auskuehlen.</inhalt>
+      </Sirup     >
+   </rezept>
+</Rezept>

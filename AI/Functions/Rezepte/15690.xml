@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>282 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>200 g</quant>
+          <zutat>passierte Tomaten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Worcestershire-Sauce</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+      </Marinade  >
+      <Pouletschenkel>
+          <quant>4 </quant>
+          <zutat>Pouletschenkel</zutat>
+      </Pouletschenkel>
+      <Grillieren>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Koriander, Blaettchen abgezupft</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <Marinade  >
+          <inhalt>Passierte Tomaten mit allen Zutaten bis und mit Paprika in einer Pfanne aufkochen, Hitze reduzieren und unter gelegentlichem Ruehren ca. 10 Min. einkochen, auskuehlen. </inhalt>
+      </Marinade  >
+      <Pouletschenkel>
+          <inhalt>Pouletschenkel mit der Haelfte der Marinade mischen, zugedeckt im Kuehlschrank ca. 2 Std. marinieren. Restliche Marinade beiseite stellen. </inhalt>
+      </Pouletschenkel>
+      <Grillieren>
+          <inhalt>Marinade von den Pouletschenkeln abstreifen, Poulet salzen. Holzkohle-/Gas-/Elektrogrill: Pouletschenkel ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) zugedeckt ca. 30 Min. grillieren, von Zeit zu Zeit wenden. Mit Korianderblaettchen bestreuen und mit der beiseite gestellten Marinade servieren. </inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

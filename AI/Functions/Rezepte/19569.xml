@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>275 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Broetli_   >
+          <quant>4 </quant>
+          <zutat>Burger-Broetli (vegan)</zutat>
+          <quant>60 g</quant>
+          <zutat>Pesto verde (vegan)</zutat>
+      </Broetli_   >
+      <Burger    >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>vegane Burger</zutat>
+          <quant>100 g</quant>
+          <zutat>grillierte Peperoni in Oel, abgetropft</zutat>
+      </Burger    >
+   </einkaufliste>
+   <rezept>
+      <Broetli_   >
+          <inhalt>Broetli mit der Schnittflaeche nach unten ca. 1 Min. anroesten.Herausnehmen, Schnittflaechen mit dem Pesto bestreichen. </inhalt>
+      </Broetli_   >
+      <Burger    >
+          <inhalt>Oel in derselben Pfanne erhitzen. Burger beidseitig je ca. 3 Min. anbraten. Broetliboeden mit je einem Burger und grillierte Peperoni belegen. Broetlideckel aufsetzen. </inhalt>
+      </Burger    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>488 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>56 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch_zubereiten>
+          <quant>1 Bund</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>2 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>2 Stueck</quant>
+          <zutat>Klarsichtfolie (je ca. 40 cm lang)</zutat>
+          <quant>2 </quant>
+          <zutat>Schweinsfilets (je ca. 450 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 Stueck</quant>
+          <zutat>Alufolie (je ca. 40 cm lang)</zutat>
+      </Fleisch_zubereiten>
+      <Fleisch_sieden>
+          <quant>3 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Fleisch_sieden>
+      <Sauce     >
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Sauce     >
+      <Gemuese    >
+          <quant>800 g</quant>
+          <zutat>Chinakohl</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch zubereiten            </inhalt>
+      </How_To    >
+      <Fleisch_zubereiten>
+          <inhalt>Thymian, Rosmarin und Petersilie fein schneiden. Zitronenschale abreiben, Saft auspressen, Saft beiseite stellen. Knoblauchzehe pressen. Alle Zutaten mischen.</inhalt>
+      </Fleisch_zubereiten>
+      <How_To1   >
+          <inhalt>Klarsichtfolien nebeneinander auf die Arbeitsflaeche legen. Kraeuter auf den Folien verteilen. Filets mit Oel bestreichen, wuerzen. Filets auf die Kraeuter legen, durch Hin-und-her-Bewegen damit panieren, mithilfe der Folie satt einrollen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fleisch sieden                </inhalt>
+      </How_To2   >
+      <Fleisch_sieden>
+          <inhalt>Sauce                         </inhalt>
+      </Fleisch_sieden>
+      <Sauce     >
+          <inhalt>Gemuese                        </inhalt>
+      </Sauce     >
+      <Gemuese    >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Chinakohl und Rueebli bei mittlerer Hitze ca. 5 Min. ruehrbraten, wuerzen.  </inhalt>
+      </Gemuese    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+   <video href="https://www.youtube.com/watch?v=VGLb0Jarz94"/>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+</Rezept>

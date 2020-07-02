@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1187 kcal</NaehrwertProPerson>
+       <Fett>68 g  </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>62 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>gemischte  Pilze (z.B. Champignons, Eierschwaemme, Pleurotus), in Stuecken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>150 g</quant>
+          <zutat>blaue Trauben</zutat>
+          <quant>400 g</quant>
+          <zutat>Gruyere, gerieben</zutat>
+          <quant>400 g</quant>
+          <zutat>Freiburger Vacherin, gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Weisswein (z.B. Pinot Grigio)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kirsch</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+          <quant>300 g</quant>
+          <zutat>Brot (z.B. Weissbrot), in Stuecken</zutat>
+          <quant>4 Zweige</quant>
+          <zutat>Thymian</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in einer Pfanne warm werden lassen, Knoblauch andaempfen. Pilze beigeben, mitdaempfen, wuerzen. Wein dazugiessen, vollstaendig einkochen. Trauben daruntermischen, beiseite stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Kaese und Maizena ins Caquelon geben, mischen. Wein dazugiessen. Unter Ruehren aufkochen, Hitze reduzieren, weiterkoecheln, bis der Kaese geschmolzen ist. Kirsch darunterruehren, weiterruehren, bis das Fondue cremig ist, wuerzen. Pilz Traubenmischung darauf verteilen, mit Thymian garnieren. Brot dazu servieren. </inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

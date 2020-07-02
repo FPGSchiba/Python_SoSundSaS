@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>333 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, grob gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>30 g</quant>
+          <zutat>Baerlauch, grob geschnitten, 1 EL beiseite gestellt</zutat>
+          <quant>200 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suppe     >
+      <Croutons  >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 Scheiben</quant>
+          <zutat>Brot (ca. 100 g), in Wuerfeln</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Croutons  >
+      <Garnieren >
+          <quant>150 g</quant>
+          <zutat>Ziegenfrischkaese</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur wenig abgeriebene Schale</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Garnieren >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Schalotte und Kartoffel kurz andaempfen, Bouillon dazugiessen, aufkochen, zugedeckt ca. 15 Min. koecheln. Baerlauch und Spinat beigeben, zusammen fallen lassen. Suppe puerieren und wuerzen. </inhalt>
+      </Suppe     >
+      <Croutons  >
+          <inhalt>Beiseite gestellten Baerlauch fein schneiden. Butter in einer Bratpfanne erwaermen. Brot mit dem Baerlauch ca. 3 Min. goldgelb roesten, herausnehmen, salzen, beiseite stellen.</inhalt>
+      </Croutons  >
+      <Garnieren >
+          <inhalt>Kaese mit Creme fraiche und Zitronenschale glatt ruehren, wuerzen. Suppe in tiefen Tellern anrichten, mit Creme und Croutons garnieren. </inhalt>
+      </Garnieren >
+   </rezept>
+</Rezept>

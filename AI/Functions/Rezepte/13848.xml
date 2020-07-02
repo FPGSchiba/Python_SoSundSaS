@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>533 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramel   >
+          <quant>100 g</quant>
+          <zutat>weiche Caramels (z.B. All Butter Fudges, Fine Food), sehr fein gehackt</zutat>
+      </Caramel   >
+      <Creme     >
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>60 g</quant>
+          <zutat>gezuckerte Kondensmilch</zutat>
+          <quant>3 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 </quant>
+          <zutat>Passionsfruechte, halbiert, Fruchtfleisch herausgeloest</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten</zutat>
+      </Creme     >
+      <Anrichten >
+          <quant>1 </quant>
+          <zutat>Mango (ca. 300 g), in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Caramel   >
+          <inhalt>Caramel in die vorbereiteten Foermchen verteilen.</inhalt>
+      </Caramel   >
+      <Creme     >
+          <inhalt>Eier und Kondensmilch in einer Schuessel gut verruehren. Rahm und Passionsfruchtfleischt mit der Vanilleschote aufkochen, unter Ruehren mit dem Schwingbesen zur Eimasse geben, durch ein Sieb in einen Messbecher giessen. Foermchen auf einen Lappen in eine ofenfeste Form stellen. Creme in die Foermchen giessen, diese einzeln mit Alufolie zudecken. Siedendes Wasser bis 2/3 Hoehe der Foermchen einfuellen.</inhalt>
+      </Creme     >
+      <Garen_im_Wasserbad>
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 170 Grad vorgeheizten Ofens. Form herausnehmen, Foermchen ca. 10 Min. im Wasser stehen lassen, herausnehmen, Folie entfernen. Caramelkoepfli auskuehlen, zugedeckt mindestens 2 Std. kuehl stellen.</inhalt>
+      </Garen_im_Wasserbad>
+      <Anrichten >
+          <inhalt>Caramelkoepfli mit einer Messerspitze sorgfaeltig vom Formenrand loesen. Mit Mango auf Tellern anrichten, Pistazien darueberstreuen.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

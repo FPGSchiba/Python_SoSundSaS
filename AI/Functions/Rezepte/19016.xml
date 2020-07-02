@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>231 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cocktail  >
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>140 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+          <quant>6 EL</quant>
+          <zutat>Blutorangensirup</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Gin</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Granatapfelsaft</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Mineralwasser</zutat>
+      </Cocktail  >
+   </einkaufliste>
+   <rezept>
+      <Cocktail  >
+          <inhalt>Eiswuerfel und Granatapfelkerne in die Glaeser verteilen. Sirup daraufgeben, Gin, Granatapfelsaft und Mineralwasser verruehren, in die Glaeser giessen.</inhalt>
+      </Cocktail  >
+   </rezept>
+</Rezept>

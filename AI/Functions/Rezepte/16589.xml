@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>165 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Buttermasse>
+          <quant>250 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+      </Buttermasse>
+      <Heller_Teig>
+          <quant>120 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+      </Heller_Teig>
+      <Dunkler_Teig>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Dunkler_Teig>
+      <Formen    >
+          <quant>50 g</quant>
+          <zutat>Haselnuesse</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Buttermasse>
+          <inhalt>Butter in eine Schuessel geben, Puderzucker, Vanillezucker, Salz und Eiweiss beigeben, mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Buttermasse halbieren. </inhalt>
+      </Buttermasse>
+      <Heller_Teig>
+          <inhalt>Mehl und Mandeln mischen, zu der  einen Buttermasse geben, rasch zu einem Teig zusammenfuegen,  etwas flach druecken zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Heller_Teig>
+      <Dunkler_Teig>
+          <inhalt>Mehl, Mandeln und Kakaopulver mischen, zu der anderen Buttermasse geben, rasch zu einem Teig zusammenfuegen, etwas flach druecken, zugedeckt ca. 30 Min. kuehl stellen.  </inhalt>
+      </Dunkler_Teig>
+      <Formen    >
+          <inhalt>Teige portionenweise zwischen zwei Backpapieren ca. 4 mm duenn auswallen. Baerli ausstechen, auf zwei mit Backpapier belegte Bleche legen. Je eine Haselnuss in die Mitte legen, leicht andruecken. Arme der Baeren abschneiden, auf den Koerper ueber die Nuss legen, leicht andruecken, ca. 15 Min. kuehl stellen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Pro Blech ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

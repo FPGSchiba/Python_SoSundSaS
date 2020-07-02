@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>237 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>600 g</quant>
+          <zutat>Kuerbis (z.B. Butternuss), grob gerieben (ergibt ca. 500 g), Stiel beiseite gestellt</zutat>
+      </Teig      >
+      <Dekoration>
+          <quant>75 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist. Mehl, Nuesse, Backpulver und Zimt mischen. Mit dem Kuerbis unter die Masse mischen. Die Haelfte des Teigs in die vorbereitete Form fuellen, restlichen Teig zugedeckt kuehl stellen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf ein Gitter stuerzen, auskuehlen. Form reinigen, fetten, bemehlen. Kuehl gestellten Teig in die vorbereitete Form fuellen, backen, stuerzen und auskuehlen wie oben.</inhalt>
+      </Backen    >
+      <Dekoration>
+          <inhalt>Gugelhopfboeden etwas gerade schneiden, Gugelhoepfe aufeinanderstellen. Beiseite gestellten Kuerbisstiel auf den Kuerbis-Gugelhopf setzen. Puderzucker mit Zitronensaft glatt ruehren, daruebertraeufeln.  </inhalt>
+      </Dekoration>
+   </rezept>
+</Rezept>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>645 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Pizzateig </zutat>
+          <quant>125 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, fein gehobelt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>150 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), in Stuecken</zutat>
+          <quant>20 g</quant>
+          <zutat>Rucola</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig mit dem Papier in ein Blech legen. Mascarpone mit einem Loeffelruecken auf dem Teig verteilen, Zwiebeln wuerzen, darauflegen. Gorgonzola darauf verteilen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: ca. 20 Min. in der untersten Rille des auf 240 Grad vorgeheizten Ofens. Herausnehmen, Rucola darauf verteilen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

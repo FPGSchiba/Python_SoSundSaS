@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>498 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>72 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis_kochen>
+          <quant>300 g</quant>
+          <zutat>Parfuemreis</zutat>
+          <quant>4 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Reis_kochen>
+      <Fried_Rice>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Fried_Rice>
+      <Ruehrei    >
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Erdnussoel</zutat>
+      </Ruehrei    >
+      <Gemuese    >
+          <quant>1/2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlte Erbsli, angetaut</zutat>
+          <quant>200 g</quant>
+          <zutat>Chinakohl, in feinen Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Wuerfeli</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Reis_kochen>
+          <inhalt>Reis im Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Wasser mit dem Reis in eine Pfanne geben, aufkochen, zugedeckt auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei Deckel nie abheben. Reis mit einer Gabel lockern, auf einem Blech verteilen, auskuehlen.</inhalt>
+      </Reis_kochen>
+      <Fried_Rice>
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Reis ca. 5 Min. ruehrbraten, herausnehmen. </inhalt>
+      </Fried_Rice>
+      <Ruehrei    >
+          <inhalt>Eier mit Sesamoel verruehren, wuerzen. Wenig Oel in dieselbe Pfanne geben, Eier hineingiessen, hin- und herschieben, bis die Eimasse gestockt ist, herausnehmen. </inhalt>
+      </Ruehrei    >
+      <Gemuese    >
+          <inhalt>Oel in derselben Pfanne warm werden lassen, Gemuese beigeben und ca. 5 Min. ruehrbraten, wuerzen. Reis, Sojasauce und Reisessig beigeben, ca. 10 Min. braten, Reis dabei ab und zu ruehren. Ruehrei und Erdnuesse auf dem Reis verteilen.</inhalt>
+      </Gemuese    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

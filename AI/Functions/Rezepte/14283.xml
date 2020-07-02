@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>475 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Raclette-Schnittchen_>
+          <quant>500 g</quant>
+          <zutat>Champignons, in Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein oder Wasser</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Gemuesebouillonpulver</zutat>
+          <quant>einige </quant>
+          <zutat>Thymianzweiglein</zutat>
+          <quant>250 g</quant>
+          <zutat>Chicoree</zutat>
+          <quant>1 EL</quant>
+          <zutat>gesalzene Butter</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>8 </quant>
+          <zutat>Brotscheiben (Vollkornbrot, ca. 400 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>Raclettekaese in Scheiben, in Streifen</zutat>
+      </Raclette-Schnittchen_>
+      <Backen    >
+          <quant> </quant>
+          <zutat>Pfeffer, nach Bedarf</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Raclette-Schnittchen_>
+          <inhalt>Champignons im Oel andaempfen, mit Wein oder Wasser abloeschen. Bouillon und Thymian beigeben, gut verruehren, ca. 5 Min. koecheln. Champignons herausnehmen, Thymian-Stiele entfernen. Chicoree in der gesalzenen Butter anbraten, Zucker beigeben, ca. 5 Min. weich koecheln. Brotscheiben auf einem Blech verteilen, zuerst Chicoree, dann Champignons darauf verteilen. Je 2 Streifen Kaese darauf geben.</inhalt>
+      </Raclette-Schnittchen_>
+      <Backen    >
+          <inhalt>Ca. 8 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Vor dem Servieren grosszuegig pfeffern.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

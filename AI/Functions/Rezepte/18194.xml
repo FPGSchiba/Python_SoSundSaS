@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>571 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hackfleischspiessli_>
+          <quant>400 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Hackfleischspiessli_>
+      <Auberginen>
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, 1/2 einer Zitrone in duennen Scheiben, Rest ausgepresst</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 </quant>
+          <zutat>Auberginen, in ca. 2 cm dicken Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Auberginen>
+      <Sauce     >
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze,  grob geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Hackfleischspiessli_>
+          <inhalt>Fleisch und alle Zutaten bis und mit Salz in einer Schuessel mischen, gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden. Masse mit nassen Haenden zu 16 Kugeln formen, mit Oel bestreichen.</inhalt>
+      </Hackfleischspiessli_>
+      <Auberginen>
+          <inhalt>Zitronenscheiben im Zucker wenden. Zitronensaft und Olivenoel verruehren. Auberginen mit ca. 4 EL Sauce bestreichen, salzen. Restliche Sauce beiseite stellen.  </inhalt>
+      </Auberginen>
+      <Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+          <inhalt>Auberginenscheiben ueber mittelstarker Glut /bei mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 10 Min. grillieren. Hackfleischspiessli rundum ca. 12 Min. mitgrillieren. Zitronenscheiben beidseitig je ca. 3 Min. mitgrillieren.</inhalt>
+      </Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+      <Sauce     >
+          <inhalt>Petersilie und Pfefferminze mit der beiseite gestellten Sauce verruehren, wuerzen. Auberginen in ca. 3 cm grosse Wuerfel schneiden, Zitronenscheiben vierteln, mit der Sauce mischen. Hackfleischspiessli dazu servieren. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

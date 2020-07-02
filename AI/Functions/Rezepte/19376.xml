@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>240 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>weisse Spargeln, geschaelt, in Stuecken, Spitzen beiseite gestellt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Scheibe</quant>
+          <zutat>Toastbrot, in Stuecken</zutat>
+          <quant>2 Bund</quant>
+          <zutat>Radiesli, in Stuecken</zutat>
+          <quant>300 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+      </Suppe     >
+      <Topping   >
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli mit dem Gruen, in Scheibchen, wenig Gruen fein geschnitten</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel in einer Pfanne erwaermen. Schalotte und Knoblauch kurz andaempfen, Spargel beigeben, kurz mitdaempfen. Wasser dazugiessen, aufkochen, wuerzen. Zugedeckt ca. 25 Min. weichkochen, Toastbrot, Radiesli und Jogurt beigeben, fein puerieren, auskuehlen. Suppe zugedeckt mind. 2 Std. kuehl stellen. </inhalt>
+      </Suppe     >
+      <Topping   >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Beiseite gestellte Spargelspitzen ca. 5 Min. braten. Herausnehmen, mit den Radiesli, dem Radiesli-Gruen, Aceto und Oel mischen, wuerzen. Suppe mit dem Topping garnieren. </inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

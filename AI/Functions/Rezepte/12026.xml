@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>249 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>60 g</quant>
+          <zutat>Linsen, schwarz (Beluga)</zutat>
+          <quant>45 g</quant>
+          <zutat>Langkornreis (z.B. Parboiled)</zutat>
+          <quant>4 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>400 g</quant>
+          <zutat>gekochte Randen</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 dl</quant>
+          <zutat>Dessert Extrafin (Sauermilch)</zutat>
+          <quant>3 EL</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Linsen und Reis im siedenden Wasser ca. 10 Min. knapp weich kochen, abtropfen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Schalotte hacken, Knoblauch pressen, beides im Oel andaempfen. Randen in Wuerfeli schneiden, beigeben, kurz mitdaempfen. Bouillon und Aceto dazugiessen, aufkochen, zugedeckt bei kleiner Hitze ca. 15 Min. koecheln. Suppe puerieren, Linsen und Reis wieder beigeben, nur noch heiss werden lassen, wuerzen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Sauermilch und Meerrettich mit dem Mixstab aufschaeumen. Suppe in Schalen anrichten. Petersilie fein schneiden, ueber die Suppe streuen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Dazu passt: Vollkornbrot.     </inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

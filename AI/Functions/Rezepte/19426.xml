@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>487 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone nur abgeriebene Schale</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>3 EL</quant>
+          <zutat>Sultaninen</zutat>
+          <quant>2 EL</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>5 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Fuellung   >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, die Haelfte der Zitronenschale, Zucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 1 Std. kuehl stellen. Teig zwischen zwei Backpapier rund auswallen (ca. 32 cm Ø), in das Blech legen, oberes Backpapier entfernen, Teig mit einer Gabel dicht einstechen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Sultaninen und Mandeln auf dem Teigboden veritelen. Rahm mit der restlichen Zitronenschale und allen Zutaten bis und mit Vanille gut verruehren, auf den Teigboden giessen.</inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnhemen, etwas abkuehlen, auf einem Gitter auskuehlen. Fladen vor dem Servieren mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

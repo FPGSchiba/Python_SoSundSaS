@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>420 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>300 g</quant>
+          <zutat>Wurzelgemuese (Rueebli, Pastinaken usw.), in groben Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>Kuerbis, mittelgross (z.B. Hokkaido), geviertelt, entkernt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Handvoll</quant>
+          <zutat>Bio-Heu</zutat>
+      </Gemuese    >
+      <Miso-Sauce>
+          <quant>4 EL</quant>
+          <zutat>Miso-Paste</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig oder Agavendicksaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Miso-Sauce>
+      <Salsa_verde>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>1 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Salsa_verde>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemuese                        </inhalt>
+      </How_To    >
+      <Gemuese    >
+          <inhalt>Wurzelgemuese im Salzwasser ca. 2 Min. blanchieren, abtropfen. Kuerbis, Oel und Salz zum Wurzelgemuese geben, alles vermischen.</inhalt>
+      </Gemuese    >
+      <How_To1   >
+          <inhalt>Backen: zugedeckt ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </How_To1   >
+      <Miso-Sauce>
+          <inhalt>Miso-Paste mit Sojasauce, Honig und Wasser verruehren. Knoblauchund Sesam darunterruehren, Sauce wuerzen.</inhalt>
+      </Miso-Sauce>
+      <Salsa_verde>
+          <inhalt>Die Kraeuter fein schneiden, mit den restlichen Zutaten verruehren, Salsa wuerzen.</inhalt>
+      </Salsa_verde>
+      <Servieren >
+          <inhalt>Das gebackenen Gemuese aus dem Heu nehmen, mit der Miso-Sauce vermischen, anrichten. Salsa verde dazu servieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

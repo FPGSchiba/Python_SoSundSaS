@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>444 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Scones    >
+          <quant>25 g</quant>
+          <zutat>Fine Food Swiss Mix Trockenfruechte</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Scones    >
+      <Schwarzteelack>
+          <quant>2 Beutel</quant>
+          <zutat>Fine Food Darjeeling</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Tasmanian Honey</zutat>
+          <quant>2 TL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Schwarzteelack>
+      <Lammnierstueck>
+          <quant>2 </quant>
+          <zutat>Fine Food Lammnierstuecke</zutat>
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fine Food Fond de veau concentre</zutat>
+      </Lammnierstueck>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Scones                        </inhalt>
+      </How_To    >
+      <Scones    >
+          <inhalt>Trockenfruechte grob hacken, Butter in Stuecke schneiden, kalt stellen.</inhalt>
+      </Scones    >
+      <How_To1   >
+          <inhalt>Mehl, Zucker, Backpulver, Salz und Trockenfruechte in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Milch dazugiessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Teig ca. 2 cm dick auswallen. Mit einem Ausstecher (ca. 5 cm Ø) 4 Scones ausstechen, auf ein mit Backpapier belegtes Blech legen, mit Milch bestreichen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Backen ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Scones herausnehmen, auf einem Gitter auskuehlen. Scones halbieren.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Schwarzteelack                </inhalt>
+      </How_To4   >
+      <Schwarzteelack>
+          <inhalt>Lammnierstueck                 </inhalt>
+      </Schwarzteelack>
+      <Lammnierstueck>
+          <inhalt>Fleisch warm stellen. Wasser, Kalbsfond und 1 EL Schwarzteelack in die Pfanne giessen, Bratensatz loesen, aufkochen, etwas einkoecheln. Fleisch tranchieren, Bratjus daruebergeben, mit den Scones servieren.</inhalt>
+      </Lammnierstueck>
+   </rezept>
+</Rezept>

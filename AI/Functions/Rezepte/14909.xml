@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>390 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli-Cakes>
+          <quant>3 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, je 1/2 abgeriebene Schale und Saft</zutat>
+          <quant>250 g</quant>
+          <zutat>Rueebli, fein gerieben</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>Pekannuesse, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3 </quant>
+          <zutat>Eiweisse</zutat>
+      </Rueebli-Cakes>
+      <Crumble   >
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, ausgekuehlt</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kitchen Matcha </zutat>
+      </Crumble   >
+      <Backen    >
+          <quant>8 </quant>
+          <zutat>Marzipanrueebli</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Rueebli-Cakes>
+          <inhalt>Eigelbe mit Zucker und Salz schaumig ruehren. Zitronenschale und -saft, Rueebli, Zimt, Mandeln und Pekannuesse darunterruehren. Mehl und Backpulver mischen, beigeben. Eiweisse steif schlagen, sorgfaeltig unter die Masse ziehen. Masse in die vorbereiteten Toepfli verteilen. </inhalt>
+      </Rueebli-Cakes>
+      <Crumble   >
+          <inhalt>Butter, Mehl, Pistazien, Zucker und Matcha mit einer Gabel mischen, bis die Masse kruemelig ist, Crumble auf  den Cakes verteilen. </inhalt>
+      </Crumble   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. Mit Marzipanrueebli verzieren. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

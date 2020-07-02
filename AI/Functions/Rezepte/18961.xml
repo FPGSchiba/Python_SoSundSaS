@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>194 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Gewuerze_  >
+          <quant>8 </quant>
+          <zutat>Kardamomkapseln, zerstossen</zutat>
+          <quant>4 </quant>
+          <zutat>Nelken</zutat>
+          <quant>2 </quant>
+          <zutat>Zimtstangen, in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Sternanise</zutat>
+          <quant>1 TL</quant>
+          <zutat>Pfefferkoerner, zerstossen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+      </Gewuerze_  >
+      <Sirup     >
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>6 Beutel</quant>
+          <zutat>Schwarztee</zutat>
+          <quant>300 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>50 g</quant>
+          <zutat>Ingwer, in feinen Scheiben</zutat>
+      </Sirup     >
+   </einkaufliste>
+   <rezept>
+      <Gewuerze_  >
+          <inhalt>Kardamom und alle Zutaten bis und mit Muskat ohne Fett in einer Bratpfanne roesten, auskuehlen. </inhalt>
+      </Gewuerze_  >
+      <Sirup     >
+          <inhalt>Wasser in einer Pfanne aufkochen. Pfanne von der Platte nehmen, Teebeutel beigeben, zugedeckt ca. 10 Min. ziehen lassen. Teebeutel ausdruecken und entfernen. Zucker, Vanillesamen und -schote, Ingwer und Gewuerze beigeben, aufkochen, Hitze reduzieren und ca. 10 Min. koecheln. Sirup durch ein Sieb giessen, siedend heiss mit einem Trichter bis knapp unter den Rand in die sauberen, vorgewaermten Flaschen giessen, sofort verschliessen, auskuehlen.</inhalt>
+      </Sirup     >
+   </rezept>
+</Rezept>

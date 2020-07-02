@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>89 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>250 g</quant>
+          <zutat>tiefgekuehlte Zwetschgen, geviertelt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, in feinen Streifen</zutat>
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zwetschgen mit allen Zutaten bis und mit Salz unter gelegentlichem Ruehren bei mittlerer Hitze ca. 20 Min. weich kochen, auskuehlen oder in heiss ausgespuelte Glaeser fuellen, sofort gut verschliessen, auf einem Tuch</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>auskuehlen.                    </inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

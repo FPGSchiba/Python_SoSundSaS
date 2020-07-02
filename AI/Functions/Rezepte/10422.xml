@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>460 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>250 g</quant>
+          <zutat>Venere-Reis Fine Food (schwarzer Reis)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Reis      >
+      <Pilze     >
+          <quant>einige </quant>
+          <zutat>Butterfloeckli</zutat>
+          <quant>500 g</quant>
+          <zutat>gemischte  Pilze (z,B. Pleurotus, Shiitake, Champignons)</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Pilze     >
+      <Sauce     >
+          <quant>1 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Petersilie</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Reis      >
+          <inhalt>Reis im Salzwasser ca. 30 Min. knapp weich kochen, abtropfen. Reis zurueck in die Pfanne geben, Butter daruntermischen, zugedeckt beiseite stellen.</inhalt>
+      </Reis      >
+      <Pilze     >
+          <inhalt>Pilze in Scheiben schneiden, Zwiebel hacken. Butter erwaermen, Zwiebel und Pilze andaempfen. Wein dazugiessen, auf die Haelfte einkochen.</inhalt>
+      </Pilze     >
+      <Sauce     >
+          <inhalt>Maizena mit Saucen-Halbrahm und Bouillon anruehren, unter Ruehren beigeben, aufkochen, ca. 3 Min. kochen, wuerzen. Pilze mit dem Reis anrichten. Petersilie fein schneiden, darueberstreuen.</inhalt>
+      </Sauce     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=b-77ZZItFdA"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

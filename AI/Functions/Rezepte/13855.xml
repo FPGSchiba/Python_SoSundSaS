@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>125 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creamy_caramel>
+          <quant>250 g</quant>
+          <zutat>gezuckerte Kondensmilch</zutat>
+          <quant>30 g</quant>
+          <zutat>Akazienhonig</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+      </Creamy_caramel>
+      <Schokoladenglasur>
+          <quant>1 Beutel</quant>
+          <zutat>dunkle Kuchenglasur, geschmolzen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Schokoladenglasur>
+   </einkaufliste>
+   <rezept>
+      <Creamy_caramel>
+          <inhalt>Kondensmilch mit Honig und Butter verruehren, ca. 30 Min. bei kleiner Hitze unter staendigem Ruehren koecheln, bis die Masse caramelfarben ist. In die vorbereitete Form giessen, auskuehlen, zugedeckt ca. 2 Std. kuehl stellen. Caramel in ca. 2 cm grosse Wuerfel schneiden. </inhalt>
+      </Creamy_caramel>
+      <Schokoladenglasur>
+          <inhalt>Kuchenglasur in eine Schuessel giessen. Caramel-Wuerfel in die Kuchenglasur tauchen, gut abtropfen, zuerst fuer ca. 1 Min. auf ein Gitter, dann auf Backpapier legen, sofort mit wenig Fleur de Sel bestreuen, zugedeckt ca. 2 Std. kuehlstellen. </inhalt>
+      </Schokoladenglasur>
+   </rezept>
+</Rezept>

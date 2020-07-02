@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>251 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_&amp;_Backen>
+          <quant>1 Paeckli</quant>
+          <zutat>Betty Bossi Backmischung Schokoladen-Cake</zutat>
+          <quant>150 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+      </Teig_&amp;_Backen>
+      <Glasur    >
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>5 EL</quant>
+          <zutat>starker Kaffee, kalt</zutat>
+          <quant>100 g</quant>
+          <zutat>Kokosraspel</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig &amp; Backen             </inhalt>
+      </How_To    >
+      <Teig_&amp;_Backen>
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Kuchen herausnehmen, etwas abkuehlen, auf ein frisches Backpapier stuerzen. Oberes Backpapier abziehen, Kuchen zurueck ins Blech legen.</inhalt>
+      </Teig_&amp;_Backen>
+      <Glasur    >
+          <inhalt>Puderzucker und alle Zutaten bis und mit Kaffee gut verruehren, auf dem Kuchen verteilen, Kokosraspel darueberstreuen, auskuehlen. Kuchen in 20 Stuecke schneiden.</inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

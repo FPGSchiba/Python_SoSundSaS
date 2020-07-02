@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>373 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese_&amp;_Erdnuesse>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen, wenig Gruen beiseite gestellt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, fein gehackt</zutat>
+          <quant>120 g</quant>
+          <zutat>gesalzene, geroestete Erdnuesse, im Cutter gemahlen</zutat>
+      </Gemuese_&amp;_Erdnuesse>
+      <Suppe     >
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 EL</quant>
+          <zutat>trockener weisser Vermouth</zutat>
+      </Suppe     >
+   </einkaufliste>
+   <rezept>
+      <Gemuese_&amp;_Erdnuesse>
+          <inhalt>Oel warm werden lassen, Zwiebeln und Chili kurz andaempfen. Erdnuesse beigeben, unter Ruehren kurz mitdaempfen.</inhalt>
+      </Gemuese_&amp;_Erdnuesse>
+      <Suppe     >
+          <inhalt>Restliche Zutaten dazugiessen, ca. 5 Min. koecheln. Mit beiseite gestelltem Zwiebelgruen garnieren.</inhalt>
+      </Suppe     >
+   </rezept>
+</Rezept>

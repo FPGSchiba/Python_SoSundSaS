@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>235 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>150 g</quant>
+          <zutat>milder Gruyere</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>200 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>2 1/4 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Teig_     >
+      <Haesli_formen>
+          <quant>10 </quant>
+          <zutat>dunkle Sultaninen</zutat>
+      </Haesli_formen>
+      <Bibeli_formen>
+          <quant>5 </quant>
+          <zutat>Mandeln</zutat>
+          <quant>150 g</quant>
+          <zutat>milder Gruyere</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>200 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>2 1/4 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>10 </quant>
+          <zutat>dunkle Sultaninen</zutat>
+          <quant>5 </quant>
+          <zutat>Mandeln</zutat>
+      </Bibeli_formen>
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>                              </inhalt>
+      </Teig_     >
+      <Haesli_formen>
+          <inhalt>Sultaninen halbieren. Teig halbieren. </inhalt>
+      </Haesli_formen>
+      <Bibeli_formen>
+          <inhalt>                              </inhalt>
+      </Bibeli_formen>
+      <Backen_   >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

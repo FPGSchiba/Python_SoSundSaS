@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>115 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli    >
+          <quant>500 g</quant>
+          <zutat>Bundrueebli, laengs halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Rueebli    >
+   </einkaufliste>
+   <rezept>
+      <Rueebli    >
+          <inhalt>Rueebli mit allen Zutaten bis und mit Salz vermischen, in der Form verteilen.</inhalt>
+      </Rueebli    >
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

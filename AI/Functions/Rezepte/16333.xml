@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>513 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>125 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+      </Teig      >
+      <Butter_einarbeiten>
+          <quant>90 g</quant>
+          <zutat>Butter, grob gerieben, kalt</zutat>
+      </Butter_einarbeiten>
+      <Caramel_vorbereiten>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Caramel_vorbereiten>
+      <Tarte_    >
+          <quant>20 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>600 g</quant>
+          <zutat>Pflaumen, 1/2 halbiert, 1/2 in Schnitzen</zutat>
+      </Tarte_    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Wasser und Butter beigeben, rasch zu einem glatten, weichen Teig kneten. Teig flach druecken, in Klarsichtfolie einpacken, ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig      >
+      <Butter_einarbeiten>
+          <inhalt>Teig auf wenig Mehl rechteckig (ca. 10 x 20 cm) auswallen. Butter auf zwei Dritteln des Teiges verteilen, dabei ringsum einen Rand von ca. 1 cm frei lassen. Freies Teigdrittel darueberlegen, eingeklappten Teig ueber restlichen Teig legen. Raender gut andruecken. Mit dem Wallholz Luftloecher herausdruecken. In Klarsichtfolie einpacken, ca. 30 Min. kuehl stellen.</inhalt>
+      </Butter_einarbeiten>
+      <Falten    >
+          <inhalt>Teig auf wenig Mehl rechteckig (ca. 10 x 20 cm) auswallen, ein Teigdrittel einklappen, anderes Teigdrittel darueberlegen. Vorgang 3-mal wiederholen. Teig in Klarsichtfolie einpacken, ca. 30 Min. kuehl stellen.</inhalt>
+      </Falten    >
+      <Caramel_vorbereiten>
+          <inhalt>Zucker und je 1 EL Wasser in die vorbereiteten Bleche verteilen. Ca. 7 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens caramelisieren, bis der Zucker hellbraun ist.</inhalt>
+      </Caramel_vorbereiten>
+      <Tarte_    >
+          <inhalt>Butter auf dem Caramel verteilen, Pflaumen leicht ueberlappend darauf legen. Teig halbieren, je auf wenig Mehl rund (ca. 20 cm Ø) auswallen, mit einer Gabel dicht einstechen, locker ueber die Pflaumen legen, am Rand etwas andruecken.</inhalt>
+      </Tarte_    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, ca. 2 Min. stehen lassen, Tartes sorgfaeltig auf je einen Teller stuerzen, Backpapier entfernen. Austretenden Saft daruebertraeufeln, Tartes warm oder kalt servieren. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

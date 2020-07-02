@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>555 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch_  >
+          <quant>4 </quant>
+          <zutat>Rindsentrecotes (je ca. 180 g), ca. 2 cm dick</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>wenig </quant>
+          <zutat>Chilipulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesamoel</zutat>
+      </Fleisch_  >
+      <Asia-Butter>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1/2 </quant>
+          <zutat>roter Peperoncino, entkernt, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Asia-Butter>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch_  >
+          <inhalt>Entrecotes nebeneinander in eine Schale legen. Fuer die Marinade Knoblauch, Chilipulver, Limettensaft und Oel verruehren. Fleisch damit bestreichen, zugedeckt ca. 2 Std. im Kuehlschrank marinieren. Ca. 15 Min. vor dem Zubereiten aus dem Kuehlschrank nehmen. </inhalt>
+      </Fleisch_  >
+      <How_To1   >
+          <inhalt>Asia-Butter                   </inhalt>
+      </How_To1   >
+      <Asia-Butter>
+          <inhalt>Zum Fleisch servieren.        </inhalt>
+      </Asia-Butter>
+   </rezept>
+</Rezept>

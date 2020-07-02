@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>394 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade_ >
+          <quant>2 EL</quant>
+          <zutat>Crema di Balsamico</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rohzucker</zutat>
+      </Marinade_ >
+      <Pouletfluegeli_>
+          <quant>1 kg</quant>
+          <zutat>Pouletfluegeli</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Pouletfluegeli_>
+      <Couscous  >
+          <quant>100 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 1/4 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Crema di Balsamico</zutat>
+          <quant>1 </quant>
+          <zutat>rotschaliger Apfel, in Wuerfeli</zutat>
+          <quant>150 g</quant>
+          <zutat>gelbe Peperoni, in Wuerfeli</zutat>
+      </Couscous  >
+   </einkaufliste>
+   <rezept>
+      <Marinade_ >
+          <inhalt>Crema di Balsamico und alle Zutaten bis und mit Rohzucker gut verruehren. </inhalt>
+      </Marinade_ >
+      <Pouletfluegeli_>
+          <inhalt>Pouletfluegel mit der Marinade mischen, zugedeckt im Kuehlschrank ca. 30 Min. marinieren. Pouletfluegeli salzen, auf ein mit Backpapier belegtes Blech verteilen.</inhalt>
+      </Pouletfluegeli_>
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Couscous  >
+          <inhalt>Couscous, Zitronensaft, Oel und Salz in einer Schuessel mischen, Wasser daruebergiessen, zugedeckt ca. 5 Min. quellen lassen. Couscous mit einer Gabel lockern. Crema di Balsamico, Apfel und Peperoni daruntermischen, zu den Pouletfluegeli servieren. </inhalt>
+      </Couscous  >
+   </rezept>
+</Rezept>

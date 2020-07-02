@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>298 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>6 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suppe     >
+      <Garnitur  >
+          <quant>80 g</quant>
+          <zutat>Buendner Rohschinken, in feinen Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Eine Pfanne mit dem Knoblauch ausreiben. Butter in derselben Pfanne erwaermen, Mehl beigeben, unter Ruehren mit dem Schwingbesen bei mittlerer Hitze duensten, das Mehl darf dabei keine Farbe annehmen. Pfanne von der Platte nehmen, Bouillon und Wein auf einmal dazugiessen, unter Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren ca. 10 Min. koecheln. Rahm und Eigelbe in einer Schuessel verruehren. 3 EL heisse Suppe unter Ruehren beigeben, unter staendigem Ruehren langsam zurueck in die Pfanne giessen. Suppe nur noch heiss werden lassen, wuerzen.</inhalt>
+      </Suppe     >
+      <Garnitur  >
+          <inhalt>Suppe anrichten, Rohschinken und Schnittlauch darueberstreuen.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

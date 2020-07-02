@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>415 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Parfait   >
+          <quant>120 g</quant>
+          <zutat>Basler Laeckerli, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Hagebuttenkonfituere</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Parfait   >
+      <Beeren    >
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlte Beerenmischung, aufgetaut</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Beeren    >
+      <Verzierung>
+          <quant>wenig </quant>
+          <zutat>Puderzucker oder Zimt zum Verzieren</zutat>
+          <quant>50 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 </quant>
+          <zutat>Basler Laeckerli, in Streifen</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Parfait                       </inhalt>
+      </How_To    >
+      <Parfait   >
+          <inhalt>Eigelbe und Zucker in eine duennwandige Schuessel geben. Mit den Schwingbesen des Handruehrgeraetes im heissen Wasserbad (knapp unter dem Siedepunkt) ruehren, bis die Masse heller und cremig ist. Die Schuessel aus dem Wasserbad nehmen. Die Laeckerlimasse portionenweise darunterruehren, weiterruehren, bis die Masse ausgekuehlt ist. Zitronensaft darunterruehren. Rahm steif schlagen, mit dem Gummischaber sorgfaeltig darunterziehen. Laeckerlimasse in die Glaeser verteilen, zugedeckt mind. 3 Std. gefrieren.</inhalt>
+      </Parfait   >
+      <Beeren    >
+          <inhalt>Beerenmix mit Zucker bei mittlerer Hitze heiss werden lassen, Zitronensaft beigeben.</inhalt>
+      </Beeren    >
+      <Verzierung>
+          <inhalt>Dessertteller mit wenig Puderzucker oder Zimt verzieren. Cremefraiche und Puderzucker verruehren. Warmen Beerenmix auf das Parfait verteilen, mit wenig Creme fraiche und einigen Laeckerlistreifen verzieren. Laeckerli Parfait auf den Desserttellern servieren.</inhalt>
+      </Verzierung>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

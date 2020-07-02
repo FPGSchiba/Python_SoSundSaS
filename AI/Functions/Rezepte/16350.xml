@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>566 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aprikosenkompott>
+          <quant>300 g</quant>
+          <zutat>Aprikosen, geviertelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Aprikosenkompott>
+      <Maluns    >
+          <quant>800 g</quant>
+          <zutat>Gschwellti (mehlig kochende Sorte) vom Vortag, geschaelt</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter</zutat>
+      </Maluns    >
+      <Servieren >
+          <quant>100 g</quant>
+          <zutat>Buendner Bergkaese, in Stuecken</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Aprikosenkompott>
+          <inhalt>Aprikosen, Zucker und Wasser in einer kleinen Pfanne mischen, aufkochen. Hitze reduzieren, zugedeckt ca. 10 Min. koecheln, beiseitestellen.</inhalt>
+      </Aprikosenkompott>
+      <Vorbereiten>
+          <inhalt>Ofen auf 60 Grad vorheizen, Platte und Teller vorwaermen.</inhalt>
+      </Vorbereiten>
+      <Maluns    >
+          <inhalt>Gschwellti an der Roestiraffel in eine Schuessel reiben, mit Mehl und Salz mischen. Die Haelfte der Butter in einer weiten Bratpfanne erwaermen. Die Haelfte der Kartoffelmasse beigeben, braten, bis die Kartoffeln etwas Farbe annehmen. Unter Wenden und Ruehren mit der Bratschaufel bei kleiner Hitze hellbraun braten, bis sich Kuegeli bilden, warm stellen. Restliche Kartoffelmasse in der restlichen Butter gleich braten. </inhalt>
+      </Maluns    >
+      <Servieren >
+          <inhalt>Maluns anrichten, Aprikosenkompott und Kaese dazu servieren. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

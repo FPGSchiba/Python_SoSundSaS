@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>314 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schnelles_Zitronenoel>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, nur abgeriebene Schale</zutat>
+      </Schnelles_Zitronenoel>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, grob gehackt</zutat>
+          <quant>800 g</quant>
+          <zutat>Knollensellerie, in Stuecken</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Rucola, grob geschnitten</zutat>
+      </Suppe     >
+      <Anrichten >
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>50 g</quant>
+          <zutat>Rucola</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Schnelles_Zitronenoel>
+          <inhalt>Oel in einer kleinen Pfanne erwaermen. Zitronenschale beigeben, in eine kleine, saubere Flasche umfuellen.</inhalt>
+      </Schnelles_Zitronenoel>
+      <Suppe     >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel und Knoblauch andaempfen. Sellerie beigeben, ca. 3 Min. mitdaempfen. Wasser dazugiessen, aufkochen, salzen. Suppe ca. 25 Min. koecheln. Rucola beigeben, ca. 5 Min. mitkoecheln, fein puerieren. </inhalt>
+      </Suppe     >
+      <Anrichten >
+          <inhalt>Zitronensaft unter die Suppe ruehren, wuerzen. Suppe anrichten, Rucola mit wenig Zitronenoel auf der Suppe verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>100 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>heller Reisessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>geroesteter Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Essig und alle Zutaten bis und mit Koriander gut verruehren, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

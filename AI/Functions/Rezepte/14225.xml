@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>288 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereiten_>
+          <quant>8 </quant>
+          <zutat>duenne Rindsplaetzli (z.B. Huft) (je ca. 50 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Vorbereiten_>
+      <Fuellung_  >
+          <quant>8 </quant>
+          <zutat>Bratspeck in Tranchen</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in 8 Staengelchen</zutat>
+      </Fuellung_  >
+      <Schmoren_ >
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Paprika</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rindsbouillon</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Schmoren_ >
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten_>
+          <inhalt>Plaetzli mit Haushaltpapier trockentupfen. Senf, Salz und Pfeffer mischen, eine Seite der Plaetzli damit bestreichen. </inhalt>
+      </Vorbereiten_>
+      <Fuellung_  >
+          <inhalt>Speck auf die vorbereiteten Plaetzli legen. Schalotte, Petersilie und Rueebli darauf verteilen, Raender der beiden Laengsseite auf die Fuellung legen, aufrollen, mit Kuechenschnur binden. </inhalt>
+      </Fuellung_  >
+      <Schmoren_ >
+          <inhalt>Mehl, Salz und Paprika mischen. Oel im Brattopf heiss werden lassen, Fleisch portionenweise im gewuerzten Mehl wenden, anbraten, herausnehemen. Mehl im selben Topf schokoladenbraun roesten. Rotwein, Bouillon und Rosmarin beigeben, verruehren, aufkochen. Fleisch wieder beigeben, zugedeckt bei kleiner Hitze ca. 30 Min. schmoren, Fleisch gelegentlich wenden. Offen 15 Min. fertig schmoren, wuerzen.   </inhalt>
+      </Schmoren_ >
+   </rezept>
+</Rezept>

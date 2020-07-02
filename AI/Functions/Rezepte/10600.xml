@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>533 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mousse    >
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>100 g</quant>
+          <zutat>Dulce de leche</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Mousse    >
+      <Popcorn   >
+          <quant>80 g</quant>
+          <zutat>Betty Bossi Feinster Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>30 g</quant>
+          <zutat>gesalzenes Popcorn</zutat>
+      </Popcorn   >
+   </einkaufliste>
+   <rezept>
+      <Mousse    >
+          <inhalt>Mascarpone, Dulce de leche und Fleur de Sel verruehren. Rahm steif schlagen, darunterziehen, mind. 1 Std. kuehl stellen. </inhalt>
+      </Mousse    >
+      <Popcorn   >
+          <inhalt>Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Pfanne von der Platte nehmen, Popcorn beigeben, mischen, auf einem Backpapier verteilen, auskuehlen.</inhalt>
+      </Popcorn   >
+      <Servieren >
+          <inhalt>Mousse auf Tellern anrichten. 1/4 des Popcorns grob hacken und darueberstreuen. Restliches Popcorn dazu servieren.</inhalt>
+      </Servieren >
+      <Schneller_gehts:>
+          <inhalt>Statt Caramel-Popcorn fertiges Schokolade-Popcorn verwenden.</inhalt>
+      </Schneller_gehts:>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

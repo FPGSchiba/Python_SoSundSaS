@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>377 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ebly      >
+          <quant>200 g</quant>
+          <zutat>vorgekochter Hartweizen (Ebly®)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Ebly      >
+      <Herbstgemuese>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>Rosenkohl, in Vierteln</zutat>
+          <quant>100 g</quant>
+          <zutat>gewaschener, geruesteter Federkohl</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>75 g</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+      </Herbstgemuese>
+      <Senfsauce >
+          <quant>1/2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, 1/2 abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kerbel, grob zerzupft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Senfsauce >
+   </einkaufliste>
+   <rezept>
+      <Ebly      >
+          <inhalt>Ebly nach Angabe auf der Verpackung zubereiten, abtropfen, auskuehlen, mit der Sauce mischen.</inhalt>
+      </Ebly      >
+      <Herbstgemuese>
+          <inhalt>Oel in einer Pfanne warm werden lassen, Schalotte und Rosenkohl beigeben, ca. 2 Min. ruehrbraten. Federkohl beigeben, ca. 1 Min. weiterruehrbraten. Honig und Bouillon beigeben, ca. 2 Min. koecheln.  Herbstgemuese und Cranberrys zum Ebly geben, mischen.  </inhalt>
+      </Herbstgemuese>
+      <Senfsauce >
+          <inhalt>Senf und alle Zutaten bis und mit Pfeffer in einer grossen Schuessel verruehren.</inhalt>
+      </Senfsauce >
+   </rezept>
+</Rezept>

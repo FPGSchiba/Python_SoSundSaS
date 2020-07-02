@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>609 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>100 g</quant>
+          <zutat>Guetzli (z.B. Spekulatius oder Petit Beurre)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+      </Boden     >
+      <Fuellung   >
+          <quant>400 g</quant>
+          <zutat>Frischkaese nature</zutat>
+          <quant>360 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>60 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Fuellung   >
+      <Topping   >
+          <quant>250 g</quant>
+          <zutat>Himbeeren, grob zerdrueckt</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Guetzli in einen Plastikbeutel geben und mit dem Wallholz fein zerstossen, in eine Schuessel geben, mit der Butter mischen. In die Glaeser verteilen, mit einem Loeffel am Boden flachdruecken. Glaeser ca. 1 Std. kuehl stellen.</inhalt>
+      </Boden     >
+      <Fuellung   >
+          <inhalt>Frischkaese mit Jogurt, Vanille und Puderzucker gut verruehren. Fuellung in die Glaeser verteilen, nochmals mind. 1 Std. kuehl stellen.</inhalt>
+      </Fuellung   >
+      <Topping   >
+          <inhalt>Himbeeren auf der Fuellung verteilen, Glaeser verschliessen, bis zum Servieren kuehl stellen.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>822 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Filets_zubereiten>
+          <quant>2 </quant>
+          <zutat>Schweinsfilets (je ca. 350 g)</zutat>
+          <quant>100 g</quant>
+          <zutat>Parmaschinken in Tranchen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Rosmarin, Nadeln abgezupft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Filets_zubereiten>
+      <Erdbeerbutter>
+          <quant>80 g</quant>
+          <zutat>lactosefreie Butter , weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren, pueriert</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Erdbeerbutter>
+      <Schupfnudeln>
+          <quant>500 g</quant>
+          <zutat>Gschwellti (mehlig kochende Sorte), frisch gekocht, heiss geschaelt</zutat>
+          <quant>200 g</quant>
+          <zutat>glutenfreies Mehl (Schaer)</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Schupfnudeln>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Filets zubereiten             </inhalt>
+      </How_To    >
+      <Filets_zubereiten>
+          <inhalt>Fleisch ca. 1 Std. vor dem Anbraten aus dem Kuehlschrank nehmen. Ofen auf 80 Grad vorheizen, Platte, Schuessel und Teller vorwaermen.</inhalt>
+      </Filets_zubereiten>
+      <How_To1   >
+          <inhalt>Niedergaren: ca. 11/2 Std. in der Mitte des vorgeheizten Ofens. Die Kerntemperatur soll ca. 62 Grad betragen. Das Fleisch kann anschliessend bei 60 Grad bis zu 1 Std. warm gehalten werden.</inhalt>
+      </How_To1   >
+      <Erdbeerbutter>
+          <inhalt>Butter, Erdbeeren und Pfeffer mit den Schwingbesen des Handruehrgeraets ca. 2 Min. ruehren, bis zum servieren kuehl stellen.</inhalt>
+      </Erdbeerbutter>
+      <Schupfnudeln>
+          <inhalt>Kartoffeln durchs Passe-vite in eine Schuessel treiben, etwas abkuehlen. Mehl daruntermischen, Ei beigeben, wuerzen, von Hand mischen. Die Masse sollte noch feucht sein, aber nicht mehr an den Haenden kleben, evtl. etwas Mehl beigeben. Masse auf wenig Mehl zu 4 Rollen von je ca. 2 cm Ø formen. Rollen in ca. 2 cm lange Stuecke schneiden. Teigstuecke mit wenig Mehl von Hand zu Schupfnudeln formen, die an den Enden etwas duenner werden, Schupfnudeln auf ein leicht bemehltes Tuch legen. Schupfnudeln portionenweise im Salzwasser ziehen lassen, bis sie an die Oberflaeche steigen. Mit einer Schaumkelle herausnehmen, gut abtropfen, zugedeckt warm stellen. Oel in einer Bratpfanne heiss werden lassen. Schupfnudeln beigeben, ca. 2 Min. braten, Spinat beigeben, zusammenfallen lassen, salzen. </inhalt>
+      </Schupfnudeln>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=_sPRzgZu5NI"/>
+</Rezept>

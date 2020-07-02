@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>328 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gebratene_Spargeln>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>Brot, in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, laengs halbiert</zutat>
+          <quant>250 g</quant>
+          <zutat>weisse Spargeln, geschaelt, laengs halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gebratene_Spargeln>
+      <Wachsweiche_Eier>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Wachsweiche_Eier>
+      <Salat     >
+          <quant>1 TL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Estragon, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>30 g</quant>
+          <zutat>Parmesan am Stueck, mit dem Sparschaeler in Spaene gehobelt</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Gebratene_Spargeln>
+          <inhalt>Oel in einer Bratpfanne erhitzen. Brotwuerfeli und Mandeln ca. 5 Min. goldbraun braten, herausnehmen, beiseite stellen. Oel in dieselbe Pfanne geben. Spargeln beigeben, unter haeufigem Wenden ca. 15 Min. braten, wuerzen. Spargeln auf eine Platte verteilen.</inhalt>
+      </Gebratene_Spargeln>
+      <Wachsweiche_Eier>
+          <inhalt>Eier im siedenden Wasser ca. 7 Min. koecheln, unter kaltem Wasser abspuelen, schaelen.</inhalt>
+      </Wachsweiche_Eier>
+      <Salat     >
+          <inhalt>Senf, Zitronensaft und Oel verruehren, Estragon darunterruehren, wuerzen. Eier halbieren, auf den Spargeln verteilen. Radiesli und Parmesan mit den Brotwuerfeli und Mandeln  darauf verteilen, Sauce daruebertraeufeln. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

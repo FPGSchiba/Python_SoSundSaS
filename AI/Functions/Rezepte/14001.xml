@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>175 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Broccoli-Couscous>
+          <quant>1 </quant>
+          <zutat>Broccoli (ca. 300 g), in Roeschen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Broccoli-Couscous>
+      <Beurre_Blanc_>
+          <quant>1 dl</quant>
+          <zutat>Fischfond</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt, Samen beiseite gestellt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 </quant>
+          <zutat>Safranfaeden</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Vollrahm</zutat>
+      </Beurre_Blanc_>
+      <Jakobsnuesse>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>8 </quant>
+          <zutat>Jakobsnuesse</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Kerbel, zerzupft</zutat>
+      </Jakobsnuesse>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Broccoli-Couscous             </inhalt>
+      </How_To    >
+      <Broccoli-Couscous>
+          <inhalt>Backen: ca. 7 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Auf dem Backblech auskuehlen, salzen. </inhalt>
+      </Broccoli-Couscous>
+      <Beurre_Blanc_>
+          <inhalt>Fond und Weisswein mit Schalotte und Vanilleschote aufkochen, auf ca. 3/4 dl einkochen, absieben, in die Pfanne zurueckgiessen. Maizena unter Ruehren mit dem Schwingbesen beigeben, ca. 2 Min. kochen. Pfanne von der Platte ziehen, Hitze reduzieren. Safran und beiseite gestellte Vanillesamen beigeben. Butter portionenweise unter Ruehren mit dem Schwingbesen beigeben, dabei die Pfanne hin und wieder kurz auf die Platte stellen, um die Sauce nur leicht zu erwaermen, sie darf nicht kochen. Rahm beigeben, nur noch warm werden lassen. </inhalt>
+      </Beurre_Blanc_>
+      <Jakobsnuesse>
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Jakobsnuesse beidseitig je ca. 1 Min. braten, wuerzen. Zum Broccoli-Couscous servieren, Kerbel darueberstreuen.</inhalt>
+      </Jakobsnuesse>
+   </rezept>
+</Rezept>

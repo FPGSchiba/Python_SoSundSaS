@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>424 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramel_zubereiten>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+      </Caramel_zubereiten>
+      <Creme_herstellen>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+      </Creme_herstellen>
+      <Servieren >
+          <quant>1 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Caramel_zubereiten>
+          <inhalt>Zucker mit dem Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her- Bewegen der Pfanne koecheln, bis ein haselnussbrauner Caramel entsteht. Milch dazugiessen, Caramel aufloesen.  </inhalt>
+      </Caramel_zubereiten>
+      <Creme_herstellen>
+          <inhalt>Milch und alle Zutaten bis und mit Ei verruehren, unter Ruehren zum Caramel giessen, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Pfanne von der Platte nehmen, ca. 2 Min. weiterruehren, dabei die Pfanne hin und wieder auf die Platte stellen, bis die Masse bindet und cremig wird. Creme durch ein Sieb in eine Schuessel giessen, Klarsichtfolie direkt auf die Creme legen, damit sich keine Haut bildet. Creme auskuehlen, ca. 2 Std. kuehl stellen.</inhalt>
+      </Creme_herstellen>
+      <Servieren >
+          <inhalt>Schlagrahm sorgfaeltig unter die Creme ziehen. Erdbeeren in eine Schuessel geben, mit dem Zucker und dem Zitronensaft mischen, darauf verteilen. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

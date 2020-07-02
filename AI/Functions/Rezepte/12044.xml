@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>844 kcal</NaehrwertProPerson>
+       <Fett>62 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>56 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>200 g</quant>
+          <zutat>rezenter Tilsiter</zutat>
+          <quant>600 g</quant>
+          <zutat>Raclettekaese</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>helles Bier oder alkoholfreies Bier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kuemmel</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+          <quant>800 g</quant>
+          <zutat>Laugenbroetli (z.B. Bio Silserkranz oder Silserzoepfli)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Speckwuerfeli im Caquelon langsam knusprig braten, Knoblauch kurz mitbraten. Caquelon von der Platte nehmen. Kaese reiben, mit dem Maizena beigeben, alles mischen. Bier und Zitronensaft dazugiessen. Unter Ruehren aufkochen, bei kleiner Hitze weiterkoecheln, bis der Kaese geschmolzen ist. Fondue wuerzen. Laugenbroetli in Wuerfel schneiden, zum Fondue servieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

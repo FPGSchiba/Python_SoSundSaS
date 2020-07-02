@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>508 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bananen-Jogurt-Masse_>
+          <quant>1 Becher</quant>
+          <zutat>griechischer Jogurt nature (150 g)</zutat>
+          <quant>2 </quant>
+          <zutat>reife Bananen</zutat>
+      </Bananen-Jogurt-Masse_>
+      <Teig_     >
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Sonnenblumenoel (2 dl)</zutat>
+          <quant>1 Becher</quant>
+          <zutat>gemahlener Rohzucker (150 g)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>3 Becher </quant>
+          <zutat>Weissmehl (ca. 300 g)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Kokosraspel (ca. 50 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade (Cremant)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Mandel (50 g)</zutat>
+      </Teig_     >
+      <Cupcakes  >
+          <quant>1 1/2 Becher </quant>
+          <zutat>Rahm (2 dl)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schokoladenpulver</zutat>
+          <quant> </quant>
+          <zutat>Nonpareilles nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Zuckerverzierung nach Bedarf</zutat>
+          <quant>1 Becher</quant>
+          <zutat>griechischer Jogurt nature (150 g)</zutat>
+          <quant>2 </quant>
+          <zutat>reife Bananen</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Sonnenblumenoel (2 dl)</zutat>
+          <quant>1 Becher</quant>
+          <zutat>gemahlener Rohzucker (150 g)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>3 Becher </quant>
+          <zutat>Weissmehl (ca. 300 g)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Kokosraspel (ca. 50 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade (Cremant)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Mandel (50 g)</zutat>
+          <quant>1 1/2 Becher </quant>
+          <zutat>Rahm (2 dl)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schokoladenpulver</zutat>
+          <quant> </quant>
+          <zutat>Nonpareilles nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Zuckerverzierung nach Bedarf</zutat>
+      </Cupcakes  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vorbereitung                  </inhalt>
+      </How_To    >
+      <Vorbereitung>
+          <inhalt>Vertiefungen des Muffinblechs mit Papierfoermchen auslegen. </inhalt>
+      </Vorbereitung>
+      <How_To1   >
+          <inhalt>                              </inhalt>
+      </How_To1   >
+      <Bananen-Jogurt-Masse_>
+          <inhalt>Vanilleschote laengs aufschneiden, Samen auskratzen, mit dem Oel und allen Zutaten bis und mit Eier mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse heller ist. </inhalt>
+      </Bananen-Jogurt-Masse_>
+      <Teig_     >
+          <inhalt>Schokolade und Mandeln grob hacken, </inhalt>
+      </Teig_     >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. Muffins aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Cupcakes  >
+          <inhalt>Rahm und Schokoladenpulver mit den Schwingbesen des Handruehrgeraets steif schlagen. Rahm auf den Muffins verteilen. </inhalt>
+      </Cupcakes  >
+   </rezept>
+</Rezept>

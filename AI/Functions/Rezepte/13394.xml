@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>61 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pitahaya-Gelee>
+          <quant>100 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>1 </quant>
+          <zutat>Pitahaya geschaelt, halbiert</zutat>
+          <quant>1 dl</quant>
+          <zutat>Kokoswasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Agar-Agar (Morga)</zutat>
+      </Pitahaya-Gelee>
+      <Smoothie  >
+          <quant>1 </quant>
+          <zutat>Pitahaya, halbiert</zutat>
+          <quant>15 </quant>
+          <zutat>Litchis, geruestet</zutat>
+          <quant>1 dl</quant>
+          <zutat>Kokoswasser</zutat>
+      </Smoothie  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pitahaya-Gelee                </inhalt>
+      </How_To    >
+      <Pitahaya-Gelee>
+          <inhalt>Eine Pitahaya-Haelfte in ca. 5 mm dicke Scheiben schneiden. Bei der anderen Haelfte weisses Fruchtfleisch herausloesen, pinkes Aeusseres beiseite stellen. Brombeeren, herausgeloestes, weisses Pitahayafruchtfleisch und Kokoswasser zusammen puerieren, in eine Pfanne geben.</inhalt>
+      </Pitahaya-Gelee>
+      <How_To1   >
+          <inhalt>Aus der Form nehmen und in ca. 1 cm grosse Wuerfel schneiden. </inhalt>
+      </How_To1   >
+      <Smoothie  >
+          <inhalt>Von der Pitahaya mit dem Kugelausstecher ca. 12 Kugeln ausloesen. Restliches Fruchtfleisch, beiseite gestelltes, pinkes Aeusseres, Litchis und Kokoswasser zusammen puerieren, kuehlstellen. Smoothie in Glaeser fuellen, mit Pitahayakugeln und -scheiben und Geleewuerfel servieren.</inhalt>
+      </Smoothie  >
+   </rezept>
+</Rezept>

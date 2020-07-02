@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>441 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Eimasse   >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale</zutat>
+      </Eimasse   >
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Nelkenpulver</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>300 g</quant>
+          <zutat>Himbeerkonfituere</zutat>
+          <quant>5 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>20 g</quant>
+          <zutat>Mandelblaettchen</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Eimasse                       </inhalt>
+      </How_To    >
+      <Eimasse   >
+          <inhalt>Teig                          </inhalt>
+      </Eimasse   >
+      <Teig      >
+          <inhalt>Formen                        </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Restlichen Teig mit dem Mehl mischen, kurz kneten, zwischen einem aufgeschnittenen Plastikbeutel ca. 4 mm dick auswallen, ca. 15 Min. kuehl stellen. Teig mit einem Messer oder einem Teigraedchen in ca. 1 cm breite Streifen schneiden, gitterartig auf die Konfituere legen, am Rand leicht andruecken. Teig mit wenig Ei bestreichen, Mandelblaettchen auf dem Teigrand verteilen. </inhalt>
+      </Formen    >
+      <Backen_   >
+          <inhalt>Ca. 40 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Linzertorte auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

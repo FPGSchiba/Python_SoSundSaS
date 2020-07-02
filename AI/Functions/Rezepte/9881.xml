@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>488 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>4 </quant>
+          <zutat>Rindsplaetzli (a la minute), je ca. 150 g</zutat>
+          <quant> </quant>
+          <zutat>Erdnussoel zum Braten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>400 g</quant>
+          <zutat>Lattich</zutat>
+      </Fleisch   >
+      <Nudeln    >
+          <quant>3 Staengel</quant>
+          <zutat>Zitronengras </zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>250 g</quant>
+          <zutat>chinesische Nuedeli</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+      </Nudeln    >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Fleisch in Streifen schneiden. Im Wok im heissen Oel portionenweise je ca. 1 Min. ruehrbraten, herausnehmen, wuerzen. Lattich in Streifen schneiden, ca. 2 Min. ruehrbraten, herausnehmen. </inhalt>
+      </Fleisch   >
+      <Nudeln    >
+          <inhalt>Zitronengras halbieren, quetschen. Chili entkernen, in Ringe schneiden. Bouillon und Kokosmilch in dieselbe Pfanne giessen, Gewuerze beigeben, aufkochen. Nudeln beigeben, al dente kochen. Fleisch und Gemuese beigeben, nur noch heiss werden lassen, mit Limettensaft betraeufeln.</inhalt>
+      </Nudeln    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=qaDaRQedbIk"/>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+</Rezept>

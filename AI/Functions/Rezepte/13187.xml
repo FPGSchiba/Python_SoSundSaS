@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>270 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>130 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>2 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>5 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (64% Kakao), grob gehackt</zutat>
+      </Teig      >
+      <Verzieren >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und alle Zutaten bis und mit Salz in einer Schuessel mischen. Wasser und Oel dazugiessen, mischen, Schokolade daruntermischen. Teig ins vorbereitete Blech verteilen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 22 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Muffins herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Verzieren >
+          <inhalt>Muffins mit Puderzucker bestaeuben.</inhalt>
+      </Verzieren >
+   </rezept>
+</Rezept>

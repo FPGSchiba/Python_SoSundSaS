@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>202 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dressing  >
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Dressing  >
+      <Salat     >
+          <quant>150 g</quant>
+          <zutat>gemischter Blattsalat</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Scheiben</zutat>
+          <quant>2 TL</quant>
+          <zutat>Pekannuesse, gehackt</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Dressing  >
+          <inhalt>Essig und Oel verruehren, wuerzen. </inhalt>
+      </Dressing  >
+      <Salat     >
+          <inhalt>Salat auf Tellern anrichten, Dressing daruebertraeufeln. Erdbeeren, Zwiebeln und Avocado darauf verteilen, Nuesse darueberstreuen.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

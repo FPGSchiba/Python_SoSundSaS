@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>157 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bagels    >
+          <quant>250 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+          <quant>1 1/5 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb, verduennt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Mohn</zutat>
+          <quant>1 TL</quant>
+          <zutat>grobkoerniges Salz</zutat>
+      </Bagels    >
+      <Fuellung   >
+          <quant>125 g</quant>
+          <zutat>Frischkaese mit Meerrettich (z.B. Cantadou)</zutat>
+          <quant>120 g</quant>
+          <zutat>geraeucherter Lachs in Tranchen (Bio)  (z. B. Coop Fine Food Wild Silver Salmon)</zutat>
+          <quant>10 </quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>20 g</quant>
+          <zutat>Kresse</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bagels                        </inhalt>
+      </How_To    >
+      <Bagels    >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter, Milch und Eiweiss beigeben, mischen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Bagels    >
+      <How_To1   >
+          <inhalt>Formen: Teig zu einer Rolle formen, in 12 Stuecke schneiden, zu Kugeln formen. Mit dem Finger in der Mitte jeder Kugel ein Loch machen. Teigringe um den Finger kreisen lassen, bis eine Oeffnung von ca. 3 cm Ø entsteht. Teigringe auf ein mit Backpapier belegtes Blech legen, zugedeckt ca. 15 Min. aufgehen lassen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </How_To2   >
+      <Fuellung   >
+          <inhalt>Bagels quer halbieren, mit Cantadou bestreichen. Lachs, Radiesli und Kresse in die Bagels verteilen.</inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

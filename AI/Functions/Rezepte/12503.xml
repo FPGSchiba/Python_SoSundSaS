@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>225 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>160 g</quant>
+          <zutat>Butterguetzli (z.B. Petit Beurre)</zutat>
+          <quant>80 g</quant>
+          <zutat>Aprikosenkonfituere</zutat>
+      </Boden     >
+      <Jogurtmousse>
+          <quant>500 g</quant>
+          <zutat>Aprikosen-Jogurt</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>7 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Jogurtmousse>
+      <Fruchtgelee>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>5 Beutel</quant>
+          <zutat>Fruechtetee (z.B. Erdbeer, Himbeer und Rhabarber)</zutat>
+          <quant>5 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt</zutat>
+      </Fruchtgelee>
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Springformring auf eine Tortenplatte stellen. Guetzli kreisfoermig leicht uebereinander auf dem Boden verteilen. Konfituere in einen Einweg-Spritzsack fuellen. Spitze abschneiden, Konfiture auf den Guetzli verteilen.</inhalt>
+      </Boden     >
+      <Jogurtmousse>
+          <inhalt>Jogurt und Zucker in einer Schuessel gut verruehren. Gelatine mit dem siedenden Wasser aufloesen, mit 2 EL Jogurtmasse mischen, sofort gut unter die restliche Jogurtmasse ruehren. Rahm steif schlagen, auf die Jogurtmasse geben. Eiweiss mir dem Salz steif schlagen, Eischnee mit dem Schlagrahm sorgfaeltig darunterziehen. Jogurtmasse auf den Guetzli verteilen, glatt streichen. Torte zugedeckt ca. 3 Std. im Kuehlschrank fest werden lassen. </inhalt>
+      </Jogurtmousse>
+      <Fruchtgelee>
+          <inhalt>Wasser, Zitronensaft und Zucker in einer Pfanne aufkochen, von der Platte nehmen, Teebeutel beigeben, ca. 5 Min. ziehen lassen. Beutel entfernen, Gelatine unter die heisse Fluessigkeit ruehren, etwas abkuehlen. Gelee auf die Torte giessen, im Kuehlschrank ca. 1 Std. fest werden lassen. Formenrand sorgfaeltig entfernen.</inhalt>
+      </Fruchtgelee>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

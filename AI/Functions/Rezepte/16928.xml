@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>916 kcal</NaehrwertProPerson>
+       <Fett>82 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gerste    >
+          <quant>200 g</quant>
+          <zutat>geschaelte Rollgerste</zutat>
+          <quant>400 g</quant>
+          <zutat>Pastinaken, grob gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Gerste    >
+      <Leinsamen >
+          <quant>3 EL</quant>
+          <zutat> geschrotete Leinsamen</zutat>
+      </Leinsamen >
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>300 g</quant>
+          <zutat>gemischte  Pilze, grob gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Pastinaken, in Wuerfeli</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Steinpilze, ca. 5 Min. in Wasser eingeweicht, abgetropft, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in Streifen</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+      </Gemuese    >
+      <Bratenmasse>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fenchelsamen, geroestet, zerstossen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Bratenmasse>
+      <Garnitur  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>gemischte  Pilze, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Salbei, Blaetter abgezupft</zutat>
+      </Garnitur  >
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein geschnitten</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Gerste    >
+          <inhalt>Gerste und Pastinaken im siedenden Salzwasser ca. 35 Min. kochen, abtropfen, dabei ca. 1 dl Kochwasser auffangen, beiseite stellen. </inhalt>
+      </Gerste    >
+      <Leinsamen >
+          <inhalt>Leinsamen und das beiseite gestellten Kochwasser mischen, ca. 30 Min. ziehen lassen. </inhalt>
+      </Leinsamen >
+      <Gemuese    >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Pilze und Pastinaken unter gelegentlichem Ruehren ca. 5 Min. braten. Hitze reduzieren, Schalotte und Knoblauch beigeben, daempfen, bis die entstandene Fluessigkeit vollstaendig verdampft ist.</inhalt>
+      </Gemuese    >
+      <Bratenmasse>
+          <inhalt>Nuesse und alle Zutaten bis und mit Pfeffer mit der Gerste, den Leinsamen und dem Gemuese mischen. Masse von Hand kneten, bis sich die Zutaten zu einer kompakten Masse verbinden, in die vorbereitete Form fuellen. </inhalt>
+      </Bratenmasse>
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf eine Platte stuerzen.  </inhalt>
+      </Backen    >
+      <Garnitur  >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Pilze ca. 5 Min. ruehrbraten, wuerzen, beiseite stellen. Oel in derselben Pfanne erhitzen, Salbeiblaetter knusprig braten, auf einem Haushaltspapier abtropfen, mit den Pilzen auf dem Gersten-Pilzkranz anrichten. </inhalt>
+      </Garnitur  >
+      <Sauce     >
+          <inhalt>Oel in einer Pfanne erwaermen, Schalotte ca. 5 Min. andaempfen. Wein dazugiessen, fast vollstaendig einkochen. Rahm dazugiessen, ca. 5 Min. einkoecheln, puerieren. Zitronenschale beigeben, wuerzen. Sauce zum Braten servieren.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

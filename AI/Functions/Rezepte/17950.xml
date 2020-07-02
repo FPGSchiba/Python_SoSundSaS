@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>460 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>3/4 Paeckli</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Fuellungen >
+          <quant>4 </quant>
+          <zutat>Wienerli</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, laengs halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti (klein), laengs halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kernenmix</zutat>
+      </Fuellungen >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Hefe in einer Schuessel mischen. Wasser, Oel und Salz beigeben, mischen, zu einem weichen Teig verarbeiten, einige Minuten kneten. Teig zugedeckt ca. 30 Min. ruhen lassen.</inhalt>
+      </Teig      >
+      <Fuellungen >
+          <inhalt>Den Teig in 8 gleich grosse Stuecke teilen, ca. 20 cm lange Straenge formen. Je einen Strang um Wuerstchen und Gemuese-Haelften wickeln, auf ein mit Backpapier belegtes Blech legen. Mit wenig Wasser bestreichen, Kernen darueberstreuen.</inhalt>
+      </Fuellungen >
+      <Backen:   >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen:   >
+   </rezept>
+</Rezept>

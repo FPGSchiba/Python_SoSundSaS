@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>286 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Gipfeli- und Plunderteig oder Blaetterteig</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>Apfel, geviertelt, entkernt, laengs in duennen Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haselnuesse, geroestet, grob gehackt</zutat>
+          <quant>4 </quant>
+          <zutat>Schokolade-Staengeli (Branchli, je ca. 23 g), in Stuecken</zutat>
+      </Fuellung   >
+      <Verzieren_&amp;_Backen>
+          <quant>wenig </quant>
+          <zutat>Kaffeerahm zum Bestreichen</zutat>
+          <quant>wenig </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Verzieren_&amp;_Backen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Fuellung                       </inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Verzieren &amp; Backen        </inhalt>
+      </Fuellung   >
+      <Verzieren_&amp;_Backen>
+          <inhalt>Backen: ca. 20 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. Vor dem Servieren mit Puderzucker bestaeuben.</inhalt>
+      </Verzieren_&amp;_Backen>
+   </rezept>
+</Rezept>

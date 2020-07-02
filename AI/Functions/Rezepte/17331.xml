@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>182 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace     >
+          <quant>300 g</quant>
+          <zutat>Bananen, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, wenig abgeriebene Schale und ganzer Saft</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>2 TL</quant>
+          <zutat>Honig</zutat>
+      </Glace     >
+      <Toppings  >
+          <quant>100 g</quant>
+          <zutat>gemischte Beeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaettchen</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Glace     >
+          <inhalt>Bananen auf ein Backblech legen, ueber Nacht gefrieren. Ca. 5 Min. antauen, mit Limettenschale und -saft, Mandel-Drink und Honig im Mixglas einige Minuten zu einer cremigen Glace puerieren.  </inhalt>
+      </Glace     >
+      <Toppings  >
+          <inhalt>Glace in Schalen anrichten, mit Beeren, Kokosnuss-Streifen und Minze verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

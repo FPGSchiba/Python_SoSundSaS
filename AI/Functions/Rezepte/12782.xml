@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>967 kcal</NaehrwertProPerson>
+       <Fett>51 g  </Fett>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>53 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaetzli   >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaetzli   >
+      <Bohnen    >
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Bohnen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz oder Aromat</zutat>
+      </Bohnen    >
+      <Rahmschnitzel>
+          <quant>8 </quant>
+          <zutat>Kalbsplaetzli (z.B. Nuss, Eckstueck, je ca. 80 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Rahmschnitzel>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spaetzli                       </inhalt>
+      </How_To    >
+      <Spaetzli   >
+          <inhalt>Teig portionenweise mit einem nassen Spachtel auf einem nassen Brett ausstreichen. Mit dem Spachtel schmale Teigstreifen vom Brett direkt ins siedende Salzwasser schaben, dabei den Spachtel immer wieder ins siedende Wasser tauchen. Sobald die Spaetzli an die Oberflaeche steigen, mit einer Schaumkelle herausnehmen, warm stellen.</inhalt>
+      </Spaetzli   >
+      <Bohnen    >
+          <inhalt>Knoblauch hacken, in der Butter andaempfen. Bohnen beigeben, ca. 3 Min. mitdaempfen. Wasser dazugiessen, aufkochen, zugedeckt ca. 20 Min. koecheln. Vor dem Servieren mit Salz/Aromat wuerzen.</inhalt>
+      </Bohnen    >
+      <Rahmschnitzel>
+          <inhalt>Plaetzli wuerzen, mit wenig Mehl bestaeuben. Bratbutter in einer Bratpfanne erhitzen, Plaetzli portionenweise beidseitig je ca. 1 1/2 Min. anbraten, herausnehmen. Zwiebel hacken, in derselben Pfanne in wenig Bratbutter andaempfen. Bouillon dazugiessen, bis auf 2 EL einkoecheln. Rahm dazugiessen, unter gelegentlichem Ruehren bei kleiner Hitze auf ca. 3 dl einkoecheln, bis die Sauce saemig ist, Sauce wuerzen. Plaetzli in die Sauce geben, nur heiss werden lassen, zusammen mit den Bohnen und den Spaetzli servieren.</inhalt>
+      </Rahmschnitzel>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

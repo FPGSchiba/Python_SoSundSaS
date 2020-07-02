@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>301 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Leber     >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>geschnetzelte Kalbsleber</zutat>
+      </Leber     >
+      <Zwiebeln  >
+          <quant>400 g</quant>
+          <zutat>Zwiebeln, in Streifen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rindsbouillon</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+      </Zwiebeln  >
+   </einkaufliste>
+   <rezept>
+      <Leber     >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Leber, portionenweise je ca. 1 Min. braten, herausnehmen, warm stellen. </inhalt>
+      </Leber     >
+      <Zwiebeln  >
+          <inhalt>Hitze reduzieren, Zwiebeln in derselben Pfanne ca. 2 Min. andaempfen. Wein und Bouillon dazugiessen, Zwiebeln ca. 10 Min. weich koecheln. Leber wuerzen, Petersilie und Butter beigeben, sofort servieren. </inhalt>
+      </Zwiebeln  >
+   </rezept>
+</Rezept>

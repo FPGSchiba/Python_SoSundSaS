@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>797 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>115 g </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>10 g</quant>
+          <zutat>gesalzene Butter, in Stuecken</zutat>
+          <quant>400 g</quant>
+          <zutat>Birnen, geschaelt, entkernt, in Vierteln</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig </zutat>
+          <quant> </quant>
+          <zutat>Fine Food Messolongi Fleur de Sel , nach Belieben</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ofen auf 220Grad C vorheizen. Zucker auf dem vorbereiteten Blech verteilen.  Caramelisieren: ca. 10 Min. in der unteren Haelfte des auf 220Grad C vorgeheizten Ofens, bis der Zucker hellbraun ist. Herausnehmen, Butter auf dem Caramel verteilen, fluessig werden lassen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Birnen mit den Schnittflaechen nach unten dicht nebeneinander in das Caramel legen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: 10 Min. in der Mitte des auf 220Grad C vorgeheizten Ofens. Herausnehmen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Teig mit einer Gabel dicht einstechen, locker ueber die Birnen legen. Teigrand leicht andruecken. </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Fertig backen: nach ca. 15 Min. Tarte herausnehmen, 5 Min. ruhen lassen. Tarte sorgfaeltig stuerzen, nach Belieben mit wenig Fleur de Sel wuerzen, warm servieren.</inhalt>
+      </How_To4   >
+   </rezept>
+</Rezept>

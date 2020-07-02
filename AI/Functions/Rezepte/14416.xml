@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>311 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dunkle_Mandelcreme>
+          <quant>2 EL</quant>
+          <zutat>dunkles Mandelmus</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>4 </quant>
+          <zutat>Frischback-Sesam-Bagels</zutat>
+      </Dunkle_Mandelcreme>
+      <Kokos-Mandel-Creme>
+          <quant>2 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig oder Ahornsirup</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>4 </quant>
+          <zutat>Frischback-Sesam-Bagels</zutat>
+      </Kokos-Mandel-Creme>
+      <Beeren-Chia-Jam>
+          <quant>125 g</quant>
+          <zutat>Heidelbeeren, frisch oder tiefgekuehlt</zutat>
+          <quant>125 g</quant>
+          <zutat>Himbeeren, frisch oder tiefgekuehlt</zutat>
+          <quant>einige </quant>
+          <zutat>Zitronenmelisse-Blaetter, fein geschnitten</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Chia-Samen</zutat>
+          <quant>3 1/2 EL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>4 </quant>
+          <zutat>Frischback-Sesam-Bagels</zutat>
+      </Beeren-Chia-Jam>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Dunkle Mandelcreme            </inhalt>
+      </How_To    >
+      <Dunkle_Mandelcreme>
+          <inhalt>Alle Zutaten zu einer glatten Masse verruehren, kuehl stellen.</inhalt>
+      </Dunkle_Mandelcreme>
+      <How_To1   >
+          <inhalt>Die Bagels nach Verpackungsanleitung aufbacken, mit der Creme fuellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Alle Zutaten zu einer glatten Masse verruehren, kuehl stellen.</inhalt>
+      </How_To2   >
+      <Kokos-Mandel-Creme>
+          <inhalt>Beeren-Chia-Jam               </inhalt>
+      </Kokos-Mandel-Creme>
+      <Beeren-Chia-Jam>
+          <inhalt>Die Bagels nach Verpackungsanleitung aufbacken, mit der Beeren-Chia-Jam fuellen.</inhalt>
+      </Beeren-Chia-Jam>
+   </rezept>
+</Rezept>

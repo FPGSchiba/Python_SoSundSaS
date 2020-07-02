@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>558 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereiten>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli, in Scheiben</zutat>
+          <quant>300 g</quant>
+          <zutat>Baby-Kartoffeln, in Schnitzen</zutat>
+          <quant> </quant>
+          <zutat>Oel, zum Braten</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Bratensauce (z.B. Knorr Bratensauce s`Wunder)</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Vorbereiten>
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten>
+          <inhalt>Hackfleisch und alle Zutaten bis und mit Pfeffer in eine Schuessel geben, von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbunden haben, Masse zu einem ca. 15 cm langen Braten formen. Rueebli und Kartoffeln in das Bratgeschirr legen. Oel in einer beschichteten Bratpfanne heiss werden lassen. Hackbraten rundum ca. 5 Min. anbraten, erst wenden, wenn sich eine Kruste gebildet hat. Braten ins Bratgeschirr auf die Rueebli und Kartoffeln legen.Wasser in dieselbe Bratpfanne giessen, Bratsatz loesen, etwas einkoecheln. Bratensauce beigeben, Fluessigkeit aufkochen, neben den Braten giessen, wuerzen.</inhalt>
+      </Vorbereiten>
+      <Braten_im_Ofen_>
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Braten herausnehmen, tranchieren, mit den Ofenkartoffeln, den Rueebli und der Sauce anrichten</inhalt>
+      </Braten_im_Ofen_>
+   </rezept>
+</Rezept>

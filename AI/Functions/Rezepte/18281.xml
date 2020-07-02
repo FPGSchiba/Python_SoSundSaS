@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>518 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter, fluessig, ausgekuehlt</zutat>
+      </Teig      >
+      <Kompott   >
+          <quant>500 g</quant>
+          <zutat>Zwetschgen, in Vierteln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 </quant>
+          <zutat>Sternanise</zutat>
+          <quant>2 </quant>
+          <zutat>Kardamomkapseln</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+      </Kompott   >
+      <Crepes    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Backen</zutat>
+      </Crepes    >
+      <Anrichten >
+          <quant>500 ml</quant>
+          <zutat>Glace Fior di Latte</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Salz in eine Schuessel geben, mischen, in der Mitte eine Mulde eindruecken. Milchwasser, Eier und Butter verruehren, nach und nach unter Ruehren mit dem Schwingbesen in die Mulde giessen, weiterruehren, bis der Teig glatt ist. Teig zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </Teig      >
+      <Kompott   >
+          <inhalt>Zwetschgen mit Zucker, Zitronensaft und Gewuerzen in einer Pfanne mischen, aufkochen. Hitze reduzieren, zugedeckt ca. 15 Min. knapp weich koecheln, auskuehlen. </inhalt>
+      </Kompott   >
+      <Crepes    >
+          <inhalt>Wenig Bratbutter in einer beschichteten Bratpfanne erwaermen. Ca. 1/8 des Teigs in die Pfanne geben, dass der Boden duenn ueberzogen ist, Hitze reduzieren. Ist die Unterseite gebacken und loest sie sich von selbst, Crepe wenden, fertig backen, auf ein Gitter geben. Mit dem restlichen Teig ca. 7 weitere Crepes backen, Teig immer wieder gut durchruehren.</inhalt>
+      </Crepes    >
+      <Anrichten >
+          <inhalt>Aus der Glace Kugeln formen, diese mit der Haelfte des Zwetschgenkompotts auf den Crepes verteilen, Crepes aufrollen, restliches Zwetschgenkompott dazu servieren.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

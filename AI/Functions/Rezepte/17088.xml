@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>468 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fisch     >
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>600 g</quant>
+          <zutat>Pangasiusfilets, in ca. 3 cm grossen Wuerfeln</zutat>
+      </Fisch     >
+      <Rouladen_ >
+          <quant>8 </quant>
+          <zutat>Wirzblaetter</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Rouladen_ >
+      <Suesskartoffelstock>
+          <quant>800 g</quant>
+          <zutat>Suesskartoffeln, geschaelt, in ca. 3 cm grossen Wuerfeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Suesskartoffelstock>
+      <Pangasius-Wirz-Roulade_>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>wenig </quant>
+          <zutat>Dill, fein geschnitten</zutat>
+      </Pangasius-Wirz-Roulade_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fisch                         </inhalt>
+      </How_To    >
+      <Fisch     >
+          <inhalt>Rouladen                      </inhalt>
+      </Fisch     >
+      <Rouladen_ >
+          <inhalt>Suesskartoffelstock            </inhalt>
+      </Rouladen_ >
+      <Suesskartoffelstock>
+          <inhalt>Pangasius-Wirz-Roulade        </inhalt>
+      </Suesskartoffelstock>
+      <Pangasius-Wirz-Roulade_>
+          <inhalt>Maizena mit dem Wasser anruehren, zur Bouillon giessen, ca. 3 Min. koecheln, Rouladen wieder beigeben, nur noch warm werden lassen. Wenig Dill darueberstreuen. </inhalt>
+      </Pangasius-Wirz-Roulade_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>544 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gebrannte_Mandeln_>
+          <quant>100 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Gebrannte_Mandeln_>
+      <Schokolade_schmelzen_>
+          <quant>300 g</quant>
+          <zutat>weisse Schokolade (z.B. aus weissen Schokoladenhasen), fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>Milchschokolade (z.B. aus Milch-Schokoladenhasen), fein gehackt</zutat>
+      </Schokolade_schmelzen_>
+      <Bruchschokolade_>
+          <quant>50 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zuckereili</zutat>
+      </Bruchschokolade_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gebrannte Mandeln             </inhalt>
+      </How_To    >
+      <Gebrannte_Mandeln_>
+          <inhalt>Mandeln auf einem Backpapier verteilen, auskuehlen, grob hacken.</inhalt>
+      </Gebrannte_Mandeln_>
+      <Schokolade_schmelzen_>
+          <inhalt>Weisse und Milch-Schokolade je in einer duennwandigen Schuessel ueber dem nur leicht siedenden Wasserbad schmelzen, glatt ruehren.</inhalt>
+      </Schokolade_schmelzen_>
+      <Bruchschokolade_>
+          <inhalt>Weisse Schokolade auf ein Backpapier giessen. Milch-Schokolade mit einem Essloeffel darauf verteilen, mit Hilfe eines Holzspiesschens marmorieren. mit Mandeln, Kokosraspeln und Zuckereili dekorieren. </inhalt>
+      </Bruchschokolade_>
+   </rezept>
+</Rezept>

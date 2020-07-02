@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>15 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Cocktail  >
+          <quant>3 dl</quant>
+          <zutat>Multifruchtsaft Exotik</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rueeblisaft</zutat>
+          <quant>3 dl</quant>
+          <zutat>Schaumwein</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Kerbel, untere Blaetter weggezupft</zutat>
+      </Cocktail  >
+   </einkaufliste>
+   <rezept>
+      <Cocktail  >
+          <inhalt>Multifrucht- und Rueeblisaft verruehren, in die Glaeser fuellen. Schaumwein dazugiessen, Kerbelstaengel in die Glaeser stellen. </inhalt>
+      </Cocktail  >
+   </rezept>
+</Rezept>

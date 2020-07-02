@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>139 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Riso_Venere>
+          <quant>1 </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Venere-Reis</zutat>
+          <quant>1 dl</quant>
+          <zutat>Prosecco</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Riso_Venere>
+      <Arancini  >
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>70 g</quant>
+          <zutat>Parmesan, gerieben</zutat>
+          <quant>25 g</quant>
+          <zutat>Parmesan am Stueck, ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant> </quant>
+          <zutat>Oel (z.B. Erdnussoel), zum Fritieren</zutat>
+      </Arancini  >
+   </einkaufliste>
+   <rezept>
+      <Riso_Venere>
+          <inhalt>Olivenoel in einer Pfanne warm werden lassen, Zwiebel beigeben, ca. 1 Min. andaempfen. Reis beigeben, kurz mitduensten, Prosecco dazugiessen, vollstaendig einkochen. Bouillon unter Ruehren nach und nach dazugiessen, so dass der Reis immer knapp mit Fluessigkeit bedeckt ist, wuerzen, etwas abkuehlen lassen. </inhalt>
+      </Riso_Venere>
+      <Arancini  >
+          <inhalt>Ei und Parmesan unter den lauwarmen Reis mischen, auskuehlen. 1 gehaeufter EL Reis in die Handflaeche geben, Vertiefung eindruecken, 1 Parmesanwuerfel hineingeben, diesen mit 1 EL Reis bedecken und zu einer Kugel formen. Mit der restlichen Masse gleich verfahren.  Ei, Mehl und Paniermehl je in einen tiefen Teller geben. Reiskugeln nacheinander im Mehl, Ei, Paniermehl wenden, Panade gut andruecken.  Eine Pfanne ca. 3 cm mit dem Oel fuellen, warm werden lassen. Reiskugeln portionenweise rundum bei mittlerer Hitze je ca. 4 Min. halbschwimmend backen. Herausnehmen, auf Haushaltspapier abtropfen.   </inhalt>
+      </Arancini  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

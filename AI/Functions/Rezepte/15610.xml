@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>202 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Teig      >
+      <Guss      >
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker (ca. 8 g)</zutat>
+      </Guss      >
+      <Formen    >
+          <quant>16 </quant>
+          <zutat>Schokoladen-Ostereili (je ca. 10 g)</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter und alle Zutaten bis und mit Ei zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Guss      >
+          <inhalt>Milch und Vanillezucker aufkochen, beiseite stellen. </inhalt>
+      </Guss      >
+      <Formen    >
+          <inhalt>Teig in 16 gleich grosse Stuecke teilen, zu Kugeln formen, flach druecken, sodass Rondellen von je ca. 8 cm Ø entstehen. Je 1 Schokolade-Ostereili in die Mitte der Rondellen legen, Teigraender darueber zusammendruecken, wieder zu Kugeln formen, mit dem Verschluss nach unten in die vorbereitete Form legen, Guss daruebergiessen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, warm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

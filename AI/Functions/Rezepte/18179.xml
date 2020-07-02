@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>289 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>160 g</quant>
+          <zutat>Butterguetzli (z.B. Petit Beurre), zerstossen</zutat>
+          <quant>90 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>50 g</quant>
+          <zutat>Brombeerkonfituere</zutat>
+      </Boden     >
+      <Fuellung   >
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>80 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Brombeeren</zutat>
+      </Fuellung   >
+      <Backen    >
+          <quant>300 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Guetzli, Butter, Zitronenschale und Salz mischen. Masse in die vorbereitete Form geben, flach druecken, gut andruecken, ca. 30 Min. kuehl stellen. Konfituere darauf verteilen. </inhalt>
+      </Boden     >
+      <Fuellung   >
+          <inhalt>Frischkaese und alle Zutaten bis und mit Salz mit den Schwingbesen des Handruehrgeraets verruehren. Brombeeren darunterruehren, auf dem Boden verteilen. </inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>Ca. 60 Min. in der unteren Haelfte des auf 170 Grad vorgeheizten Ofens. Herausnehmen, in der Form auskuehlen, in Wuerfel schneiden. Brombeeren, Zitronensaft und Puderzucker mischen, dazu servieren. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

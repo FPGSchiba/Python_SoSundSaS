@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>631 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hackfleisch>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Hackfleisch>
+      <Hoernli_   >
+          <quant>300 g</quant>
+          <zutat>Hoernli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Hoernli_   >
+      <Hoernli-Raclette_>
+          <quant>200 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>200 g</quant>
+          <zutat>Apfelmus</zutat>
+      </Hoernli-Raclette_>
+   </einkaufliste>
+   <rezept>
+      <Hackfleisch>
+          <inhalt>Oel in einer Bratpfanne erhitzen. Zwiebel kurz andaempfen, Tomatenpueree kurz mitdaempfen. Fleisch ca. 8 Min. anbraten, wuerzen. </inhalt>
+      </Hackfleisch>
+      <Hoernli_   >
+          <inhalt>Hoernli in Salzwasser knapp al dente kochen, abtropfen, mit dem Fleisch mischen. </inhalt>
+      </Hoernli_   >
+      <Hoernli-Raclette_>
+          <inhalt>Hackfleisch-Hoernli-Mischung in die Raclette-Pfaennchen verteilen, Kaese darauf verteilen. Unter dem Raclette-Ofen-Grill ca. 5 Min. schmelzen. Apfelmus dazu servieren. </inhalt>
+      </Hoernli-Raclette_>
+   </rezept>
+</Rezept>

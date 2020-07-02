@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>472 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch_marinieren>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honigsenf</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 2 EL Saft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>300 g</quant>
+          <zutat>Kalbsplaetzli (je ca. 2 mm dick)</zutat>
+          <quant>300 g</quant>
+          <zutat>Schweinsplaetzli  (je ca. 2 mm dick)</zutat>
+      </Fleisch_marinieren>
+      <Paprika-Dip>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>75 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ajvar (Peperoni-Creme) (mild)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Paprika-Dip>
+      <Tartar-Dip>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>75 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>2 </quant>
+          <zutat>Essiggurken, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kapern, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schnittlauch, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tartar-Dip>
+      <Tatarenhut>
+          <quant>3 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>100 g</quant>
+          <zutat>Rueebli, in feinen Streifen</zutat>
+          <quant>50 g</quant>
+          <zutat>Rettich, in feinen Streifen</zutat>
+          <quant>50 g</quant>
+          <zutat>Rotkabis, in feinen Streifen</zutat>
+          <quant>50 g</quant>
+          <zutat>Wirz, in feinen Streifen</zutat>
+          <quant>60 </quant>
+          <zutat>Bratspeck in Tranchen</zutat>
+          <quant>100 </quant>
+          <zutat>braune Champignons, in ca. 3 mm dicken Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Tatarenhut>
+   </einkaufliste>
+   <rezept>
+      <Fleisch_marinieren>
+          <inhalt>Oel und alle Zutaten bis und mit Pfeffer verruehren. Die Haelfte der Marinade, mit den Schweinsplaetzli, Rest mit den Kalbsplaetzli mischen, zugedeckt im Kuehlschrank mind. 1 Std. marinieren.</inhalt>
+      </Fleisch_marinieren>
+      <Paprika-Dip>
+          <inhalt>Sauren Halbrahm mit Quark und Ajvar verruehren, wuerzen.</inhalt>
+      </Paprika-Dip>
+      <Tartar-Dip>
+          <inhalt>Sauren Halbrahm mit Quark verruehren, Essiggurken, Kapern und Schnittlauch darunterruehren, wuerzen.</inhalt>
+      </Tartar-Dip>
+      <Tatarenhut>
+          <inhalt>Rand des Tatarenhuts mit Bouillon fuellen, Gemuese darin verteilen. Zu Beginn einige Specktranchen am Tatarenhut anbraten (so wird die Oberflaeche gefettet). Danach wahlweise mariniertes Fleisch, Speck und Pilze am Tatarenhut aufspiessen und anbraten, salzen. </inhalt>
+      </Tatarenhut>
+   </rezept>
+</Rezept>

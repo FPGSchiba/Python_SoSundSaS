@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>156 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Beeren_einfuellen>
+          <quant>200 g</quant>
+          <zutat>Beeren (z.B. Himbeeren, Johannisbeeren und Heidelbeeren)</zutat>
+      </Beeren_einfuellen>
+      <Glace     >
+          <quant>1 dl</quant>
+          <zutat>Zitronensirup</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant>8 </quant>
+          <zutat>Holzstaengeli oder Papierroehrli</zutat>
+      </Glace     >
+      <Dekorieren>
+          <quant>1/2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 60 g) , geschmolzen</zutat>
+          <quant>30 g</quant>
+          <zutat>weisse Schokolade, fein gerieben</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <Beeren_einfuellen>
+          <inhalt>Beeren in die Behaelter verteilen.</inhalt>
+      </Beeren_einfuellen>
+      <Glace     >
+          <inhalt>Sirup und Mineralwasser verruehren, in die Behaelter giessen. Zugedeckt ca. 2 Std. gefrieren. Becher herausnehmen, je ein Holsstaengeli in die Mitte stecken, nochmals ca. 4 Std. gefrieren.</inhalt>
+      </Glace     >
+      <Dekorieren>
+          <inhalt>Glaces aus den Behaeltern nehmen. Glacespitzen in die Glasur tauchen, kurz fest werden lassen, Schokoladen darueberstreuen, sofort servieren.</inhalt>
+      </Dekorieren>
+   </rezept>
+</Rezept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>270 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Knollensellerie (ca. 500 g), in Staebli</zutat>
+          <quant>6 </quant>
+          <zutat>Rueebli, in Sechsteln, quer halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Gemuese    >
+      <Dip       >
+          <quant>2 EL</quant>
+          <zutat>Chimichurri Sauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>50 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Maizena, Salz und Cayennepfeffer in einem Gefrierbeutel mischen. Sellerie und Rueebli beigeben, gut schuetteln, auf ein mit Backpapier belegtes Blech verteilen, mit Oel betraeufeln.  </inhalt>
+      </Gemuese    >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+      <Dip       >
+          <inhalt>Chimichurri Sauce mit Mayonnaise und Creme fraiche verruehren, wuerzen.</inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

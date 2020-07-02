@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>299 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Strudelteig>
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+      </Strudelteig>
+      <Belag     >
+          <quant>20 g</quant>
+          <zutat>Butter</zutat>
+          <quant>40 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>400 g</quant>
+          <zutat>Zwetschgen, in Schnitzen</zutat>
+      </Belag     >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Strudelteig>
+          <inhalt>Teigblaetter sorgfaeltig auseinanderfalten, jedes Blatt mit wenig Butter bestreichen. Alle Blaetter aufeinanderlegen, vierteln, auf ein mit Backpapier belegtes Blech legen. Teigviertel etwas zusammenraffen, sodass rundum ein breiter, schoener Rand entsteht.</inhalt>
+      </Strudelteig>
+      <Belag     >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Nuesse und Zucker unter Ruehren bei mittlerer Hitze ca. 5 Min. goldbraun roesten. Zwetschgen beigeben, mischen, auf die Teigmitten geben.</inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Ca. 12 Min. in der unteren Haefte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter etwas abkuehlen. Mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>386 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>70 g</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Erdnussbutter mit allen Zutaten bis und mit Koriander glatt ruehren. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

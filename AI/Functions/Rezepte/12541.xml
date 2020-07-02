@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>254 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>125 g</quant>
+          <zutat>Frischkaese nature (z.B. Coop Naturaplan)</zutat>
+          <quant>100 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>20 g</quant>
+          <zutat>Kuerbiskerne, geroestet, fein gehackt</zutat>
+          <quant>20 g</quant>
+          <zutat>Parmesan, gerieben</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Frischkaese und alle Zutaten bis und mit Schnittlauch mischen, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>853 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>94 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>2 </quant>
+          <zutat>rund ausgewallte Pizzateige (je ca. 28 cm Ø)</zutat>
+          <quant>180 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>240 g</quant>
+          <zutat>Raclettekaese, grob gerieben</zutat>
+          <quant>4 </quant>
+          <zutat>rote Zwiebeln, in feinen Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen, in feinen Scheiben</zutat>
+      </Teig      >
+      <Backen    >
+          <quant>1 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>20 g</quant>
+          <zutat>Rucola</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Teige mit dem Backpapier je auf ein Blech legen, Rahm darauf verteilen, wuerzen. Kaese, Zwiebeln und Birnen darauf verteilen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 20 Min. im auf 200 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, Pfefferminze darueberstreuen, Rucola darauf verteilen, sofort servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

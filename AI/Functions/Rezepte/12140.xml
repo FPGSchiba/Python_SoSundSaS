@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1041 kcal</NaehrwertProPerson>
+       <Fett>67 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>73 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>100 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>70 g</quant>
+          <zutat>Appenzeller Mostbroeckli in Tranchen </zutat>
+          <quant>1 </quant>
+          <zutat>Birne</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>400 g</quant>
+          <zutat>mittelreifer Gruyere</zutat>
+          <quant>400 g</quant>
+          <zutat>rezenter Emmentaler</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>4 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Williams</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schalotte fein hacken, Champignons in Scheiben, Mostbroeckli in Streifchen und Birne in Wuerfeli schneiden. Butter im Caquelon erwaermen, Schalotte kurz andaempfen, Champignons, Mostbroeckli und Birne beigeben, ca. 3 Min. mitdaempfen. Herausnehmen, warm stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Kaese grob reiben, ins Caquelon geben, Maizena daruntermischen. Wein und Zitronensaft dazugiessen, unter Ruehren aufkochen, Hitze reduzieren, unter Ruehren weiterkoecheln, bis der Kaese geschmolzen ist. Williams beigeben, wuerzen. Fondue sofort servieren, die warm gestellte Mischung nach und nach auf dem Fondue verteilen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

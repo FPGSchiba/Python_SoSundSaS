@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>337 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hafer-Keks>
+          <quant>60 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>30 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>6 </quant>
+          <zutat>Medjool-Datteln, entsteint (ca. 130 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Hafer-Keks>
+      <Brombeerglace>
+          <quant>70 g</quant>
+          <zutat>Brombeeren, tiefgekuehlt</zutat>
+          <quant>200 g</quant>
+          <zutat>Kokosnussmilch-Jogurt, nature</zutat>
+          <quant>4 TL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Agavensirup</zutat>
+      </Brombeerglace>
+      <Fertigstellen>
+          <quant>einige </quant>
+          <zutat>Brombeeren</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Hafer-Keks>
+          <inhalt>Alle Zutaten im Cutter/Blender fein puerieren und zu einem Teig verarbeiten. Zuerst zu 8 gleich grossen Kugeln, dann zu Kreisen formen, in Folie verpackt bis zur Weiterverwendung in den Tiefkuehler legen.</inhalt>
+      </Hafer-Keks>
+      <Brombeerglace>
+          <inhalt>Alle Zutaten im Cutter/Blender puerieren, in eine weite Schale geben. Zugedeckt ca. 3 Std. gefrieren, dabei alle 30 Min. ruehren, um Eiskristalle zu vermeiden.</inhalt>
+      </Brombeerglace>
+      <Fertigstellen>
+          <inhalt>Aus der Glace mit einem Galceloeffel 4 Kugeln formen. Je eine Kugel auf eine Keks-Rondelle setzen und mit einer zweiten Rondelle bedecken. Mit Brombeeren verzieren.</inhalt>
+      </Fertigstellen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

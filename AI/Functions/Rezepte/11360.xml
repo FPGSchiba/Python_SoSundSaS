@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>329 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>70 g</quant>
+          <zutat>geschaelte Mandeln</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>120 g</quant>
+          <zutat>tiefgekuehlte Erbsli, angetaut</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>scharfer Paprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zitronenpfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Roggenbrot, in Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Gartenkresse</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel erwaermen, Zwiebel und Knoblauch andaempfen, Mandeln ca. 2 Min. mit-daempfen. Mandelmilch dazugiessen, aufkochen, Hitze reduzieren, ca. 8 Min. koecheln. Erbsli beigeben, wuerzen, puerieren. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Ersbsli-Mandeltapenade auf den Brotscheiben verteilen, mit Kresse garnieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>917 kcal</NaehrwertProPerson>
+       <Fett>58 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>47 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suesskartoffeln_>
+          <quant>300 g</quant>
+          <zutat>Suesskartoffeln, in ca. 3 cm grossen Wuerfel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Suesskartoffeln_>
+      <Fondue_   >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>350 g</quant>
+          <zutat>milder Gruyere, grob gerieben</zutat>
+          <quant>350 g</quant>
+          <zutat>Cheddar, grob gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Whiskey</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+      </Fondue_   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suesskartoffeln                </inhalt>
+      </How_To    >
+      <Suesskartoffeln_>
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Suesskartoffeln_>
+      <Fondue_   >
+          <inhalt>Das Caquelon mit Knoblauch ausreiben. Gruyere, Cheddar und Maizena beigeben, mischen. Wein dazugiessen. Unter Ruehren aufkochen, Hitze reduzieren, weiterkoecheln, bis der Kaese geschmolzen ist. Whisky und Thymian darunterruehren, weiterruehren, bis das Fondue cremig ist, wuerzen.</inhalt>
+      </Fondue_   >
+   </rezept>
+</Rezept>

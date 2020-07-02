@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>274 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>30 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>30 g</quant>
+          <zutat>Leinsamen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Cocoa Nibs</zutat>
+          <quant>Prise </quant>
+          <zutat>Salz</zutat>
+          <quant>120 g</quant>
+          <zutat>entsteinte Datteln</zutat>
+          <quant>1 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kokosoel, fluessig, abgekuehlt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Teig      >
+      <Verzierung>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade (99 %), fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Haselnuesse, gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Cocoa Nibs</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Backen                        </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Verzierung                    </inhalt>
+      </Backen    >
+      <Verzierung>
+          <inhalt>Die Riegel mit der Schokolade bestreichen, Nuesse und Cocoa-Nibs darueberstreuen.</inhalt>
+      </Verzierung>
+   </rezept>
+</Rezept>

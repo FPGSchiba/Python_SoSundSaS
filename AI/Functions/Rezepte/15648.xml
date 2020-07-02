@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>380 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>350 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Hefeteig  >
+      <Knoepfe    >
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Schokolade  (z.B. Osterhasenschokolade), fein gehackt</zutat>
+      </Knoepfe    >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter, Milch und Ei beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Knoepfe    >
+          <inhalt>Teig halbieren, auf wenig mehl zu zwei Rechtecken von je ca. 65 x 20 cm auswallen. Beide Rechtecke laengs halbieren, Butter auf die Teigstuecke streichen, je ca. 1/4 der Schokolade darueberstreuen. Teigstuecke von der Laengsseite her aufrollen. Rollen quer, dann laengs halbieren, je 2 Straenge sprialfoermig eindrehen und zu Knoepfen formen. Alle acht Knoepfe auf ein mit Backpapier belegtes Blech legen, zugedeckt nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Knoepfe    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf ein Gitter schieben, auskuehlen. Mit Puderzucker bestreuen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

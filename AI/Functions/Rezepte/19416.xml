@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>325 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Joghurt-Dip>
+          <quant>1 Becher</quant>
+          <zutat>Jogurt nature</zutat>
+      </Joghurt-Dip>
+      <Pancakes_ >
+          <quant>1 1/2 Becher </quant>
+          <zutat>Buchweizenmehl (150 g)</zutat>
+          <quant>5 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Milch (2 dl)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+      </Pancakes_ >
+      <Backen_   >
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Backen_   >
+      <Raupe     >
+          <quant>1 </quant>
+          <zutat>Erdbeere</zutat>
+          <quant>wenig </quant>
+          <zutat>Puderzucker zum Bestreuen</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 1/2 Becher </quant>
+          <zutat>Buchweizenmehl (150 g)</zutat>
+          <quant>5 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Milch (2 dl)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 </quant>
+          <zutat>Erdbeere</zutat>
+          <quant>wenig </quant>
+          <zutat>Puderzucker zum Bestreuen</zutat>
+      </Raupe     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Joghurt-Dip                   </inhalt>
+      </How_To    >
+      <Joghurt-Dip>
+          <inhalt>                              </inhalt>
+      </Joghurt-Dip>
+      <How_To1   >
+          <inhalt>Pancakes                      </inhalt>
+      </How_To1   >
+      <Pancakes_ >
+          <inhalt>                              </inhalt>
+      </Pancakes_ >
+      <Backen_   >
+          <inhalt>Wenig Bratbutter in einer weiten beschichteten Bratpfanne erhitzen. Hitze reduzieren, portionenweise so viel Teig in die Pfanne geben, dass runde Pancakes von ca. 2-8 cm Ø entstehen. Sind die Unterseiten gebacken und loesen sie sich von selbst, Pancakes wenden, fertig backen, warm stellen.</inhalt>
+      </Backen_   >
+      <Raupe     >
+          <inhalt>Erdbeere in Scheibchen schneiden. </inhalt>
+      </Raupe     >
+   </rezept>
+</Rezept>

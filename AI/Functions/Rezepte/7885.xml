@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>440 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>1 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 cm</quant>
+          <zutat>Ingwer, in Scheibchen</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+      </Sauce     >
+      <Teig      >
+          <quant>230 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+      </Teig      >
+      <Fuellung_und_Formen:>
+          <quant>600 g</quant>
+          <zutat>Aprikosen, in Schnitzchen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Cranberrys</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>6 EL</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Fuellung_und_Formen:>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sauce                         </inhalt>
+      </How_To    >
+      <Sauce     >
+          <inhalt>Teig                          </inhalt>
+      </Sauce     >
+      <Teig      >
+          <inhalt>Fuellung und Formen:           </inhalt>
+      </Teig      >
+      <Fuellung_und_Formen:>
+          <inhalt>Backen: ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auskuehlen.</inhalt>
+      </Fuellung_und_Formen:>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

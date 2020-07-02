@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>473 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>800 g</quant>
+          <zutat>fest kochende Kartoffeln</zutat>
+      </Kartoffeln>
+      <Lachspaeckli>
+          <quant>4 </quant>
+          <zutat>Lachsfilets ohne Haut  (je ca. 150 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>8 </quant>
+          <zutat>Lattichblaetter (gross)</zutat>
+      </Lachspaeckli>
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln>
+          <inhalt>Oel, Senf und Salz in einer Schuessel verruehren. Kartoffeln schaelen, in ca. 2 mm dicken Scheiben dazuhobeln, mischen. Kartoffeln auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Kartoffeln>
+      <Backen    >
+          <inhalt>ca. 15 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Lachspaeckli>
+          <inhalt>Die dicken Blattrippen des Lattichs flach schneiden. Lachsfilets wuerzen, in je zwei Lattichblaetter einwickeln, auf die Kartoffeln legen, ca. 15 Min. fertig backen.</inhalt>
+      </Lachspaeckli>
+   </rezept>
+</Rezept>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>97 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Spritz    >
+          <quant>16 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ingwersirup</zutat>
+          <quant>8 dl</quant>
+          <zutat>Schorle (z.B. Pink Grapefruit)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Tonic Water (z.B. Fever Tree Tonic Water)</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Rosmarin, einige Male geknickt</zutat>
+          <quant>1/4 </quant>
+          <zutat>rosa Grapefruit, heiss abgespuelt, trocken getupft, in Schnitzen</zutat>
+      </Spritz    >
+   </einkaufliste>
+   <rezept>
+      <Spritz    >
+          <inhalt>Eiswuerfel und Sirup in die Glaeser verteilen. Schorle und Tonic daruebergiessen und mit Rosmarin und Grapefruitschnitzen garnieren. </inhalt>
+      </Spritz    >
+   </rezept>
+</Rezept>

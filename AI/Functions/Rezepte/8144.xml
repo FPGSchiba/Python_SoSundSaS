@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>569 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fladen    >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesam, geroestet, zerstossen</zutat>
+          <quant>1/4 </quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ghee oder Bratbutter (ca. 20 g ), fluessig</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+      </Fladen    >
+      <Paneer-Gemuese>
+          <quant>1 EL</quant>
+          <zutat>Ghee oder Bratbutter</zutat>
+          <quant>1 EL</quant>
+          <zutat>scharfer Curry (Madras)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>2 </quant>
+          <zutat>gelbe Peperoni, entkernt, in ca. 1,5 cm grossen Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Auberginen (ca. 280 g), laengs in Vierteln, quer in ca 1,5 cm breiten Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Schnitzchen</zutat>
+          <quant>3 </quant>
+          <zutat>Tomaten (ca. 400 g), in Wuerfeli</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>200 g</quant>
+          <zutat>Paneer, in ca. 1,5 cm grossen Wuerfeli</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Paneer-Gemuese>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fladen                        </inhalt>
+      </How_To    >
+      <Fladen    >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Fladen    >
+      <Paneer-Gemuese>
+          <inhalt>Ghee in einer Bratpfanne heiss werden lassen. Hitze reduzieren, Curry und alle Zutaten bis und mit Zimt beigeben, unter Ruehren bei kleiner Hitze ca. 3 Min. anduensten. Peperoni, Aubergine und Zwiebel beigeben, ca. 10 Min. andaempfen. Tomaten beigeben, kurz weiterdaempfen. Bouillon dazugiessen, aufkochen, Hitze reduzieren, zugedeckt ca. 25 Min. koecheln. Paneer beigeben, ca. 5 Min. fertig koecheln, wuerzen. Koriander daruntermischen.</inhalt>
+      </Paneer-Gemuese>
+   </rezept>
+</Rezept>

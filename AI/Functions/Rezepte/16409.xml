@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>429 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>200 g</quant>
+          <zutat>Heidelbeeren (oder Blaubeeren)</zutat>
+          <quant>5 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Himbeerkonfituere</zutat>
+      </Creme     >
+      <Kokos-Schlagrahm>
+          <quant>1 Dose</quant>
+          <zutat>Kokosmilch (400 ml), ueber Nacht in den Kuehlschrank gestellt</zutat>
+      </Kokos-Schlagrahm>
+      <Toppings  >
+          <quant>4 TL</quant>
+          <zutat>Granola, nach Wahl</zutat>
+          <quant>50 g</quant>
+          <zutat>Heidelbeeren oder Blaubeeren</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Creme     >
+          <inhalt>Alle Zutaten im Mixer fein puerieren, in 4 Toepfchen verteilen und zugedeckt mindestens fuer 30 Min. in den Kuehlschrank stellen. Himbeeren mit der Konfituere puerieren, auf der Creme verteilen.</inhalt>
+      </Creme     >
+      <Kokos-Schlagrahm>
+          <inhalt>Der "hart" gewordene Teil der Kokosmilch aus der Dose nehmen, mit den Schwingbesen des Handruehrgeraetes schaumig schlagen. Kokos-Schlagrahm in die 4 Toepfchen verteilen, nochmals zugedeckt fuer 30 Min. in den Kuehlschrank stellen.</inhalt>
+      </Kokos-Schlagrahm>
+      <Toppings  >
+          <inhalt>Granola und Beeren auf dem Kokos-Schlagrahm verteilen, sofort servieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

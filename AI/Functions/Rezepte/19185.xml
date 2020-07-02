@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>695 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>53 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linsen    >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>200 g</quant>
+          <zutat>schwarze Linsen (Beluga)</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Linsen    >
+      <Fisch_    >
+          <quant>4 </quant>
+          <zutat>Lachsforellenfilets ohne Haut  (je ca. 200 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in feinen Scheiben</zutat>
+      </Fisch_    >
+      <Sauce     >
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Linsen    >
+          <inhalt>Butter in einer Pfanne erwaermen. Zwiebel und Knoblauch kurz andaempfen. Linsen beigeben, Wasser dazugiessen, aufkochen. Linsen offen ca. 15 Min. knapp weich koecheln. Spinat beigeben, zusammenfallen lassen, salzen. </inhalt>
+      </Linsen    >
+      <Fisch_    >
+          <inhalt>Fisch wuerzen. Bratbutter in einer beschichteten Bratpfanne erhitzen. Fischfilets portionenweise beidseitig je ca. 2 Min. braten, herausnehmen. Zitronenscheiben in derselben Pfanne beidseitig je ca. 1 Min. braten, zum Fisch legen. </inhalt>
+      </Fisch_    >
+      <Sauce     >
+          <inhalt>Wein in dieselbe Pfanne giessen, Bratsatz loesen, Rahm dazugiessen, aufkochen, Senf darunterruehren, salzen. Fisch und Zitronenscheiben in die Sauce legen, nur noch heiss werden lassen. Fischfilets mit den Linsen servieren. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

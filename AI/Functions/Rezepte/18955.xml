@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>516 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>60 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+      </Fuellung   >
+      <Galette   >
+          <quant>2 </quant>
+          <zutat>rund ausgewallte Blaetterteige (je ca. 32 cm Ø)</zutat>
+          <quant>1 </quant>
+          <zutat>Mandel</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Galette   >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Butter, Zucker, Vanillesamen und Salz mit den Schwingbesen des Handruehrgeraets gut verruehren. Eier beigeben, ca. 3 Min. weiterruehren, bis die Masse heller ist. Mandeln und Maizena mischen, darunterruehren.</inhalt>
+      </Fuellung   >
+      <Galette   >
+          <inhalt>Einen Teig mit dem Backpapier auf ein Backblech legen. Teigboden mit einer Gabel dicht einstechen. Fuellung darauf verteilen, dabei ringsum einen Rand von ca. 2 cm frei lassen. Die Mandel (= Koenig) in die Fuellung druecken. Teigrand mit wenig Ei bestreichen, zweiten Teig darauflegen, Rand gut andruecken. Galette mit wenig Ei bestreichen, zugedeckt 30 Min. kuehl stellen. Galette nochmals mit restlichem Ei bestreichen, mit einem scharfen Messer den Deckel mit wellenfoermigen Linien einschneiden ohne den Teig durchzuschneiden. </inhalt>
+      </Galette   >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Kuchen auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

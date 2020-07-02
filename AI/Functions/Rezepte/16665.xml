@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>416 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Wassermelone>
+          <quant>400 g</quant>
+          <zutat>Wassermelone, in ca. 1 cm grossen Wuerfeln (ergibt ca. 400 g geschaelt)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, abgeriebene Schale und -saft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesam (weiss oder schwarz)</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Wassermelone>
+      <Restliche_Zutaten>
+          <quant>100 g</quant>
+          <zutat>Venere-Reis</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>100 g</quant>
+          <zutat>Edamame, geschaelt</zutat>
+          <quant>einige </quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Micro Greens</zutat>
+          <quant>3 </quant>
+          <zutat>Snack-Gurken, laengs in Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>Randen (roh oder gekocht), in Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Wakame-Salat</zutat>
+          <quant>1 TL</quant>
+          <zutat>Tahina </zutat>
+      </Restliche_Zutaten>
+   </einkaufliste>
+   <rezept>
+      <Wassermelone>
+          <inhalt>Alle Zutaten in einer Schuessel mischen. Zugedeckt ca. 1 Std. im Kuehlschrank ziehen lassen.</inhalt>
+      </Wassermelone>
+      <Restliche_Zutaten>
+          <inhalt>Reis im Salzwasser nach Verpackungsanleitung zubereiten, abtropfen. Wassermelone aus der Marinade nehmen (restliche Marinade behalten), in 2 Bowls verteilen. Restliche Zutaten neben der Wassermelone im Kreis anrichten, Tahina darauf geben. Restliche Marinade als Dressing daruebertraeufeln.</inhalt>
+      </Restliche_Zutaten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>322 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>59 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>400 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Hefeteig  >
+      <Fuellen_und_Formen>
+          <quant>350 g</quant>
+          <zutat>Birnenweggen-Fuellung</zutat>
+      </Fuellen_und_Formen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hefeteig                      </inhalt>
+      </How_To    >
+      <Hefeteig  >
+          <inhalt>Fuellen und Formen             </inhalt>
+      </Hefeteig  >
+      <Fuellen_und_Formen>
+          <inhalt>Backen: ca. 20 Min. bei 180 Grad (Heissluft). </inhalt>
+      </Fuellen_und_Formen>
+   </rezept>
+</Rezept>

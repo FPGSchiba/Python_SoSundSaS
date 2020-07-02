@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>534 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren_>
+          <quant>150 g</quant>
+          <zutat>Teigwaren (z.B. Spaghettini)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren_>
+      <Spargeln  >
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in feinen Scheiben</zutat>
+          <quant>250 g</quant>
+          <zutat>gruene Spargeln, Spitzen laengs halbiert, Rest mit dem Sparschaeler in feine Streifen abgeschaelt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+      </Spargeln  >
+   </einkaufliste>
+   <rezept>
+      <Teigwaren_>
+          <inhalt>Teigwaren im Salzwasser al dente kochen, abtropfen, dabei ca. 1 dl Kochwasser auffangen, beiseite stellen. </inhalt>
+      </Teigwaren_>
+      <Spargeln  >
+          <inhalt>Oel in einer grossen Bratpfanne erhitzen, Peperoncino beigeben, kurz andaempfen. Spargeln beigeben, ca. 3 Min. braten, wuerzen. Beiseite gestelltes Kochwasser dazugiessen, kurz einkochen. Teigwaren dazugeben, mischen. Spargel-Spaghettini anrichten, Parmesan darueberstreuen. </inhalt>
+      </Spargeln  >
+   </rezept>
+</Rezept>

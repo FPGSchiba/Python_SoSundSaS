@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>449 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>5 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+      </Creme     >
+      <Zuckerkruste>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+      </Zuckerkruste>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Creme                         </inhalt>
+      </How_To    >
+      <Creme     >
+          <inhalt>Garen im Ofen: ca. 35 Min. in der Mitte des auf 150 Grad vorgeheizten Ofens. Foermchen herausnehmen, auskuehlen.</inhalt>
+      </Creme     >
+      <Zuckerkruste>
+          <inhalt>Zucker auf der Creme verteilen, unter dem auf 250-300 Grad vorgeheizten Grill ca. 4 Min. caramelisieren, auskuehlen.</inhalt>
+      </Zuckerkruste>
+   </rezept>
+</Rezept>

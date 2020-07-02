@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>274 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>3 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schokoladenpulver</zutat>
+          <quant>50 g</quant>
+          <zutat>Heidelbeeren frisch oder tiefgekuehlt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>10 g</quant>
+          <zutat>dunkle Schokolade, in Spaenen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Milchwasser, Salz und Haferflocken in einer Pfanne aufkochen, unter gelegentlichem Ruehren bei kleiner Hitze ca. 5 Min. koecheln. Schokoladepulver daruntermischen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Heidelbeeren mit dem Wasser ca. 2 Min. koecheln, bis sich etwas Saft gebildet hat.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Porridge in Bowls anrichten, mit Jogurt, Heidelbeeren und Schokolade-Spaenen verzieren.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

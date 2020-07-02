@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>619 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>74 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizzateig >
+          <quant>400 g</quant>
+          <zutat>Mehrkornmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+      </Pizzateig >
+      <Erdbeersauce>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Erdbeersauce>
+      <Belag_    >
+          <quant>300 g</quant>
+          <zutat>Erdbeeren, halbiert</zutat>
+          <quant>125 g</quant>
+          <zutat>Mozzarella, zerzupft</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Belag_    >
+      <Backen    >
+          <quant>100 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), in Stuecken</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, Blaetter abgezupft</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Pizzateig >
+          <inhalt>Mehl, Salz und Hefe in eine Schuessel geben, mischen. Wasser, Oel und Basilikum beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 11/2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Pizzateig >
+      <Erdbeersauce>
+          <inhalt>Oel in einer Pfanne erwaermen. Erdbeeren und Zucker beigeben, ca. 3 Min. andaempfen. Aceto beigeben, wuerzen, zugedeckt ca. 5 Min. weich koecheln, puerieren, beiseite stellen.</inhalt>
+      </Erdbeersauce>
+      <Belag_    >
+          <inhalt>Teig auf wenig Mehl rechteckig (ca. 30 x 40 cm) auswallen, auf ein mit Backpapier belegtes Blech legen. Erdbeeren und Mozzarella darauf verteilen, wuerzen.</inhalt>
+      </Belag_    >
+      <Backen    >
+          <inhalt>Ca. 25 Min. auf der untersten Rille des auf 240 Grad vorgeheizten Ofens. Herausnehmen, Kaese, Basilikum und beiseite gestellte Erdbeersauce darauf verteilen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

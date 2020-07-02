@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>336 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig  >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 </quant>
+          <zutat>reife Bananen (ca. 300 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>175 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>150 g</quant>
+          <zutat>Knuspermueesli</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Milch</zutat>
+      </Ruehrteig  >
+      <Knusper-Belag>
+          <quant>100 g</quant>
+          <zutat>Knuspermueesli</zutat>
+          <quant>einige </quant>
+          <zutat>Butterfloeckli, kalt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Knusper-Belag>
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 </quant>
+          <zutat>reife Bananen (ca. 300 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>175 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>150 g</quant>
+          <zutat>Knuspermueesli</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>100 g</quant>
+          <zutat>Knuspermueesli</zutat>
+          <quant>einige </quant>
+          <zutat>Butterfloeckli, kalt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ruehrteig                      </inhalt>
+      </How_To    >
+      <Ruehrteig  >
+          <inhalt>                              </inhalt>
+      </Ruehrteig  >
+      <Knusper-Belag>
+          <inhalt>                              </inhalt>
+      </Knusper-Belag>
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Kuchen auf einem Gitter auskuehlen, </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

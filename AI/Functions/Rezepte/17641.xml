@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>186 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>100 g</quant>
+          <zutat>Konfituere (z.B. Sauerkirschen)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>100 g</quant>
+          <zutat>Blaumohnsamen</zutat>
+      </Fuellung   >
+      <Strudel   >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, fluessig</zutat>
+      </Strudel   >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Ei und alle Zutaten bis und mit Mohn in einer Schuessel verruehren, ca. 10 Min. quellen lassen.</inhalt>
+      </Fuellung   >
+      <Strudel   >
+          <inhalt>Teigblaetter sorgfaeltig auseinanderfalten, mit wenig Butter bestreichen. Teigblaetter aufeinanderlegen. Mohnmasse auf 3/4 des Teiges verteilen, dabei einen Rand von ca. 3 cm frei lassen, seitliche Raender einschlagen. Strudel locker aufrollen, mit dem Verschluss nach unten auf ein mit Backpapier belegtes Blech legen, mit restlicher Butter bestreichen.</inhalt>
+      </Strudel   >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter etwas abkuehlen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

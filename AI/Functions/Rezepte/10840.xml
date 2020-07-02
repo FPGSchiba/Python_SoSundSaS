@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>638 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto   >
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>250 g</quant>
+          <zutat>Risottoreis (z.B. Carnaroli, Arborio)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Apfelwein oder Apfelsaft</zutat>
+          <quant>7 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>3 EL</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Risotto   >
+      <Koteletts >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinskoteletts (je ca. 200 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Koteletts >
+      <Jus       >
+          <quant>1 1/2 dl</quant>
+          <zutat>Apfelwein oder Apfelsaft</zutat>
+      </Jus       >
+   </einkaufliste>
+   <rezept>
+      <Risotto   >
+          <inhalt>Bundzwiebeln fein hacken, Gruen in Ringe schneiden, beiseite stellen. Oel in einer Pfanne erwaermen, Bundzwiebeln andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Apfelwein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Ca. 20 Min. koecheln, bis der Reis cremig und al dente ist. Beiseite gestelltes Zwiebelgruen und Rahm darunterruehren, wuerzen.</inhalt>
+      </Risotto   >
+      <Koteletts >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Koteletts beidseitig je ca. 2 Min. anbraten. Hitze reduzieren, beidseitig je ca. 5 Min. fertig braten, herausnehmen, wuerzen, zugedeckt warm stellen.</inhalt>
+      </Koteletts >
+      <Jus       >
+          <inhalt>Bratfett auftupfen, Apfelwein dazugiessen, Bratsatz loesen, auf ca. 1 dl einkoecheln. Mit Koteletts und Risotto anrichten.</inhalt>
+      </Jus       >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>207 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Riegel_   >
+          <quant>100 g</quant>
+          <zutat>Granola</zutat>
+          <quant>50 g</quant>
+          <zutat>Doerrfeigen, fein gehackt</zutat>
+          <quant>30 g</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Birnel (Birnendicksaft)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+      </Riegel_   >
+      <Schokolade_>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao), fein gehackt</zutat>
+      </Schokolade_>
+   </einkaufliste>
+   <rezept>
+      <Riegel_   >
+          <inhalt>Granola, Feigen, Kokos und Ingwer in einer Schuessel mischen. Birnel, Oel und Zucker in eine kleine Pfanne geben. Erwaermen, bis sich der Zucker aufgeloest hat, unter das Granola mischen. Masse in die vorbereitete Form geben, gut andruecken.</inhalt>
+      </Riegel_   >
+      <Backen_   >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen_   >
+      <Schokolade_>
+          <inhalt>Schokolade in eine duennwandige Schuessel ueber dem leicht siedenden Wasserbad schmelzen, glatt ruehren. Riegelmasse in 8 Stuecke schneiden, zur Haelfte in die Schokolade tauchen, etwas abtropfen, auf einem Backpapier trocknen lassen. </inhalt>
+      </Schokolade_>
+   </rezept>
+</Rezept>

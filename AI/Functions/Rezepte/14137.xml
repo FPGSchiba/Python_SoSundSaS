@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>185 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>6 </quant>
+          <zutat>Zwiebeln (ca. 500 g), in Schnitzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>braunes Maizena express</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in einer Bratpfanne heiss werden lassen. Hitze reduzieren, Zwiebeln beigeben, ca. 10 Min. ruehrbraten. Zucker beigeben, kurz weiterruehrbraten. Wein dazugiessen, ca. 1 Min. einkochen. Bouillon und Thymian beigeben, aufkochen. Maizena unter Ruehren beigeben, ca. 2 Min. kochen, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

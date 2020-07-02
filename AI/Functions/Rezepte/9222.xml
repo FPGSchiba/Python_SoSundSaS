@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>741 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>55 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Filet     >
+          <quant>800 g</quant>
+          <zutat>Rindsfilet (Mittelstueck)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Bratbutter</zutat>
+      </Filet     >
+      <Fuellung   >
+          <quant>250 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>20 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Teig_vorbereiten>
+          <quant>500 g</quant>
+          <zutat>Blaetterteig</zutat>
+      </Teig_vorbereiten>
+      <Filet_einpacken>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Filet_einpacken>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Filet                         </inhalt>
+      </How_To    >
+      <Filet     >
+          <inhalt>Filet wuerzen. Bratbutter in einer Bratpfanne erhitzen. Fleisch bei mittlerer Hitze rundum ca. 5 Min. anbraten, herausnehmen.</inhalt>
+      </Filet     >
+      <How_To1   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Pilze und Schalotten fein hacken. Butter in derselben Pfanne wie das Fleisch erwaermen. Pilze ca. 5 Min. andaempfen. Schalotten beigeben, kurz mitdaempfen.</inhalt>
+      </How_To2   >
+      <Fuellung   >
+          <inhalt>Teig vorbereiten              </inhalt>
+      </Fuellung   >
+      <How_To3   >
+          <inhalt>3/4 der Fuellung in der Laenge des Filets auf die Teigmitte geben, Filet darauflegen, restliche Fuellung darum herum verteilen. </inhalt>
+      </How_To3   >
+      <Teig_vorbereiten>
+          <inhalt>Ei trennen. Eiweiss verklopfen. Teigraender mit Eiweiss bestreichen, locker ueber das Fleisch legen, gut andruecken, mit dem Verschluss nach unten auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Teig_vorbereiten>
+      <Filet_einpacken>
+          <inhalt>Filet zugedeckt ca. 2 Std. kuehl stellen. Eigelb mit wenig Wasser verduennen. Teig damit bestreichen, dicht einstechen, Fleischthermometer an der dicksten Stelle einstecken.</inhalt>
+      </Filet_einpacken>
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens, bis die Kerntemperatur von ca. 50 Grad erreicht ist. Herausnehmen, vor dem Tranchieren ca. 10 Min. ruhen lassen.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=b-77ZZItFdA"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=L-PZm2HzKOM"/>
+</Rezept>

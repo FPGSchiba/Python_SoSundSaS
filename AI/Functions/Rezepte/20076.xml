@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>256 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Trockene_Zutaten>
+          <quant>125 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>90 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>90 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Natron</zutat>
+      </Trockene_Zutaten>
+      <Fluessige_Zutaten>
+          <quant>4 </quant>
+          <zutat>reife Bananen (ca. 400 g)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Fluessige_Zutaten>
+      <Weitere_Zutaten>
+          <quant>30 g</quant>
+          <zutat>Baumnusskerne, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>vegane, dunkle Schokolade, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Banane, laengs halbiert</zutat>
+      </Weitere_Zutaten>
+   </einkaufliste>
+   <rezept>
+      <Trockene_Zutaten>
+          <inhalt>Zucker und alle Zutaten bis und mit Natron in einer Schuessel mischen.</inhalt>
+      </Trockene_Zutaten>
+      <Fluessige_Zutaten>
+          <inhalt>Bananen mit einer Gabel fein zerdruecken, mit dem Oel, Mandeldrink und Zitronensaft verruehren, zu den trockenen Zutaten geben, daruntermischen. </inhalt>
+      </Fluessige_Zutaten>
+      <Weitere_Zutaten>
+          <inhalt>Nuesse und Schokolade unter den Teig mischen, Teig in die vorbereitete Form geben, Bananen-Haelften auf den Teig legen.</inhalt>
+      </Weitere_Zutaten>
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

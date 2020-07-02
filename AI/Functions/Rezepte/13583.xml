@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>349 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mousse    >
+          <quant>250 g</quant>
+          <zutat>gemischte Beeren (z.B. Brombeeren, Himbeeren und Johannisbeeren)</zutat>
+          <quant>80 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, nur ausgekratzte Samen</zutat>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>300 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+      </Mousse    >
+      <In_Glaeser_fuellen>
+          <quant>100 g</quant>
+          <zutat>Guetzli (z.B. Nussstaengeli), grob gehackt</zutat>
+      </In_Glaeser_fuellen>
+      <Dekoration>
+          <quant>100 g</quant>
+          <zutat>gemischte Beeren (z.B. Brombeeren, Himbeeren und Johannisbeeren)</zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <Mousse    >
+          <inhalt>Beeren mit dem Puderzucker und Vanillesamen puerieren. Gelatine mit dem Wasser aufloesen, mit 2 Essloeffel Masse verruehren, sofort gut unter die restliche Masse ruehren. Jogurt darunterruehren.</inhalt>
+      </Mousse    >
+      <In_Glaeser_fuellen>
+          <inhalt>Mousse und Guetzli abwechslungsweise in die Glaeser fuellen, zugedeckt im Kuehlschrank ca. 2 Std. fest werden lassen.</inhalt>
+      </In_Glaeser_fuellen>
+      <Dekoration>
+          <inhalt>Trifle mit den Beeren verzieren.</inhalt>
+      </Dekoration>
+   </rezept>
+</Rezept>

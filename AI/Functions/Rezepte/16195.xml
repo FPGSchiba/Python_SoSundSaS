@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>25 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Milch-Eiswuerfel>
+          <quant>5 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+      </Milch-Eiswuerfel>
+      <Cold_Brew_>
+          <quant>120 g</quant>
+          <zutat>Kaffeebohnen, frisch gemahlen</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+      </Cold_Brew_>
+   </einkaufliste>
+   <rezept>
+      <Milch-Eiswuerfel>
+          <inhalt>Milch mit dem Zucker aufkochen, ruehren, bis sich der Zucker geloest hat. Milch in den Eiswuerfelbehaelter giessen, ca. 12 Std. gefrieren. </inhalt>
+      </Milch-Eiswuerfel>
+      <Cold_Brew_>
+          <inhalt>Kaffee in eine Karaffe geben, Wasser dazugiessen, ca. 6 Std. oder ueber Nacht ziehen lassen. Kaffee absieben, in Glaeser verteilen, Eiswuerfel beigeben.</inhalt>
+      </Cold_Brew_>
+   </rezept>
+</Rezept>

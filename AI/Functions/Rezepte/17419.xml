@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>824 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>83 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln>
+          <quant>1 1/5 kg</quant>
+          <zutat>mehlig kochende Kartoffeln, ungeschaelt</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Kartoffeln>
+      <Gnocchi   >
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Pecorino romano, fein gerieben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Gnocchi   >
+      <Sauce_    >
+          <quant>2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>3 </quant>
+          <zutat>Mini-Lattiche, laengs in Streifen</zutat>
+          <quant>50 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce_    >
+      <Servieren_>
+          <quant>4 </quant>
+          <zutat>Burrate piccole (je ca. 50 g)</zutat>
+          <quant>100 g</quant>
+          <zutat>Pecorino romano, in feinen Spaenen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Servieren_>
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln>
+          <inhalt>Kartoffeln im siedenden Salzwasser ca. 30 Min. weich kochen. Kartoffeln abtropfen, halbieren, unter Hin-und-Her-Bewegen der Pfanne auf der ausgeschaltenen Platte ausdampfen lassen. Kartoffeln durch das Passevite in eine Schuessel treiben, auskuehlen. </inhalt>
+      </Kartoffeln>
+      <Gnocchi   >
+          <inhalt>Ofen auf 60 Grad vorheizen, Schuessel und Teller vorwaermen. Spinat kurz im siedenden Wasser blanchieren, mit einer Schaumkelle herausnehmen, sofort in eiskaltem Wasser auskuehlen, Spinat gut abtropfen, mit dem Ei puerieren, mit dem Mehl und Kaese zu den Kartoffeln geben, rasch zu einem Teig zusammenfuegen, wuerzen. Gnocchi-Masse auf wenig Mehl zu Rollen von je ca. 1 1/2 cm Ø formen. Rollen in ca. 1 cm lange Stuecke schneiden, ueber eine Gabel rollen. Gnocchi portionenweise im leicht siedenden Salzwasser ca. 5 Min. ziehen lassen, bis sie an die Oberflaeche steigen. Gnocchi mit einer Schaumkelle herausnehmen, abtropfen, in die vorgewaermte Schuessel geben.</inhalt>
+      </Gnocchi   >
+      <Sauce_    >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen. Gnocchi portionenweise unter gelegentlichem Ruehren ca. 4 Min. anbraten, warm stellen. Lattiche in derselben Pfanne ca. 3 Min. braten. Spinat und Knoblauch beigeben, kurz mitbraten, salzen. Gnocchi wieder beigeben, sorgfaeltig mischen.</inhalt>
+      </Sauce_    >
+      <Servieren_>
+          <inhalt>Gnocchi in die vorgewaermten Tellern verteilen. Burrata darauf geben, Pecoronio darueberstreuen, wuerzen. </inhalt>
+      </Servieren_>
+   </rezept>
+</Rezept>

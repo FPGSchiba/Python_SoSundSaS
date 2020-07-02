@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>149 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blanchieren>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Erbsli</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Blanchieren>
+      <Dip       >
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale, 2 EL Saft</zutat>
+          <quant>1 1/2 Bund</quant>
+          <zutat>Basilikum, grob gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>125 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Blanchieren>
+          <inhalt>Erbsen im siedenden Wasser ca. 2 Min. blanchieren, kurz in eiskaltes Wasser geben, abtropfen, 1 EL davon beiseite stellen. </inhalt>
+      </Blanchieren>
+      <Dip       >
+          <inhalt>Erbsen mit der Zitronenschale und -saft, Basilikum und Oel puerieren. Ricotta darunterruehren, wuerzen, anrichten. Mit den beiseite gestellten Erbsen und Basilikum garnieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

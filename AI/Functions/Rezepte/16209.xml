@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>310 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mais      >
+          <quant>3 </quant>
+          <zutat>Maiskolben, Koerner vom Kolben geschnitten, 3 EL beiseite gestellt</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Mais      >
+      <Gazpacho  >
+          <quant>500 g</quant>
+          <zutat>gelbe Cherry-Tomaten, halbiert</zutat>
+          <quant>1 Dose</quant>
+          <zutat>weisse Bohnen (ca. 400 g), abgespuelt, abgetropft</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke, geschaelt, entkernt, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sherry-Essig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Gazpacho  >
+      <Anrichten >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>50 g</quant>
+          <zutat>gelbe Cherry-Tomaten, halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, zerzupft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant> </quant>
+          <zutat>Fleur de Sel, nach Belieben</zutat>
+          <quant>75 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Mais      >
+          <inhalt>Ein Daempfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen. Mais beigeben, salzen, zugedeckt bei mittlerer Hitze ca. 15 Min. knapp weich garen. Herausnehmen, abtropfen. </inhalt>
+      </Mais      >
+      <Gazpacho  >
+          <inhalt>Cherry-Tomaten und Maiskoerner mit allen Zutaten bis und mit Salz im Mixglas fein puerieren, zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Gazpacho  >
+      <Anrichten >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Beiseite gestellte Maiskoerner ca. 3 Min. braten. Gazpacho anrichten. Mais, Cherry-Tomaten und Basilikum darauf verteilen, wuerzen. Jogurt dazu servieren. </inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

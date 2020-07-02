@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>139 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Burger-Patties>
+          <quant>600 g</quant>
+          <zutat>Hackfleisch (Poulet)</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Curry</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Burger-Patties>
+   </einkaufliste>
+   <rezept>
+      <Burger-Patties>
+          <inhalt>Hackfleisch und alle Zutaten bis und mit Kokosraspeln in eine Schuessel geben, wuerzen. Alles sehr gut mischen, bis sich die Zutaten zu einer kompakten Masse verbinden. Masse mit nassen Haenden zu 4 Taetschli formen.</inhalt>
+      </Burger-Patties>
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Patties ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 6 Min. grillieren.</inhalt>
+      </Grillieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=8svkCG_1r1s"/>
+</Rezept>

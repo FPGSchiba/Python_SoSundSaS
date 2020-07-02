@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>66 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>200 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>40 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien, fein gehackt</zutat>
+          <quant>90 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Backen_pro_Blech>
+          <quant>30 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien, gemahlen</zutat>
+          <quant>30 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, nur abgeriebene Schale</zutat>
+      </Backen_pro_Blech>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz und Kardamompulver in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Mandeln, Pistazien und Puderzucker daruntermischen, Wasser beigeben, rasch zu einem Teig zusammenfuegen, nicht kneten, zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl portionenweise zu fingerdicken Rollen formen, in ca. 2 cm lange Stuecke schneiden. Teigstuecke zu Roellchen drehen, zu Kipferl formen, auf zwei mit Backpapier belegte Bleche legen, ca. 30 Min. kuehl stellen.</inhalt>
+      </Formen    >
+      <Backen_pro_Blech>
+          <inhalt>Ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Pistazien, Puderzucker und Limettenschale in einem flachen Teller mischen. Kipferl auf dem Blech etwas abkuehlen, sorgfaeltig im Pistazien-Zucker wenden und auf einem Gitter auskuehlen.  </inhalt>
+      </Backen_pro_Blech>
+   </rezept>
+</Rezept>

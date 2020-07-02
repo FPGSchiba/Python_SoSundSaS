@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>203 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>200 g</quant>
+          <zutat>Randen, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, geschaelt, in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Chia-Samen</zutat>
+          <quant>3 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>4 </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Alle Zutaten ins Mixglas des Standmixers geben und solange mixen, bis die Masse cremig und homogen ist.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

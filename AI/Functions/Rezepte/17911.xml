@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>344 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Peperonata_>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen, Gruen beiseite gestellt</zutat>
+          <quant>600 g</quant>
+          <zutat>Peperoni (z.B. farbige Peperoni), in feinen Streifen</zutat>
+          <quant>400 g</quant>
+          <zutat>Rispentomaten, geviertelt</zutat>
+          <quant>350 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Peperonata_>
+      <Brot      >
+          <quant>4 Scheiben</quant>
+          <zutat>Pagnol rustique artisanal</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Brot      >
+      <Pochiertes_Ei>
+          <quant>1 1/2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Pochiertes_Ei>
+   </einkaufliste>
+   <rezept>
+      <Peperonata_>
+          <inhalt>Oel in einer Bratpfanne erhitzen, Zwiebeln kurz andaempfen, Peperoni beigeben ca. 5 Min. mitdaempfen. Tomaten beigeben, wuerzen, zugedeckt ca. 25 Min. koecheln. </inhalt>
+      </Peperonata_>
+      <Brot      >
+          <inhalt>Brotscheiben mit Oel bestreichen, in der selben Bratpfanne goldbraun roesten. </inhalt>
+      </Brot      >
+      <Pochiertes_Ei>
+          <inhalt>Wasser und Essig aufkochen, Hitze reduzieren. Eier einzeln aufschlagen, sorgfaeltig ins leicht siedende Wasser gleiten lassen, ca. 4 Min. ziehen lassen. Herausnehmen, abtropfen, auf der Peperonata anrichten, beseite gestelltes Bundzwiebelgruen und Fleur de Sel darueberstreuen. Brot dazu servieren. </inhalt>
+      </Pochiertes_Ei>
+   </rezept>
+</Rezept>

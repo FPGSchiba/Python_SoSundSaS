@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>564 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>68 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+          <quant>70 g</quant>
+          <zutat>Fine Food Kenai Wild Red Salmon , sehr fein gehackt</zutat>
+          <quant>wenig </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale und 1 TL Saft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>200 g</quant>
+          <zutat>Fine Food Pappardelle all'uovo</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rahm, Rauchlachs, Zitronenschale, Saft und Dill sorgfaeltig mischen, mit Salz und Pfeffer wuerzen. Aus der Mousse mit zwei Essloeffeln Kloesschen formen, auf ein Backtrennpapier legen, kuehl stellen. Heisse Pappardelle anrichten, je 1 EL Kochwasser daruntermischen. Kloesschen darauf verteilen, mit Dill garnieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

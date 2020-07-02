@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>776 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ofenkartoffel_>
+          <quant>20 g</quant>
+          <zutat>Butter</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>4 </quant>
+          <zutat>mehlig kochende Kartoffeln (je ca. 250 g)</zutat>
+      </Ofenkartoffel_>
+      <Tomatenkaesefondue_>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>250 g</quant>
+          <zutat>Gruyere</zutat>
+          <quant>250 g</quant>
+          <zutat>Freiburger Vacherin</zutat>
+          <quant>3 dl</quant>
+          <zutat>Tomatensaft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>getrockneter Thymian</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tomatenkaesefondue_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ofenkartoffel                 </inhalt>
+      </How_To    >
+      <Ofenkartoffel_>
+          <inhalt>Butter in Stuecke schneiden, mit Rosmarin und je einer  Kartoffel auf ein Stueck Alufolie legen. Kartoffeln wuerzen, Folie verschliessen, mit dem Verschluss nach oben auf ein Blech legen. </inhalt>
+      </Ofenkartoffel_>
+      <How_To1   >
+          <inhalt>Tomatenkaesefondue             </inhalt>
+      </How_To1   >
+      <Tomatenkaesefondue_>
+          <inhalt>Thymian und Zucker beigeben, Fondue wuerzen. </inhalt>
+      </Tomatenkaesefondue_>
+   </rezept>
+</Rezept>

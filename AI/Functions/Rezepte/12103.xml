@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>58 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>40 g</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur 1/2 abgeriebene Schale</zutat>
+          <quant>100 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien</zutat>
+          <quant>150 g</quant>
+          <zutat>Betty Bossi Backmehl</zutat>
+          <quant>2 Paeckli</quant>
+          <zutat>weisse Kuchenglasur  (Dr. Oetker)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>3 EL</quant>
+          <zutat>ungesalzene geschaelte Pistazien, gehackt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in einer Schuessel weich ruehren. Zucker und alle Zutaten bis und mit Orangenschale darunterruehren, weiterruehren, bis die Masse heller ist. Pistazien fein mahlen, mit dem Mehl beigeben, rasch zu einem weichen Teig zusammenfuegen, etwas flach druecken, zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Teig portionenweise auf wenig Mehl ca. 7 mm dick auswallen. Herzen ausstechen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 8 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, auskuehlen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Glasur nach Verpackungsangabe schmelzen, Kurkuma darunterruehren.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Pistazienherzen zur Haelfte in die Glasur tauchen, mit Pistazien bestreuen, trocknen lassen.</inhalt>
+      </How_To4   >
+   </rezept>
+</Rezept>

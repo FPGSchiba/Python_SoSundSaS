@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>404 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reisnudeln_>
+          <quant>125 g</quant>
+          <zutat>Reisnudeln</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>250 g</quant>
+          <zutat>Kefen</zutat>
+      </Reisnudeln_>
+      <Salat     >
+          <quant>1 </quant>
+          <zutat>Cavaillon-Melone, Kugeln ausgestochen, Rest in Stuecken beiseite gestellt</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale und Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 TL</quant>
+          <zutat>Tamarindenpaste (asiatische Gewuerzpaste)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>175 g</quant>
+          <zutat>Snack-Gurken, laengs, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>50 g</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, Blaetter abgezupft</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Reisnudeln_>
+          <inhalt>Reisnudeln in eine Schuessel geben, siedendes Wasser daruebergiessen, ca. 10 Min. ziehen lassen, ca. 5 Min. vor Schluss Kefen beigeben, abtropfen, kurz in eiskaltes Wasser legen, abtropfen.</inhalt>
+      </Reisnudeln_>
+      <Salat     >
+          <inhalt>Beiseite gestellte Melonenstuecke mit allen Zutaten bis und mit Salz in einem Mixbecher puerieren, in eine Schuessel giessen. Reisnudeln und Kefen mit den Melonenkugeln, Gurken, Bundzwiebel zur Sauce geben, mischen. Erdnuesse, Chili und Koriander darueberstreuen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

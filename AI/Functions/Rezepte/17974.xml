@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>355 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Taler     >
+          <quant>80 g</quant>
+          <zutat>Mandelmehl</zutat>
+          <quant>140 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>30 g</quant>
+          <zutat>Sesam</zutat>
+          <quant>80 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>80 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>80 g</quant>
+          <zutat>weisses Mandelmus</zutat>
+      </Taler     >
+      <Beeren-Mus>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>3 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Beeren-Mus>
+      <Topping   >
+          <quant>100 g</quant>
+          <zutat>gemischte Beeren</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kokosmilch</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Taler     >
+          <inhalt>Mandelmehl und alle Zutaten bis und mit Zimt in einer Schuessel mischen. Honig und Mandelmus daruntermischen. Die Masse sollte leicht klebrig, aber gut formbar und portionierbar sein. Ca. 8 Taler von ca. 1 cm Hoehe und 5 cm Durchmesser formen, auf ein mit Backpapier belegtes Blech legen und fuer ca. 20 Min. in den Tiefkuehler stellen.</inhalt>
+      </Taler     >
+      <Beeren-Mus>
+          <inhalt>Alle Zutaten in einem Pfaennchen erwaermen, ins Mixglas giessen und puerieren. Beeren-Mus auf den Talern verteilen.</inhalt>
+      </Beeren-Mus>
+      <Topping   >
+          <inhalt>Die Taler mit Beeren und Kokosmilch verzieren.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>358 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spinatfuellung>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>400 g</quant>
+          <zutat>Blattspinat, grob geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>60 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+      </Spinatfuellung>
+      <Involtini >
+          <quant>8 </quant>
+          <zutat>duenne Kalbsplaetzli (je ca. 60 g), flach geklopft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 Tranchen</quant>
+          <zutat>Schinken, halbiert</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Involtini >
+      <Sauce     >
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Ueberbacken>
+          <quant>20 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+      </Ueberbacken>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spinatfuellung                 </inhalt>
+      </How_To    >
+      <Spinatfuellung>
+          <inhalt>Involtini                     </inhalt>
+      </Spinatfuellung>
+      <Involtini >
+          <inhalt>Sauce                         </inhalt>
+      </Involtini >
+      <Sauce     >
+          <inhalt>Ueberbacken                    </inhalt>
+      </Sauce     >
+      <Ueberbacken>
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Mit Basilikum bestreuen. </inhalt>
+      </Ueberbacken>
+   </rezept>
+</Rezept>

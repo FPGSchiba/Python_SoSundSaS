@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>280 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Trockene_Zutaten>
+          <quant>100 g</quant>
+          <zutat>Kokosmehl </zutat>
+          <quant>80 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 EL</quant>
+          <zutat>geschrotete Leinsamen </zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Trockene_Zutaten>
+      <Fluessige_Zutaten>
+          <quant>200 g</quant>
+          <zutat>Soja Dessert nature</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Fluessige_Zutaten>
+      <Erdbeeren_&amp;_Backen>
+          <quant>150 g</quant>
+          <zutat>Erdbeeren, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Buchweizenmehl</zutat>
+      </Erdbeeren_&amp;_Backen>
+      <Toppings  >
+          <quant>150 g</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>100 kg</quant>
+          <zutat>Erdbeeren, halbiert</zutat>
+          <quant>einige </quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Trockene Zutaten              </inhalt>
+      </How_To    >
+      <Trockene_Zutaten>
+          <inhalt>Fluessige Zutaten              </inhalt>
+      </Trockene_Zutaten>
+      <Fluessige_Zutaten>
+          <inhalt>Erdbeeren &amp; Backen        </inhalt>
+      </Fluessige_Zutaten>
+      <Erdbeeren_&amp;_Backen>
+          <inhalt>Backen: ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Cake auskuehlen, aus der Form nehmen. </inhalt>
+      </Erdbeeren_&amp;_Backen>
+      <Toppings  >
+          <inhalt>Den ausgekuehlten Cake mit Jogurt, Erdbeeren und Kokosnuss-Streifen verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

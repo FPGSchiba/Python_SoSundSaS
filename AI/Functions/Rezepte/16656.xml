@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>800 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>88 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizza     >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Pizzateig </zutat>
+          <quant>130 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chicoree (Radicchio), in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in feinen Schnitzen</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Pizza     >
+   </einkaufliste>
+   <rezept>
+      <Pizza     >
+          <inhalt>Teig entrollen, mitsamt dem Backpapier auf ein Blech legen. Kaese darauf verteilen, mit Chicoree und Birne belegen, wuerzen. </inhalt>
+      </Pizza     >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

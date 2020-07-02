@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>47 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleischbaellchen>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, Zwiebel fein gehackt, Gruen in Ringen, beiseite gestellt</zutat>
+          <quant>2 </quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>320 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Panko</zutat>
+      </Fleischbaellchen>
+      <Braten    >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Braten    >
+      <Sauce     >
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Hoisin-Sauce</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Maizena</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Fleischbaellchen>
+          <inhalt>Oel in einer beschichteten Bratpfanne erwaermen. Bundzwiebeln, Zitronengras, Knoblauch und Ingwer ca. 5 Min. andaempfen. Sojasauce und Essig beigeben, mischen, in eine Schuessel geben, auskuehlen. Hackfleisch und Panko beigeben, von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden, zu ca. 25 Baellchen formen.</inhalt>
+      </Fleischbaellchen>
+      <Braten    >
+          <inhalt>Oel in derselben Bratpfanne erhitzen. Fleischbaellchen portionenweise rundum ca. 6 Min. braten. Herausnehmen. </inhalt>
+      </Braten    >
+      <Sauce     >
+          <inhalt>Sojasauce mit allen Zutaten bis und mit Maizena verruehren. In dieselbe Pfanne giessen, unter Ruehren aufkochen, ca. 2 Min. koecheln. Fleischbaellchen wieder beigeben, unter Wenden ca. 3 Min. fertigkoecheln. Beiseite gestelltes Bundzwiebelgruen darueberstreuen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

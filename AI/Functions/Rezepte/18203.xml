@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>540 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pesto     >
+          <quant>400 g</quant>
+          <zutat>farbiger Krautstiel (z.B. ProSpecieRara)</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>50 g</quant>
+          <zutat>Appenzellerkaese, fein gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haselnuesse, grob gehackt, geroestet</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Pesto     >
+      <Staengel   >
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Staengel   >
+      <Flammkuchen>
+          <quant>1 </quant>
+          <zutat>ausgewallter Flammkuchenteig (ca. 24 x 33 cm)</zutat>
+          <quant>100 g</quant>
+          <zutat>Doppelrahmfrischkaese nature</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+      </Flammkuchen>
+      <Vorbacken >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Vorbacken >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pesto                         </inhalt>
+      </How_To    >
+      <Pesto     >
+          <inhalt>puerieren, salzen.             </inhalt>
+      </Pesto     >
+      <Staengel   >
+          <inhalt>Beiseite gestellte Staengel in ca. 3 cm lange Stuecke schneiden, ca. 2 Min. im siedenden Salzwasser blanchieren. Herausnehmen, kurz in eiskaltes Wasser legen, abtropfen und trocken tupfen.</inhalt>
+      </Staengel   >
+      <Flammkuchen>
+          <inhalt>Teig entrollen, mit dem Backpapier auf ein Blech legen. Teig mit dem Frischkaese bestreichen. Speckwuerfeli und 2/3 des Pestos darauf verteilen. </inhalt>
+      </Flammkuchen>
+      <Vorbacken >
+          <inhalt>Ca. 15 Min.auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Herausnehmen, Krautstiel-Staengel mit Oel und Salz mischen, darauf verteilen. </inhalt>
+      </Vorbacken >
+      <Fertig_backen>
+          <inhalt>Ca. 10 Min.. Flammkuchen mit dem restlichen Pesto servieren.</inhalt>
+      </Fertig_backen>
+   </rezept>
+</Rezept>

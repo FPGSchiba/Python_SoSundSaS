@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>520 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>600 g</quant>
+          <zutat>Stangensellerie, in ca. 6 cm langen Streifen</zutat>
+          <quant>600 g</quant>
+          <zutat>Baby-Kartoffeln, in Schnitzen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>einige </quant>
+          <zutat>Wacholderbeeren</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gemuese    >
+      <Fisch     >
+          <quant>4 </quant>
+          <zutat>Lachstranchen, ohne Haut (je ca. 150 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>5 EL</quant>
+          <zutat>Gin</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Stangesellerie und Kartoffeln in der vorbereitete Form verteilen, Bouillon und Rahm dazugiessen, Wacholderbeeren beigeben, wuerzen, mischen, mit Alufolie zudecken. </inhalt>
+      </Gemuese    >
+      <Backen_   >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Folie entfernen.</inhalt>
+      </Backen_   >
+      <Fisch     >
+          <inhalt>Lachs mit einem Messer 3- bis 4-mal ca. 5 mm tief einschneiden, wuerzen. Lachs auf das Gemuese legen, Gin und Zitronensaft darauf verteilen. Ca. 10 Min. fertig backen. </inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

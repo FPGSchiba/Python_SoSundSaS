@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>462 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rhabarber >
+          <quant>200 g</quant>
+          <zutat>Rhabarber, in ca. 2 cm grossen Stuecken</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+      </Rhabarber >
+      <Granola   >
+          <quant>150 g</quant>
+          <zutat>grobe Haferflocken</zutat>
+          <quant>50 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>50 g</quant>
+          <zutat>Kernenmix</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Granola   >
+   </einkaufliste>
+   <rezept>
+      <Rhabarber >
+          <inhalt>Rhabarber mit Zucker und Zimt mischen, auf einem mit Backpapier belegten Blech verteilen. Backen: ca. 25 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens (Heissluft), herausnehmen. Ofenhitze auf 180 Grad (Heissluft) erhoehen. </inhalt>
+      </Rhabarber >
+      <Granola   >
+          <inhalt>Haferflocken und alle Zutaten bis und mit Honig mischen, zu den Rhabarbern aufs Blech geben, mischen, auf dem Blech verteilen. </inhalt>
+      </Granola   >
+      <Backen    >
+          <inhalt>Ca.15 Min. in der Mitte des vorgeheizten Ofens, dabei 3 bis 4 Mal wenden. Herausnehmen, auskuehlen lassen. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

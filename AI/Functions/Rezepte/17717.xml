@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>218 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ingwer-Aprikosensirup>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ingwer, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale, Saft beiseite gestellt</zutat>
+          <quant>150 g</quant>
+          <zutat>Aprikosen, in Stuecken</zutat>
+      </Ingwer-Aprikosensirup>
+      <Sommerdrink>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>1/4 </quant>
+          <zutat>Gurke, in Scheiben</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>trockener weisser Vermouth (z.B. Martini bianco)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Mineralwasser</zutat>
+          <quant>4 </quant>
+          <zutat>Aprikosen, in Schnitzen</zutat>
+      </Sommerdrink>
+   </einkaufliste>
+   <rezept>
+      <Ingwer-Aprikosensirup>
+          <inhalt>Wasser und Zucker in einer Pfanne aufkochen. Ingwer, Limettenschale und Aprikosen beigeben, ca. 5 Min. koecheln, in der Pfanne auskuehlen, Masse durch ein Sieb streichen, sodass ein dicklicher Sirup entsteht. </inhalt>
+      </Ingwer-Aprikosensirup>
+      <Sommerdrink>
+          <inhalt>Eiswuerfel und Gurken in die Glaeser geben. Sirup, beiseite gestellten Limettensaft, Vermouth und Mineralwasser auf die Glaeser verteilen, mit Aprikosen garnieren. </inhalt>
+      </Sommerdrink>
+   </rezept>
+</Rezept>

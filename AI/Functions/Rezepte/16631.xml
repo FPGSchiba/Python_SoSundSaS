@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>380 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muerbeteig >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Muerbeteig >
+      <Fuellung   >
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Muerbeteig >
+          <inhalt>Mehl, Zucker und Salz in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser beigeben, rasch zu einem Teig zusammenfuegen, nicht kneten. 3/4 des Teiges in die vorbereite Form druecken, sodass ein ca. 3 cm hoher Rand entsteht. Form wie auch den restlichen Teig separat ca. 30 Min. kuehl stellen. </inhalt>
+      </Muerbeteig >
+      <Blindbacken>
+          <inhalt>Teigboden in der Cakeform mit Backpapier belegen und mit getrockneten Huelsenfruechten beschweren. Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens backen. Herausnehmen, etwas abkuehlen, Huelsenfruechte und Backpapier entfernen.  </inhalt>
+      </Blindbacken>
+      <Fuellung   >
+          <inhalt>Butter und Puderzucker mit den Schwingbesen des Handruehrgeraets ca. 5 Min. verruehren. Mandeln, Vanillesamen und Ei darunterruehren. Fuellung auf dem vorgebackenen Tarteboden verteilen, Beeren darauflegen, etwas andruecken. Restlichen Teig mit den Mandeln von Hand zu einer kruemeligen Masse verreiben, auf den Beeren verteilen. </inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, Tarte etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen. Tarte in 10 Schnitten schneiden.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

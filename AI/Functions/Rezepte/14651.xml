@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>352 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Milch</zutat>
+      </Hefeteig  >
+      <Creme     >
+          <quant>1 Beutel</quant>
+          <zutat>Cremepulver fuer Patisserie (z.B. Betty Bossi Patisserie Creme  Vanille, ca. 100 g)</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+      </Creme     >
+      <Frittieren>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Frittieren>
+      <Verzieren >
+          <quant>1 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 120 g)</zutat>
+          <quant>1/2 Beutel</quant>
+          <zutat>weisse Kuchenglasur  (ca. 60 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Betty Bossi Himbeer-Streusel</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hefeteig                      </inhalt>
+      </How_To    >
+      <Hefeteig  >
+          <inhalt>Hefe zerbroeckeln, mit Mehl, Salz und Zucker mischen. Butter in Stuecke schneiden, beigeben. Ei verklopfen, mit der Milch beigeben. Mit dem Knethacken der Kuechenmaschine zu einem weichen glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <How_To1   >
+          <inhalt>Teig zu einer Rolle formen, in 12 gleich grosse Stuecke schneiden. Kugeln formen, mit einem Kellenstiel in der Mitte durchstechen. Den Teig leicht um den Kellenstiel kreisen lassen, damit sich das Loch vergroessert und ein Ring von ca. 7 cm Ø (Aussenrand) entsteht. Ringe auf einem Backpapier zugedeckt nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </How_To1   >
+      <Formen    >
+          <inhalt>Cremepulver mit der Milch, mit den Schwingbesen des Handruehrgeraets ca. 2 Min. auf hoechster Stufe ruehren, bis die Creme fest ist. Creme in einen Spritzsack mit glatter Tuelle (ca. 10 mm Ø) geben, ca. 15 Min. kuehl stellen.</inhalt>
+      </Formen    >
+      <Creme     >
+          <inhalt>Brattopf bis 1/3 Hoehe mit dem Oel fuellen, auf ca. 160 Grad erhitzen. Hefeteigringe portionenweise mit einer Schaumkelle hineingeben, ca. 4 Min. hellbraun frittieren, dabei 1-mal wenden. Donuts herausnehmen, auf Haushaltpapier abtropfen. </inhalt>
+      </Creme     >
+      <Frittieren>
+          <inhalt>Kuchenglasur im Beutel in knapp siedendem Wasser schmelzen. Glasur je in eine Schuessel geben.</inhalt>
+      </Frittieren>
+      <Verzieren >
+          <inhalt>Weisse Kuchenglasur mit einem Loeffel streifenartig darauf verteilen. Streusel darueberstreuen, trocknen lassen.</inhalt>
+      </Verzieren >
+   </rezept>
+</Rezept>

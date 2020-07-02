@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>339 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>350 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, kalt in Stuecken</zutat>
+      </Teig_     >
+      <Fuellung_  >
+          <quant>150 g</quant>
+          <zutat>getrocknete Apfelschnitze, grob geschnitten</zutat>
+          <quant>125 g</quant>
+          <zutat>getrocknete Feigen, grob geschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>Sultaninen, grob geschnitten</zutat>
+          <quant>75 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>75 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Orangeat</zutat>
+          <quant>2 EL</quant>
+          <zutat>Birnbrotgewuerz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Birnensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Williams</zutat>
+      </Fuellung_  >
+      <Fruechte-Weggen>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Fruechte-Weggen>
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl, Salz, Zucker und Hefe in eine Schuessel geben, mischen. Milch dazugiessen, rasch zu einem weichen Teig kneten. Butter beigeben, ca. 5 Min. weiter kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. auf Doppelte aufgehen lassen. Teig halbieren. </inhalt>
+      </Teig_     >
+      <Fuellung_  >
+          <inhalt>Die Haelfte des Teiges, Aepfel, Feigen und Sultaninen portionenweise im Cutter mahlen. Mit den Haselnuessen und allen Zutaten bis und mit Williams mischen. </inhalt>
+      </Fuellung_  >
+      <Fruechte-Weggen>
+          <inhalt>Restlichen Teig halbieren, je zu einem Rechteck (ca. 20 x 25 cm) auswallen. Je 1/2 der Fuellung auf die Mitte der Teige geben. Teigraender mit Ei bestreichen, zu zwei Paeckli formen, mit den Verschluessen nach unten auf ein mit Backpapier belegtes Blech legen. Teige mit Ei bestreichen, mit einer Gabel dicht einstechen.</inhalt>
+      </Fruechte-Weggen>
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

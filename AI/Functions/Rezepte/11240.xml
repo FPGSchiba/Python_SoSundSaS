@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>555 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Beilage   >
+          <quant>800 g</quant>
+          <zutat>fest kochende Kartoffeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>300 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Beilage   >
+      <Fisch     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in feinen Streifen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>3 dl</quant>
+          <zutat>Fischbouillon</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Rosenpaprika</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>4 </quant>
+          <zutat>Felchenfilets ohne Haut (je ca. 150 g), halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Beilage   >
+          <inhalt>Aus den Kartoffeln mit dem Kartoffelausstecher meist moegliche Kugeln ausstechen. Kartoffelabschnitte (ca. 200 g) beiseitestellen. Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Kartoffelkugeln ca. 15 Min. ruehrbraten. Spinat beigeben, Spinat zusammenfallen lassen, wuerzen. </inhalt>
+      </Beilage   >
+      <Fisch     >
+          <inhalt>Butter in einer weiten Pfanne warm werden lassen. Beiseite gestellte Kartoffelabschnitte und Schalotte ca. 2 Min. andaempfen. Wein und Bouillon dazugiessen,  Paprika beigeben, aufkochen, Hitze reduzieren,  ca. 10 Min. koecheln. Sauce puerieren, durch ein Sieb zurueck in die Pfanne streichen. Rahm dazugiessen, aufkochen, Hitze reduzieren. Fischfilets salzen, in die Sauce legen, zugedeckt bei kleiner Hitze ca. 8 Min. ziehen lassen.</inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

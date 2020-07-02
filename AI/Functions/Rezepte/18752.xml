@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>96 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln>
+          <quant>24 </quant>
+          <zutat>Baby-Kartoffeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Kartoffeln>
+      <Kartoffeln_fuellen>
+          <quant>600 g</quant>
+          <zutat>Fonduemischung fixfertig ( z.B. Fine Food Gourmet Fondue mit Trueffel)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Apfelwein oder Apfelsaft</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kartoffeln_fuellen>
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln>
+          <inhalt>Von den Kartoffeln einen duennen Boden wegschneiden, damit die Kartoffeln stehen. von den Kartoffeln einen duennen Deckel abschneiden, oben mit einem Kugelloeffel bis auf einen ca. 3 mm breiten Rand aushoehlen (nicht durchstechen). Kartoffeln offen im siedenden Salzwasser ca. 15 Min. weich kochen, warm halten. </inhalt>
+      </Kartoffeln>
+      <Kartoffeln_fuellen>
+          <inhalt>Kaese und Apfelwein in einer Pfanne mischen, unter Ruehren aufkochen, Hitze reduzieren, weiterkoecheln, bis der Kaese geschmolzen ist. Fondue in die Kartoffeln verteilen, diese vorzu im auf 160 Grad vorgeheizten Ofen warm stellen, bis alle Kartoffeln gefuellt sind. Fondue-Kartoffeln wuerzen, sofort servieren. </inhalt>
+      </Kartoffeln_fuellen>
+   </rezept>
+</Rezept>

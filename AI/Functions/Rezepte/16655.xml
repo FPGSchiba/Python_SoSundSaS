@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>601 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dressing  >
+          <quant>3 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dressing  >
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>Aepfel, in feinen Scheiben</zutat>
+          <quant>1/4 </quant>
+          <zutat>Weisskabis (ca. 200 g), fein gehobelt</zutat>
+          <quant>50 g</quant>
+          <zutat>Pecorino romano, in Wuerfeli</zutat>
+          <quant>40 g</quant>
+          <zutat>Baumnuesse, grob gehackt</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Dressing  >
+          <inhalt>Essig und Oel verruehren, wuerzen. </inhalt>
+      </Dressing  >
+      <Salat     >
+          <inhalt>Aepfel, Kabis, Pecorino und Nuesse zum Dressing geben, mischen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

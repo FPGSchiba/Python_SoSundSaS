@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>391 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nocken    >
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Vollrohrzucker</zutat>
+          <quant>40 g</quant>
+          <zutat>weiche Caramels (z.B. Fine Food All Butter Fudge), fein gerieben</zutat>
+          <quant>5 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosflocken, geroestet</zutat>
+      </Nocken    >
+      <Anrichten >
+          <quant>200 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>1 </quant>
+          <zutat>gekochte Rande (ca. 80 g), in Wuerfeli</zutat>
+          <quant>1 TL</quant>
+          <zutat>Aceto balsamico (z.B. Fine Food Aceto Balsamico di Modena)</zutat>
+          <quant>4 TL</quant>
+          <zutat>Eierlikoer</zutat>
+          <quant>80 g</quant>
+          <zutat>Kokosnuss-Streifen, grob gehackt</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Zitronenmelisse, zerzupft</zutat>
+          <quant>30 g</quant>
+          <zutat>weiche Caramels (z.B. Fine Food All Butter Fudge), grob gehackt</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Nocken    >
+          <inhalt>Eiweisse mit dem Salz steif schlagen, Zucker beigeben, weiterschlagen, bis die Masse glaenzt und sehr steif ist. Caramel sorgfaeltig darunterziehen. Milch in einer kleinen Pfanne auf 80 Grad erwaermen. Mit 2 Essloeffeln Nocken aus dem Eischnee formen, auf die Milch setzen, ca. 5 Min. pochieren, dabei einmal wenden. Nocken aus der Milch heben, auf Haushaltpapier auskuehlen. Kokosflocken in einen Teller geben, Nocken sorgfaeltig darin wenden. </inhalt>
+      </Nocken    >
+      <Anrichten >
+          <inhalt>4 Erdbeeren (ca. 100 g) laengs in Scheibchen schneiden, restliche Erdbeeren puerieren. Erdbeerscheibchen mit den Randen auf einem Teller anrichten. Mit den puerierten Erdbeeren und Aceto balsamico betraeufeln. Eierlikoer in der Mitte verteilen, Nocken daraufsetzen, Kokos, Zitronenmelisse und Caramel darauf verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

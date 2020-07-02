@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>623 kcal</NaehrwertProPerson>
+       <Fett>50 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Orangen-Curry-Butter>
+          <quant>1 </quant>
+          <zutat>Orange, heiss abgespuelt, abgeriebene Schale und Saft</zutat>
+          <quant>150 g</quant>
+          <zutat>gesalzene Butter, weich</zutat>
+          <quant>2 TL</quant>
+          <zutat>Madras-Curry</zutat>
+      </Orangen-Curry-Butter>
+      <Fleisch_marinieren>
+          <quant>4 </quant>
+          <zutat>Rindsentrecotes (je ca. 180 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1/2 </quant>
+          <zutat>Orange, nur Saft (ca. 2 EL)</zutat>
+      </Fleisch_marinieren>
+      <Fleisch_braten>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch_braten>
+   </einkaufliste>
+   <rezept>
+      <Orangen-Curry-Butter>
+          <inhalt>Orangenschale und -saft ca. 5 Min. auf ca. 1 EL einkoecheln, auskuehlen. Butter, Curry und eingekochten Orangensaft mit den Schwingbesen des Handruehrgeraetes ca. 2 Min. ruehren, zugedeckt mindestens 2 Std. kuehl stellen.</inhalt>
+      </Orangen-Curry-Butter>
+      <Fleisch_marinieren>
+          <inhalt>Entrecotes auf eine Platte legen. Oel mit Rosmarin und Orangensaft verruehren, Fleisch damit bestreichen. Zugedeckt mind. 2 Std. im Kuehlschrank marinieren.</inhalt>
+      </Fleisch_marinieren>
+      <Fleisch_braten>
+          <inhalt>Fleisch ca. 30 Min. vor dem Braten aus dem Kuehlschrank nehmen. Bratbutter in einer Bratpfanne erhitzen. Fleisch beidseitig je ca. 3 Min. braten (a point), wuerzen. Mit der Orangen-Curry-Butter servieren.</inhalt>
+      </Fleisch_braten>
+   </rezept>
+</Rezept>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>788 kcal</NaehrwertProPerson>
+       <Fett>63 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aïoli     >
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>wenig </quant>
+          <zutat>Cayennepfeffer</zutat>
+      </Aïoli     >
+      <Teig      >
+          <quant>75 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure, kalt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>300 g</quant>
+          <zutat>Felchenfilets ohne Haut</zutat>
+          <quant>300 g</quant>
+          <zutat>Mini-Pulpos, kuechenfertig</zutat>
+      </Teig      >
+      <Frittieren>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in Schnitzen</zutat>
+          <quant>wenig </quant>
+          <zutat>Petersilie, abgezupft</zutat>
+      </Frittieren>
+   </einkaufliste>
+   <rezept>
+      <Aïoli     >
+          <inhalt>Knoblauch, Eigelb und Salz in einer kleinen Schuessel mit dem Schwingbesen gut verruehren. Oel unter staendigem Ruehren anfangs tropfenweise, dann im Faden dazugiessen, bis eine dickfluessige Aïoli entsteht. Zitronensaft darunterruehren, wuerzen. </inhalt>
+      </Aïoli     >
+      <Teig      >
+          <inhalt>Mehl, Maizena und Backpulver mischen, mit dem Mineralwasser zu einem duennen Teig verruehren, wuerzen. Fischfilets und Mini-Pulpo in den Teig tauchen, ueberschuessigen Teig abschuetteln.</inhalt>
+      </Teig      >
+      <Frittieren>
+          <inhalt>Ofen auf 80 Grad vorheizen. Ein Blech mit Backpapier belegen, Gitter darauflegen, in den Ofen geben. Oel in einem tiefen Brattopf auf ca. 180 Grad erhitzen. Fischfilets und Mini-Pulpo portionenweise je ca. 6 Min. goldbraun frittieren, auf dem Gitter warm halten. Zitronenschnitze, Petersilie und Aïoli dazu servieren. </inhalt>
+      </Frittieren>
+   </rezept>
+</Rezept>

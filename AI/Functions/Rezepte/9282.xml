@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>463 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>4 </quant>
+          <zutat>Birnen</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>250 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>4 </quant>
+          <zutat>Birnen</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Belag     >
+      <Aprikotieren>
+          <quant>100 g</quant>
+          <zutat>Aprikosenkonfituere</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Aprikotieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Springform vorbereiten        </inhalt>
+      </How_To    >
+      <Springform_vorbereiten>
+          <inhalt>Springformenboden (24 cm Ø) mit Backpapier belegen, Rand einfetten.</inhalt>
+      </Springform_vorbereiten>
+      <How_To1   >
+          <inhalt>Teig                          </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Eier beigeben, weiterruehren, bis die Masse heller ist.</inhalt>
+      </How_To2   >
+      <Teig      >
+          <inhalt>Mehl und Backpulver mischen, unter den Teig mischen, in die vorbereitete Form fuellen.</inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Fuer den Belag die Birnen schaelen, entkernen, halbieren, sehr fein einschneiden, sodass sie noch zusammenhalten, auf dem Teig verteilen. Zucker darueberstreuen.</inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen    >
+      <Aprikotieren>
+          <inhalt>Aprikosenkonfituere und Wasser in einer kleinen Pfanne erwaermen, Birnenkuchen damit bestreichen.</inhalt>
+      </Aprikotieren>
+   </rezept>
+</Rezept>

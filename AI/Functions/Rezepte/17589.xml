@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>694 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>72 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tagliatelle>
+          <quant>200 g</quant>
+          <zutat>Teigwaren (z.B. Tagliatelle) (z.B. Dinkeltagliatelle)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>150 g</quant>
+          <zutat>Erbsli</zutat>
+      </Tagliatelle>
+      <Sauce     >
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Pecorino romano, fein gerieben</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Tagliatelle>
+          <inhalt>Tagliatelle im siedenden Salzwasser ca. 3 Min. kochen, Erbsli beigeben und ca. 3 Min. mitkochen. 1 dl Kochwasser beiseite stellen, Tagliatelle und Erbsli abtropfen. </inhalt>
+      </Tagliatelle>
+      <Sauce     >
+          <inhalt>Eier mit Pecorino und beiseite gestelltem Kochwasser verruehren, unter die heissen Tagliatelle mischen, wuerzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

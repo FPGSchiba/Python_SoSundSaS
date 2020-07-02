@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>910 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>59 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sweet_and_Sour_Sauce>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein geschnitten</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln, in feinen Schnitzen</zutat>
+          <quant>4 </quant>
+          <zutat>Rueebli, in Staengeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 dl</quant>
+          <zutat>Blutorangensaft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Ingwersaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 </quant>
+          <zutat>Blutorangen, filetiert</zutat>
+      </Sweet_and_Sour_Sauce>
+      <Thunfisch_und_knuspriger_Tofu>
+          <quant>260 g</quant>
+          <zutat>Tofu nature, in Staengeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>100 g</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>4 Tranchen</quant>
+          <zutat>Gelbflossen-Thunfisch (je ca. 180 g)</zutat>
+      </Thunfisch_und_knuspriger_Tofu>
+   </einkaufliste>
+   <rezept>
+      <Sweet_and_Sour_Sauce>
+          <inhalt>Oel im Wok oder in der Bratpfanne erhitzen. Knoblauch, Chili und Zitronengras beigeben, kurz ruehrbraten. Zwiebeln, Rueebli und Tomatenpueree beigeben, ca. 5 Min. mitruehrbraten. Blutorangen- und Ingwersaft mit dem Essig, Sojasauce, Zucker und Maizena verruehren, dazugiessen, unter Ruehren aufkochen, ca. 3 Min. koecheln. Orangenfilets dazugeben, nur noch warm werden lassen. </inhalt>
+      </Sweet_and_Sour_Sauce>
+      <Thunfisch_und_knuspriger_Tofu>
+          <inhalt>Tofu mit Sojasauce bestreichen, in den Kokosflocken wenden. Oel in einer beschichteten Bratpfanne erhitzen. Tofu rundum ca. 3 Min. braten, herausnehmen. Fisch in derselben Pfanne beidseitig je ca. 1 Min. braten, herausnehmen, tranchieren. Tofu und Sweet and Sour Sauce dazu servieren. </inhalt>
+      </Thunfisch_und_knuspriger_Tofu>
+   </rezept>
+</Rezept>

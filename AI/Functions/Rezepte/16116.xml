@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>347 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nuesse_schaelen>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse</zutat>
+      </Nuesse_schaelen>
+      <Ruehrteig  >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>200 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>120 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>4 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Ruehrteig  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nuesse schaelen                 </inhalt>
+      </How_To    >
+      <Nuesse_schaelen>
+          <inhalt>Roesten: ca. 8 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens, bis die Haeutchen aufspringen. Herausnehmen, Nuesse zwischen einem feuchten Tuch hin - und herbewegen, bis sich die Haeutchen loesen. Nuesse grob hacken.</inhalt>
+      </Nuesse_schaelen>
+      <Ruehrteig  >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Eigelbe beigeben, weiterruehren, bis die Masse heller ist. Gehackte und gemahlene Nuesse, Mehl, Backpulver und Schokolade mischen, unter die Masse mischen. Eiweisse mit dem Salz steif schlagen, mit dem Gummischaber sorgfaeltig unter die Masse ziehen. Teig in die vorbereitete Form fuellen.</inhalt>
+      </Ruehrteig  >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Cake herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+   <video href="https://www.youtube.com/watch?v=VGLb0Jarz94"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

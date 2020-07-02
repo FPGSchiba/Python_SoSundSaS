@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>54 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant>1/2 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Pouletschnitzel Charbonnade</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Naturaplan Bio Betty Bossi Napoli Sauce</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Basilikum, grob geschnitten, 1 EL beiseite gestellt</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, in Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+      </Poulet    >
+   </einkaufliste>
+   <rezept>
+      <Poulet    >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Poulet portionenweise bei mittlerer Hitze beidseitig je ca. 2 Min. braten, wuerzen und in die vorbereitete Form geben. Tomatensauce, Basilikum und Mozzarella darauf verteilen, salzen. </inhalt>
+      </Poulet    >
+      <Gratinieren>
+          <inhalt>Ca. 10 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Beiseite gestellten Basilikum darueberstreuen. </inhalt>
+      </Gratinieren>
+   </rezept>
+</Rezept>

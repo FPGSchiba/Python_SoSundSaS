@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>513 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>20 g</quant>
+          <zutat>getrocknete Morcheln</zutat>
+          <quant>12 </quant>
+          <zutat>Schweinsmedaillons (je ca. 50 g)</zutat>
+          <quant>12 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>trockener weisser Vermouth (z.B. Noilly Prat)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ofen auf 60 Grad vorheizen, Platte und Teller vorwaermen. Morcheln in Wasser einweichen. Medaillons mit dem Speck umwickeln, wuerzen, portionenweise in wenig heisser Bratbutter beidseitig je ca. 2 1/2 Min. braten, herausnehmen, warm stellen. Bratfett auftupfen, evtl. wenig Bratbutter beigeben.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Morcheln gut waschen, abtropfen, halbieren. Schalotten fein hacken, beides andaempfen. Vermouth dazugiessen, fast vollstaendig einkochen. Bouillon und 1 dl Rahm dazugiessen, ca. 10 Min. koecheln, wuerzen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Restlichen Rahm knapp steif schlagen, beigeben, mit dem Fleisch anrichten, Petersilie darauf verteilen.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

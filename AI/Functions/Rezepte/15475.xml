@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>290 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Banane    >
+          <quant>4 </quant>
+          <zutat>Bananen mit der Schale</zutat>
+          <quant>100 g</quant>
+          <zutat>Milchschokolade, in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>Granola (z.B. Karma Sweet Potato Banana Granola)</zutat>
+      </Banane    >
+   </einkaufliste>
+   <rezept>
+      <Banane    >
+          <inhalt>Bananen laengs auf-, aber nicht ganz durchschneiden. Bananen auf die Folie legen. Bananen so mit der Folie einwickeln, dass der Einschnitt frei bleibt. Schokolade in die Bananen stecken, Granola darauf verteilen.</inhalt>
+      </Banane    >
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Bananen ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) ca. 12 Min. grillieren.</inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

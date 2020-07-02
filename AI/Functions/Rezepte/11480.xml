@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>342 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>250 </quant>
+          <zutat>Magerquark</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter,weich</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>200 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>8 </quant>
+          <zutat>Zwetschgen</zutat>
+          <quant>8 Wuerfel</quant>
+          <zutat>Rohzucker</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>6 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Quark mit Butter, Salz und ei verruehren. Wenig Zitronenschale abreiben, darunterruehren. Mehl mit dem Backpulver mischen, beigeben, rasch zu einem weichen Teig zusammenfuegen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Zwetschgen so aufschneiden, dass die beiden Haelften noch zusammenhalten. Stein durch 1 Zuckerwuerfel ersetzen, Zwetschgen zusammenklappen. Teig zu einer Rolle formen, in 8 gleich grosse Stuecke schneiden. Diese flach druecken, je 1 gefuellte Zwetschge in die Mitte legen, mit Teig umschliessen, zu einer Kugel formen. Knoedel portionenweise im leicht siedenden Salzwasser ca. 20 Min. ziehen lassen, mit einer Schaumkelle herausnehmen, abtropfen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Knoedel im Zucker wenden.      </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Zusammen mit einer Vanillesauce servieren.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

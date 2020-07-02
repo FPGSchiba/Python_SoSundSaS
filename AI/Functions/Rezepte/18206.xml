@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>434 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auberginen>
+          <quant>4 </quant>
+          <zutat>Auberginen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Auberginen>
+      <Fuellung   >
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen, Gruen beiseite gestellt</zutat>
+          <quant>400 g</quant>
+          <zutat>Hackfleisch (Poulet)</zutat>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kernenmix (z.B. Campiuns)</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Salat_    >
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, Blaettchen abgezupft</zutat>
+          <quant>50 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kernenmix (z.B. Campiuns)</zutat>
+      </Salat_    >
+   </einkaufliste>
+   <rezept>
+      <Auberginen>
+          <inhalt>Von den Auberginen  je einen ca. 1 1/2 cm breiten Deckel abschneiden. Auberginen bis auf einen ca. 1 cm dicken Rand aushoehlen, rundum mit Oel bestreichen und salzen, in die vorbereiteten Formen stellen. Aubergineninneres fein hacken.</inhalt>
+      </Auberginen>
+      <Fuellung   >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Bundzwiebel kurz andaempfen,   Aubergineninneres beigeben, ca. 6 Min. braten, etwas abkuehlen. Hackfleisch und alle Zutaten bis und mit Pfeffer daruntermischen, Auberginen damit fuellen. </inhalt>
+      </Fuellung   >
+      <Backen_   >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen_   >
+      <Salat_    >
+          <inhalt>Zitronensaft und Oel verruehren, salzen. Rucola und Pfefferminze beigeben, Himbeeren und Kernenmix darueberstreuen. Salat zu den Auberginen servieren. </inhalt>
+      </Salat_    >
+   </rezept>
+</Rezept>

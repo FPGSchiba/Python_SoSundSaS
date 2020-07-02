@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>326 kcal</NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>69 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lebkuchenteig>
+          <quant>600 g</quant>
+          <zutat>Ruchmehl</zutat>
+          <quant>225 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>150 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>3 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>2 1/4 dl</quant>
+          <zutat>Milch, kalt</zutat>
+      </Lebkuchenteig>
+      <Formen    >
+          <quant>4 1/2 EL</quant>
+          <zutat>Ruchmehl</zutat>
+      </Formen    >
+      <Glasur_   >
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>300 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Glasur_   >
+      <Lebkuchendach>
+          <quant>4 </quant>
+          <zutat>Zahnstocher, halbiert</zutat>
+      </Lebkuchendach>
+      <Dekorieren_>
+          <quant>50 g</quant>
+          <zutat>Smarties</zutat>
+          <quant>50 g</quant>
+          <zutat>Suessigkeiten</zutat>
+      </Dekorieren_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lebkuchenteig                 </inhalt>
+      </How_To    >
+      <Lebkuchenteig>
+          <inhalt>Formen                        </inhalt>
+      </Lebkuchenteig>
+      <Formen    >
+          <inhalt>Backen                        </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Glasur                        </inhalt>
+      </Backen    >
+      <Glasur_   >
+          <inhalt>Haus zusammensetzen           </inhalt>
+      </Glasur_   >
+      <Haus_zusammensetzen_>
+          <inhalt>Mit den restlichen zwei Waenden Vorgang wiederholen. </inhalt>
+      </Haus_zusammensetzen_>
+      <Lebkuchendach>
+          <inhalt>Fuer das Dach auf den beiden Giebelseiten je einen halben Zahnstocher einstecken. Glasur auf die Kante des Giebels verteilen. Erste Dachhaelfte sorgfaeltig auf beide Giebelspitzen legen und auf Zahnstocher stecken, leicht andruecken. Mit der zweiten Dachhaelfte gleich verfahren.</inhalt>
+      </Lebkuchendach>
+      <Dekorieren_>
+          <inhalt>Das Haus nach Belieben mit der restlichen Glasur, den Smarties,  Suessigkeiten und Lebkuchenformen verzieren. </inhalt>
+      </Dekorieren_>
+   </rezept>
+</Rezept>

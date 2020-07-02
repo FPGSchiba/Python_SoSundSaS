@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>224 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bundzwiebeln>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, laengs halbiert</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Bundzwiebeln>
+      <Buendel    >
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt</zutat>
+          <quant>500 g</quant>
+          <zutat>weisse Spargeln, geschaelt, laengs halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant>30 g</quant>
+          <zutat>Parmesan, mit dem Sparschaeler in Spaene gehobelt</zutat>
+      </Buendel    >
+   </einkaufliste>
+   <rezept>
+      <Bundzwiebeln>
+          <inhalt>Bundzwiebeln ca. 30 Sek. im siedenden Salzwasser blanchieren, mit einer Schaumkelle herausnehmen, kurz in eiskaltes Wasser legen, trocken tupfen. Bundzwiebeln in ca. 8 Streifen trennen.</inhalt>
+      </Bundzwiebeln>
+      <Buendel    >
+          <inhalt>Spargeln mit Oel und Salz mischen, in 8 gleichgrosse Buendel Teilen. Spargeln mit 1 Bundzwiebel-Streifen und 1 Specktranche umwickeln, auf ein mit Backpapier belegtes Blech legen. Kaese darueberstreuen. </inhalt>
+      </Buendel    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

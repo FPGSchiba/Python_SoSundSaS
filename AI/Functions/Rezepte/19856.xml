@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>595 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hackfleisch>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>500 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>80 g</quant>
+          <zutat>Ketchup</zutat>
+          <quant>2 EL</quant>
+          <zutat>BBQ-Sauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+      </Hackfleisch>
+      <Sloppy_Joe>
+          <quant>4 </quant>
+          <zutat>Burger-Broetli, aufgeschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>milder Gruyere, grob gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Essiggurken, laengs in Scheiben</zutat>
+      </Sloppy_Joe>
+   </einkaufliste>
+   <rezept>
+      <Hackfleisch>
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Fleisch in zwei Portionen je ca. 2 Min. anbraten. Herausnehmen, wuerzen, Hitze reduzieren, Bratfett auftupfen, evtl. wenig Bratbutter beigeben. Zwiebel, Rueebli und Knoblauch in derselben Pfanne ca. 5 Min. andaempfen. Bouillon dazugiessen, aufkochen. Hitze reduzieren, Ketchup, BBQ-Sauce, Tomatenpueree, Essig und Paprika mit dem Fleisch beigeben, mischen, ca. 10 Min. koecheln. </inhalt>
+      </Hackfleisch>
+      <Sloppy_Joe>
+          <inhalt>Burger-Broetli in einer Bratpfanne mit der Schnittflaeche nach unten ca. 1 Min. roesten. Herausnehmen, Broetli-Boeden mit dem Fleisch, Kaese und Essiggurken belegen, Broetli-Deckel darauflegen, leicht andruecken. </inhalt>
+      </Sloppy_Joe>
+   </rezept>
+</Rezept>

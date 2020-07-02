@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>449 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Teig_     >
+      <Formen_   >
+          <quant>750 g</quant>
+          <zutat>Brombeerkonfituere</zutat>
+          <quant>4 EL</quant>
+          <zutat>Weissmehl</zutat>
+      </Formen_   >
+      <Dekorieren_>
+          <quant>1 EL</quant>
+          <zutat>Goldstaub</zutat>
+      </Dekorieren_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig_     >
+          <inhalt>Formen                        </inhalt>
+      </Teig_     >
+      <Formen_   >
+          <inhalt>Restlichen Teig mit dem Mehl mischen, kurz kneten, auf wenig Mehl ca. 2 mm dick auswallen. Mit Formen Sterne ausstechen, auf die Tarte legen, kuehlstellen. </inhalt>
+      </Formen_   >
+      <Backen_   >
+          <inhalt>Ca. 35 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. Aus der Form nehmen, auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen_   >
+      <Dekorieren_>
+          <inhalt>Sternen mit Goldstaub dekorieren.</inhalt>
+      </Dekorieren_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>580 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>79 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>300 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant>75 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>125 g</quant>
+          <zutat>Schokoladenpulver</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter, Zucker, Vanillezucker und Eier schaumig ruehren bis sich der Zucker vollstaendig aufloest. Haselnuesse, Schokoladepulver und Milch beigeben, gut mischen. Weissmehl, Backpulver und Salz mischen, zur Masse sieben, darunterziehen, in die vorbereitete Form geben. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der untersten Rille des auf 180 Grad vorgeheizen Ofens. Herausnehmen, etwas abkuehlen. Formenrand entfernen, auf ein Gitter schieben, auskuehlen lassen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

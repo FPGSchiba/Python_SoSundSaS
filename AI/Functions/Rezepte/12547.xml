@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Baerlauch-Pueree>
+          <quant>50 g</quant>
+          <zutat>Baerlauch, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Baerlauch-Pueree>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>9 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>500 g</quant>
+          <zutat>duenne gruene Spargeln, in ca. 4 cm grossen Stuecken</zutat>
+          <quant>60 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+      </Risotto   >
+   </einkaufliste>
+   <rezept>
+      <Baerlauch-Pueree>
+          <inhalt>Baerlauch mit dem Oel puerieren, beiseite stellen.</inhalt>
+      </Baerlauch-Pueree>
+      <Risotto   >
+          <inhalt>Oel in einer Pfanne erwaermen. Spargeln ca. 2 Min. andaempfen, herausnehmen, beiseite stellen. Zwiebel andaempfen, Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Nach ca. 10 Min. beiseite gestellte Spargelspitzen und restliche Spargelstuecke beigeben, ca. 10 Min. weiterkoecheln, bis der Reis cremig und al dente ist. Beiseite gestelltes Baerlauchpueree, Kaese und Butter darunterruehren, wuerzen.</inhalt>
+      </Risotto   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>363 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Glasnudeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Stangensellerie, in Wuerfel</zutat>
+          <quant>5 g</quant>
+          <zutat>getrocknete Mu-Err-Pilze</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Streifen</zutat>
+          <quant>1/2 </quant>
+          <zutat>rote Peperoni, in Streifen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in feinen Streifen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, geschnitten</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>50 g</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Karma Bio Tofu Provençale</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>4 Blaetter</quant>
+          <zutat>Chinakohl</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Glasnudeln in ca. 10 cm lange Stuecke brechen, in kochendes Wasser geben, vom Herd ziehen, 4 Min. ziehen lassen, abtropfen, beiseite stellen. Mu-Err-Pilze einweichen, abtropfen, in feine Streifen schneiden. Bundzwiebeln, Stangensellerie, Rueebli und Peperoni zusammen mit den Pilzen zu den Glasnudeln geben, alles mischen. Limettensaft, Sojasauce, Chili, Koriander, Zucker und Sesamoel mischen, zu den Glasnudeln geben, mischen. Erdnuesse, in wenig heissem Oel anbraten. Tofu zerkruemeln, mit Sojasauce mischen, zu den Erdnuessen geben, kurz mitbraten. Chinakohlblaetter mit Salat fuellen, mit Tofu und Erdnuessen garnieren.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+</Rezept>

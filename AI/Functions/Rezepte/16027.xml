@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>867 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>69 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto_  >
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis (z.B. Carnaroli)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>9 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>500 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Risotto_  >
+      <Entenbruestli_>
+          <quant>2 </quant>
+          <zutat>Entenbruestli (je ca. 300 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Entenbruestli_>
+      <Fenchelsalat>
+          <quant>2 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Fenchel</zutat>
+      </Fenchelsalat>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Risotto                       </inhalt>
+      </How_To    >
+      <Risotto_  >
+          <inhalt>Schalotte fein hacken, Knoblauchzehe pressen. Butter erwaermen, Schalotte und Knoblauch andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. </inhalt>
+      </Risotto_  >
+      <How_To1   >
+          <inhalt>Wein dazugiessen, fast vollstaendig einkochen. Heisse Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 20 Min. koecheln, bis der Reis cremig und al dente ist. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Entenbruestli                  </inhalt>
+      </How_To2   >
+      <Entenbruestli_>
+          <inhalt>Entenbruestli wenden, ca. 5 Min. fertig braten, herausnehmen, warm stellen.</inhalt>
+      </Entenbruestli_>
+      <Fenchelsalat>
+          <inhalt>Essig und Oel in einer Schuessel verruehren, wuerzen. Fenchel fein hobeln, mit den beiseite gestellten Erdbeeren zur Sauce geben, mischen. Entenbruestli tranchieren, mit dem Risotto und Fenchelsalat auf Tellern anrichten.</inhalt>
+      </Fenchelsalat>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=ZssuuKAkoV8"/>
+</Rezept>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>67 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigmasse >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>350 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+      </Teigmasse >
+      <Roter_Teig>
+          <quant>50 g</quant>
+          <zutat>gekochte Randen, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>3 EL</quant>
+          <zutat>getrocknete Blueten </zutat>
+      </Roter_Teig>
+      <Gelber_Teig_>
+          <quant>50 g</quant>
+          <zutat>getrocknete Aprikosen, fein gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+      </Gelber_Teig_>
+   </einkaufliste>
+   <rezept>
+      <Teigmasse >
+          <inhalt>Mehl, Puderzucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben, Masse halbieren.</inhalt>
+      </Teigmasse >
+      <Roter_Teig>
+          <inhalt>Randen und Eiweiss verruehren, zu einer Teigmasse geben, rasch zu einem Teig zusammenfuegen. Teig zu einer Rolle von ca. 4 cm Ø formen, in den Blueten wenden, zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Roter_Teig>
+      <Gelber_Teig_>
+          <inhalt>Aprikosen unter die andereTeigmasse mischen. Kurkuma und Eiweiss verruehren, beigeben, rasch zu einem Teig zusammenfuegen. Teig zu einer Rolle von ca. 4 cm Ø formen, zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Gelber_Teig_>
+      <Sables_formen>
+          <inhalt>Teigrollen in ca. 5 mm dicke Scheiben schneiden, auf zwei mit Backpapier belegte Bleche legen. </inhalt>
+      </Sables_formen>
+      <Backen    >
+          <inhalt>Pro Blech ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>995 kcal</NaehrwertProPerson>
+       <Fett>64 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spiessli  >
+          <quant>2 Paar</quant>
+          <zutat>Landjaeger, je quer in drei Stuecken</zutat>
+          <quant>6 </quant>
+          <zutat>getrocknete Feigen, halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Baguettes, in 6 Scheiben, halbiert</zutat>
+          <quant>4 </quant>
+          <zutat>lange Holzspiesschen</zutat>
+      </Spiessli  >
+      <Balsamico-Mayo_>
+          <quant>3 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1 EL</quant>
+          <zutat>Crema di Balsamico</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Balsamico-Mayo_>
+   </einkaufliste>
+   <rezept>
+      <Spiessli  >
+          <inhalt>Landjaeger, Feigen und Brot abwechslungsweise an die Holzspiesschen stecken.</inhalt>
+      </Spiessli  >
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Spiessli ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 5 Min. grillieren.</inhalt>
+      </Grillieren>
+      <Balsamico-Mayo_>
+          <inhalt>Mayonnaise und Balsamico verruehren, wuerzen. Mit den Spiessli servieren. </inhalt>
+      </Balsamico-Mayo_>
+   </rezept>
+</Rezept>

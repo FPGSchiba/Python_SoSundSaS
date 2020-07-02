@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>438 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Radiesli  >
+          <quant>2 Bund</quant>
+          <zutat>Radiesli, geviertelt</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Radiesli  >
+      <Backen    >
+          <quant>4 Scheiben</quant>
+          <zutat>Brot (z.B. Pagnolbrot)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Backen    >
+      <Crostini  >
+          <quant>100 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Dill, zerzupft</zutat>
+      </Crostini  >
+   </einkaufliste>
+   <rezept>
+      <Radiesli  >
+          <inhalt>Radiesli, Oel, Zucker und Salz in einer Schuessel mischen, auf ein mit Backpapier belegtes Blech verteilen.  </inhalt>
+      </Radiesli  >
+      <Backen    >
+          <inhalt>Ca. 10 Min. im auf 200 Grad vorgeheitzen Ofen (Umluft). Brotscheiben mit Oel bestreichen, waehrend den letzten 5 Min. mitbacken. Herausnehmen, etwas abkuehlen. </inhalt>
+      </Backen    >
+      <Crostini  >
+          <inhalt>Geroestete Brotscheiben mit Frischkaese bestreichen, Radiesli und Dill darauf verteilen, lauwarm anrichten.   </inhalt>
+      </Crostini  >
+   </rezept>
+</Rezept>

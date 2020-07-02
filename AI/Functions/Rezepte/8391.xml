@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>193 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blitz-Konfi:>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Beerenmischung</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Blitz-Konfi:>
+      <Scones    >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>wenig </quant>
+          <zutat>Milch</zutat>
+      </Scones    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Blitz-Konfi:                  </inhalt>
+      </How_To    >
+      <Blitz-Konfi:>
+          <inhalt>Beeren, Zucker und Zitronensaft bei mittlerer Hitze ca. 10 Min. koecheln, auskuehlen.</inhalt>
+      </Blitz-Konfi:>
+      <How_To1   >
+          <inhalt>Scones                        </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Teig ca. 11 /2 cm dick auswallen. Mit einem Ausstecher (ca. 5 cm Durchmesser) ca. 12 Herzen ausstechen, auf ein mit Backpapier belegtes Blech legen, mit Milch bestreichen.</inhalt>
+      </How_To2   >
+      <Scones    >
+          <inhalt>Valentines-Scones herausnehmen, auf einem Gitter etwas abkuehlen, lauwarm oder kalt mit der Konfituere servieren.</inhalt>
+      </Scones    >
+   </rezept>
+</Rezept>

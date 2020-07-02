@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>795 kcal</NaehrwertProPerson>
+       <Fett>50 g  </Fett>
+       <Kohlenhydrate>74 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>200 g</quant>
+          <zutat>Langkornreis</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Reis      >
+      <Curry     >
+          <quant>wenig </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>150 g</quant>
+          <zutat>Ananas, in Stuecken</zutat>
+          <quant>500 g</quant>
+          <zutat>farbige Peperoni, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Curry</zutat>
+          <quant>5 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Curry     >
+   </einkaufliste>
+   <rezept>
+      <Reis      >
+          <inhalt>Reis im Salzwasser knapp weich kochen. Reis abtropfen, zugedeckt warm stellen.</inhalt>
+      </Reis      >
+      <Curry     >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Ananas, Peperoni und Apfel ca. 2 Min. ruehrbraten, Curry beigeben, ca. 1 Min. mitruehrbraten. Kokosmilch dazugiessen, unter Ruehren aufkochen, Hitze reduzieren, ca. 5 Min. koecheln, wuerzen.</inhalt>
+      </Curry     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

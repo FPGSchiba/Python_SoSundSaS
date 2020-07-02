@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>64 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbis    >
+          <quant>250 g</quant>
+          <zutat>Kuerbis (z.B. Butternuss, ca. 400 g), in Stuecken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Kuerbis    >
+      <Fuellung   >
+          <quant>100 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Ravioli_  >
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+      </Ravioli_  >
+      <Dip       >
+          <quant>100 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemischte Kraeuter (z.B. Petersilie, Salbei, Schnittlauch), fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Kuerbis    >
+          <inhalt>Ein Dampfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen. Kuerbis beigeben, salzen, zugedeckt bei mittlerer Hitze ca. 25 Min. weich garen. Kuerbis puerieren, etwas abkuehlen.</inhalt>
+      </Kuerbis    >
+      <Fuellung   >
+          <inhalt>Kuerbis, Ricotta, Salbei, Zitronenschale und - saft mischen, wuerzen. </inhalt>
+      </Fuellung   >
+      <Ravioli_  >
+          <inhalt>Teige laengs halbieren, Masse vierteln. Je 10 Portionen mit gleichmaessigen Abstaenden auf die unteren Haelften der 4 Teigstreifen verteilen. Obere Teighaelften mit wenig Ei bestreichen, ueber die Fuellungen legen, Kanten gut andruecken, dabei eingeschlossene Luft herausdruecken. Ravioli mit dem Teigraedchen voneinander trennen, auf ein mit Backpapier belegtes Blech legen. Ravioli mit Butter bestreichen.</inhalt>
+      </Ravioli_  >
+      <Backen_   >
+          <inhalt>Ca. 10 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen_   >
+      <Dip       >
+          <inhalt>Jogurt und Kraeuter mischen, wuerzen. Als Dip zu den Ravioli servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

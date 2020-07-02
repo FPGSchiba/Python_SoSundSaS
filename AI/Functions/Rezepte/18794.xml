@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>228 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>525 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 Briefchen</quant>
+          <zutat>Safran</zutat>
+      </Teig_     >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>1 TL</quant>
+          <zutat>Wasser</zutat>
+          <quant>wenig </quant>
+          <zutat>Hagelzucker, nach Belieben</zutat>
+          <quant>24 </quant>
+          <zutat>Sultaninen</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig_     >
+          <inhalt>Zugedeckt bei Raumtemperatur ca. 1 1/2 Std. aufgehen lassen. </inhalt>
+      </Teig_     >
+      <Formen    >
+          <inhalt>Teig in 12 Portionen teilen, zu Straengen von je ca. 30 cm ausrollen. Die Enden S-foermig eindrehen und auf ein mit Backpapier belegtes Blech legen. Eigelb und Wasser verruehren, Lussekatter damit bestreichen, mit Hagelzucker bestreuen, mit je 2 Sultaninen verzieren.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

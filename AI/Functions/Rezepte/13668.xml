@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>275 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fenchel   >
+          <quant>3 </quant>
+          <zutat>Fenchel (je ca. 350 g), in Schnitzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Zitronenpfeffer</zutat>
+      </Fenchel   >
+      <Egli      >
+          <quant>600 g</quant>
+          <zutat>Eglifilets ohne Haut</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Zitronenpfeffer</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Dill, grob geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in Scheiben</zutat>
+      </Egli      >
+   </einkaufliste>
+   <rezept>
+      <Fenchel   >
+          <inhalt>Fenchel mit Butter, Salz und Pfeffer mischen, auf einem mit Backpapier belegten Blech verteilen. </inhalt>
+      </Fenchel   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Fenchel von Zeit zu Zeit wenden, sodass er regelmaessig braeunt. Ofentemperatur auf 180 Grad reduzieren. </inhalt>
+      </Backen    >
+      <Egli      >
+          <inhalt>Fischfilets auf den Fenchel legen, mit Butter bestreichen, wuerzen. Kraeuter und Zitrone auf dem Fisch verteilen. </inhalt>
+      </Egli      >
+      <Fertig_backen>
+          <inhalt>Ca. 12 Min. in der Mitte des vorgeheizten Ofens fertig backen.</inhalt>
+      </Fertig_backen>
+   </rezept>
+</Rezept>

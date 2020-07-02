@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>275 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Koerbli    >
+          <quant>100 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Koerbli    >
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>rosa Grapefruits</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Avocado-Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kerbel, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 </quant>
+          <zutat>Mini-Lattiche, laengs halbiert, in Schnitzchen</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Scheibchen</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Koerbli                        </inhalt>
+      </How_To    >
+      <Koerbli    >
+          <inhalt>Backen: 4-5 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens, bis der Kaese geschmolzen und goldgelb ist. Herausnehmen, sofort sorgfaeltig vom Backpapier loesen, ueber den Boden 2 kleiner umgedrehter Schuesseln legen, sorgfaeltig andruecken, auskuehlen. Koerbli bis zum Servieren auf ein Gitter stellen. Vorgang mit dem restlichen Kaese wiederholen.</inhalt>
+      </Koerbli    >
+      <Salat     >
+          <inhalt>Von den Grapefruits Boden und Deckel, dann Schale ringsum bis auf das Fruchtfleisch wegschneiden. Fruchtfilets (Schnitze) mit einem scharfen Messer zwischen den weissen Haeutchen herausschneiden, dabei Saft (ca. 3 EL) auffangen. Grapefruitschnitze beiseitestellen. Essig und Oel mit dem Grapefruitsaft gut verruehren. Schalotte und Kerbel beigeben, wuerzen. Lattich in die Kaesekoerbli verteilen, mit der Haelfte der Salatsauce betraeufeln. Beiseitegestellte Grapefruitschnitze und Avocadoscheiben mit der restlichen Sauce mischen, in den Kaesekoerbli anrichten. Sofort servieren.</inhalt>
+      </Salat     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

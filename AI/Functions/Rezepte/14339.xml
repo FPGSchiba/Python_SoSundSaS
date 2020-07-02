@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>483 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig  >
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (ca. 64 % Kakao), geschmolzen</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>120 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>150 g</quant>
+          <zutat>weiche Caramels (z.B. Fudges), 50 g fein gehackt, beiseite gestellt</zutat>
+      </Ruehrteig  >
+      <Frosting  >
+          <quant>2 dl</quant>
+          <zutat>Doppelrahm</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>4 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zimt</zutat>
+      </Frosting  >
+      <Caramelcreme>
+          <quant>2 EL</quant>
+          <zutat>Vollrahm</zutat>
+      </Caramelcreme>
+   </einkaufliste>
+   <rezept>
+      <Ruehrteig  >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ein Ei  nach dem anderen darunterruehren, weiterruehren, bis die Masse heller ist. Schokolade und Rahm darunterruehren. Mehl, Mandeln und Backpulver mischen, unter die Masse mischen. Teig ins vorbereitete Blech verteilen. Je ein Caramel in den Teig druecken.</inhalt>
+      </Ruehrteig  >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Frosting  >
+          <inhalt>Doppelrahm und alle Zutaten bis und mit Zimt mit den Schwingbesen des Handruehrgeraets ca. 1 Min. ruehren, bis die Masse fest ist. Masse in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø)  geben, auf die Cupcakes spritzen, ca. 30 Min. kuehl stellen.</inhalt>
+      </Frosting  >
+      <Caramelcreme>
+          <inhalt>Beiseite gestellte Caramels mit Rahm in einer Pfanne schmelzen, unter ruehren ca. 2 Min. zu einer dicklichen Creme kochen, etwas abkuehlen, auf den Cupcakes verteilen.</inhalt>
+      </Caramelcreme>
+   </rezept>
+</Rezept>

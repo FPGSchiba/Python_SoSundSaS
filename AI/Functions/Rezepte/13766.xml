@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>632 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>1 </quant>
+          <zutat>Chinakohl</zutat>
+          <quant>1 </quant>
+          <zutat>Broccoli</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili</zutat>
+          <quant>50 g</quant>
+          <zutat>Salz, jodiert</zutat>
+      </Gemuese    >
+      <Kimchi-Sauce>
+          <quant>4 EL</quant>
+          <zutat>glutenfreies Mehl</zutat>
+          <quant>300 ml</quant>
+          <zutat>Wasser, kalt</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>4 cm</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce (z.B. TAMARI)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Apfelmus</zutat>
+      </Kimchi-Sauce>
+      <Fertigstellen>
+          <quant>wenig </quant>
+          <zutat>Sesam</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemuese                        </inhalt>
+      </How_To    >
+      <Gemuese    >
+          <inhalt>Kimchi-Sauce                  </inhalt>
+      </Gemuese    >
+      <Kimchi-Sauce>
+          <inhalt>Fertigstellen                 </inhalt>
+      </Kimchi-Sauce>
+      <Fertigstellen>
+          <inhalt>Zum Anrichten mit etwas Sesam bestreuen.</inhalt>
+      </Fertigstellen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

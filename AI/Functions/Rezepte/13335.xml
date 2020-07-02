@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>546 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>73 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>200 g</quant>
+          <zutat>Kalettes (Flower Sprouts)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Spiralen)</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+          <quant>1 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kalettes in siedendem Salzwasser ca. 2 Min. kochen, abtropfen. Teigwaren in siedendem Salzwasser al dente kochen, abtropfen. Haselnuesse grob hacken, ohne Fett roesten, herausnehmen. Rueebli mit dem Sparschaeler laengs in Streifen hobeln, im Oel ca. 2 Min. daempfen. Kalettes und  Teigwaren beigeben, mischen, wuerzen. Cranberrys und Rahm beigeben, mischen, heiss werden lassen. Pasta anrichten, mit den Haselnuessen bestreuen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

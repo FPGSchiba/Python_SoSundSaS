@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>134 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Rosmarin, grob gehackt</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian, grob gehackt</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Oregano, grob gehackt</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz und Hefe in eine Schuessel geben, mischen. Wasser und Oel beigeben, zu einem weichen, glatten Teig kneten. Teig zugedeckt bei Raumtemperatur ca. 11/2 Std. aufgehen lassen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig in 8 Portionen teilen, zu Ovalen formen, etwas flach druecken, zugedeckt. ca. 15 Min. ruhen lassen. Teigstuecke auf wenig Mehl ca. 2 mm dick laenglich auswallen, auf zwei mit Backpapier belegte Bleche legen. Teigstuecke mit Oel bestreichen, Kraeuter und Salz darueberstreuen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. im auf 180 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

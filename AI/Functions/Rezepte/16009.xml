@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>541 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blaetterteig>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Blaetterteig>
+      <Guss      >
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>100 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt</zutat>
+      </Guss      >
+      <Backen    >
+          <quant>1 TL</quant>
+          <zutat>Thymianblaettchen</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Blaetterteig>
+          <inhalt>Teig mit dem Backpapier auf einem Blech entrollen. Von einer Schmalseite 8 Streifen von je ca. 1 cm Breite abschneiden. Rand des Teigbodens mit wenig Ei bestreichen. 2 Streifen auf die Schmalseite des Teiges legen. 2 Streifen sorgfaeltig in die Laenge des Teigbodens ziehen, darauflegen, Teigstreifen mit wenig Ei bestreichen. Mit den restlichen Teigstreifen Vorgang wiederholen. Teigboden mit einer Gabel dicht einstechen. </inhalt>
+      </Blaetterteig>
+      <Backen    >
+          <inhalt>Ca. 10 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens, herausnehmen. </inhalt>
+      </Backen    >
+      <Guss      >
+          <inhalt>Quark und alle Zutaten bis und mit Pfeffer verruehren. Zwei Drittel davon auf dem gebackenen Teigboden verteilen. Spargeln darauflegen, restlichen Guss darauf verteilen. </inhalt>
+      </Guss      >
+      <Backen    >
+          <inhalt>Ca. 25 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens, Thymian darueberstreuen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

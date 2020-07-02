@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>213 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Heisse_Schoggi>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade (70 % Kakao)</zutat>
+          <quant>8 dl</quant>
+          <zutat>Vollmilch</zutat>
+      </Heisse_Schoggi>
+      <Schneemann_>
+          <quant>1 </quant>
+          <zutat>Marzipanrueebli</zutat>
+          <quant>wenig </quant>
+          <zutat>Zuckerdekor-Stift  (choco)</zutat>
+          <quant>4 </quant>
+          <zutat>Marshmallows</zutat>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade (70 % Kakao)</zutat>
+          <quant>8 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>1 </quant>
+          <zutat>Marzipanrueebli</zutat>
+          <quant>wenig </quant>
+          <zutat>Zuckerdekor-Stift  (choco)</zutat>
+          <quant>4 </quant>
+          <zutat>Marshmallows</zutat>
+      </Schneemann_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Heisse Schoggi                </inhalt>
+      </How_To    >
+      <Heisse_Schoggi>
+          <inhalt>Schneemann                    </inhalt>
+      </Heisse_Schoggi>
+      <Schneemann_>
+          <inhalt>                              </inhalt>
+      </Schneemann_>
+   </rezept>
+</Rezept>

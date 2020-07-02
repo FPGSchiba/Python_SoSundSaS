@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>574 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>300 g</quant>
+          <zutat>Hirschschnitzel</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Tortellini_formen>
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig (je ca. 125 g)</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Tortellini_formen>
+      <Sauce     >
+          <quant>400 g</quant>
+          <zutat>Tomaten</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>200 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Fleisch fein schneiden, Schalotten fein hacken, Schnittlauch fein schneiden, mit allen Zutaten bis und mit Pfeffer gut mischen. </inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Tortellini formen             </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Teig laengs halbieren, in ca. 7 1/2 cm grosse Quadrate schneiden. </inhalt>
+      </How_To2   >
+      <Tortellini_formen>
+          <inhalt>Fuellung in haselnussgrossen Portionen auf die Mitte der Quadrate verteilen. Ei verklopfen, Teigraender damit bestreichen.</inhalt>
+      </Tortellini_formen>
+      <How_To3   >
+          <inhalt>Teig diagonal ueber die Fuellung legen, sodass Dreiecke entstehen. Raender zusammendruecken, dabei eingeschlossene Luft herausdruecken. </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Sauce                         </inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Tomaten und alle Zutaten bis und mit Salz mischen. Die Haelfte des Kaeses daruntermischen. </inhalt>
+      </How_To5   >
+      <Sauce     >
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen. Schnittlauch fein schneiden, darueberstreuen.</inhalt>
+      </Sauce     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+</Rezept>

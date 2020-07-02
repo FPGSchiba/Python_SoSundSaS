@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>142 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cookies   >
+          <quant>150 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>175 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>2 </quant>
+          <zutat>Coeur de Boeuf Tomaten, in 20 Scheiben</zutat>
+      </Cookies   >
+      <Backen    >
+          <quant>2 Zweiglein</quant>
+          <zutat>Basilikum, grob zerzupft</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Cookies   >
+          <inhalt>Vollkonrmehl und alle Zutaten bis und mit Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig zugedeckt ca. 1 Std. kuehl stellen. Teig zwischen zwei Backpapieren ca. 4 mm duenn auswallen. 20 Rondellen von je ca. 8 cm Ø ausstechen, auf ein mit Backpapier belegtes Blech legen. Je eine Tomatenscheibe darauf legen. </inhalt>
+      </Cookies   >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens, Blech in die oberste Rille schieben, ca. 7 Min. fertigbacken. Herausnehmen, etwas abkuehlen. Basilikum und Fleur de Sel darueberstreuen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

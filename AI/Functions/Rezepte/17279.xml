@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>863 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>50 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaeseschnitten>
+          <quant>500 g</quant>
+          <zutat>Brot, in 2 cm dicken Scheiben</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>16 Scheiben</quant>
+          <zutat>Raclette (ca. 600 g)</zutat>
+      </Kaeseschnitten>
+      <Spiegeleier_>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Spiegeleier_>
+   </einkaufliste>
+   <rezept>
+      <Kaeseschnitten>
+          <inhalt>Brotscheiben auf ein mit Backpapier belegtes Blech legen. In der Mitte des auf 220 Grad vorgeheizten Ofens je ca. 5 Min. roesten. Blech herausnehmen, Brot mit Wein betraeufeln und mit dem Kaese belegen, ca. 10 Min. fertig backen. </inhalt>
+      </Kaeseschnitten>
+      <Spiegeleier_>
+          <inhalt>Butter in einer beschichteten Bratpfanne warm werden lassen. Eier einzeln sorgfaeltig in die Bratpfanne gleiten lassen, bei kleiner Hitze ca. 5 Min. braten, wuerzen. Walliser Kaeseschnitten auf Tellern anrichten, Spiegeleier darauflegen, servieren.</inhalt>
+      </Spiegeleier_>
+   </rezept>
+</Rezept>

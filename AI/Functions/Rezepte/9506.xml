@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>670 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Wuerfeli</zutat>
+          <quant>200 g</quant>
+          <zutat>Auberginen, in Wuerfeli</zutat>
+          <quant>400 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>160 g</quant>
+          <zutat>Kalbsbraet</zutat>
+          <quant>2 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft, die Haelfte beiseite gestellt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>2 </quant>
+          <zutat>rechteckig ausgewallte Kuchenteige</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sesam</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer Bratpfanne er-waermen. Zwiebel und Knoblauch andaempfen. Peperoni und Aubergine ca. 5 Min. mitdaempfen, salzen, in der Schuessel auskuehlen. Hackfleisch und alle Zutaten bis und mit Paprika beigeben, von Hand gut kneten, bis die Masse nicht mehr klebt. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>1 Teig auf ein mit Backpapier belegtes Backblech legen. Die Fuellung gleich-maessig darauf verteilen und glatt streichen. Dabei rundum einen Rand von ca. 2 1/2 cm frei lassen. Den Rand mit wenig Wasser bestreichen. Den 2. Teig exakt darauflegen. Seitliche Raender andruecken. Pastete mit dem restlichen Ei bestreichen. Raender rundum mit einer Gabel eindruecken. Oberflaeche mehrmals einstechen, mit Sesam garnieren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 35 Min. auf der untersten Rille des 200 Grad vorgeheizten Ofens.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

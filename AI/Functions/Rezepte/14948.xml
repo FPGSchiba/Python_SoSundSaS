@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>224 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gratin    >
+          <quant>2 </quant>
+          <zutat>Birnen, geschaelt, in feinen Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+      </Gratin    >
+      <Gratinieren>
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Gratinieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gratin                        </inhalt>
+      </How_To    >
+      <Gratin    >
+          <inhalt>Gratinieren                   </inhalt>
+      </Gratin    >
+      <Gratinieren>
+          <inhalt>Mit Puderzucker bestaeuben und sofort servieren.</inhalt>
+      </Gratinieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

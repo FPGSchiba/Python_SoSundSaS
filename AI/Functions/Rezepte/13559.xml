@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>252 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tarte     >
+          <quant>80 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>500 g</quant>
+          <zutat>Nektarinen, in Schnitzen</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+      </Tarte     >
+      <Servieren >
+          <quant>1 EL</quant>
+          <zutat>ungesalzene geschaelte Pistazien, fein gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Tarte     >
+          <inhalt>Zuerst Zucker, dann Butter und Nektarinen auf dem Backblech verteilen. Teig mit einer Gabel dicht einstechen, locker ueber die Nektarinen legen. Teigrand zwischen die Nektarinen und den Blechrand schieben.</inhalt>
+      </Tarte     >
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Tarte ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) zugedeckt ca. 10 Min. grillieren. Tarte vom Grill nehmen, ca. 2 Min. stehen lassen, sorgfaeltig auf einen mit Backpapier belegten Teller stuerzen. Tarte mit dem Backpapier zurueck ins Blech ziehen, ca. 10 Min. fertig grillieren. </inhalt>
+      </Grillieren>
+      <Servieren >
+          <inhalt>Pistazien ueber die Tarte streuen: Sauren Halbrahm, Puderzucker und Zitronensaft verruehren, zur warmen Tarte servieren.</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>245 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Granatapfelsirup>
+          <quant>2 dl</quant>
+          <zutat>Granatapfelsaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Granatapfelsirup>
+      <Mule_     >
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wodka</zutat>
+          <quant>6 dl</quant>
+          <zutat>Ginger Beer </zutat>
+          <quant>2 </quant>
+          <zutat>Limetten, heiss abgespuelt, trocken getupft, Saft von 1 Limette, Rest in Scheiben</zutat>
+      </Mule_     >
+   </einkaufliste>
+   <rezept>
+      <Granatapfelsirup>
+          <inhalt>Granatapfelsaft und Zucker in eine Pfanne geben, auf die Haelfte einkochen, auskuehlen. </inhalt>
+      </Granatapfelsirup>
+      <Mule_     >
+          <inhalt>Die Glaeser mit Eiswuerfeln fuellen. Wodka und Granatapfelsirup dazugeben. Ginger Beer und Limettensaft dazugiessen, mit Limettenscheiben garnieren.</inhalt>
+      </Mule_     >
+   </rezept>
+</Rezept>

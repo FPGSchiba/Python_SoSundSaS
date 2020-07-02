@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>378 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+      </Teig      >
+      <Birnen    >
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>6 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>3 </quant>
+          <zutat>Birnen geschaelt, halbiert, entkernt</zutat>
+      </Birnen    >
+      <Formen    >
+          <quant>80 g</quant>
+          <zutat>Marzipan, grob gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Milch und Eier beigeben, mit dem Knethaken der Kuechenmaschine ca. 5 Min. kneten. Butter portionenweise beigeben, dabei waehrend ca. 5 Min. weiterkneten. Teig zugedeckt bei Raumtemperatur ca. 2 Std. aufgehen lassen. </inhalt>
+      </Teig      >
+      <Birnen    >
+          <inhalt>Wasser mit Zucker, Zitronensaft, Lorbeerblaetter und Zimt in einer Pfanne aufkochen. Birnen beigeben, bei kleiner Hitze ca. 5 Min. koecheln, dabei Birnen einmal wenden. Birnen im Sud auskuehlen.</inhalt>
+      </Birnen    >
+      <Formen    >
+          <inhalt>Teig in 6 Portionen teilen, auf wenig Mehl der Form einer Birne aehnlich formen und flachdruecken. Die Teigstuecke sollten rundum 2 cm groesser als die Schnittflaeche der halbierten Birnen sein. Teigstuecke auf ein mit Backpapier belegtes Blech legen, Marzipan darauf verteilen. Birnen aus dem Sud nehmen, trocken tupfen und mit der Schnittflaeche nach unten darauflegen. Zugedeckt ca. 15 Min. aufgehen lassen. Teigraender mit Eigelb bestreichen. Lorbeerblaetter aus dem Sud nehmen und in die Birne stecken.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen lassen. Sud ca. 5 Min. sirupartig einkochen, Birnen damit bestreichen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salatsauce>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Salatsauce>
+      <Grillieren_(Holzkohle-_/_Gas-_/_Elektrogrill)>
+          <quant>600 g</quant>
+          <zutat>Fenchel, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, in Streifen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Salbei, Blaetter abgezupft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Alu-Grillschale gelocht</zutat>
+          <quant>4 </quant>
+          <zutat>rohe Schweinsbratwuerste</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Grillieren_(Holzkohle-_/_Gas-_/_Elektrogrill)>
+      <Salat     >
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Schnitzen</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Salatsauce>
+          <inhalt>Senf, Zitronensaft und Oel verruehren, wuerzen. </inhalt>
+      </Salatsauce>
+      <Grillieren_(Holzkohle-_/_Gas-_/_Elektrogrill)>
+          <inhalt>Fenchel, Schalotten und Salbei mit dem Oel in der Alu-Grillschale mischen. Gemuese ueber mittelstarker Glut/ auf mittlerer Stufe (ca. 180 Grad) zugedeckt ca. 20 Min. grillieren, dabei das Gemuese gelegentlich wenden. Die Bratwuerste die letzten 5 Min. neben die Grillschale auf den Rost legen und mitgrillieren. Gemuese anschliessend salzen. </inhalt>
+      </Grillieren_(Holzkohle-_/_Gas-_/_Elektrogrill)>
+      <Salat     >
+          <inhalt>Wurst schraeg in Scheiben schneiden. Mit dem Fenchel und den Radiesli anrichten, Salatsauce daruebertraeufeln.  </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>171 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Honig</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>150 g</quant>
+          <zutat>getrocknete Feigen, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>getrocknete Aprikosen, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Rosinen</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Honig, Eier, Sojadrink und Salz verruehren. Mehl beigeben, gut mischen. Trockenfruechte, Nuesse und Zitronenschale daruntermischen. Die Masse in die vorbereitete Form fuellen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Aus dem Ofen nehmen, ca. 10 Min. abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

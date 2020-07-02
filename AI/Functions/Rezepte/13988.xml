@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>280 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Austern   >
+          <quant>6 </quant>
+          <zutat>Fine Food Huitres Marennes Oleron</zutat>
+      </Austern   >
+      <Gratinieren>
+          <quant>100 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>4 EL</quant>
+          <zutat>Champagner</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Dill, zum Garnieren</zutat>
+      </Gratinieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Austern                       </inhalt>
+      </How_To    >
+      <Austern   >
+          <inhalt>Austern einzeln mit der flachen Seite nach oben auf ein Tuch und Schneidebrett legen und mit dem Tuch zudecken. Austern fest halten, mit der Spitze des Austernmessers in die kleine Oeffnung im Gelenk fahren.   </inhalt>
+      </Austern   >
+      <How_To1   >
+          <inhalt>Das Messer an der oberen Schale entlang fuehren und anheben. Die geschlossene Auster muss beim Oeffnen einen ziemlich grossen Widerstand leisten, sonst ist sie ungeniessbar. </inhalt>
+      </How_To1   >
+      <Gratinieren>
+          <inhalt>Muschelflesich ausloesen, beiseite legen. Mascarpone und alle Zutaten bis und mit Pfeffer gut verruehren. Untere Muschelschalen in eine ofenfeste Form legen, die Mascarponemasse darin verteilen. Muschelfleisch daraufgeben, mit restlicher Sauce bedecken. Ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Mit Dill garnieren. </inhalt>
+      </Gratinieren>
+   </rezept>
+</Rezept>

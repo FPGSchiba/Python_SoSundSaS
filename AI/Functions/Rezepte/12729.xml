@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>204 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>250 g</quant>
+          <zutat>Seidentofu</zutat>
+          <quant>3 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Creme     >
+      <Beeren    >
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Beerenmischung, angetaut</zutat>
+          <quant>1 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+          <quant>2 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+      </Beeren    >
+   </einkaufliste>
+   <rezept>
+      <Creme     >
+          <inhalt>Tofu, Puderzucker und Sirup mit den Schwingbesen des Handruehrgeraets verruehren, ca. 2 Min. weiterruehren. Rahm knapp steif schlagen, sorgfaeltig unter die Masse ziehen. Creme in die Glaeser verteilen, zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Creme     >
+      <Beeren    >
+          <inhalt>Beeren und Sirup mischen, zugedeckt ca. 10 Min. ziehen lassen, Beeren auf der Creme verteilen, Pistazien darueberstreuen.</inhalt>
+      </Beeren    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

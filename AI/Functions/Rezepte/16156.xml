@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>649 kcal</NaehrwertProPerson>
+       <Fett>54 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Chimichurri-Sauce>
+          <quant>3 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>6 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, Blaetter abgezupft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, Blaetter abgezupft</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Oregano, Blaetter abgezupft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Chimichurri-Sauce>
+      <Holzkohle-_/_Gas-_/_Elektrogrill>
+          <quant>1 </quant>
+          <zutat>T-Bone-Steak (ca. 600 g)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Holzkohle-_/_Gas-_/_Elektrogrill>
+      <Salat     >
+          <quant>3 </quant>
+          <zutat>Mini-Lattiche, laengs in Sechsteln</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in feinen Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Avocados, in Scheiben</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Chimichurri-Sauce>
+          <inhalt>Essig und alle Zutaten bis und mit Salz puerieren.</inhalt>
+      </Chimichurri-Sauce>
+      <Holzkohle-_/_Gas-_/_Elektrogrill>
+          <inhalt>Fleisch ca. 1 Std. vor dem Grillieren aus dem Kuehlschrank nehmen. Fleisch mit Oel bestreichen, wuerzen, ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig zugedeckt je ca. 6 Min. grillieren. Fleisch vom Grill nehmen, mit Alufolie zudecken und ca. 10 Min. ruhen lassen. </inhalt>
+      </Holzkohle-_/_Gas-_/_Elektrogrill>
+      <Salat     >
+          <inhalt>Lattich, Radiesli und Avocado mit der Haelfte der Chimichurri-Sauce mischen. Fleisch tranchieren, mit dem Salat anrichten, restliche Chimichurri-Sauce daruebertraeufeln. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

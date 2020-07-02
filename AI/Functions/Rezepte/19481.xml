@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>209 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>300 g</quant>
+          <zutat>Stangensellerie, schraeg in feinen Scheiben</zutat>
+          <quant>200 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>2 EL</quant>
+          <zutat>Estragonblaettchen</zutat>
+      </Salat     >
+      <Poulet    >
+          <quant>400 g</quant>
+          <zutat>geschnetzeltes Pouletfleisch</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Rhabarber, schraeg in feinen Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+      </Poulet    >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Essig und Oel in einer Schuessel verruehren, wuerzen. Stangensellerie, Spinat und Estragon beigeben. </inhalt>
+      </Salat     >
+      <Poulet    >
+          <inhalt>Fleisch mit Senf mischen. Bratbutter in einer Bratpfanne erhitzen. Fleisch unter gelegentlichem Wenden ca. 8 Min. braten, wuerzen. Rhabarber und Zucker beigeben, ca. 2 Min. mitbraten. Poulet und Rhabarber unter den Salat mischen. </inhalt>
+      </Poulet    >
+   </rezept>
+</Rezept>

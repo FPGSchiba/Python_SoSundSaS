@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>329 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bohnen    >
+          <quant>1 Dose</quant>
+          <zutat>Borlotti-Bohnen (230 g), abgespuelt, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 TL</quant>
+          <zutat>Sojasauce</zutat>
+      </Bohnen    >
+      <Gemuese    >
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Jalapeño, in Ringen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Chilipulver</zutat>
+      </Gemuese    >
+      <Tortillas >
+          <quant>8 </quant>
+          <zutat>Mini-Tortillas</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Tortillas >
+      <Avocadosauce>
+          <quant>1 </quant>
+          <zutat>Avocado, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Avocadosauce>
+   </einkaufliste>
+   <rezept>
+      <Bohnen    >
+          <inhalt>Bohnen mit Wasser und Sosjasauce im Mixglas puerieren. </inhalt>
+      </Bohnen    >
+      <Gemuese    >
+          <inhalt>Oel in einer Pfanne erwaermen, Zwiebel und Peperoni einige Minuten andaempfen. Knoblauch, Jalapeño und Gewuerze  beigeben, ca. 3 Min. weiterdaempfen. Das Bohnenpueree daruntermischen, warm werden lassen.</inhalt>
+      </Gemuese    >
+      <Tortillas >
+          <inhalt>Die Fuellung in die Mitte der Tortillas verteilen, aufrollen, mit einem Zahnstocher befestigen. Tortillas auf ein mit Backpapier belegtes Blech legen, mit Oel bestreichen.</inhalt>
+      </Tortillas >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Avocadosauce>
+          <inhalt>Avocado mit Limettensaft und allen Zutaten bis und mit Salz im Mixglas puerieren, zu den Taquitos servieren.</inhalt>
+      </Avocadosauce>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

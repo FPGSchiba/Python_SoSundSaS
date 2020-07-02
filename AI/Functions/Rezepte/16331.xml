@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>205 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>200 g</quant>
+          <zutat>Rindshuft</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/4 </quant>
+          <zutat>Gurke, in Wuerfeli</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch mit einem scharfen Messer sehr fein hacken. Sojasauce, Oel, Zitronengras und Pfeffer verruehren. Fleisch und Gurke beigeben, mischen.  </inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

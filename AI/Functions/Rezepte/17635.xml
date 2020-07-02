@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>684 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Porridge  >
+          <quant>2 1/2 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>4 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>dunkles Mandelmus (oder Erdnussmus)</zutat>
+          <quant>140 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+      </Porridge  >
+      <Kakao-Sauce>
+          <quant>1 1/2 EL</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandeldrink</zutat>
+      </Kakao-Sauce>
+      <Toppings  >
+          <quant>2 EL</quant>
+          <zutat>Granola, nach Wahl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandeldrink</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Porridge  >
+          <inhalt>Mandel-Drink und allen Zutaten bis und mit Mandelmus im Mixglas puerieren, Haferflocken daruntermischen, zugedeckt mind. 2 Std. oder ueber Nacht kuehl stellen.</inhalt>
+      </Porridge  >
+      <Kakao-Sauce>
+          <inhalt>Kokosoel mit dem Kakao glattruehren, Ahonrsirup und Mandel-Drink darunterruehren. Porridge in 2 Schalen anrichten, Sauce darauf verteilen.</inhalt>
+      </Kakao-Sauce>
+      <Toppings  >
+          <inhalt>Porridge mit Granola und Mandel-Drink verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

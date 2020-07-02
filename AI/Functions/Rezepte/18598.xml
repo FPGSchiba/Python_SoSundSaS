@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>789 kcal</NaehrwertProPerson>
+       <Fett>56 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Apfelmus  >
+          <quant>600 g</quant>
+          <zutat>Aepfel, geschaelt, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Apfelmus  >
+      <Raclette  >
+          <quant>800 g</quant>
+          <zutat>Raclettekaese in Scheiben</zutat>
+          <quant>4 Beutel</quant>
+          <zutat>Alpenkraeutertee, nur Inhalt</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Raclette  >
+   </einkaufliste>
+   <rezept>
+      <Apfelmus  >
+          <inhalt>Aepfel, Zitronensaft und Zucker in einer Pfanne aufkochen, zugedeckt bei kleiner Hitze ca. 10 Min. koecheln, mit einer Gabel zerdruecken. </inhalt>
+      </Apfelmus  >
+      <Raclette  >
+          <inhalt>Kaesescheiben in die Raclette-Pfaennchen legen, Kraeutertee und Pfeffer mit wenig Apfelmus darauf verteilen. Unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen. Restliches Apfelmus und Roestzwiebeln dazuservieren. </inhalt>
+      </Raclette  >
+   </rezept>
+</Rezept>

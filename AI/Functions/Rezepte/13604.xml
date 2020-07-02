@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>415 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Porridge  >
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kañiwa</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>2 1/2 TL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Porridge  >
+      <Toppings  >
+          <quant>2 </quant>
+          <zutat>Baby-Bananen, in Scheiben</zutat>
+          <quant>20 g</quant>
+          <zutat>Himbeeren, frisch oder tiefgekuehlt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Chia-Samen oder Kokos-Chips</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Porridge  >
+          <inhalt>Wasser mit dem Salz aufkochen, Kaniwa und Haferflocken beigeben, aufkochen, Hitze reduzieren, bei kleiner Hitze ca. 10 Min. koecheln, dabei hie und da umruehren (ev. noch etwas Wasser beigeben). Die restlichen Zutaten darunterruehren, Pfanne von der Herdplatte nehmen, Porridge zugedeckt ca. 5 Min. stehen lassen.</inhalt>
+      </Porridge  >
+      <Toppings  >
+          <inhalt>Porridge in eine Schale geben, mit Bananen, Himbeeren und  Chia-Samen verzieren, Kokosmilch daruebertraeufeln.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

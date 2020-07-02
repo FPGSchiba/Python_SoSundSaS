@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>336 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Panna_Cotta>
+          <quant>3 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+      </Panna_Cotta>
+      <Rhabarber_aus_dem_Ofen>
+          <quant>500 g</quant>
+          <zutat>Rhabarber, in ca. 5 cm langen Staengeln</zutat>
+          <quant>2 dl</quant>
+          <zutat>Suesswein (z.B. Sauternes)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+      </Rhabarber_aus_dem_Ofen>
+      <Servieren >
+          <quant>40 g</quant>
+          <zutat>harte Guetzli (z.B. Cantucci), grob gehackt</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Panna_Cotta>
+          <inhalt>Buttermilch und Rahm mit Zucker aufkochen, Hitze reduzieren, auf ca. 4 dl einkoecheln. Pfanne von der Platte nehmen. Gelatine beigeben, verruehren, Masse durch ein Sieb in einen Messbecher giessen. Masse in die vorbereiteten Foermchen fuellen, auskuehlen, zugedeckt im Kuehlschrank ca. 4 Std. fest werden lassen.</inhalt>
+      </Panna_Cotta>
+      <Rhabarber_aus_dem_Ofen>
+          <inhalt>Rhabarber, Wein, Zucker, Vanilleschote und Samen in einer ofenfesten Form von ca. 2 Litern mischen.</inhalt>
+      </Rhabarber_aus_dem_Ofen>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen.</inhalt>
+      </Backen    >
+      <Servieren >
+          <inhalt>Panna cotta mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen. Foermchen kurz in heisses Wasser tauchen, Panna cotta auf Teller stuerzen. Rhabarber und Guetzli darauf verteilen.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>702 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>54 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gewuerzmischung>
+          <quant>1/2 TL</quant>
+          <zutat>Fenchelsamen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Senfkoerner</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>schwarzer Pfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>20 g</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, nur ausgekratzte Samen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+      </Gewuerzmischung>
+      <Melonen-Rettichsalat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Charentais-Melone (ca. 800g), in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Rettich (ca. 300g), in Streifen</zutat>
+      </Melonen-Rettichsalat>
+      <Tuna-Tataki>
+          <quant>4 </quant>
+          <zutat>Gelbflossen­-Thunfisch-Steaks (je ca. 200g)</zutat>
+          <quant>wenig </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, grob gezupft</zutat>
+      </Tuna-Tataki>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gewuerzmischung                </inhalt>
+      </How_To    >
+      <Gewuerzmischung>
+          <inhalt>Fenchelsamen, Senfkoerner und Pfefferkoerner im Moerser fein zerstossen. Meersalz und alle Zutaten bis und mit Kardamompulver beigeben, mischen. </inhalt>
+      </Gewuerzmischung>
+      <How_To1   >
+          <inhalt>Aceto und Oel in eine grosse Schuessel geben, wuerzen, gut verruehren. Peperoncino, Melone und Rettich beigeben, mischen. </inhalt>
+      </How_To1   >
+      <Melonen-Rettichsalat>
+          <inhalt>Thunfisch in der Gewuerzmischung wenden. Oel in einer beschichteten Bratpfanne heiss werden lassen. Thunfisch-Steaks portionenweise beidseitig je ca. 1 Min. braten.</inhalt>
+      </Melonen-Rettichsalat>
+      <Tuna-Tataki>
+          <inhalt>Thunfisch mit Melonen-Rettich-Salat und frischem Koriander servieren. </inhalt>
+      </Tuna-Tataki>
+   </rezept>
+</Rezept>

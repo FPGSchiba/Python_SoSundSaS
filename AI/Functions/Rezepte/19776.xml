@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>270 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 Becher</quant>
+          <zutat>saurer Halbrahm (200 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Sonnenblumenoel (1 dl)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 Becher </quant>
+          <zutat>helles Dinkelmehl (250 g)</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Haferflocken (100 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Rueebli    >
+          <quant>3 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>100 g</quant>
+          <zutat>Appenzellerkaese</zutat>
+          <quant>80 g</quant>
+          <zutat>Schinkenwuerfeli</zutat>
+          <quant>1 Becher</quant>
+          <zutat>saurer Halbrahm (200 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Sonnenblumenoel (1 dl)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 Becher </quant>
+          <zutat>helles Dinkelmehl (250 g)</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Haferflocken (100 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>100 g</quant>
+          <zutat>Appenzellerkaese</zutat>
+          <quant>80 g</quant>
+          <zutat>Schinkenwuerfeli</zutat>
+      </Rueebli    >
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten>
+          <inhalt>                              </inhalt>
+      </Vorbereiten>
+      <Teig      >
+          <inhalt>                              </inhalt>
+      </Teig      >
+      <Rueebli    >
+          <inhalt>Rueebli evtl. schaelen, mit dem Kaese an der Bircherraffel fein reiben.</inhalt>
+      </Rueebli    >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad C vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>266 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuechlein  >
+          <quant>75 g</quant>
+          <zutat>dunkle Schokolade, zerbroeckelt</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Kuechlein  >
+      <Melonen   >
+          <quant>1 </quant>
+          <zutat>Charentais-Melone (ca.600 g), in kleinen Kugeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+      </Melonen   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kuechlein                      </inhalt>
+      </How_To    >
+      <Kuechlein  >
+          <inhalt>Garen im Wasserbad: Siedendes Wasser bis 2/3 Hoehe der Foermchen einfuellen. Schokoladekuechlein ca. 35 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens garen. Herausnehmen, mit Puderzucker bestaeuben.</inhalt>
+      </Kuechlein  >
+      <Melonen   >
+          <inhalt>Melonenkugeln mit Basilikum mischen.</inhalt>
+      </Melonen   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

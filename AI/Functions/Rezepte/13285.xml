@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>367 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, fein gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce     >
+      <Gemuese_   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>Bohnen, halbiert</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>300 g</quant>
+          <zutat>Zucchetti, laengs halbiert, schraeg in Scheibchen</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese_   >
+      <Servieren >
+          <quant>1/2 </quant>
+          <zutat>Kopfsalat, in Streifen</zutat>
+          <quant>200 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Cashew-Nuesse, geroestet</zutat>
+          <quant>einige </quant>
+          <zutat>Johannisbeeren</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Zitronenschale und alle Zutaten bis und mit Salz in einer Schuessel verruehren.</inhalt>
+      </Sauce     >
+      <Gemuese_   >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Bohnen ca. 1 Min. ruehrbraten. Wasser beigeben, ca. 8 Min. weich koecheln. Zucchetti beigeben, ca. 2 Min. mitkoecheln, salzen. Gemuese zu der Sauce geben, mischen.</inhalt>
+      </Gemuese_   >
+      <Servieren >
+          <inhalt>Kopfsalat in Schalen verteilen. Bohnensalat, Feta, Nuesse und Beeren darauf verteilen.</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>770 kcal</NaehrwertProPerson>
+       <Fett>56 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Kuchenteig (ca. 32 cm Durchmesser)</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>200 g</quant>
+          <zutat>milder Emmentaler (Bio), fein gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>rezenter Gruyere, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>250 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten, halbiert</zutat>
+      </Belag     >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Belag                         </inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Backen                        </inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Waehe aus dem Ofen nehmen, Tomaten mit wenig Fleur de Sel und Petersilie bestreuen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

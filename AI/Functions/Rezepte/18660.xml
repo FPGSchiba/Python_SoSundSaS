@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>657 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>65 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, in Scheibchen</zutat>
+          <quant>450 g</quant>
+          <zutat>rohe Randen, in Schnitzen</zutat>
+          <quant>300 g</quant>
+          <zutat>Pastinaken, in Staengeln</zutat>
+          <quant>250 g</quant>
+          <zutat>Rueebli, in Staengeln</zutat>
+          <quant>250 g</quant>
+          <zutat>Lauch, laengs halbiert, in ca. 1 cm grossen Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>4 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Gemuese    >
+      <Einlage   >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherter Tofu, in Wuerfeli</zutat>
+          <quant>300 g</quant>
+          <zutat>Champignons, geviertelt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>5 </quant>
+          <zutat>Schalotten, geviertelt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+      </Einlage   >
+      <Kartoffelstock>
+          <quant>1 kg</quant>
+          <zutat>mehlig kochende Kartoffeln, geschaelt, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymianblaettchen, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln, fein geschnitten</zutat>
+          <quant>4 </quant>
+          <zutat>Salbeiblaetter, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Kartoffelstock>
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Butter in einem Brattopf erwaermen. Knoblauch beigeben, kurz andaempfen, Randen, Pastinake, Rueebli und Lauch beigeben, ca. 5 Min. mitdaempfen. Tomatenpueree beigeben, kurz weiterdaempfen. Thymian, Lorbeerblatt und Zimt beigeben, Wein dazugiessen, auf die Haelfte einkochen. Bouillon dazugiessen, aufkochen. Hitze reduzieren, zugedeckt ca. 30 Min. koecheln. Maizena mit dem Wasser anruehren, unter Ruehren zum Gemuese geben, ca. 2 Min. kochen. </inhalt>
+      </Gemuese    >
+      <Einlage   >
+          <inhalt>Wenig Bratbutter in einer beschichteten Bratpfanne erhitzen. Tofu und Pilze beigeben, ca. 10 Min. ruehrbraten. Herausnehmen, wuerzen, beiseite stellen. Wenig Bratbutter in derselben Pfanne erwaermen. Schalotten, Zucker und Salz beigeben, zugedeckt unter gelegentlichem Ruehren bei kleiner Hitze ca. 20 Min. caramelisieren. Tofu und Pilze wieder beigeben. </inhalt>
+      </Einlage   >
+      <Kartoffelstock>
+          <inhalt>Kartoffeln offen im siedenden Salzwasser bei mittlerer Hitze ca. 20 Min. weich kochen. Kartoffeln gut abtropfen, durch das Passe-vite direkt zurueck in die Pfanne treiben. Milch mit der Butter, Kraeutern und Muskat erhitzen, zugedeckt auf der ausgeschalteten Platte ca. 5 Min. stehen lassen.  Milch unter Ruehren mit der Kelle nach und nach zu den Kartoffeln geben. Kurz und kraeftig ruehren, bis die Kartoffelmasse luftig ist und locker von der Kelle faellt, wuerzen. Einlagen zum Gemuese geben, mit dem Kartoffelstock anrichten. </inhalt>
+      </Kartoffelstock>
+   </rezept>
+</Rezept>

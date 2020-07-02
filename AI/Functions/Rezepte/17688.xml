@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>304 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mojo_verde>
+          <quant>1 </quant>
+          <zutat>gruene Peperoni, in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>2 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Essig (z.B. Sherry-Essig)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Mojo_verde>
+      <Mojo_rojo >
+          <quant>1 Glas</quant>
+          <zutat>grillierte Peperoni in Oel (ca. 290 g)</zutat>
+          <quant>2 </quant>
+          <zutat>rote Chilis, evtl. entkernt, grob geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>1 EL</quant>
+          <zutat>Essig (z.B. Sherry-Essig)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Mojo_rojo >
+      <Kanarische_Kartoffeln>
+          <quant>1 kg</quant>
+          <zutat>Baby-Kartoffel, ungeschaelt</zutat>
+          <quant>150 g</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+      </Kanarische_Kartoffeln>
+   </einkaufliste>
+   <rezept>
+      <Mojo_verde>
+          <inhalt>Peperoni, Knoblauch und Koriander in einen Mixbecher geben, fein puerieren. Essig und Oel beigeben, kurz mitpuerieren, salzen. </inhalt>
+      </Mojo_verde>
+      <Mojo_rojo >
+          <inhalt>Peperoni mit dem Oel in einen Mixbecher geben, Chili und alle Zutaten bis und mit Essig beigeben, puerieren, salzen. </inhalt>
+      </Mojo_rojo >
+      <Kanarische_Kartoffeln>
+          <inhalt>Kartoffeln und Salz in eine Pfanne geben, mit Wasser bedecken, aufkochen, offen ca. 35 Min. kochen. Kartoffeln abtropfen, zurueck in die Pfanne geben, bei kleinster Hitze ausdampfen lassen. Es bildet sich eine feine Salzschicht um die Kartoffeln und sie werden schrumpelig. Saucen dazu servieren. </inhalt>
+      </Kanarische_Kartoffeln>
+   </rezept>
+</Rezept>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>529 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kirschen  >
+          <quant>600 g</quant>
+          <zutat>Kirschen, entsteint (ergibt ca. 500 g)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+      </Kirschen  >
+      <Crunch    >
+          <quant>80 g</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+      </Crunch    >
+      <Jogurtcreme>
+          <quant>500 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig oder Agavensirup</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Jogurtcreme>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kirschen                      </inhalt>
+      </How_To    >
+      <Kirschen  >
+          <inhalt>Crunch                        </inhalt>
+      </Kirschen  >
+      <Crunch    >
+          <inhalt>Jogurtcreme                   </inhalt>
+      </Crunch    >
+      <Jogurtcreme>
+          <inhalt>Kompott und Creme abwechselnd in die Glaeser verteilen, mit dem Mandelcrunch verzieren.</inhalt>
+      </Jogurtcreme>
+   </rezept>
+</Rezept>

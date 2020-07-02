@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>368 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>150 g</quant>
+          <zutat>Creme fraiche</zutat>
+      </Teig      >
+      <Beerenkompott>
+          <quant>600 g</quant>
+          <zutat>gemischte Beeren (z.B. Brombeeren, Himbeeren und Johannisbeeren)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Beerenkompott>
+      <Pie       >
+          <quant>2 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss, verklopft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Pie       >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz und Zucker in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Creme fraiche beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Teig      >
+      <Beerenkompott>
+          <inhalt>Beeren, Wasser und Zucker in eine Pfanne geben, mischen und aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren ca. 5 Min. weich koecheln. Maizena mit dem Wasser anruehren, beigeben, unter Ruehren ca. 5 Min. koecheln, auskuehlen. </inhalt>
+      </Beerenkompott>
+      <Pie       >
+          <inhalt>Teig halbieren, die eine Haelfte auf wenig Mehl ca. 4 mm dick etwas groesser als die Form auswallen, in die vorbereitete Form legen. Teig am Rand gut andruecken. Mandeln auf den Teigboden geben, Beerenkompott darauf verteilen. Restlichen Teig auf wenig Mehl ca. 4 mm dick auswallen, zu Streifen von je ca. 2 cm Breite schneiden, auf die Beeren legen. Teig am Rand gut andruecken, Teigstreifen mit wenig Eiweiss bestreichen, Zucker darueberstreuen. </inhalt>
+      </Pie       >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Kuchen auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

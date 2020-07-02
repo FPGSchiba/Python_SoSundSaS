@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>157 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kiwi-Schicht>
+          <quant>5 </quant>
+          <zutat>Kiwis, in Stuecken</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Kiwi-Schicht>
+      <Mango-Schicht>
+          <quant>1 </quant>
+          <zutat>Mango</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>6 </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Mango-Schicht>
+   </einkaufliste>
+   <rezept>
+      <Kiwi-Schicht>
+          <inhalt>Alles zusammen im Mixglas puerieren, durch ein Sieb streichen, in 4 hohe Glaeser (je ca. 2 dl) verteilen.</inhalt>
+      </Kiwi-Schicht>
+      <Mango-Schicht>
+          <inhalt>Das Fruchtfleisch der Mango beidseitig des flachen Steins abschneiden, zusammen mit den restlichen Zutaten ins Mixglas geben und puerieren, sorgfaeltig in die Glaeser giessen, sofort servieren.</inhalt>
+      </Mango-Schicht>
+   </rezept>
+</Rezept>

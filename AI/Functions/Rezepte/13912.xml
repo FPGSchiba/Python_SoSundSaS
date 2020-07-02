@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>879 kcal</NaehrwertProPerson>
+       <Fett>61 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>49 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fondue    >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>300 g</quant>
+          <zutat>Ziegenkaese, gerieben</zutat>
+          <quant>250 g</quant>
+          <zutat>milder Gruyere, gerieben</zutat>
+          <quant>250 g</quant>
+          <zutat>milder Emmentaler, gerieben</zutat>
+          <quant>4 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Gin</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fondue    >
+      <Topping   >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in ca. 1.5 cm grossen Wuerfeln</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Fondue    >
+          <inhalt>Caquelon mit Knoblauch ausreiben. Kaese ins Caquelon geben. Maizena mit Wein und Apfelsaft anruehren, dazugiessen, unter gleichmaessigem Ruehren bei kleiner Hitze aufkochen, Gin beigeben, wuerzen.</inhalt>
+      </Fondue    >
+      <Topping   >
+          <inhalt>Butter in einer Bratpfanne heiss werden lassen, Aepfel beigeben, ca. 5 Min. anbraten, salzen. Nuesse ca. 5 Min. mitbraten. Auf das Fondue geben, sofort servieren. </inhalt>
+      </Topping   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

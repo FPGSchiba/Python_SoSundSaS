@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>325 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Wasser und Oel dazugiessen, mischen, zu einem weichen, glatten Teig kneten, die Haelfte der Baumnusskerne daruntermischen. Zugedeckt bei Raumtemperatur ca. 1 1/2Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig zu einem ca. 30 cm langen Brot formen, in den restlichen Baumnusskernen wenden. Brot auf ein mit Backpapier belegtes Blech legen, mit einem Messer auf beiden Seiten je ca. 5-mal etwa 2 cm tief einschneiden.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=httRyqdkKSA"/>
+</Rezept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>195 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Spritz    >
+          <quant>12 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Giselle</zutat>
+          <quant>2 dl</quant>
+          <zutat>Mineralwasser</zutat>
+          <quant>4 dl</quant>
+          <zutat>Prosecco</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+      </Spritz    >
+   </einkaufliste>
+   <rezept>
+      <Spritz    >
+          <inhalt>Eiswuerfel, Giselle und Wasser in die Glaeser verteilen. Prosecco dazugiessen, und mit Pfefferminze dekorieren. </inhalt>
+      </Spritz    >
+   </rezept>
+</Rezept>

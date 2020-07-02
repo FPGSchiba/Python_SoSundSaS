@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>711 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>73 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Doerrpflaumen>
+          <quant>200 g</quant>
+          <zutat>entsteinte Doerrpflaumen</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Doerrpflaumen>
+      <Fleisch   >
+          <quant>1 1/5 kg</quant>
+          <zutat>Schweinsnierstueck</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>Bratbutter</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>3 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Doerrpflaumen                  </inhalt>
+      </How_To    >
+      <Doerrpflaumen>
+          <inhalt>Fleisch                       </inhalt>
+      </Doerrpflaumen>
+      <Fleisch   >
+          <inhalt>Braten im Ofen: Fleisch auf ein Blech legen. Bratbutter erhitzen, ueber das Fleisch giessen. Blech in die Mitte des auf 220 Grad vorgeheizten Ofens schieben, ca. 10 Min. anbraten. Temp. auf 180 Grad reduzieren, ca. 30 Min. fertigbraten (Kerntemp. ca. 60 Grad). Vor dem Tranchieren ca. 10 Min. zugedeckt ruhen lassen.</inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Beiseite gestellten Wein und Bouillon ca. 5 Min. koecheln. Butter und Mehl mischen, beigeben, Sauce unter Ruehren ca. 5 Min. koecheln, Thymian beigeben, wuerzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

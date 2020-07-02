@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>429 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Samosas   >
+          <quant>4 </quant>
+          <zutat>Samosas</zutat>
+      </Samosas   >
+      <Salat     >
+          <quant>2 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Fenchel, fein gehobelt</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, in Wuerfeli</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Samosas   >
+          <inhalt>Samosas in einer beschichteten Bratpfanne ohne Fett beidseitig je ca. 2 Min. anbraten. </inhalt>
+      </Samosas   >
+      <Salat     >
+          <inhalt>Essig, Oel und Salz verruehren. Fenchel, Tomaten und Koriander beigeben, mischen. Salat in Schalen anrichten, Samosas darauflegen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>459 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbis-Apfelkompott>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>250 g</quant>
+          <zutat>Kuerbis (z.B. Butternut), grob gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, grob gerieben</zutat>
+          <quant>1 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+      </Kuerbis-Apfelkompott>
+      <Mandel-Knusper>
+          <quant>100 g</quant>
+          <zutat>Mandelstifte</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Schokoladen-Wuerfeli</zutat>
+      </Mandel-Knusper>
+      <Creme     >
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Calvados oder Apfelsaft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Creme     >
+   </einkaufliste>
+   <rezept>
+      <Kuerbis-Apfelkompott>
+          <inhalt>Butter mit dem Zucker in einer Pfanne schmelzen. Kuerbis und Aepfel ca. 2 Min. andaempfen. Saft dazugiessen, Zimt beigeben, bei mittlerer Hitze ca. 4 Min. weich koecheln, auskuehlen. Zimt entfernen.</inhalt>
+      </Kuerbis-Apfelkompott>
+      <Mandel-Knusper>
+          <inhalt>Mandeln und Zucker mischen, in einer Bratpfanne bei mittlerer Hitze ca. 4 Min. roesten, auf einem Backpapier verteilen, auskuehlen. Schokoladen-Wuerfeli daruntermischen.</inhalt>
+      </Mandel-Knusper>
+      <Creme     >
+          <inhalt>Quark, Zucker und Calvados verruehren. Schlagrahm darunterziehen. </inhalt>
+      </Creme     >
+      <Anrichten >
+          <inhalt>Kuerbiskompott, Mandel-Knusper und Creme lagenweise in die Glaeser verteilen, zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

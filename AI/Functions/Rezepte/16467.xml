@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>337 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden_    >
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao), grob gehackt</zutat>
+          <quant>120 g</quant>
+          <zutat>Biskuits (z.B. Digestive Weizen-Bisquits Original)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Boden_    >
+      <Frischkaese-Masse_>
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>130 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>30 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao), in Wuerfeli</zutat>
+      </Frischkaese-Masse_>
+      <Backen    >
+          <quant>20 g</quant>
+          <zutat>weisse Schokolade, mit dem Sparschaeler in feine Spaene gehobelt</zutat>
+          <quant>20 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao), mit dem Sparschaeler in feine Spaene gehobelt</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Boden                         </inhalt>
+      </How_To    >
+      <Boden_    >
+          <inhalt>Guetzli in einem Plastikbeutel mit dem Wallholz fein zerstossen oder im Cutter mahlen, mit der Butter und der Haelfte der Schokolade mischen. Masse auf dem vorbereiteten Formenboden verteilen, mit dem Boden eines Glases gut andruecken. </inhalt>
+      </Boden_    >
+      <Frischkaese-Masse_>
+          <inhalt>Frischkaese, Zucker, Eier und Maizena mit den Schwingbesen des Handruehrgeraets gut verruehren. Schokoladewuerfeli und restliche fluessige Schokolade daruntermischen, auf dem Guetzliboden verteilen. </inhalt>
+      </Frischkaese-Masse_>
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Cheescake auf ein Gitter schieben, auskuehlen. Schokolade darauf verteilen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

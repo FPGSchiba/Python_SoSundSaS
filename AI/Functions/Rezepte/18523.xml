@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>496 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln>
+          <quant>800 g</quant>
+          <zutat>mehlig kochende Kartoffeln, geschaelt, in ca. 3 mm dicke Scheiben gehobelt</zutat>
+          <quant>100 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+      </Kartoffeln>
+      <Guss      >
+          <quant>4 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln>
+          <inhalt>Kartoffelscheiben mit dem Kaese ziegelartig in die vorbereitete Gratinform schichten.</inhalt>
+      </Kartoffeln>
+      <Guss      >
+          <inhalt>Halbrahm und Knoblauch verruehren, wuerzen, ueber die Kartoffeln giessen. </inhalt>
+      </Guss      >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

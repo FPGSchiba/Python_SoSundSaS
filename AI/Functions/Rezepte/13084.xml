@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>416 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>700 g</quant>
+          <zutat>Schweinsplaetzli  (Nierstueck)</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Kuechenschnur</zutat>
+      </Fleisch   >
+      <Kraeutersauce>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Kraeutersauce>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Plaetzli flach klopfen, leicht ueberlappend auf eine Klarsichtfolie zu einem Quadrat (ca. 30x30 cm) auslegen. Knoblauch pressen, Kraeuter fein schneiden, mit dem Oel verruehren, wuerzen. 3/4 des Gewuerzoeles auf das Fleisch streichen. Fleisch satt zu einem Braten aufrollen, Folie entfernen, mit Schnur binden. Braten rundum mit restlichem Gewuerzoel bestreichen.</inhalt>
+      </Fleisch   >
+      <How_To1   >
+          <inhalt>Kraeutersauce                  </inhalt>
+      </How_To1   >
+      <Kraeutersauce>
+          <inhalt>Sauce zum tranchierten Fleisch servieren.</inhalt>
+      </Kraeutersauce>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

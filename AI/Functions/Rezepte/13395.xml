@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>49 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auberginen>
+          <quant>1 </quant>
+          <zutat>Aubergine (ca. 350 g), laengs in ca. 3 mm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Auberginen>
+      <Fuellung   >
+          <quant>150 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>50 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>80 g</quant>
+          <zutat>getrocknete Tomaten, laengs halbiert</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Auberginen                    </inhalt>
+      </How_To    >
+      <Auberginen>
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Auberginenscheiben herausnehmen, etwas abkuehlen.</inhalt>
+      </Auberginen>
+      <Fuellung   >
+          <inhalt>Auberginenscheiben mit je 2 TL Frischkaese bestreichen, mit Rucola und Tomaten belegen, aufrollen.</inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

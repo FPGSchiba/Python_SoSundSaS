@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>407 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant>600 g</quant>
+          <zutat>gekochte Randen</zutat>
+          <quant>7 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>1. Zwiebel fein hacken, Apfel schaelen, in Wuerfel schneiden. Butter erwaermen, beides andaempfen. Meerrettich beigeben, kurz mitdaempfen. Randen schaelen, in Wuerfel schneiden, beigeben. Kurz mitdaempfen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>2. Bouillon dazugiessen, alles ca. 15 Min. koecheln. Suppe puerieren, in die Pfanne zurueck giessen, wuerzen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>3. Suppe anrichten, mit Creme Fraiche garnieren.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

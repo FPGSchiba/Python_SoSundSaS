@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>463 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffel-Gemuese>
+          <quant>60 g</quant>
+          <zutat>Frischkaese (Kraeuter-Cantadou*)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>600 g</quant>
+          <zutat>Fruehkartoffeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kerbelblaettchen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kartoffel-Gemuese>
+      <Fisch     >
+          <quant>4 </quant>
+          <zutat>Lachsforellenfilets   (je ca. 170 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemischte Pfefferkoerner, zerdrueckt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kerbelblaettchen</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kartoffel-Gemuese              </inhalt>
+      </How_To    >
+      <Kartoffel-Gemuese>
+          <inhalt>Frischkaese in eine grosse Schuessel geben. Milch beigeben, glattruehren. Kartoffeln in sehr duennen Scheiben (max. 2 mm) dazuhobeln, sofort mischen. Kerbel daruntermischen, wuerzen. Kartoffeln auf ein mit Backpapier belegtes Blech verteilen.</inhalt>
+      </Kartoffel-Gemuese>
+      <How_To1   >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Spinat und Wein mischen, wuerzen, auf den Kartoffeln verteilen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Fischfilets salzen, auf den Spinat legen. Zitronenschale und restliche Zutaten mischen, Fischfilets damit bestreichen. Mit Backpapier bedecken, Raender etwas andruecken.</inhalt>
+      </How_To3   >
+      <Fisch     >
+   </rezept>
+</Rezept>

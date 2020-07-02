@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>527 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto   >
+          <quant>20 g</quant>
+          <zutat>getrocknete Morcheln, eingeweicht</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>6 </quant>
+          <zutat>getrocknete Tomaten, fein geschnitten</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 1/5 Liter</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+      </Risotto   >
+      <Fertigstellen>
+          <quant>300 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>100 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Roquefort), in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Johannisbeergelee</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Risotto   >
+          <inhalt>Morcheln halbieren, gut waschen, abtropfen. Oel in einer Pfanne erwaermen. Zwiebeln, Knoblauch, Tomaten und Morcheln andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 15 Min. koecheln.</inhalt>
+      </Risotto   >
+      <Fertigstellen>
+          <inhalt>Spinat nach und nach beigeben, zusammenfallen lassen, ca. 5 Min. weiterkoecheln, bis der Reis cremig und al dente ist. Kaese daruntermischen, wuerzen. Gelee dazu servieren.</inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

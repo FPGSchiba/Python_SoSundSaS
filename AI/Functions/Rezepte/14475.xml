@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>223 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>250 g</quant>
+          <zutat>1/2-fett-Quark</zutat>
+          <quant>2 EL</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant>8 Blaetter</quant>
+          <zutat>Mini-Lattiche</zutat>
+          <quant>1 </quant>
+          <zutat>geraeucherter Lachs (ca. 110 g), zerzupft</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>Kresse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Quark mit dem Meerrettich verruehren. Lattichblaetter nebeneinander legen. Meerrettich-Quark darauf verteilen. Mit Lachs, Avocadowuerfeli, Kresse und Sesam belegen. Wenig Olivenoel daruebertraeufeln, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

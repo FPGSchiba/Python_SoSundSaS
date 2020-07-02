@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>250 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>150 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Boden     >
+      <Belag     >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>300 g</quant>
+          <zutat>Kraeuterseitlinge, in feinen Scheiben</zutat>
+          <quant>150 g</quant>
+          <zutat>frische Morcheln gut gewaschen, halbiert</zutat>
+          <quant>300 g</quant>
+          <zutat>Champignons, in feinen Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Paniermehl, Rosmarin, Knoblauch und Salz in einer Schuessel mischen. Oel und Wasser dazugiessen, mischen, auf den Boden der vorbereiteten Form geben, mit einem Loeffelruecken gut andruecken. </inhalt>
+      </Boden     >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen. </inhalt>
+      </Backen    >
+      <Belag     >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Pilze mit dem Rosmarin portionenweise je ca. 5 Min. anbraten, in eine Schuessel geben. Hitze reduzieren, Bundzwiebeln in derselben Pfanne ca. 5 Min. andaempfen, zu den Pilzen geben, etwas abkuehlen. Eier, Milch und Huettenkaese verruehren, wuerzen, zu den Pilzen geben, mischen. Masse auf dem Quicheboden verteilen. </inhalt>
+      </Belag     >
+      <Fertig_backen>
+          <inhalt>Ca. 40 Min. in der Mitte des Ofens. </inhalt>
+      </Fertig_backen>
+   </rezept>
+</Rezept>

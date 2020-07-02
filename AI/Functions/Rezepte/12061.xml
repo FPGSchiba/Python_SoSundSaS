@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>371 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Berlinerteig>
+          <quant>300 g</quant>
+          <zutat>glutenfreies Mehl (Brot Schaer-Mix)</zutat>
+          <quant>2 TL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>50 g</quant>
+          <zutat>lactosefreie Butter, in Stuecken</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>lactosefreie Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Berlinerteig>
+      <Frittieren>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Frittieren>
+      <Caramelfuellung>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 dl</quant>
+          <zutat>lactosefreier Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+      </Caramelfuellung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Berlinerteig                  </inhalt>
+      </How_To    >
+      <Berlinerteig>
+          <inhalt>Frittieren                    </inhalt>
+      </Berlinerteig>
+      <Frittieren>
+          <inhalt>Caramelfuellung                </inhalt>
+      </Frittieren>
+      <Caramelfuellung>
+          <inhalt>Fuellen: Berliner mit einem Trinkhalm bis zu 2/3 einstechen, einige Male hin und herfahren, bis die Oeffnung ca. 5 mm breit ist. Caramel in einen Spritzsack mit glatter Tuelle (ca. 5 mm Ø) geben, in die Berliner spritzen. Zucker in einen tiefen Teller geben, Berliner darin wenden.</inhalt>
+      </Caramelfuellung>
+   </rezept>
+</Rezept>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>179 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dampfnudeln>
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Dampfnudeln>
+      <Quitten-Guss>
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Quittengelee</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+      </Quitten-Guss>
+      <Backen    >
+          <quant>1 EL</quant>
+          <zutat>Butterfloeckli</zutat>
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Quittengelee</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butterfloeckli</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Dampfnudeln>
+          <inhalt>                              </inhalt>
+      </Dampfnudeln>
+      <Quitten-Guss>
+          <inhalt>Vanilleschote laengs halbieren, Samen herauskratzen. </inhalt>
+      </Quitten-Guss>
+      <Dampfnudeln_formen>
+          <inhalt>Den Teig in ca. 12 Portionen teilen. </inhalt>
+      </Dampfnudeln_formen>
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

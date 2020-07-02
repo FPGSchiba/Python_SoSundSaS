@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>197 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Konfituere >
+          <quant>500 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>250 g</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+      </Konfituere >
+   </einkaufliste>
+   <rezept>
+      <Konfituere >
+          <inhalt>Erdbeeren in eine Pfanne geben, die Haelfte des Gelierzuckers beigeben, unter Ruehren aufkochen, unter Ruehren ca. 2 Min. sprudelnd kochen. Restlichen Gelierzucker unter Ruehren beigeben, ca. 2 Min. weiterkochen. Evtl. Schaum abschoepfen. </inhalt>
+      </Konfituere >
+      <Gelierprobe>
+          <inhalt>Wenig heisse Konfituere auf einen Teller geben, auskuehlen. Fliesst sie nicht mehr und bildet sich nach kurzer Zeit eine feine Haut, ist die richtige Konsistenz erreicht. Andernfalls Konfituere kurz weiterkochen, erneut testen.</inhalt>
+      </Gelierprobe>
+      <Abfuellen  >
+          <inhalt>Konfituere siedend heiss bis knapp unter den Rand in die sauberen, vorgewaermten Glaeser fuellen, sofort verschliessen. Glaeser mit Schraubdeckel kurz auf den Kopf stellen, auf einem Tuch auskuehlen.</inhalt>
+      </Abfuellen  >
+   </rezept>
+</Rezept>

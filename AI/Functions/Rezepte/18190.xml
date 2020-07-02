@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>174 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace_vorbereiten>
+          <quant>3 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>4 Beutel</quant>
+          <zutat>Kamillentee</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eigelbe, verklopft</zutat>
+          <quant>3 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>90 g</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Glace_vorbereiten>
+      <Ofenkompott>
+          <quant>400 g</quant>
+          <zutat>Mirabellen, halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>Kamillentee, nur Inhalt</zutat>
+      </Ofenkompott>
+   </einkaufliste>
+   <rezept>
+      <Glace_vorbereiten>
+          <inhalt>Milch, Teebeutel, Zucker und Salz in einer Pfanne erwaermen, ca. 10 Min. ziehen lassen. Teebeutel entfernen, die Haelfte der Milch zu den Eigelben giessen, gut verruehren. Masse zurueck in die Pfanne giessen und unter Ruehren bei mittlerer Hitze koecheln, bis die Masse bindet und cremig wird. Masse durch ein Sieb zum Rahm giessen, gut verruehren. Honig darunterruehren, auskuehlen. Zugedeckt 8 Std. oder ueber Nacht kuehl stellen. </inhalt>
+      </Glace_vorbereiten>
+      <Glace     >
+          <inhalt>Glacemischung aufruehren, ca. 5 Std. gefrieren, dabei mind. 4-mal mit einem Schwingbesen durchruehren. </inhalt>
+      </Glace     >
+      <Ofenkompott>
+          <inhalt>Mirabellen in eine ofenfeste Form geben. Zucker, Zitronensaft und Kamille beigeben, mischen. </inhalt>
+      </Ofenkompott>
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Kompott auskuehlen, zur Glace servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

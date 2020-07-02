@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>831 kcal</NaehrwertProPerson>
+       <Fett>55 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>47 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Filet     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Kalbsfilet  (ca. 600 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Filet     >
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Lauch, halbiert, in feinen Streifen (ergibt ca. 300 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>Frischkaese (z.B. Pfeffer)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+      </Fuellung   >
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 25 x 42 cm)</zutat>
+          <quant>100 g</quant>
+          <zutat>Rohess-Speck</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss, verklopft</zutat>
+      </Teig      >
+      <Bestreichen>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>2 TL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Bestreichen>
+   </einkaufliste>
+   <rezept>
+      <Filet     >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Fleisch salzen, bei mittlerer Hitze rundum ca. 4 Min. anbraten, herausnehmen, auskuehlen. </inhalt>
+      </Filet     >
+      <Fuellung   >
+          <inhalt>Oel in derselben Pfanne erwaermen. Lauch beigeben, ca. 7 Min. daempfen, evtl. abtropfen. Frischkaese darunterruehren, wuerzen, auskuehlen. </inhalt>
+      </Fuellung   >
+      <Teig      >
+          <inhalt>Teig auf einem Backblech entrollen, auf der Schmalseite drei Streifen von je ca. 1 cm abschneiden, fuer die Garnitur kuehl stellen. Speck auf die Mitte des Teiges verteilen. 3/4 der Fuellung auf dem Speck verteilen. Filet darauflegen, restliche Fuellung darum herum verteilen. Teigrand mit Eiweiss bestreichen, locker ueber das Filet legen, gut andruecken. Aus den beiseite gestellten Teigstreifen ein Zoepfchen flechten, mit Eiweiss bestreichen und auf die Schliessnaht legen. Filet zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Teig      >
+      <Bestreichen>
+          <inhalt>Eigelb, Wasser und Salz verruehren. Teig damit bestreichen, mehrmals mit einer Gabel einstechen. Fleischthermometer an der dicksten Stelle einstecken. </inhalt>
+      </Bestreichen>
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens, bis die Kerntemperatur von ca. 55 Grad erreicht ist. Herausnehmen, vor dem Tranchieren ca. 10 Min. ruhen lassen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

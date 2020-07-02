@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>466 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>Limetten, ganzer Saft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Knollensellerie, in Staengelchen</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in Staengelchen</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in Staengelchen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+      </Salat     >
+      <Fisch     >
+          <quant>50 g</quant>
+          <zutat>Panko</zutat>
+          <quant>3 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>4 </quant>
+          <zutat>Pangasiusfilets, je ca. 150 g</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fisch     >
+      <Braten_   >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Braten_   >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Limettensaft und Oel verruehren, wuerzen. Sellerie, Rueebli, Aepfel und Koriander beigeben, mischen. </inhalt>
+      </Salat     >
+      <Fisch     >
+          <inhalt>Panko und Sesam mischen, auf einen flachen Teller geben. Mehl auf einen flachen, Ei in einen tiefen Teller geben. Fisch salzen, im Mehl wenden, ueberschuessiges Mehl abschuetteln, dann im Ei und im Panko wenden, Panade gut andruecken. </inhalt>
+      </Fisch     >
+      <Braten_   >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Fischfilets beidseitig je ca. 21/2 Min. braten, zum Salat servieren. </inhalt>
+      </Braten_   >
+   </rezept>
+</Rezept>

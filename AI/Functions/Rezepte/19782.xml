@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>237 kcal</NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>1 Becher</quant>
+          <zutat>Vanillejogurt (ca. 180 g)</zutat>
+          <quant>4 Becher </quant>
+          <zutat>Weissmehl (ca. 450 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Bourbon-Vanillezucker</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Milch (1 dl)</zutat>
+          <quant>1 Becher</quant>
+          <zutat>gemischte Beeren (z.B. Heidel- und Himbeeren)</zutat>
+      </Hefeteig  >
+      <Bagels_formen>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Bagels_formen>
+      <Glasur    >
+          <quant>1 Becher</quant>
+          <zutat>Puderzucker (ca. 100 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Vanillejogurt (ca. 180 g)</zutat>
+          <quant>4 Becher </quant>
+          <zutat>Weissmehl (ca. 450 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Bourbon-Vanillezucker</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Milch (1 dl)</zutat>
+          <quant>1 Becher</quant>
+          <zutat>gemischte Beeren (z.B. Heidel- und Himbeeren)</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Puderzucker (ca. 100 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hefeteig                      </inhalt>
+      </How_To    >
+      <Hefeteig  >
+          <inhalt>                              </inhalt>
+      </Hefeteig  >
+      <Bagels_formen>
+          <inhalt>                              </inhalt>
+      </Bagels_formen>
+      <Backen_   >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen_   >
+      <Glasur    >
+          <inhalt>                              </inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

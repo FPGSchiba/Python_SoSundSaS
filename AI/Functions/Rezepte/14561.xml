@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>475 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>120 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>2 dl</quant>
+          <zutat>Randensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>30 g</quant>
+          <zutat>Gartenkresse</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Couscous in eine Schuessel geben. Randensaft mit Salz aufkochen und ueber das Couscous giessen. Zugedeckt ca. 5 Min. quellen lassen. Couscous mit einer Gabel lockern, wuerzen, Kresse und Feta daruntermischen. Essig und Oel verruehren, Couscous damit betraeufeln. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

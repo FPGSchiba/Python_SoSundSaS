@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>149 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizzette  >
+          <quant>800 g</quant>
+          <zutat>Pizzateig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>5 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oreganoblaettchen, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Pizzette  >
+   </einkaufliste>
+   <rezept>
+      <Pizzette  >
+          <inhalt>Teig in 20 Portionen teilen, zu Kugeln formen, auf zwei mit Backpapier belegte Bleche legen, etwas flach druecken. Oel daruebertraeufeln, Kaese und Oregano darauf verteilen, wuerzen, Himbeeren darauf verteilen. </inhalt>
+      </Pizzette  >
+      <Backen    >
+          <inhalt>Ca. 20 Min. im auf  200 Grad vorgeheizten Ofen (Heissluft). </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

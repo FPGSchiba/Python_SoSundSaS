@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>505 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>200 g</quant>
+          <zutat>Baumnusskerne, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>entsteinte Datteln, fein gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Whiskey oder Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zimt</zutat>
+      </Fuellung   >
+      <Glasur    >
+          <quant>200 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Milch beigeben, zu einem weichen, glatten Teig kneten. Butter gut darunterkneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Nuesse und alle Zutaten bis und mit Zimt mischen.</inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig zu einem Rechteck von ca. 35 x 45 cm auswallen. Fuellung darauf verteilen, dabei ringsum einen Rand von ca. 1 cm frei lassen. Teig von der Laengsseite her aufrollen, in 12 Stuecke schneiden, auf ein mit Backpapier belegtes Blech legen, zugedeckt nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen.</inhalt>
+      </Backen    >
+      <Glasur    >
+          <inhalt>Puderzucker und Zitronensaft verruehren, Rollen noch heiss damit bestreichen, auf einem Gitter auskuehlen.</inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

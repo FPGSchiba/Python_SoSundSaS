@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>177 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1/2 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>200 g</quant>
+          <zutat>geschaelte rohe Crevetten </zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>300 g</quant>
+          <zutat>Wok-Gemuese</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>30 g</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel im Wok heiss werden lassen, Crevetten ca. 4 Min. braten, herausnehmen, salzen. Gemuese im selben Wok ca. 7 Min. ruehrbraten, salzen, Crevetten wieder beigeben. Ingwer, Zucker und Sojasauce verruehren, mit dem Gemuese und den Crevetten mischen oder separat dazu servieren. </inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

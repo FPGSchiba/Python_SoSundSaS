@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>88 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ofengemuese>
+          <quant>2 </quant>
+          <zutat>Auberginen, geschaelt, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>3 </quant>
+          <zutat>Tomaten, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Ofengemuese>
+      <Zaalouk   >
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika edelsuess</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Zaalouk   >
+   </einkaufliste>
+   <rezept>
+      <Ofengemuese>
+          <inhalt>Gemuese mit  Oel, Salz und Pfeffer in einer Schuessel mischen, auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Ofengemuese>
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auskuehlen.</inhalt>
+      </Backen    >
+      <Zaalouk   >
+          <inhalt>Gemuese mit Gewuerzen und Zitronensaft puerieren, Koriander und Petersilie daruntermischen. </inhalt>
+      </Zaalouk   >
+   </rezept>
+</Rezept>

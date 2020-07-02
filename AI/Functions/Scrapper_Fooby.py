@@ -1,6 +1,6 @@
 #! Für Linux ausführung freihalten
 # Author: Jann Erhardt
-# Version 1.0.1
+# Version 1.0.2
 # Changes:
 # ================
 # No changes yet
@@ -8,14 +8,8 @@
 # No Copy Right yet
 
 import requests
+import sys
 from bs4 import BeautifulSoup
-
-
-def writeHTML(input):
-    file = open(".\output.txt", "w+")
-    file.write(input)
-    file.close()
-
 
 def deleteTagsEinzel(inpString):
     liste = str(inpString).split(">")
@@ -44,6 +38,7 @@ def getClass(inpString):
         end = "sos"
     return end
 
+
 def replaceNonASCII(String):
     String = String.replace("ä", "ae")
     String = String.replace("Ä", "Ae")
@@ -51,6 +46,7 @@ def replaceNonASCII(String):
     String = String.replace("â", "a")
     String = String.replace("ö", "oe")
     String = String.replace("Ö", "Oe")
+    String = String.replace("◌̈", "oe")
     String = String.replace("ô", "o")
     String = String.replace("ü", "ue")
     String = String.replace("Ü", "Ue")
@@ -58,6 +54,7 @@ def replaceNonASCII(String):
     String = String.replace("é", "e")
     String = String.replace("è", "e")
     String = String.replace("ê", "e")
+    String = String.replace("è", "e")
     String = String.replace("î", "i")
     String = String.replace("½", "1/2")
     String = String.replace("⅓", "1/3")
@@ -65,6 +62,17 @@ def replaceNonASCII(String):
     String = String.replace("¼", "1/4")
     String = String.replace("¾", "3/4")
     String = String.replace("⅕", "1/5")
+    String = String.replace("\u215b", "1/8")
+    String = String.replace("⁄", "/")
+    String = String.replace("–", "-")
+    String = String.replace("×", "x")
+    String = String.replace("°C", "Grad C")
+    String = String.replace("°", "Grad")
+    String = String.replace("\u0308", "")
+    String = String.replace("\u2300", "Durchmesser")
+    String = String.replace("\u1d13", "Durchmesser")
+    String = String.replace("\u2009", " ")
+    String = String.replace("\u2205", "Durchmesser")
     return String
 
 
@@ -135,12 +143,12 @@ def ScrapFooby(URL):
 
     # Rezepte Alles Parsen
     resultRezeptcomplete = soup.find("div", itemprop="recipeInstructions")
-    headersrec = resultRezeptcomplete.find("p", class_="heading--h3")
 
     # Alle <p> aus dem Rezept Parsen
     temps = resultRezeptcomplete.find_all("p")
     RezeptString = ""
     rezheaderslist = []
+    rezInhaltList = []
 
     # Alles Ausgeben
     for i in range(len(temps)):
@@ -151,8 +159,9 @@ def ScrapFooby(URL):
         else:
             Rezept.append(deleteTagsEinzel(temps[i]))
             RezeptString += "\\" + deleteTagsEinzel(temps[i])
+            rezInhaltList.append(deleteTagsEinzel(temps[i]))
 
-    # Den YouTube URL aus den Bild ableiten und ausgeben
+    # Den YouTube-URL aus den Bild ableiten und ausgeben
     resultsVidcomplete = soup.find_all("div", class_="recipedetail-how-to-videos__image-wrapper")
     containsVid = False
     vids = []
@@ -179,22 +188,26 @@ def ScrapFooby(URL):
     XMLString += "   <meta>\n"
     XMLString += "       <NaehrwertProPerson>{kcal:8s}</NaehrwertProPerson>\n".format(
         kcal=deleteTagsEinzel(resultMetaNaehrwert))
-    XMLString += "       <Fett>{fett:6s}</Fett>\n".format(fett=deleteTagsEinzel(resultMetaFett))
-    XMLString += "       <Kohlenhydrate>{hydrate:6s}</Kohlenhydrate>\n".format(
-        hydrate=deleteTagsEinzel(resultMetaHydrate))
-    XMLString += "       <Eiweiss>{ei:6s}</Eiweiss>\n".format(ei=deleteTagsEinzel(resultMetaEi))
+    if not resultMetaFett == None:
+        XMLString += "       <Fett>{fett:6s}</Fett>\n".format(fett=deleteTagsEinzel(resultMetaFett))
+    if not resultMetaHydrate == None:
+        XMLString += "       <Kohlenhydrate>{hydrate:6s}</Kohlenhydrate>\n".format(
+            hydrate=deleteTagsEinzel(resultMetaHydrate))
+    if not resultMetaEi == None:
+        XMLString += "       <Eiweiss>{ei:6s}</Eiweiss>\n".format(ei=deleteTagsEinzel(resultMetaEi))
     XMLString += "   </meta>\n"
     XMLString += "   <einkaufliste>\n"
 
     hasNoHeader = False
+    firstItem = True
+    Lists = ListString.split("{")
+    headercout = 0
 
     if headerslist.__len__() == 0:
         headerslist.append("Liste")
         hasNoHeader = True
 
     # Die Einkaufsliste ins File einfügen
-    Lists = ListString.split("{")
-    headercout = 0
     for list in Lists:
         if not list == "":
             tempps = list.split("\\")
@@ -202,37 +215,66 @@ def ScrapFooby(URL):
                 if hasNoHeader:
                     XMLString += "      <{header:10s}>\n".format(header=headerslist[0])
                     hasNoHeader = False
+                    firstItem = False
                 if headerslist.__contains__(i):
                     if not i == "":
                         XMLString += "      <{header:10s}>\n".format(header=i)
+                        firstItem = False
                 else:
-                    ingreds = i.split("&&")
-                    if not ingreds == ['']:
-                        XMLString += "          <quant>{inhalt:s}</quant>\n".format(inhalt=ingreds[0])
-                        XMLString += "          <zutat>{inhalt:s}</zutat>\n".format(inhalt=ingreds[1])
-            XMLString += "      </{header:10s}>\n".format(header=headerslist[headercout])
+                    if firstItem:
+                        headerslist.insert(0, "Fill_Header")
+                        XMLString += "      <{header:10s}>\n".format(header=headerslist[headercout])
+                        firstItem = False
+                    else:
+                        ingreds = i.split("&&")
+                        if not ingreds == ['']:
+                            XMLString += "          <quant>{inhalt:s}</quant>\n".format(inhalt=ingreds[0])
+                            XMLString += "          <zutat>{inhalt:s}</zutat>\n".format(inhalt=ingreds[1])
+            try:
+                XMLString += "      </{header:10s}>\n".format(header=headerslist[headercout])
+            except:
+                headerslist.append("Fill_Header")
+                XMLString += "      </{header:10s}>\n".format(header=headerslist[headercout])
             headercout += 1
 
     XMLString += "   </einkaufliste>\n"
     XMLString += "   <rezept>\n"
     isHeader = True
     headercout = 0
+    count = 0
+    HeaderOrder = []
+    NewHeadersList = []
 
-    if rezheaderslist.__len__() == 0:
-        rezheaderslist.append("Rezept")
-        Rezept.insert(0, "Rezept")
+    # Fill Headers erstellen, falls nicht alle vorhanden sind
+    if not rezheaderslist.__len__() == len(rezInhaltList) or rezheaderslist.__len__() == 0:
+        for i in range(len(rezInhaltList) - len(rezheaderslist)):
+            if i == 0:
+                Rezept.insert(0, "How_To")
+                rezheaderslist.append("How_To")
+            if not i == 0:
+                Rezept.insert(i + count, "How_To" + str(count))
+                rezheaderslist.append("How_To" + str(count))
+            count += 1
+
+    # Richtige Reihenfolge der Header beachten
+    for i in Rezept:
+        if rezheaderslist.__contains__(i):
+            index = rezheaderslist.index(i)
+            HeaderOrder.append(index)
+
+    # Header neu Ordnen
+    for i in HeaderOrder:
+        NewHeadersList.append(rezheaderslist[i])
 
     # Das Rezept ins File einfügen
     for i in Rezept:
         if isHeader:
-            if not headercout >= rezheaderslist.__len__():
-                XMLString += "      <{header:10s}>\n".format(header=rezheaderslist[headercout].replace(" ", "_"))
+            XMLString += "      <{header:10s}>\n".format(header=NewHeadersList[headercout].replace(" ", "_"))
             isHeader = not isHeader
         else:
             XMLString += "          <inhalt>{inhalt:30s}</inhalt>\n".format(inhalt=i)
-            if not headercout >= rezheaderslist.__len__():
-                XMLString += "      </{header:10s}>\n".format(header=rezheaderslist[headercout].replace(" ", "_"))
             isHeader = not isHeader
+            XMLString += "      </{header:10s}>\n".format(header=NewHeadersList[headercout].replace(" ", "_"))
         if isHeader:
             headercout += 1
 
@@ -252,10 +294,7 @@ def ScrapFooby(URL):
     FileName = "Rezepte/" + nummer + ".xml"
 
     # Die Datei Speichern
-    try:
-        file = open(FileName, "w")
-        file.write(XMLString)
-        file.close()
-        print("XML done")
-    except:
-        print("XML error!")
+    file = open(FileName, "w")
+    file.write(XMLString)
+    file.close()
+    print("XML done")

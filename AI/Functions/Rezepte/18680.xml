@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>606 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>75 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gewuerz-Paste>
+          <quant>1/2 EL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Senfkoerner</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>4 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>50 g</quant>
+          <zutat>Ingwer</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>3 </quant>
+          <zutat>rote Chilis</zutat>
+          <quant>2 </quant>
+          <zutat>Zitronengras </zutat>
+          <quant>2 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Salz</zutat>
+      </Gewuerz-Paste>
+      <Gemuese    >
+          <quant>200 g</quant>
+          <zutat>Lauch</zutat>
+          <quant>300 g</quant>
+          <zutat>Quitten</zutat>
+          <quant>500 g</quant>
+          <zutat>Suesskartoffeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 420 g)</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Gemuese    >
+      <Reis      >
+          <quant>250 g</quant>
+          <zutat>Basmatireis</zutat>
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+      </Reis      >
+      <Fertigstellen>
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gewuerz-Paste                  </inhalt>
+      </How_To    >
+      <Gewuerz-Paste>
+          <inhalt>Koriandersamen und alle Zutaten bis und mit Zimt in einer Bratpfanne ohne Fett  roesten, auskuehlen.</inhalt>
+      </Gewuerz-Paste>
+      <How_To1   >
+          <inhalt>Schalotten, Ingwer und Knoblauch grob hacken. Chilis entkernen, grob hacken. Inneres der Zitronengras Staengel grob hacken. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Geroestete Gewuerze mit Schalotten, Ingwer, Knoblauch, Chilis, Zitronengras, Zucker, Limettensaft und Salz mischen, mit dem Puerierstab oder im Mixglas zu einer feinen Paste puerieren. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Lauch laengs halbieren, in ca. 1 cm grosse Stuecke schneiden. Quitten und Suesskartoffeln schaelen, in ca. 1 cm grosse Wuerfel schneiden. </inhalt>
+      </How_To3   >
+      <Gemuese    >
+          <inhalt>Kichererbsen abspuelen und abtropfen, mit dem Spinat zum Gemuese geben, ca. 5 Min. mitkoecheln, salzen. </inhalt>
+      </Gemuese    >
+      <Reis      >
+          <inhalt>Reis im Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Wasser mit dem Reis aufkochen, zugedeckt auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei Deckel nie abheben. Reis mit einer Gabel lockern.</inhalt>
+      </Reis      >
+      <Fertigstellen>
+          <inhalt>Cashew-Nuesse grob hacken, in einer Bratpfanne ohne Fett roesten. Gemuese-Curry mit dem Reis anrichten, Koriander zerzupfen, mit den Nuessen darueberstreuen.</inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

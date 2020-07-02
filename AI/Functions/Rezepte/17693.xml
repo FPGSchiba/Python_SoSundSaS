@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>267 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gewuerzbutter>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmel, zerstossen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Gewuerzbutter>
+      <Mais      >
+          <quant>4 </quant>
+          <zutat>Maiskolben</zutat>
+          <quant>4 Stueck</quant>
+          <zutat>Alufolie</zutat>
+      </Mais      >
+   </einkaufliste>
+   <rezept>
+      <Gewuerzbutter>
+          <inhalt>Gewuerze in eine beschichtete Bratpfanne geben und bei mittlerer Hitze kurz roesten. Butter mit den Schwingbesen des Handruehrgeraets ca. 2 Min. ruehren, Gewuerze und Salz darunterruehren.</inhalt>
+      </Gewuerzbutter>
+      <Mais      >
+          <inhalt>Blaetter der Maiskolben nach oben ziehen, Faeden entfernen. Mais mit der Haelfte der Butter bestreichen, einzeln satt in Alufolie einpacken.</inhalt>
+      </Mais      >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Maiskolben ueber tiefer Glut / auf niedriger Stufe (ca. 180 Grad) ca. 45 Min. grillieren. Aus der Folie nehmen, mit restlicher Butter bestreichen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

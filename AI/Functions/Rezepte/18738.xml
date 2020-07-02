@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>319 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muffin_Teig>
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>120 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rum oder Orangensaft</zutat>
+          <quant>400 g</quant>
+          <zutat>Ananas, in Wuerfeli (ergibt ca. 250 g)</zutat>
+      </Muffin_Teig>
+      <Topping   >
+          <quant>150 g</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>100 g</quant>
+          <zutat>Clotted cream</zutat>
+          <quant>300 g</quant>
+          <zutat>Ananas, in 5 mm dicken Scheiben, geachtelt (ergibt ca. 200 g)</zutat>
+          <quant>30 g</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Muffin_Teig>
+          <inhalt>Butter in eine Schuessel geben, Zucker, Salz und Vanille darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist. Mehl, Kokosflocken und Backpulver mischen, unter die Masse mischen. Rum und Ananaswuerfeli daruntermischen. Teig ins vorbereitete Blech verteilen.</inhalt>
+      </Muffin_Teig>
+      <Backen:   >
+          <inhalt>ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, Blech auf ein Gitter stellen, auskuehlen.</inhalt>
+      </Backen:   >
+      <Topping   >
+          <inhalt>Jogurt und Clotted Cream verruehren, auf den Muffins verteilen. Ananas und Kokosnuss-Streifen darauf verteilen. </inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

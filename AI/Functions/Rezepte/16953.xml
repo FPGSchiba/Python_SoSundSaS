@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>638 kcal</NaehrwertProPerson>
+       <Fett>48 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>130 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+          <quant>130 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>30 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>20 g</quant>
+          <zutat>Maizena</zutat>
+          <quant>4 </quant>
+          <zutat>Schokoladenwuerfel (Fine Food Paves a l'Orange)</zutat>
+      </Teig_     >
+      <Mango     >
+          <quant>1 </quant>
+          <zutat>Mango, halbiert, in feinen Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebe Schale, 1/2 EL Saft</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in feinen Ringen</zutat>
+      </Mango     >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Schokolade in einer duennwandigen Schuessel ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Butter, Zucker und Eier in einer Schuessel gut verruehren, weiterruehren, bis die Masse heller ist. Schokolade unter die Masser ruehren. Maizena dazusieben, mischen. Teig in die vorbereiteten Foermchen fuellen, ca. 15 Min. kuehl stellen. Je eine Praline in den Teig druecken, so dass sie nicht mehr sichtbar ist. </inhalt>
+      </Teig_     >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 210 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus den Foermchen nehmen, sofort servieren.</inhalt>
+      </Backen    >
+      <Mango     >
+          <inhalt>Mango, Zitronenschale und -saft mit der Chili mischen, zu den Kuechlein servieren. </inhalt>
+      </Mango     >
+   </rezept>
+</Rezept>

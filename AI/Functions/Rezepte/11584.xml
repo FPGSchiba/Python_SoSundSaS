@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>408 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>3 1/4 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+      </Teig      >
+      <Backen    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>400 g</quant>
+          <zutat>Lachsfilet (Bio), in Wuerfeln</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, zerzupft</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel, in feinen Ringen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zitronenpfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Mehl, Salz und Hefe in einer Schuessel mischen, Wasser, Oel  und Thymian beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen. </inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>Teig mit wenig Mehl flach druecken, auf ein mit Backpapier belegtes Blech legen. Tomaten auf dem Teig verteilen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>ca. 30 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten</inhalt>
+      </How_To2   >
+      <Backen    >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen, beidseitig je ca. 1 /2 Min. braten, mit Mozzarella und Bundzwiebeln, auf der Foccacia verteilen, wuerzen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

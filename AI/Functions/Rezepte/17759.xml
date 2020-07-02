@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pastateig >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Pastateig >
+      <Fuellung   >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>100 g</quant>
+          <zutat>geschnetzeltes Kalbfleisch</zutat>
+          <quant>100 g</quant>
+          <zutat>geschnetzeltes Schweinefleisch</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlter gehackter Spinat, aufgetaut, abgetropft und ausgedrueckt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rosmarinnadeln, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>20 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+      </Formen    >
+      <Agnolotti_kochen>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>12 </quant>
+          <zutat>Salbeiblaetter</zutat>
+      </Agnolotti_kochen>
+   </einkaufliste>
+   <rezept>
+      <Pastateig >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Eier, Eigelbe und Oel verruehren, beigeben, mischen, zu einem glatten, geschmeidigen Teig kneten. Teig zu einer Kugel formen, unter einer heiss ausgespuelten Schuessel bei Raumtemperatur ca. 30 Min. ruhen lassen.</inhalt>
+      </Pastateig >
+      <Fuellung   >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Fleisch portionenweise je ca. 2 Min. anbraten, herausnehmen, wuerzen. Spinat in dieselbe Pfanne geben, Bratsatz loesen, ca. 3 Min. koecheln bis die Fluessigkeit verdampft ist, auskuehlen. Spinat und Fleisch mit dem Rosmarin im Cutter fein hacken. Ei und Kaese beigeben, kurz mithacken, wuerzen. Masse in einen Spritzssack fuellen, eine kleine Oeffnung abschneiden. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig portionenweise auf wenig Mehl rechteckig ca. 2 mm dick auswallen. Dabei Teig immer wieder von der Arbeitsflaeche loesen. Teig mit dem Teigraedchen laengs in ca. 5 cm breite Streifen schneiden. Fuellung in haselnussgrossen Portionen im Abstand von ca. 4 cm auf eine Seite der Teigstreifen spritzen. Freie Teighaelfte mit wenig Eiweiss bestreichen, ueber die Fuellung legen, an der Laengskante zusammendruecken, dabei eingeschlossene Luft herausdruecken. Im Abstand von je ca. 2 cm mit Daumen und Zeigfinger die einzelnen Agnolotti unterteilen und mit dem Teigraedchen voneinander trennen. Agnolotti auf ein bemehltes Tuch legen. So weiterfahren, bis Teig und Fuellung aufgebraucht sind.</inhalt>
+      </Formen    >
+      <Agnolotti_kochen>
+          <inhalt>Agnolotti im knapp siedenden Salzwasser portionenweise  je ca. 5 Min. ziehen lassen, abtropfen. Butter in einer Pfanne erwaermen, Salbeiblaetter darin knusprig braten. Agnolotti beigeben, mischen, anrichten.</inhalt>
+      </Agnolotti_kochen>
+   </rezept>
+</Rezept>

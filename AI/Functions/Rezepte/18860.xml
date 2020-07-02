@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>86 kcal </NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>120 g</quant>
+          <zutat>Margarine, weich</zutat>
+          <quant>35 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Reissirup</zutat>
+          <quant>130 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>40 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>20 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Haferdrink (Raumtemperatur)</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Aquafaba (Kichererbsenfluessigkeit)</zutat>
+      </Teig      >
+      <Glasur    >
+          <quant>40 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haferdrink</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Margarine, Puderzucker und Reissirup mit den Schwingbesen des Handruehrgeraets verruehren, weiterruehren, bis die Masse heller ist. Mehl und alle Zutaten bis und mit Backpulver mischen, mit dem Haferdrink sorgfaeltig daruntermischen. Aquafaba mit den Schwingbesen des Handruehrgeraetes verruehren, weiterruehren, bis eine feste Masse entsteht. Sorgfaeltig unter den Teig mischen.</inhalt>
+      </Teig      >
+      <Baerentatzen_formen>
+          <inhalt>Teig in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Durchmesser) fuellen, ca. 25 Baerentatzen mit genuegend Abstand auf ein mit Backpapier belegtes Blech spritzen.</inhalt>
+      </Baerentatzen_formen>
+      <Backen    >
+          <inhalt>Ca. 10 Min. auf der untersten Rille des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen.</inhalt>
+      </Backen    >
+      <Glasur    >
+          <inhalt>Puderzucker und Haferdrink gut verruehren. Die noch warmen Baerentatzen bestreichen, trocknen lassen.</inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

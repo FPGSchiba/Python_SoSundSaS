@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>358 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce_    >
+          <quant>4 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>5 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+      </Sauce_    >
+      <Pasta_    >
+          <quant>100 g</quant>
+          <zutat>Teigwaren (z.B. Fregola Sarda)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Pasta_    >
+      <Salat_    >
+          <quant>800 g</quant>
+          <zutat>Wassermelone (ergibt ca. 550 g), in ca. 2 cm dicken Stuecken</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>30 g</quant>
+          <zutat>Landkresse</zutat>
+      </Salat_    >
+   </einkaufliste>
+   <rezept>
+      <Sauce_    >
+          <inhalt>Essig und Oel verruehren, Pfefferminze daruntermischen, wuerzen. 2 EL beiseite stellen. </inhalt>
+      </Sauce_    >
+      <Pasta_    >
+          <inhalt>Teigwaren im siedenden Salzwasser al dente kochen, abtropfen, mit kaltem Wasser abspuelen, mit der Sauce mischen.</inhalt>
+      </Pasta_    >
+      <Salat_    >
+          <inhalt>Wassermelone mit den Teigwaren, dem Feta und Landkresse anrichten. Beiseite gestellte Sauce daruebertraeufeln. </inhalt>
+      </Salat_    >
+   </rezept>
+</Rezept>

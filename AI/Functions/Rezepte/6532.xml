@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>792 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Involtini >
+          <quant>8 </quant>
+          <zutat>Kalbsplaetzli (z.B. Nuss, je ca. 80 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Rohschinken</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>8 </quant>
+          <zutat>Zahnstocher</zutat>
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Involtini >
+      <Safran-Risotto>
+          <quant>1/2 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Butter</zutat>
+          <quant>200 g</quant>
+          <zutat>Risottoreis (z.B. Carnaroli)</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Safran</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>30 g</quant>
+          <zutat>Parmesan</zutat>
+      </Safran-Risotto>
+      <Gemuese    >
+          <quant>2 </quant>
+          <zutat>Zucchetti</zutat>
+          <quant>4 </quant>
+          <zutat>Tomaten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Zucker</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Involtini                     </inhalt>
+      </How_To    >
+      <Involtini >
+          <inhalt>Plaetzli flach klopfen, auf einer Seite wuerzen, wenden.</inhalt>
+      </Involtini >
+      <How_To1   >
+          <inhalt>Frischkaese auf die Plaetzli streichen, dabei ringsum einen ca. 1 cm breiten Rand frei lassen. Je eine Scheibe Schinken und ca. 3 Basilikumblaetter darauf legen. Plaetzli satt aufrollen, mit Zahnstocher fixieren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen, Involtini rundum ca. 6 Min. braten. Weiﬂwein dazugiessen, Bratensatz loesen, zugedeckt ca. 5 Min. koecheln lassen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Zwiebel und Knoblauch fein hacken. Olivenoel und Butter in einer Pfanne warm werden lassen, Zwiebel und Knoblauch kurz andaempfen. Reis beigeben, unter gelegentlichem Ruehren duensten, bis er glasig ist</inhalt>
+      </How_To3   >
+      <Safran-Risotto>
+          <inhalt>Gemuese                        </inhalt>
+      </Safran-Risotto>
+      <Gemuese    >
+          <inhalt>Oel in einer Pfanne warm werden lassen, Zucchetti beigeben, ca. 3 Min. andaempfen. Tomaten beigeben, ca. 1 Min. mitdaempfen, wuerzen.</inhalt>
+      </Gemuese    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+</Rezept>

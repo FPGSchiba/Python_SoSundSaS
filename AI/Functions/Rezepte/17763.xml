@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>366 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linsen    >
+          <quant>250 g</quant>
+          <zutat>gruene Linsen</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Linsen    >
+      <Gemuese    >
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, fein gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Champignons, in Vierteln</zutat>
+          <quant>200 g</quant>
+          <zutat>Stangensellerie, in feinen Scheiben</zutat>
+      </Gemuese    >
+      <Salatsauce>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Salatsauce>
+      <Salat_    >
+          <quant>1 Bund</quant>
+          <zutat>Radiesli mit dem Gruen, in Vierteln, Gruen fein geschnitten</zutat>
+          <quant>80 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+      </Salat_    >
+   </einkaufliste>
+   <rezept>
+      <Linsen    >
+          <inhalt>Linsen im siedenden Salzwasser ca. 25 Min. kochen, abtropfen. </inhalt>
+      </Linsen    >
+      <Gemuese    >
+          <inhalt>Oel in einer beschichteten Bratpfanne erwaermen. Zwiebel kurz andaempfen, Champignons und Stangensellerie beigeben, ca. 5 Min. mitdaempfen. </inhalt>
+      </Gemuese    >
+      <Salatsauce>
+          <inhalt>Limettensaft, Oel, Honig und Ingwer verruehren, salzen. </inhalt>
+      </Salatsauce>
+      <Salat_    >
+          <inhalt>Linsen, Gemuese, Radiesli, Radiesligruen und Granatapfelkerne in die Salatsauce geben, mischen.  </inhalt>
+      </Salat_    >
+   </rezept>
+</Rezept>

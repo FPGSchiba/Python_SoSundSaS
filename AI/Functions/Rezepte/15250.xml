@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>593 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pesto     >
+          <quant>30 g</quant>
+          <zutat>Baerlauch</zutat>
+          <quant>10 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>20 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Pesto     >
+      <Pasta     >
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Tagliatelle)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, laengs in feine Streifen gehobelt</zutat>
+          <quant>200 g</quant>
+          <zutat>weisse Spargeln, geschaelt, laengs in feine Streifen gehobelt</zutat>
+      </Pasta     >
+   </einkaufliste>
+   <rezept>
+      <Pesto     >
+          <inhalt>Baerlauch mit allen Zutaten bis und mit Salz puerieren. </inhalt>
+      </Pesto     >
+      <Pasta     >
+          <inhalt>Tagliatelle im Salzwasser knapp al dente kochen, waehrend den letzten 2 Min. Spargeln beigeben. Tagliatelle und Spargeln abtropfen, dabei ca. 1/2 dl Kochwasser auffangen, beiseite stellen. </inhalt>
+      </Pasta     >
+      <Servieren >
+          <inhalt>Beiseite gestelltes Kochwasser, Spargel-Tagliatelle und Pesto mischen. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

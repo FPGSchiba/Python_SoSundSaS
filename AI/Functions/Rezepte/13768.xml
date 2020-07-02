@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>522 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Randen    >
+          <quant>70 g</quant>
+          <zutat>Randen, geschaelt</zutat>
+      </Randen    >
+      <Marinade  >
+          <quant>1 </quant>
+          <zutat>Orange (klein), nur der Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone (klein), nur der Saft</zutat>
+          <quant>30 ml</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+      </Marinade  >
+      <Garnitur  >
+          <quant>1 </quant>
+          <zutat>rote Zwiebel (klein)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pekannuesse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker (z.B. MUSCOVADO)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce (z.B. TAMARI)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Randen                        </inhalt>
+      </How_To    >
+      <Randen    >
+          <inhalt>Marinade                      </inhalt>
+      </Randen    >
+      <Marinade  >
+          <inhalt>Garnitur                      </inhalt>
+      </Marinade  >
+      <Garnitur  >
+          <inhalt>Mischung und der Petersilie garnieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

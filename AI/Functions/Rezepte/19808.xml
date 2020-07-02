@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>126 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>4 EL</quant>
+          <zutat>Obstessig (z.B. Orangenessig)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>geroesteter Sesam</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Salat     >
+          <quant>1 </quant>
+          <zutat>Gurke, in duennen Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli, in duennen Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Kohlrabi, in Streifchen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, Blaettchen abgezupft</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Essig, Oel, Honig, Pfefferminze und Sesam in einer Schuessel verruehren, wuerzen. </inhalt>
+      </Sauce     >
+      <Salat     >
+          <inhalt>Gemuese salzen, auf einer Platte anrichten. Koriander darueberstreuen, Sauce daruebertraeufeln. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

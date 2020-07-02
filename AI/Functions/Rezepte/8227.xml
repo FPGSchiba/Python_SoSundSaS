@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>757 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Broccoli (ca. 700 g), in Roeschen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>5 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>300 g</quant>
+          <zutat>mittelfeiner Maisgriess (4 Min.)</zutat>
+          <quant>200 g</quant>
+          <zutat>Bergkaese, gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>3 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Ringen</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter erwaermen, Knoblauch und Broccoli ca. 5 Min. andaempfen, salzen. Wasser dazugiessen, zugedeckt ca. 5 Min. koecheln, herausnehmen. Bouillon und Milch in derselben Pfanne aufkochen, Maisgriess einruehren, unter Ruehren bei kleinster Hitze ca. 2 Min. koecheln. Gemuese wieder beigeben, Polenta ca. 2 Min. zu einem dicken Brei fertig koecheln. Kaese daruntermischen, wuerzen. Mehl und Muskat mischen. Zwiebeln darin wenden, ueberschuessiges Mehl abschuetteln. Butter in einer beschichteten Bratpfanne erwaermen, Zwiebelringe portionenweise bei mittlerer Hitze ca. 6 Min. knusprig braten, salzen. Auf Haushaltpapier abtropfen. Polenta anrichten, Zwiebelringe und Petersilie darauf verteilen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>665 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Delicorn Gehacktes</zutat>
+          <quant>1/4 </quant>
+          <zutat>roter Peperoncino, in Streifchen</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>Old El Paso Wuerzmischung fuer Tacos</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>milder Paprika</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 </quant>
+          <zutat>Avocado, in Wuerfeli</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Koriander, geschnitten</zutat>
+          <quant>6 </quant>
+          <zutat>Taco Shells (Tacos in Schalenform)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in beschichteter Bratpfanne heiss werden lassen, Delicorn Gehacktes ca. 2 Min. anbraten, Peperoncini und Schalotten beigeben, ca. 2 Min. mitbraten.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Tomatenpueree, Wuerzmischung, Paprika und Wasser daruntermischen, aufkochen. Avocado und Koriander beigeben, heiss werden lassen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fuellung in die Taco Shells verteilen.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

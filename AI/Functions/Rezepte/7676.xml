@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>574 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gratin    >
+          <quant>1 kg</quant>
+          <zutat>mehlig kochende Kartoffeln, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>300 g</quant>
+          <zutat>Lauch, laengs halbiert, in feinen Streifen</zutat>
+          <quant>20 g</quant>
+          <zutat>getrocknete Steinpilze, in Wasser eingeweicht, abgetropft</zutat>
+          <quant>120 g</quant>
+          <zutat>Gruyere, grob gerieben</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gratin    >
+      <Salat     >
+          <quant>1 1/2 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kuerbiskernoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Mohn, geroestet</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>150 g</quant>
+          <zutat>Blattsalat (z.B. Frisee), in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kuerbiskerne</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gratin                        </inhalt>
+      </How_To    >
+      <Gratin    >
+          <inhalt>Gratinieren: ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Gratin    >
+      <Salat     >
+          <inhalt>Essig und alle Zutaten bis und mit Pfeffer gut verruehren. Blattsalat kurz vor dem Servieren mit der Sauce mischen, anrichten. Kuerbiskerne darueberstreuen. Salat zum Gratin servieren.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

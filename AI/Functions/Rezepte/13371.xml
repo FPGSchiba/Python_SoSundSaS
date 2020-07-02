@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>393 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bulgur_   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Bulgur</zutat>
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Bulgur_   >
+      <Sauce_    >
+          <quant>1 </quant>
+          <zutat>Nektarine, in Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Essig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce_    >
+      <Bohnen_und_Nektarinen>
+          <quant>300 g</quant>
+          <zutat>Bohnen, in ca. 2 cm langen Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>2 </quant>
+          <zutat>Nektarinen, in feinen Schnitzen</zutat>
+      </Bohnen_und_Nektarinen>
+      <Servieren >
+          <quant>2 EL</quant>
+          <zutat>Baumnuesse, grob gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thai-Basilikum, grob geschnitten</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Bulgur_   >
+          <inhalt>Oel in einer Pfanne warm werden lassen, Zwiebel andaempfen. Bulgur beigeben, unter Ruehren ca. 2 Min. duensten. Bouillon dazugiessen, ca. 15 Min. zugedeckt koecheln. Pfanne von der Platte nehmen, ca. 5 Min. quellen lassen. </inhalt>
+      </Bulgur_   >
+      <Sauce_    >
+          <inhalt>Nektarine mit den restlichen Zutaten puerieren. </inhalt>
+      </Sauce_    >
+      <Bohnen_und_Nektarinen>
+          <inhalt>Bohnen im Salzwasser ca. 6 Min. knapp weich kochen, abtropfen, kalt abspuelen, abtropfen. Bohnen, Bulgur, Nektarinen mit der Sauce mischen. </inhalt>
+      </Bohnen_und_Nektarinen>
+      <Servieren >
+          <inhalt>Nuesse in einer Bratpfanne ohne Fett ca. 5 Min. hellbraun roesten, herausnehmen. Mit dem Basilikum auf dem Salat verteilen. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

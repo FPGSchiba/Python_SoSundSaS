@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>353 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>2 </quant>
+          <zutat>Lammracks (je ca. 400 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch   >
+      <Gemuese    >
+          <quant>1 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Noilly Prat</zutat>
+          <quant>einige </quant>
+          <zutat>Safranfaeden</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>schwarzer Pfeffer</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>600 g</quant>
+          <zutat>Fenchel, laengs in ca. 1 cm dicken Scheiben</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Niedergaren: ca. 1 1/2 Std. in der Mitte des Ofens. Die Kerntemperatur soll ca. 55 Grad betragen. Das Fleisch kann anschliessen bei 60 Grad bis zu 30 Min. warm gehalten werden.</inhalt>
+      </Fleisch   >
+      <Gemuese    >
+          <inhalt>Bouillon und alle Zutaten bis und mit Salz in einer weiten Bratpfanne aufkochen. Gemuese beigeben, zugedeckt ca. 15 Min. koecheln, dabei das Gemuese 2-3-mal wenden. </inhalt>
+      </Gemuese    >
+   </rezept>
+</Rezept>

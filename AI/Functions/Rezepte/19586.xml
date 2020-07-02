@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>555 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>48 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese_und_Fruechte>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie</zutat>
+      </Gemuese_und_Fruechte>
+      <One_Pot   >
+          <quant>4 </quant>
+          <zutat>Pouletbruestli</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>milder Curry</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>250 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant>330 g</quant>
+          <zutat>Ananaswuerfel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>4 </quant>
+          <zutat>Pouletbruestli</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>milder Curry</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>250 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant>330 g</quant>
+          <zutat>Ananaswuerfel</zutat>
+      </One_Pot   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemuese und Fruechte            </inhalt>
+      </How_To    >
+      <Gemuese_und_Fruechte>
+          <inhalt>One Pot                       </inhalt>
+      </Gemuese_und_Fruechte>
+      <One_Pot   >
+          <inhalt>                              </inhalt>
+      </One_Pot   >
+   </rezept>
+</Rezept>

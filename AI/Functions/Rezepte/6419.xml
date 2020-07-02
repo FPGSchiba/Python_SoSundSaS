@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>408 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bohnentopf>
+          <quant>100 g</quant>
+          <zutat>Red Kidney Bohnen ca. 12 Std. eingeweicht, abgetropft</zutat>
+          <quant>100 g</quant>
+          <zutat>Kichererbsen ca. 12 Std. eingeweicht, abgetropft</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>2 </quant>
+          <zutat>gelbe Peperoni, laengs in Vierteln, quer in ca. 1 cm breiten Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, in ca. 2 cm grossen Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, grob gehackt</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Bohnentopf>
+      <Nachos    >
+          <quant>100 g</quant>
+          <zutat>Mais-Tortillas</zutat>
+          <quant>100 g</quant>
+          <zutat>Tilsiter, grob gerieben</zutat>
+      </Nachos    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bohnentopf                    </inhalt>
+      </How_To    >
+      <Bohnentopf>
+          <inhalt>Nachos                        </inhalt>
+      </Bohnentopf>
+      <Nachos    >
+          <inhalt>Backen: ca. 5 Min. in der oberen Haelfte des auf 220 Grad vorgeheizten Ofens. Kaese-Nachos sofort zum Bohnentopf servieren.</inhalt>
+      </Nachos    >
+   </rezept>
+</Rezept>

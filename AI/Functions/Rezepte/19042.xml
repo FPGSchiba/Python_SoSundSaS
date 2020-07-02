@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>118 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Truffes-Masse>
+          <quant>70 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Muskat</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>30 g</quant>
+          <zutat>vegane, dunkle Schokolade, fein gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Reissirup (oder Ahornsirup)</zutat>
+      </Truffes-Masse>
+      <Truffes_formen>
+          <quant>2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Truffes_formen>
+   </einkaufliste>
+   <rezept>
+      <Truffes-Masse>
+          <inhalt>Kakao und alle Zutaten bis und mit Salz in einer Schuessel mischen. Schokolade, Kokosoel und Reissirup in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht direkt beruehren. Schokolade unter Ruehren schmelzen, glatt ruehren, zu den Gewuerzen geben, glattruehren. Zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Truffes-Masse>
+      <Truffes_formen>
+          <inhalt>Masse in 8 gleich grosse Portionen teilen, zu Kugeln formen, auf ein Backpapier legen, nochmals ca. 30 Min. kuehl stellen. Truffes im Kakao wenden.</inhalt>
+      </Truffes_formen>
+   </rezept>
+</Rezept>

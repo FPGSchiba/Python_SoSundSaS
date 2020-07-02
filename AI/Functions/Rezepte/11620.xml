@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>348 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Red Kidney Bohnen (getrocknet), ca. 12 Std. eingeweicht, abgetropft</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, in Wuerfeln</zutat>
+          <quant>200 g</quant>
+          <zutat>Feta, in Wuerfeli</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>4 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bohnen im Wasser ca. 40 Min. weich kochen, abtropfen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bohnen und alle Zutaten bis und mit Oel mischen, wuerzen. </inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

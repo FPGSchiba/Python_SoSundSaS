@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>126 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>5 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 TL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>400 g</quant>
+          <zutat>Weisskabis, geviertelt, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein geschnitten</zutat>
+      </Teig      >
+      <Sauce     >
+          <quant>50 g</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sriracha-Sauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+      </Sauce     >
+      <Braten    >
+          <quant>1 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Braten    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Eier, Sojasauce, Oel und Salz gut verruehren. Mehl und Maizena mischen, darunterruehren. Kabis und Bundzwiebel daruntermischen. </inhalt>
+      </Teig      >
+      <Sauce     >
+          <inhalt>Mayonnaise mit Sojasauce, Sriracha-Sauce und Ingwer verruehren. </inhalt>
+      </Sauce     >
+      <Braten    >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Teig portionenweise in die Pfanne geben, zu Pancakes von ca. 8 cm ø formen. Pancakes beidseitig je ca. 3 Min. knusprig braten, warm stellen. Sauce dazu servieren. </inhalt>
+      </Braten    >
+   </rezept>
+</Rezept>

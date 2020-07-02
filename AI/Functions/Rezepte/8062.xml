@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>382 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet_   >
+          <quant> </quant>
+          <zutat>Erdnussoel zum Anbraten</zutat>
+          <quant>1 1/5 kg</quant>
+          <zutat>Pouletschenkel, halbiert, ohne Haut</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Poulet_   >
+      <Sauce_    >
+          <quant>1/2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Paprika edelsuess</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Paprika zum Bestreuen</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <Poulet_   >
+          <inhalt>Oel in beschichteter Bratpfanne heiss werden lassen. Poulet bei mittlerer Hitze rundum ca. 10 Min. anbraten, herausnehmen, salzen. Bratfett mit Haushaltpapier auftupfen. </inhalt>
+      </Poulet_   >
+      <Sauce_    >
+          <inhalt>Oel in derselben Pfanne warm werden lassen. Zwiebeln ca. 3 Min. andaempfen, Paprika kurz mitdaempfen, Tomatenpueree beigeben, ca. 1 Min. weiterdaempfen. Bouillon und Wein dazugiessen, aufkochen, Hitze reduzieren. Poulet wieder beigeben, zugedeckt bei mittlerer Hitze ca. 20 Min. koecheln. Poulet herausnehmen, Sauce puerieren, in die Pfanne zurueckgiessen. Saucenhalbrahm und Zitronensaft darunterruehren, Poulet wieder beigeben, nur noch heiss werden lassen, salzen, mit Paprika bestreuen.</inhalt>
+      </Sauce_    >
+   </rezept>
+</Rezept>

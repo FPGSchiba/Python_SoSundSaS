@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>515 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ravioli-Teig_>
+          <quant>350 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+      </Ravioli-Teig_>
+      <Fuellung_  >
+          <quant> </quant>
+          <zutat>Rapsoel zum Braten</zutat>
+          <quant>150 g</quant>
+          <zutat>Fenchel, fein geschnitten</zutat>
+          <quant>60 g</quant>
+          <zutat>Mostbroeckli, fein geschnitten</zutat>
+          <quant>50 g</quant>
+          <zutat>Bergkaese, fein gerieben</zutat>
+          <quant>50 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung_  >
+      <Ravioli   >
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>100 g</quant>
+          <zutat>Fenchel, in Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Aprikosen, in Wuerfeli</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Majoranblaettchen</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Ravioli   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ravioli-Teig                  </inhalt>
+      </How_To    >
+      <Ravioli-Teig_>
+          <inhalt>Fuellung                       </inhalt>
+      </Ravioli-Teig_>
+      <Fuellung_  >
+          <inhalt>Ravioli formen &amp; kochen   </inhalt>
+      </Fuellung_  >
+      <Ravioli_formen_&amp;_kochen>
+          <inhalt>Ravioli                       </inhalt>
+      </Ravioli_formen_&amp;_kochen>
+      <Ravioli   >
+          <inhalt>Fenchel, Aprikosen, Oel und Majoranblaettchen mischen, ueber den Ravioli servieren, salzen. </inhalt>
+      </Ravioli   >
+   </rezept>
+</Rezept>

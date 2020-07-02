@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>66 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Limetten-Nektarinen-Basis>
+          <quant>10 </quant>
+          <zutat>Limetten, heiss abgespuelt, trocken getupft</zutat>
+          <quant>100 g</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>300 g</quant>
+          <zutat>Nektarinen, in Schnitzen</zutat>
+          <quant>2 dl</quant>
+          <zutat>weisser Rum (z.B. Cachaça oder Bacardi)</zutat>
+      </Limetten-Nektarinen-Basis>
+      <Bowle     >
+          <quant>7 1/2 dl</quant>
+          <zutat>Ginger Ale </zutat>
+          <quant>5 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Bowle     >
+   </einkaufliste>
+   <rezept>
+      <Limetten-Nektarinen-Basis>
+          <inhalt>Limetten achteln, mit dem Zucker in zwei Kruege geben. Mit einem Stoessel oder einer Kochkelle zerdruecken. Nektarinen und Rum beigeben, zugedeckt im Kuehlschrank ca. 30 Min. ziehen lassen. </inhalt>
+      </Limetten-Nektarinen-Basis>
+      <Bowle     >
+          <inhalt>Ginger Ale und Mineralwasser dazugiessen, mit Eiswuerfeln auffuellen, sofort servieren. </inhalt>
+      </Bowle     >
+   </rezept>
+</Rezept>

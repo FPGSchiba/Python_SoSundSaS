@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>178 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Zucchetti (z.B. gruen und gelb), in ca. 5 mm dicken Scheiben</zutat>
+          <quant>30 g</quant>
+          <zutat>Pinienkerne</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, grob geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, grob geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Zucchetti unter gelegentlichem Wenden ca. 10 Min. anbraten.  Restliche Zutaten beigeben, ca. 5 Min. fertig braten. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

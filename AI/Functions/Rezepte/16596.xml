@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>312 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe_    >
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen, Gruen beiseite gestellt</zutat>
+          <quant>500 g</quant>
+          <zutat>Rueebli, in Scheibchen</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 150 g), abgetropft</zutat>
+          <quant>2 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit)</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>rote Currypaste</zutat>
+          <quant>1 1/4 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kurkuma</zutat>
+      </Suppe_    >
+      <Garnitur  >
+          <quant>40 g</quant>
+          <zutat>gesalzene Erdnuesse</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, in feinen Ringen</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Suppe_    >
+          <inhalt>Oel in einer Pfanne erwaermen. Bundzwiebel kurz andaempfen. Rueebli, Mais, Kaffirlimetten-Blaetter und Currypaste beigeben, kurz mitdaempfen. Bouillon und Kokosmilch dazugiessen, Kurkuma beigeben, aufkochen. Hitze reduzieren, zugedeckt ca. 30 Min. kochen. Kaffirlimetten-Blaetter entfernen, Suppe puerieren. </inhalt>
+      </Suppe_    >
+      <Garnitur  >
+          <inhalt>Suppe in Schalen anrichten. Beiseite gestelltes Bundzwiebelgruen, Erdnuesse, Koriander und Chili auf der Suppe verteilen.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

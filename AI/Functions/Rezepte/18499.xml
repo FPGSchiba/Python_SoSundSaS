@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>153 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>500 g</quant>
+          <zutat>Zwetschgen, entsteint, in Wuerfeli (ergibt ca. 400 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Fuellung   >
+      <Teigrollen_formen>
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, fluessig, abgehuehlt</zutat>
+      </Teigrollen_formen>
+      <Jogurtsauce>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>wenig </quant>
+          <zutat>Zimt zum Bestreuen</zutat>
+      </Jogurtsauce>
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Zwetschgen, Ingwer und Honig mischen.</inhalt>
+      </Fuellung   >
+      <Teigrollen_formen>
+          <inhalt>Den Teig sorgfaeltig auseinanderfalten, zwei Teigblaetter mit Butter bestreichen, je ein zweites Teigblatt drauflegen, je laengs vierteln. Fuellung in die Mitte der Teigstuecke verteilen, aufrollen, Enden etwas zusammendruecken, mit dem Verschluss nach unten auf ein mit Backpapier belegtes Blech legen, mit der restlichen Butter bestreichen.</inhalt>
+      </Teigrollen_formen>
+      <Backen    >
+          <inhalt>ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen etwas abkuehlen.</inhalt>
+      </Backen    >
+      <Jogurtsauce>
+          <inhalt>Jogurt mit Puderzucker und Zitronensaft verruehren. Zu den Zwetschgenrollen servieren, mit etwas Zimt bestreuen.</inhalt>
+      </Jogurtsauce>
+   </rezept>
+</Rezept>

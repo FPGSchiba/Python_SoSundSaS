@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>169 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dip       >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>scharfer Curry</zutat>
+          <quant>1 TL</quant>
+          <zutat>Koriander</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Suesskartoffel mit der Schale (ca. 200 g), laengs halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trockengetupft, abgeriebene Schale und 1 TL Saft</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+      </Dip       >
+      <Crevetten >
+          <quant>8 </quant>
+          <zutat>rohe bis auf das Schwanzende geschaelte Riesencrevetten (Bio) (ca. 300 g)</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras , laengs halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Crevetten >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Dip                           </inhalt>
+      </How_To    >
+      <Dip       >
+          <inhalt>Oel und alle Zutaten bis und mit Salz verruehren, auf 2 Stuecke Alufolie geben. Kartoffeln mit der Schnittflaeche nach unten darauflegen, gut mit der Folie einpacken.</inhalt>
+      </Dip       >
+      <How_To1   >
+          <inhalt>Kartoffeln auskuehlen, mit einem Loeffel aus der Schale loesen, mit 1/2 Limettenschale, Limettensaft, und saurem Halbrahm puerieren.</inhalt>
+      </How_To1   >
+      <Crevetten >
+          <inhalt>Crevetten mit einem Zahnstocher in der Mitte durchstechen, an die Zitronengrasstaengel stecken, mit Salz und restlicher Limettenschale wuerzen. Crevetten ueber starker Glut oder hoechster Stufe (ca. 240 Grad) offen beidseitig je ca. 2 Min. grillieren, mit dem Dip servieren.</inhalt>
+      </Crevetten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

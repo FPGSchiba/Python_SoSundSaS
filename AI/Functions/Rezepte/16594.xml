@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>194 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marronimehl_>
+          <quant>300 g</quant>
+          <zutat>tiefgekuehlte geschaelte Marroni, aufgetaut</zutat>
+      </Marronimehl_>
+      <Teig_     >
+          <quant>150 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 TL</quant>
+          <zutat>Trockenhefe  (ca. 7 g)</zutat>
+          <quant>2 3/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+      </Teig_     >
+      <Formen_   >
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+      </Formen_   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Marronimehl                   </inhalt>
+      </How_To    >
+      <Marronimehl_>
+          <inhalt>Marroni auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Marronimehl_>
+      <How_To1   >
+          <inhalt>Roesten: ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens, herausnehmen, auskuehlen. 60 g davon grob hacken, beiseite stellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Teig                          </inhalt>
+      </How_To2   >
+      <Teig_     >
+          <inhalt>Teig mit einem Teighorn von vier Seiten her vom Schuesselrand loesen, in der Schuessel hochziehen und in die Mitte fallen lassen. Teig nochmals zugedeckt ca. 20 Min. aufgehen lassen. Diesen Vorgang 2-mal wiederholen. </inhalt>
+      </Teig_     >
+      <Formen_   >
+          <inhalt>Backblech in die Mitte des Ofens schieben. Ofen auf 240 Grad vorheizen. Teig auf eine gut bemehlte Arbeitsflaeche geben, Teig halbieren und je ein laengliches Baguette formen. Baguettes auf ein Backpapier legen, mit einem scharfen Messer ca. 3-mal schraeg einschneiden, auf das heisse Backblech ziehen. </inhalt>
+      </Formen_   >
+      <Backen_   >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 240 Grad vorgeheizten Ofens. Hitze auf 200 Grad reduzieren und ca.10 Min. fertig backen. Baguettes herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>322 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorteig   >
+          <quant>30 g</quant>
+          <zutat>Sauerteig Starterkultur</zutat>
+          <quant>50 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Vorteig   >
+      <Teig      >
+          <quant>3 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>250 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+      </Teig      >
+      <Nuesse_&amp;_Trockenfruechte>
+          <quant>100 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>80 g</quant>
+          <zutat>Datteln, halbiert, entsteint</zutat>
+          <quant>80 g</quant>
+          <zutat>Doerrfeigen, in Streifen</zutat>
+      </Nuesse_&amp;_Trockenfruechte>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vorteig                       </inhalt>
+      </How_To    >
+      <Vorteig   >
+          <inhalt>Teig                          </inhalt>
+      </Vorteig   >
+      <Teig      >
+          <inhalt>Nuesse &amp; Trockenfruechte    </inhalt>
+      </Teig      >
+      <Nuesse_&amp;_Trockenfruechte>
+          <inhalt>Backen                        </inhalt>
+      </Nuesse_&amp;_Trockenfruechte>
+      <Backen    >
+          <inhalt>Teig mit Mehl bestaeuben, zugedeckt ca. 20 Min. backen. Deckel entfernen, ca. 25 Min. fertig backen. Herausnehmen, Brot aus dem Brattopf nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

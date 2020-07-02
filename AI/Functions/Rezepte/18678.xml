@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>101 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Zuckersirup_>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+      </Zuckersirup_>
+      <Mocktail_ >
+          <quant>4 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel, crushed</zutat>
+          <quant>5 dl</quant>
+          <zutat>Ginger Ale </zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Zitronensaft</zutat>
+      </Mocktail_ >
+   </einkaufliste>
+   <rezept>
+      <Zuckersirup_>
+          <inhalt>Wasser mit dem Zucker und Zitronensaft in einer Pfanne aufkochen. Pfefferminze beigeben, koecheln bis sich der Zucker aufgeloest hat, auskuehlen. Pfefferminze herausnehmen. </inhalt>
+      </Zuckersirup_>
+      <Mocktail_ >
+          <inhalt>Zuckersirup, Pfefferminze und Crushed Ice in die Glaeser verteilen. Ginger Ale und Zitronensaft dazugiessen.</inhalt>
+      </Mocktail_ >
+   </rezept>
+</Rezept>

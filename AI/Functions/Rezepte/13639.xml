@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>518 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in feinen Streifen</zutat>
+          <quant>4 Stueck</quant>
+          <zutat>rote Peperoni (ca 500 g), in Streifen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 EL</quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suppe     >
+      <Servieren >
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>200 g</quant>
+          <zutat>Brot (z.B. Pagnolbrot mit Oliven, in Scheiben)</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel in einer Pfanne warm werden lassen. Zwiebel und Peperoni andaempfen. Wein und Bouillon dazugiessen, Dukkah beigeben, aufkochen. Hitze reduzieren, zugedeckt ca. 20 Min. weich koecheln. Suppe puerieren, wuerzen.</inhalt>
+      </Suppe     >
+      <Servieren >
+          <inhalt>Suppe mit Creme fraiche garnieren, Brot dazu servieren</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

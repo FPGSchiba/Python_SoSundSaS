@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>308 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Croutons  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>50 g</quant>
+          <zutat>Brot, in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+      </Croutons  >
+      <Salat     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 </quant>
+          <zutat>Baby-Salate, in Schnitzen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Salat     >
+      <Dressing  >
+          <quant>2 TL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 EL</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dressing  >
+      <Fertigstellen>
+          <quant>1 </quant>
+          <zutat>Gurke, in Scheiben</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Dill, zerzupft</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Pfefferminze, zerzupft</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie, zerzupft</zutat>
+          <quant>110 g</quant>
+          <zutat>Tete de Moine Rosetten</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Croutons  >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Brot und Sonnenblumenkerne unter gelegentlichem Ruehren ca. 3 Min. goldbraun roesten, beiseite stellen. </inhalt>
+      </Croutons  >
+      <Salat     >
+          <inhalt>Oel in derselben Pfanne erhitzen. Salat beidseitig kurz anbraten, salzen. </inhalt>
+      </Salat     >
+      <Dressing  >
+          <inhalt>Senf und alle Zutaten bis und mit Buttermilch gut verruehren, wuerzen.</inhalt>
+      </Dressing  >
+      <Fertigstellen>
+          <inhalt>Gurken und Kraeuter mischen, mit dem Salat und dem Kaese auf einer Platte anrichten. Beiseite gestellte Croutons darueberstreuen, Dressing daruebertraeufeln.</inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

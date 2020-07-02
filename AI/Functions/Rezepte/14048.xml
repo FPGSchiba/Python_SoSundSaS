@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>581 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>61 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Braten_fuellen>
+          <quant>2 kg</quant>
+          <zutat>Rindsbraten (z.B. Hohruecken)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>200 g</quant>
+          <zutat>Gruyere, in ca. 5 mm dicken in Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oreganoblaettchen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Braten_fuellen>
+      <Binden    >
+          <quant>6 Stueck</quant>
+          <zutat>Kuechenschnur (je ca. 50 cm)</zutat>
+      </Binden    >
+      <Schmoren  >
+          <quant> </quant>
+          <zutat>Oel, zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Scheiben</zutat>
+          <quant>400 g</quant>
+          <zutat>Knollensellerie, in Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>20 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+      </Schmoren  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Braten fuellen                 </inhalt>
+      </How_To    >
+      <Braten_fuellen>
+          <inhalt>Braten ca. 4-mal laengs einschneiden, sodass er noch zusammenhaelt, Einschnitte mit Senf bestreichen. Gruyere und Kraeuter in die Einschnitte verteilen, Braten wuerzen.</inhalt>
+      </Braten_fuellen>
+      <Binden    >
+          <inhalt>Schnurstuecke auf ein Brett legen, Braten darauflegen, mit der Schnur binden.</inhalt>
+      </Binden    >
+      <Schmoren  >
+          <inhalt>Wenig Oel im Brattopf heiss werden lassen. Fleisch rundum ca. 5 Min. anbraten, herausnehmen,  Zwiebel, Knoblauch, Rueebli und Sellerie  andaempfen, Tomatenpueree kurz mitdaempfen. Wein dazugiessen, vollstaendig einkochen. Zucker und Lorbeer  beigeben, Bouillon dazugiessen, aufkochen, Hitze reduzieren. Fleisch wieder beigeben. Schmoren: zugedeckt  ca. 1 1/2 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens. </inhalt>
+      </Schmoren  >
+      <Sauce_    >
+          <inhalt>Fleisch und Gemuese herausnehmen, zugedeckt beiseite stellen, Schmorfluessigkeit in eine Pfanne giessen, auf ca. die Haelfte einkochen. Fleisch tranchieren, mit Gemuese und Sauce servieren.</inhalt>
+      </Sauce_    >
+   </rezept>
+</Rezept>

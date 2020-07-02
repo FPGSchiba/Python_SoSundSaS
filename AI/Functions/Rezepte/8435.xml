@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>246 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>1 dl</quant>
+          <zutat>Fischfond</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weisswein</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Dorschfilets Royal (MSC) (je ca. 160 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fill_Header>
+      <Kruste    >
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>ungesalzene Pistazien</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Kerbel, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kruste    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fischfond und Wein in die Form geben, wuerzen. Fischfilets salzen, in die Form legen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Kruste                        </inhalt>
+      </How_To1   >
+      <Kruste    >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Kruste    >
+   </rezept>
+</Rezept>

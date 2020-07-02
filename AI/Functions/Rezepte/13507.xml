@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>112 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Masse     >
+          <quant>4 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>4 EL</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eiweisse, steif geschlagen</zutat>
+      </Masse     >
+   </einkaufliste>
+   <rezept>
+      <Masse     >
+          <inhalt>Eigelbe mit dem Frischkaese verruehren. Backpulver, Petersilie und Salz beigeben gut mischen. Eisschnee, mit dem Gummischaber sorgfaeltig darunterziehen. </inhalt>
+      </Masse     >
+      <Formen    >
+          <inhalt>Masse in einen Spritzsack mit runder Tuelle geben (ca. o,5 cm Ø) , 8 Haeufchen (von je ca. 10 cm Ø) auf zwei mit Backpapier belegte Bleche spritzen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 25 Min. im auf 130 Grad vorgeheizten Ofen. (Heissluft) Herausnehmen, abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>288 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Wienerli_im_Blaetterteig_>
+          <quant>1 </quant>
+          <zutat>Blaetterteig (z.B. Butterblaetterteig, ca. 320 g)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Curry Sauce (z.B. Curry-Mango-Sauce)</zutat>
+          <quant>8 </quant>
+          <zutat>Wienerli</zutat>
+      </Wienerli_im_Blaetterteig_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wienerli im Blaetterteig       </inhalt>
+      </How_To    >
+      <Wienerli_im_Blaetterteig_>
+          <inhalt>Wienerli mit je einem Teigstueck umwickeln, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Wienerli_im_Blaetterteig_>
+      <Backen_   >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, warm servieren.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

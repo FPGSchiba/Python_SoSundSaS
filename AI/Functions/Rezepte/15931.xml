@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>878 kcal</NaehrwertProPerson>
+       <Fett>66 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ausbackteig_>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Bier</zutat>
+          <quant>2 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Ausbackteig_>
+      <Chips     >
+          <quant>600 g</quant>
+          <zutat>fest kochende Kartoffeln, in Staengeln</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Chips     >
+      <Fisch_frittieren>
+          <quant>500 g</quant>
+          <zutat>Dorschfilets Royal (MSC), in 4 Stuecken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>6 EL</quant>
+          <zutat>Mayonnaise</zutat>
+      </Fisch_frittieren>
+   </einkaufliste>
+   <rezept>
+      <Ausbackteig_>
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Bier nach und nach unter Ruehren mit dem Schwingbesen dazugiessen, Teig glatt ruehren. Teig zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen. Kurz vor dem Backen Eiweisse mit dem Salz steif schlagen, sorgfaeltig unter den Teig ziehen.</inhalt>
+      </Ausbackteig_>
+      <Chips     >
+          <inhalt>Kartoffelstaengel kalt abspuelen, trocken tupfen. Brattopf bis 1/3 Hoehe mit Oel fuellen, auf ca. 145 Grad erhitzen. Trockene Kartoffeln portionenweise mit einer Schaumkelle hineingeben, je ca. 2 Min. vorbacken. Herausnehmen, auf einem mit Haushaltpapier belegten Gitter auskuehlen. Temperatur auf ca. 180 Grad erhoehen. Kartoffeln portionenweise je ca. 21/2 Min. knusprig und goldgelb frittieren. Herausnehmen, salzen.</inhalt>
+      </Chips     >
+      <Fisch_frittieren>
+          <inhalt>Fisch salzen, portionenweise durch den Ausbackteig ziehen, etwas abtropfen, unter gelegentlichem Wenden je ca. 4 Min. goldgelb frittieren. Herausnehmen, auf Haushaltpapier abtropfen, mit den Chips und Mayonnaise anrichten. </inhalt>
+      </Fisch_frittieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

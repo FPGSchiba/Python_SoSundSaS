@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>314 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>5 EL</quant>
+          <zutat>lauwarmes Wasser</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>50 g</quant>
+          <zutat>Sultaninen oder getrocknete Cranberrys</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rum oder Apfelsaft</zutat>
+          <quant>600 g</quant>
+          <zutat>Aepfel (z.B. Boskoop), in Vierteln, entkernt, in Scheibchen</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>4 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Ei, Oel und Wasser gut verruehren, beigeben, mit einer Kelle zusammenfuegen, auf wenig Mehl zu einem glatten geschmeidigen Teig kneten. Zu einer Kugel formen, unter einer heiss ausgespuelten Schuessel bei Raumtemperatur ca. 30 Min. ruhen lassen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Sultaninen und Rum mischen, ca. 10 Min. ziehen lassen. Aepfel und alle Zutaten bis und mit Zimt daruntermischen. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl rechteckig, moeglichst duenn auswallen, auf ein Tuch legen, mit bemehlten Haenden von der Mitte her sorgfaeltig ausziehen, bis der Teig ueberall durchscheinend ist. Teig mit wenig Butter bestreichen, Mandeln darueberstreuen. Fuellung auf der unteren Teighaelfte verteilen, dabei einen Rand von ca. 4 cm frei lassen, seitliche Raender einschlagen. Tuch anheben, Strudel locker aufrollen, mit dem Verschluss nach unten auf ein mit Backpapier belegtes Blech legen, mit wenig Butter bestreichen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Strudel waehrend des Backens mehrmals mit der restlichen Butter bestreichen. Herausnehmen, auf einem Gitter etwas abkuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

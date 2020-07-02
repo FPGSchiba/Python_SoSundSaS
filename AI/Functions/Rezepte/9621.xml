@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>143 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1/2 TL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Pfirsiche, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein (z.B. Arneis)</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten,nur ausgekratzte Samen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter erwaermen. Pfirsiche und Zucker beigeben, ca. 2 Min. koecheln, etwas abkuehlen, in die Glaeser verteilen. Eigelbe, Zucker, Wein und Vanille in einer duennwandigen Schuessel verruehren. Schuessel ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Mit den Schwingbesen des Handruehrgeraets ca. 8 Min. ruehren, bis die Zabaglione schaumig ist und sich Ruehrspuren abzeichnen. Schuessel herausnehmen, kurz weiterruehren, in die Glaeser verteilen, sofort servieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

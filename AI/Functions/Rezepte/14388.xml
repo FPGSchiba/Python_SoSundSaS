@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>701 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>76 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Broccoli_Creme>
+          <quant>200 g</quant>
+          <zutat>Broccoli, in Roeschen</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ricotta</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Broccoli_Creme>
+      <Fusilli   >
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>200 </quant>
+          <zutat>Teigwaren (z.B. Fusilli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Fusilli   >
+   </einkaufliste>
+   <rezept>
+      <Broccoli_Creme>
+          <inhalt>Broccoli im Salzwasser ca. 5 Min. kochen, ca. 1/2 dl Kochwasser beiseite stellen. Broccoli abtropfen. 100 g Broccoli in einen Massbecher geben, mit dem beiseite gestellten Kochwasser, Oel und Ricotta puerieren, wuerzen. Restlichen Broccoli beiseite stellen.  </inhalt>
+      </Broccoli_Creme>
+      <Fusilli   >
+          <inhalt>Speckwuerfeli in einer weiten beschichteten Bratpfanne ohne Fett langsam knusprig braten, herausnehmen, auf Haushaltpapier abtropfen. Teigwaren im siedenden Salzwasser al dente kochen, abtropfen. Fusilli mit der Broccoli Creme mischen, beiseite gestellten Broccoli und Spreckwuerfeli darauf verteilen. </inhalt>
+      </Fusilli   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>636 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>65 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce_    >
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 400 g), abgespuelt, abgetropft, 60 g beiseite gestellt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, ganzer Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>1 TL</quant>
+          <zutat>Za'Atar (Gewuerzmischung)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce_    >
+      <Quinoa    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>300 g</quant>
+          <zutat>Quinoa</zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Za'Atar (Gewuerzmischung)</zutat>
+      </Quinoa    >
+      <Gemuese_   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Za'Atar (Gewuerzmischung)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>400 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Kefen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Za'Atar (Gewuerzmischung)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Limette, in Schnitzen</zutat>
+      </Gemuese_   >
+   </einkaufliste>
+   <rezept>
+      <Sauce_    >
+          <inhalt>Kichererbsen, Wasser, Oel, Limettensaft und Tahina puerieren, wuerzen. </inhalt>
+      </Sauce_    >
+      <Quinoa    >
+          <inhalt>Oel in einer Pfanne erwaermen. Quinoa beigeben, kurz duensten. Wasser dazugiessen, aufkochen,wuerzen. Zugedeckt bei kleiner Hitze ca. 15 Min. knapp weich koecheln.</inhalt>
+      </Quinoa    >
+      <Gemuese_   >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Beiseite gestellte Kichererbsen wuerzen, beigeben, ca. 5 Min. braten, herausnehmen, beiseite stellen. Wenig Oel beigeben, Spinat portionenweise beigeben, zusammen fallen lassen. Kefen beigeben, wuerzen, erwaermen. Gemuese auf dem Quinoa anrichten, Sauce darauf verteilen. Kichererbsen darueberstreuen, Limette dazu servieren. </inhalt>
+      </Gemuese_   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>131 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>130 g</quant>
+          <zutat>Baumnusskerne, im Cutter fein gemahlen</zutat>
+      </Teig      >
+      <Backen_pro_Blech>
+          <quant>100 g</quant>
+          <zutat>Johannisbeergelee</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeergelee</zutat>
+      </Backen_pro_Blech>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben, Puderzucker, Vanillepaste, Salz und Eiweiss beigeben, mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Mehl und Nuesse mischen,  beigeben, rasch zu einem Teig zusammenfuegen, etwas flach druecken, zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig portionenweise zwischen zwei Backpapier ca. 4 mm dick auswallen, Schneeflocken von ca. 7 cm Ø ausstechen. Schneeflocken auf 4 mit Backpapier belegte Bleche legen. Bei der Haelfte der Schneeflocken je eine kleine Rondellen (ca. 1 cm Ø) ausstechen, ca. 30 Min. kuehl stellen.</inhalt>
+      </Formen    >
+      <Backen_pro_Blech>
+          <inhalt>Ca. 10 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter etwas abkuehlen. Gelees verruehren, auf die noch warmen Guetzliboedeli verteilen. Guetzlideckeli mit Puderzucker bestaeuben, auf die Guetzliboeden legen.</inhalt>
+      </Backen_pro_Blech>
+   </rezept>
+</Rezept>

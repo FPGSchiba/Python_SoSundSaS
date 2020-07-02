@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>63 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaffee    >
+          <quant>2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>4 dl</quant>
+          <zutat>starker Kaffee</zutat>
+      </Kaffee    >
+      <Milch     >
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Milch     >
+      <Servieren >
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Kaffee    >
+          <inhalt>Kardamom in einen Messbecher geben, heissen Kaffee dazugiessen, ca. 30 Min. ziehen lassen. </inhalt>
+      </Kaffee    >
+      <Milch     >
+          <inhalt>Milch mit Honig und Vanille in einer kleinen Pfanne unter Ruehren erwaermen, sobald sich der Honig aufgeloest hat, Pfanne von der Platte nehmen. </inhalt>
+      </Milch     >
+      <Servieren >
+          <inhalt>Kaffee, Milch und Eiswuerfel in die Glaeser giessen. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

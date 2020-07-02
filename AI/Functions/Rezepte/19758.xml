@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>589 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>72 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren >
+          <quant>300 g</quant>
+          <zutat>JaMaDu Zoo Pasta</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren >
+      <Gemuese    >
+          <quant>2 </quant>
+          <zutat>gekochte Maiskolben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>600 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+      </Gemuese    >
+      <Salat     >
+          <quant>4 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>120 g</quant>
+          <zutat>Mozzarella-Perlen</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>300 g</quant>
+          <zutat>JaMaDu Zoo Pasta</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>2 </quant>
+          <zutat>gekochte Maiskolben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>600 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>4 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>120 g</quant>
+          <zutat>Mozzarella-Perlen</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Teigwaren >
+          <inhalt>Teigwaren im Salzwasser al dente kochen, abtropfen.</inhalt>
+      </Teigwaren >
+      <Gemuese    >
+          <inhalt>                              </inhalt>
+      </Gemuese    >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Tomaten ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) ca. 40 Min. grillieren, dabei den Mais ca. 20 Min. mitgrillieren. Mais ab und zu wenden. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+      <Salat     >
+          <inhalt>Maiskoerner von den Kolben schneiden. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

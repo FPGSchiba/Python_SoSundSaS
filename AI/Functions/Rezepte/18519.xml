@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>750 kcal</NaehrwertProPerson>
+       <Fett>48 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gewuerzmischung_>
+          <quant>1 TL</quant>
+          <zutat>scharfer Paprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+      </Gewuerzmischung_>
+      <Fuellung_  >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, fein gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Suesskartoffeln, grob gerieben</zutat>
+          <quant>450 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>3/4 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Fuellung_  >
+      <Blaetterteigrollen>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Blaetterteigrollen>
+      <Dip       >
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Gewuerzmischung_>
+          <inhalt>Paprika und alle Zutaten bis und mit Kardamom mischen.</inhalt>
+      </Gewuerzmischung_>
+      <Fuellung_  >
+          <inhalt>Oel in einer Bratpfanne erwaermen. Zwiebeln ca. 5 Min. andaempfen, Suesskartoffeln beigeben, ca. 5 Min. mitdaempfen, auskuehlen. Hackfleisch, Koriander und Gewuerzmischung daruntermischen. </inhalt>
+      </Fuellung_  >
+      <Blaetterteigrollen>
+          <inhalt>Blaetterteig quer in 3 Stuecke schneiden, je ein Drittel der Fuellung laengs auf die Teigmitte geben, dabei ringsum einen Rand von ca. 3 cm frei lassen. Teigraender mit wenig Ei bestreichen, locker ueber das Fleisch legen, mit einer Gabel gut andruecken. Teigrollen mit dem Verschluss nach unten auf ein mit Backpapier belegtes Blech legen, mit restlichem Ei bestreichen. </inhalt>
+      </Blaetterteigrollen>
+      <Backen_   >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen_   >
+      <Dip       >
+          <inhalt>Quark, Feta und Koriander verruehren, zu den Hackfleischrollen servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

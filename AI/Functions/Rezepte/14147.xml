@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>68 kcal </NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>125 g</quant>
+          <zutat>Bio-Frischkaese nature</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>40 g</quant>
+          <zutat>Rauchmandeln, grob gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+      </Fuellung   >
+      <Roellchen  >
+          <quant>120 g</quant>
+          <zutat>Buendnerfleisch in Tranchen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+      </Roellchen  >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Frischkaese und Sbrinz mit dem Schwingbesen glatt ruehren, Mandeln und Schnittlauch beigeben, mischen. Schlagrahm sorgfaeltig darunter ziehen, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Fuellung   >
+      <Roellchen  >
+          <inhalt>Fuellung in einen Spritzsack mit glatter Tuelle (ca. 1 cm Ø) geben. Je einen Streifen auf das Buendnerfleisch spritzen, aufrollen. Roellchen mit je 1 Schnittlauchhalm umwickeln und verknoten. </inhalt>
+      </Roellchen  >
+   </rezept>
+</Rezept>

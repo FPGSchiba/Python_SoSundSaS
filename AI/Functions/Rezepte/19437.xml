@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>229 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace     >
+          <quant>2 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe, verklopft</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Glace     >
+      <Aprikosen >
+          <quant>400 g</quant>
+          <zutat>Aprikosen, in Schnitzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Olivenoel</zutat>
+      </Aprikosen >
+   </einkaufliste>
+   <rezept>
+      <Glace     >
+          <inhalt>Milch, Zucker und Salz in einer Pfanne erwaermen. Die Haelfte davon zu den Eigelben giessen, gut verruehren. Masse zurueck in die Pfanne giessen und unter Ruehren bei mittlerer Hitze koecheln, bis die Masse bindet und cremig wird. Pfanne sofort von der Platte nehmen, Masse durch ein Sieb zum Oel in eine weite Chromstahlschuessel giessen, gut verruehren, auskuehlen. Rahm steif schlagen,  sorgfaeltig unter die Masse ziehen, zugedeckt ca. 5 Std. gefrieren, dabei 4-mal mit einem Schwingbesen durchruehren.</inhalt>
+      </Glace     >
+      <Aprikosen >
+          <inhalt>Aprikosen, Zucker, Zitronensaft und Vanille mischen, zugedeckt ca. 30 Min. ziehen lassen. Glace zu Kugeln formen, mit den Aprikosen servieren, Oel daruebertraeufeln. </inhalt>
+      </Aprikosen >
+   </rezept>
+</Rezept>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>631 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>91 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren_kochen>
+          <quant>500 g</quant>
+          <zutat>grobe Hoernli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>600 g</quant>
+          <zutat>Lauch, halbiert, in feinen Streifen</zutat>
+      </Teigwaren_kochen>
+      <Sauce     >
+          <quant>250 g</quant>
+          <zutat>Frischkaese mit Kraeutern (z.B. Contadou mit Kraeutern)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, mit wenig Gruen, in feine Streifen</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Teigwaren_kochen>
+          <inhalt>Hoernli im siedenden Salzwasser knapp al dente kochen, Lauch ca. 2 Min. vor Kochende mitkochen. 3 dl Kochfluessigkeit beiseite stellen, Teigwaren mit dem Lauch abtropfen.</inhalt>
+      </Teigwaren_kochen>
+      <Sauce     >
+          <inhalt>Kochwasser mit dem Frischkaese aufkochen, Hoernli und Lauch wieder beigeben, heiss werden lassen, wuerzen. Radiesli darueberstreuen. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

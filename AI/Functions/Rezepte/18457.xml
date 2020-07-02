@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>404 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>400 g</quant>
+          <zutat>gemischte  Pilze (z.B. Steinpilze, Eierschwaemmli, Champignons), in Stuecken</zutat>
+          <quant>250 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon (z.B. Steinpilz)</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suppe     >
+      <Topping   >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian, Blaettchen abgezupft</zutat>
+          <quant>80 g</quant>
+          <zutat>Mostbroeckli, in feinen Streifen</zutat>
+          <quant>200 g</quant>
+          <zutat>gemischte  Pilze (z.B. Steinpilze, Eierschwaemmli, Champignons), in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Butter in einer Pfanne erwaermen. Schalotte und Pilze andaempfen, Kartoffeln beigeben, kurz mitdaempfen. Bouillon dazugiessen, aufkochen, zugedeckt ca. 15 Min. koecheln, Rahm beigeben, aufkochen. Suppe puerieren, wuerzen. </inhalt>
+      </Suppe     >
+      <Topping   >
+          <inhalt>Bratbutter in einer beschichteten  Bratpfanne erhitzen. Thymian und Mostbroecklistreifen ca. 2 Min. knusprig braten, herausnehmen, beiseite stellen. Pilze in derselben Pfanne portionenweise je ca. 5 Min. goldbraun braten, wuerzen. Suppe anrichten, Pilze, Mostbroecklistreifen und Thymian darauf verteilen.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

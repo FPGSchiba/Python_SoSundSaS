@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>671 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Auberginen_&amp;_Suesskartoffeln>
+          <quant>3 </quant>
+          <zutat>Auberginen, laengs in ca. 5 mm dicken Scheiben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Pro Montagna Bier Engiadinaisa Ambra</zutat>
+          <quant>1 dl</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>3 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>500 g</quant>
+          <zutat>Suesskartoffeln, laengs in Schnitzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1 TL</quant>
+          <zutat>Meersalz</zutat>
+      </Auberginen_&amp;_Suesskartoffeln>
+      <Aepfel     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Aepfel, in Schnitzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zimt</zutat>
+          <quant>wenig </quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Aepfel     >
+      <Salat     >
+          <quant>5 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zwiebelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer, gemahlen</zutat>
+          <quant>450 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>260 g</quant>
+          <zutat>Edamame</zutat>
+      </Salat     >
+      <Anrichten >
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Himbeeren, grob zerbrochen</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Auberginen &amp; Suesskartoffeln</inhalt>
+      </How_To    >
+      <Auberginen_&amp;_Suesskartoffeln>
+          <inhalt>Backen: ca. 25 - 30 Min. im auf 180 Grad (Umluft) vorgeheizten Ofen bis die Suesskartoffeln und Auberginen goldbraun sind.</inhalt>
+      </Auberginen_&amp;_Suesskartoffeln>
+      <Aepfel     >
+          <inhalt>Olivenoel erwaermen, Aepfel mit Ahornsirup, Chili, Zimt, Salz und Pfeffer bei mittlerer Hitze goldbraun anbraten</inhalt>
+      </Aepfel     >
+      <Salat     >
+          <inhalt>In einer grossen Schuessel Essig und alle Zutaten bis und mit Zwiebelpulver verruehren, wuerzen. Spinat beigeben, sorgfaeltig mischen. Suesskartoffeln und Edamame beigeben, mischen.</inhalt>
+      </Salat     >
+      <Anrichten >
+          <inhalt>Salat auf Tellern anrichten. Auberginen und Apfelschnitze auf den Salat legen, Himbeeren darueber verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

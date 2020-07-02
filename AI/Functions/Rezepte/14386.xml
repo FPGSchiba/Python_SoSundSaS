@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>206 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>Betty Bossi Muffins Grundbackmischung </zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Betty Bossi Caramel-Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in Stuecken</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Backmischung mit Butter und Wasser mit den Schwingbesen des Handruehrgeraets ca. 3 Min. zu einem glatten Teig ruehren. Caramel-Wuerfeli daruntermischen, Teig in die Backfoermchen fuellen, Birne in den Teig stecken. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

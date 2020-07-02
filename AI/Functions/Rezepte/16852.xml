@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1133 kcal</NaehrwertProPerson>
+       <Fett>65 g  </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>61 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>300 g</quant>
+          <zutat>mittelreifer Gruyere, grob gerieben</zutat>
+          <quant>200 g</quant>
+          <zutat>Freiburger Vacherin, grob gerieben</zutat>
+          <quant>200 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), in Stuecken</zutat>
+          <quant>100 g</quant>
+          <zutat>Sbrinz, gerieben</zutat>
+          <quant>4 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>500 g</quant>
+          <zutat>Ruchbrot, in Stuecken</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Caquelon mit Knoblauch ausreiben, Kaese beigeben. Maizena mit dem Wein anruehren, dazugiessen, unter gleichmaessigem Ruehren erhitzen, bis der Kaese geschmolzen ist, wuerzen. Fondue auf ein Rechaud stellen, Fondue mit Brot servieren. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

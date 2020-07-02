@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>241 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fisch     >
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkle Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kerbel, grob gehackt</zutat>
+          <quant>500 g</quant>
+          <zutat>echte Rotzungenfilets</zutat>
+          <quant>wenig </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Fisch     >
+      <Rueebli    >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>600 g</quant>
+          <zutat>Rueebli, schraeg in ca 3 mm dicke Scheiben</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Bundzwiebeln, Zwiebeln in feinen Scheiben, Gruen beiseitegestellt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>3 cm</quant>
+          <zutat>Ingwer, fein gerieben (ergibt ca. 1 EL)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Rueebli    >
+   </einkaufliste>
+   <rezept>
+      <Fisch     >
+          <inhalt>Fuer die Marinade Limettensaft, Sojasauce und Kerbel gut verruehren. Fischfilets darin wenden, zugedeckt im Kuehlschrank ca. 1 Std. marinieren. Fischfilets aus der Marinade nehmen, trocken tupfen. Oel in einer beschichteten Bratpfanne heiss werden lassen. Hitze reduzieren. Fischfilets portionenweise beidseitig je ca. 1 1/2 Min. braten, warm stellen.</inhalt>
+      </Fisch     >
+      <Rueebli    >
+          <inhalt>Oel warm werden lassen. Rueebli ca. 3 Min. andaempfen. Zwiebeln kurz mit - daempfen. Zucker und Ingwer beigeben, kurz weiterdaempfen. Kokosmilch und Wasser gut verruehren, dazugiessen, aufkochen, Hitze reduzieren. Rueebli zugedeckt ca. 15 Min. koecheln. Beiseitegestelltes Bundzwiebelgruen schraeg in ca. 5 mm breite Streifen schneiden, beigeben, offen ca. 5 Min. fertig koecheln. Ingwer-Rueebli salzen.</inhalt>
+      </Rueebli    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

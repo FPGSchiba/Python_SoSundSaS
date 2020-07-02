@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>333 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>600 g</quant>
+          <zutat>Baby-Kartoffeln, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel, in ca. 1 1/2 cm grossen Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Streifchen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Curry (mild oder scharf, nach Wahl)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Pfefferminze, grob geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Olivenoel in einer weiten Pfanne erhitzen. Kartoffeln, Zwiebeln, Aepfel, Peperoncino und Curry ca. 3 Min. ruehrbraten.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bouillon und Saucen-Halbrahm dazugiessen, Curry zugedeckt ca. 15 Min. koecheln.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Curry wuerzen, anrichten, Minze darueber streuen.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

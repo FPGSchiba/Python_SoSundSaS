@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>541 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 </quant>
+          <zutat>Fenchel, fein gehobelt</zutat>
+          <quant>9 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+      </Risotto   >
+      <Crevetten >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>400 g</quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+      </Crevetten >
+      <Fertigstellen>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1 EL Saft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Risotto   >
+          <inhalt>Oel in einer Pfanne erwaermen. Schalotten ca. 3 Min. andaempfen, Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen. 1/2 vom Fenchel beigeben, restlichen Fenchel beiseite stellen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 20 Min. koecheln, bis der Reis cremig und al dente ist. </inhalt>
+      </Risotto   >
+      <Crevetten >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Crevetten beidseitig je ca. 11/2 Min. braten, herausnehmen, salzen. Die Haelfte der Crevetten grob hacken und unter den Risotto mischen. Knoblauch und beiseite gestellten Fenchel ca. 3 Min. ruehrbraten. </inhalt>
+      </Crevetten >
+      <Fertigstellen>
+          <inhalt>Kaese, Butter, Zitronenschale und -saft unter den Risotto mischen, wuerzen. Risotto auf Tellern anrichten, restliche Crevetten mit dem Fenchel darauf verteilen. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

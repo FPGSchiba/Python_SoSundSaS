@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>394 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ratatouille>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti (ca. 200 g), in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>3 </quant>
+          <zutat>Tomaten, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+      </Ratatouille>
+      <Lammracks >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Lammracks (je ca. 350 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Lammracks >
+   </einkaufliste>
+   <rezept>
+      <Ratatouille>
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel und Knoblauch andaempfen. Aubergine ca. 5 Min. mitdaempfen. Peperoni, Zuchetti und Tomaten kurz mitdaempfen, wuerzen. Kraeuter beigeben, zugedeckt bei kleiner Hitze ca. 30 Min. weich daempfen, Kraeuter entfernen.</inhalt>
+      </Ratatouille>
+      <Lammracks >
+          <inhalt>Oel und Kraeuter verruehren, beiseitestellen. Lammracks wuerzen. Grillieren: Holzkohle-/Gas-/Elektrogrill: Lammracks ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 10 Min. grillieren, zugedeckt ca. 5 Min. ruhen lassen. Fleisch tranchieren, auf Tellern anrichten, Kraeuter-Oel darauf verteilen. Ratatouille dazu servieren. </inhalt>
+      </Lammracks >
+   </rezept>
+</Rezept>

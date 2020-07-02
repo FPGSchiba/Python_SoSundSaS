@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>153 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1/4 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>180 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant>1 TL</quant>
+          <zutat>Dijon-Senf</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Petersilie fein schneiden, mit saurem Halbrahm, Meerrettich und Senf verruehren. Sauce wuerzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bis zum Servieren kuehl stellen.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

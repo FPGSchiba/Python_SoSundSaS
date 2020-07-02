@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>617 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auflauf   >
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, in ca. 4 cm langen Stuecken</zutat>
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Penne)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>irischer Rauchlachs (Bio), zerzupft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Auflauf   >
+      <Guss_&amp;_backen>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>100 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+      </Guss_&amp;_backen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Auflauf                       </inhalt>
+      </How_To    >
+      <Auflauf   >
+          <inhalt>Guss &amp; backen             </inhalt>
+      </Auflauf   >
+      <Guss_&amp;_backen>
+          <inhalt>Backen: ca. 25 Min. auf einem Blech in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Guss_&amp;_backen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

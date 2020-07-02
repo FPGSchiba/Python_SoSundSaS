@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>115 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Erbsli    >
+          <quant>400 g</quant>
+          <zutat>tiefgekuehlte Erbsli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Erbsli    >
+      <Belag     >
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Cranberrys, grob gehackt</zutat>
+          <quant>20 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Belag     >
+      <Backen    >
+          <quant>1 </quant>
+          <zutat>Baguette (ca. 150 g), schraeg in ca. 12 Scheiben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Erbsli    >
+          <inhalt>Erbsli im Salzwasser ca. 4 Min. knapp weich kochen, abgiessen, kalt abspuelen, abtropfen.</inhalt>
+      </Erbsli    >
+      <Belag     >
+          <inhalt>Die Haelfte der Erbsli mit einer Gabel zerdruecken, die restlichen Erbsli beigeben. Basilikum und alle Zutaten bis und mit Pfeffer daruntermischen.</inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Baguettescheiben ca. 4 Min. in der oberen Haelfte des auf 240 Grad vorgeheizten Ofens backen. Herausnehmen, etwas abkuehlen. Erbslimasse darauf verteilen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

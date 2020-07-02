@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>461 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blanchieren_>
+          <quant>600 g</quant>
+          <zutat>Broccoli</zutat>
+      </Blanchieren_>
+      <Broccolipueree>
+          <quant>120 g</quant>
+          <zutat>Soja-Bohnen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, grob geschnitten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>125 g</quant>
+          <zutat>Halbfettquark</zutat>
+      </Broccolipueree>
+      <Eier-Tatar_>
+          <quant>4 </quant>
+          <zutat>Eier, hart gekocht, fein gehackt</zutat>
+          <quant>125 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Eier-Tatar_>
+      <Cake_     >
+          <quant>16 Tranchen</quant>
+          <zutat>Pumpernickel</zutat>
+          <quant>200 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>90 g</quant>
+          <zutat>Lachstranchen</zutat>
+          <quant>50 g</quant>
+          <zutat>Landkresse</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Radiesli, in feinen Scheiben</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaettchen</zutat>
+      </Cake_     >
+   </einkaufliste>
+   <rezept>
+      <Blanchieren_>
+          <inhalt>Broccoli im Salzwasser ca. 5 Min. knapp weich kochen, abtropfen, kurz in eiskaltes Wasser legen, abtropfen.</inhalt>
+      </Blanchieren_>
+      <Broccolipueree>
+          <inhalt>Broccoli, Soja-Bohnen, Pfefferminze und Limettensaft in eine Schuessel geben, wuerzen, fein puerieren, Quark daruntermischen. </inhalt>
+      </Broccolipueree>
+      <Eier-Tatar_>
+          <inhalt>Eier, Quark und Schnittlauch mischen, salzen. </inhalt>
+      </Eier-Tatar_>
+      <Cake_     >
+          <inhalt>4 Tranchen Pumpernickel auf einem Schneidebrett aneinanderlegen, mit der Haelfte des Broccolipuerees bestreichen. 4 Tranchen Pumpernickel darauf legen, Eier-Tatar darauf verteilen. 4 Tranchen Pumpernickel darauflegen, restliches Broccolipueree darauf verteilen. 4 restliche Tranchen Pumpernickel mit Frischkaese bestreichen, auf die Broccolimasse legen. Mit Lachs, Landkresse, Radiesli und Pfefferminze garnieren. </inhalt>
+      </Cake_     >
+   </rezept>
+</Rezept>

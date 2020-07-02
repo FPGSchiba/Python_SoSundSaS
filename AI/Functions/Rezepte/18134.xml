@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>677 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pasta_kochen>
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Penne rigate)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Pasta_kochen>
+      <Sauce     >
+          <quant>2 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>110 g</quant>
+          <zutat>Sbrinz-Hobelrollen, zerbroeckelt</zutat>
+          <quant>100 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>80 g</quant>
+          <zutat>Luzerner Rahmkaese, gerieben</zutat>
+          <quant>80 g</quant>
+          <zutat>Appenzellerkaese, gerieben</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Pasta_kochen>
+          <inhalt>Pasta im Salzwasser aldente kochen, abtropfen.</inhalt>
+      </Pasta_kochen>
+      <Sauce     >
+          <inhalt>Milch in einer grossen Pfanne erwaermen. Kaese beigeben, unter Ruehren koecheln, bis der Kaese geschmolzen ist. Pasta beigeben, mischen, wuerzen. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>380 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuchen    >
+          <quant>270 g</quant>
+          <zutat>rund ausgewallte  Kuchenteige  (z.B. Betty Bossi Butterkuchenteig)</zutat>
+          <quant>200 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>4 </quant>
+          <zutat>Aepfel, in Schnitzen</zutat>
+      </Kuchen    >
+      <Streusel  >
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Streusel  >
+      <Backen    >
+          <quant>2 Kugeln</quant>
+          <zutat>Vanilleglace (z.B. Frisco Block Vanille)</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Kuchen    >
+          <inhalt>Teig in die vorbereitete Form legen Nuesse und Apfelschnitze darauf verteilen. </inhalt>
+      </Kuchen    >
+      <Streusel  >
+          <inhalt>Zucker, Butter und Mehl von Hand mischen, bis die Masse kruemelig ist, ueber die Aepfel streuen. </inhalt>
+      </Streusel  >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, auf ein Gitter schieben, auskuehlen. Mit Vanilleglace servieren. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

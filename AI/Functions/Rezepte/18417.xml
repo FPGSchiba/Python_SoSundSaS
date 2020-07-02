@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>764 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>42 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brot_vorbereiten_>
+          <quant>4 </quant>
+          <zutat>Broetli (z.B. Buerli)</zutat>
+          <quant>100 g</quant>
+          <zutat>getrocknete Tomaten in Oel, halbiert und 1 EL Oel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+      </Brot_vorbereiten_>
+      <Fondue_   >
+          <quant>800 g</quant>
+          <zutat>Fondue Kaesemischung </zutat>
+          <quant>3 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fondue_   >
+   </einkaufliste>
+   <rezept>
+      <Brot_vorbereiten_>
+          <inhalt>An der Oberseite der Broetchen je einen ca. 2 cm dicken Deckel herausschneiden. Brotinneres sorgfaeltig herausschneiden, in Wuerfel schneiden. Brotwuerfel mit Tomaten-Oel, Honig, Thymian und Knoblauch mischen, mit den Tomaten auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Brot_vorbereiten_>
+      <Backen    >
+          <inhalt>Brotwuerfel ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens backen. Waehrend den letzten 5 Min. ausgehoehlte Broetchen und die Broetchendeckel mitbacken.</inhalt>
+      </Backen    >
+      <Fondue_   >
+          <inhalt>Kaesemischung ins Caquelon geben. Maizena mit Wein anruehrenn, dazugiessen, Kaese unter staendigem Ruehren bei mittlerer Hitze aufkochen, bis der Kaese geschmolzen und das Fondue cremig ist, wuerzen. Fondue auf die ausgehoehlten Broetchen verteilen, Brotcroutons, Tomaten und Broetchendeckel dazuservieren. </inhalt>
+      </Fondue_   >
+   </rezept>
+</Rezept>

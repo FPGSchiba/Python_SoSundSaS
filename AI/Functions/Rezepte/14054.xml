@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>170 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sirup     >
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>500 g</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+          <quant>230 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten</zutat>
+          <quant>3 </quant>
+          <zutat>Kardamomkapseln</zutat>
+      </Sirup     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sirup                         </inhalt>
+      </How_To    >
+      <Sirup     >
+          <inhalt>Wasser und Limettensaft mit den Himbeeren aufkochen, ca. 2 Min. koecheln. Auf der ausgeschalteten Platte zugedeckt ca. 15 Min. ziehen lassen, puerieren. Beeren mit der Fluessigkeit durch ein Sieb streichen.</inhalt>
+      </Sirup     >
+      <How_To1   >
+          <inhalt>Zum Servieren ca. 2 EL Sirup mit ca. 2 dl Wasser verduennen.  </inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

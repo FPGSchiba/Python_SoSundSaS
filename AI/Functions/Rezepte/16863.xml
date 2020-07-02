@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>222 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sud_vorbereiten_>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen, Gruen beiseite gestellt</zutat>
+          <quant>1/2 </quant>
+          <zutat>roter Peperoncino, in feinen Ringen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Ingwer, fein geschnitten</zutat>
+          <quant>1 1/2 Liter</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras , gequetscht</zutat>
+          <quant>2 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit)</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+      </Sud_vorbereiten_>
+      <Einlagen_ >
+          <quant>200 g</quant>
+          <zutat>Pak Choi, laengs in ca. 4 cm breiten Streifen</zutat>
+          <quant>10 g</quant>
+          <zutat>getrocknete Shiitake-Pilze</zutat>
+          <quant>50 g</quant>
+          <zutat>Glasnudeln</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherter Tofu, in ca. 3 cm grossen Wuerfel</zutat>
+          <quant>200 g</quant>
+          <zutat>Pouletbruestli, in duennen Tranchen</zutat>
+          <quant>2 </quant>
+          <zutat>Limetten, heiss abgespuelt, trocken getupft, in Schnitzen</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Einlagen_ >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sud vorbereiten               </inhalt>
+      </How_To    >
+      <Sud_vorbereiten_>
+          <inhalt>Bouillon dazugiessen, Zitronengras, Kaffirlimetten und Sternanis beigeben, aufkochen, Hitze reduzieren, ca. 15 Min. koecheln. Sud durch ein Sieb in das Fondue-Pfaennchen giessen, auf ein Rechaud stellen, heiss halten. </inhalt>
+      </Sud_vorbereiten_>
+      <Einlagen_ >
+          <inhalt>Kurz vor dem Servieren, Pak Choi, Pilze, Glasnudeln und Tofu in den Sud geben. Poulet portionenweise im Sud ziehen lassen. Limetten und Fleur de Sel dazu servieren. </inhalt>
+      </Einlagen_ >
+   </rezept>
+</Rezept>

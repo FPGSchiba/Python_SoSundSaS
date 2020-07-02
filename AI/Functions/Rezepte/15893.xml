@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>697 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>114 g </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>700 g</quant>
+          <zutat>Sushi-Reis</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+      </Reis      >
+      <Sushireis_wuerzen>
+          <quant>6 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>6 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+      </Sushireis_wuerzen>
+      <Insideout_Sushi>
+          <quant>3 </quant>
+          <zutat>Nori-Blaetter</zutat>
+          <quant>40 g</quant>
+          <zutat>Doppelrahmfrischkaese (z. B. Philadelphia)</zutat>
+          <quant>3 TL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>1/2 </quant>
+          <zutat>Mango, halbiert, in feinen Scheiben</zutat>
+          <quant>9 Stueck</quant>
+          <zutat>Surimi (MSC)</zutat>
+      </Insideout_Sushi>
+      <Thon_Sushi>
+          <quant>3 </quant>
+          <zutat>Nori-Blaetter</zutat>
+          <quant>3 TL</quant>
+          <zutat>Sesam</zutat>
+          <quant>80 g</quant>
+          <zutat>weisser Thon in Salzwasser, abgetropft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1/2 </quant>
+          <zutat>Gurke, in ca. 1 cm dicken Staengel</zutat>
+      </Thon_Sushi>
+      <Vegane_Sushi>
+          <quant>3 </quant>
+          <zutat>Nori-Blaetter</zutat>
+          <quant>4 1/2 EL</quant>
+          <zutat>rote Tapenade </zutat>
+          <quant>60 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/2 </quant>
+          <zutat>Avocado, in Streifen</zutat>
+      </Vegane_Sushi>
+      <Servieren >
+          <quant>6 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasabi-Paste</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Reis      >
+          <inhalt>Reis in einem Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Reis und Wasser in eine Pfanne geben, ca. 15 Min. stehen lassen. Offen aufkochen, Hitze reduzieren, koecheln, bis das Wasser so weit verdampft ist, dass sich kleine Krater im Reis bilden. Zugedeckt bei kleinster Hitze ca. 10 Min. quellen lassen, dabei Deckel nie abheben.</inhalt>
+      </Reis      >
+      <Sushireis_wuerzen>
+          <inhalt>Reisessig, Zucker und Salz in einer kleinen Pfanne unter Ruehren erwaermen, bis sich der Zucker aufgeloest hat. Reis in eine weite Schuessel geben, mit der warmen Fluessigkeit betraeufeln. Mit einer Gabel ca. 3 Min. sorgfaeltig mischen, dabei mit einem Faecher oder einem Karton Luft zufaechern. Reis mit einem feuchten Tuch bedecken, ca. 15 Min. quellen lassen. Reis in 3 Portionen teilen. </inhalt>
+      </Sushireis_wuerzen>
+      <Insideout_Sushi>
+          <inhalt>1/3 einer Reisportion auf eine Bambusmatte oder auf ein Stueck Klarsichtfolie legen. 1 Nori-Blatt mit wenig Frischkaese bestreichen, mit der bestrichenen Seite nach oben auf den Reis legen. 1 TL Sesam darueberstreuen, etwas Mango und drei Surimi Staebchen laengs auf die untere Haelfte des Nori-Blattes verteilen, satt aufrollen. Rolle zwischen den Haenden rollen, bis alles gut zusammenhaelt. Vorgang 2-mal wiederholen.</inhalt>
+      </Insideout_Sushi>
+      <Thon_Sushi>
+          <inhalt>1 Nori-Blatt mit der rauen Seite nach oben auf eine Bambusmatte oder auf ein Stueck Klarsichtfolie legen. 1/3 einer Reisportion auf das Nori-Blatt verteilen, dabei oben ca. 2 cm frei lassen. Sesam darueberstreuen. Thon und Mayonnaise mischen, 1/3 davon mit einigen Gurkenstaengel auf die Mitte des Reises verteilen, satt aufrollen. Rolle zwischen den Haenden rollen, bis alles gut zusammenhaelt. Vorgang 2-mal wiederholen. </inhalt>
+      </Thon_Sushi>
+      <Vegane_Sushi>
+          <inhalt>1 Nori-Blatt mit der rauen Seite nach oben auf eine Bambusmatte oder auf ein Stueck Klarsichtfolie legen. 1/3 einer Reisportion darauf verteilen, dabei einen Rand von ca. 2 cm frei lassen, mit wenig Tapenade bestreichen. Einige Spinatblaetter darauf legen, 1/3 der Avocadostreifen auf die untere Haelfte des Reises verteilen, satt aufrollen. Rolle zwischen den Haenden rollen, bis alles gut zusammenhaelt. Vorgang 2-mal wiederholen.</inhalt>
+      </Vegane_Sushi>
+      <Servieren >
+          <inhalt>Sushi-Rollen mit einem nassen, sehr scharfen Messer in Stuecke schneiden. Sushi mit Sojasauce und Wasabi-Paste anrichten.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

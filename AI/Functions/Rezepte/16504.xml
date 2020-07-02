@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>135 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>20 g</quant>
+          <zutat>Rucola, grob gehackt</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, grob gehackt</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob gehackt</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Suppe     >
+      <Kresse-Broetli>
+          <quant>2 Scheiben</quant>
+          <zutat>Pumpernickel, halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>20 g</quant>
+          <zutat>Kresse</zutat>
+      </Kresse-Broetli>
+      <Anrichten >
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, 1/2 abgeriebene Schale</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Butter in einer Pfanne erwaermen. Schalotten andaempfen. Bouillon dazugiessen, zugedeckt ca. 10 Min. koecheln. Rucola, Basilikum und Petersilie beigeben, puerieren, salzen.</inhalt>
+      </Suppe     >
+      <Kresse-Broetli>
+          <inhalt>Pumpernickel mit Butter bestreichen, salzen, Kresse darauf verteilen. </inhalt>
+      </Kresse-Broetli>
+      <Anrichten >
+          <inhalt>Suppe in die Glaeser verteilen. Creme fraiche und Zitronenschale verruehren, auf dem Shot verteilen, Kresse-Broetli dazu servieren. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

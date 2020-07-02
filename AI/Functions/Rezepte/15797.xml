@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>573 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>56 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>600 g</quant>
+          <zutat>Baby-Kartoffeln</zutat>
+          <quant>500 g</quant>
+          <zutat>Stangensellerie, schraeg in ca. 2 cm grossen Stuecken</zutat>
+          <quant>500 g</quant>
+          <zutat>Kirschen, entsteint</zutat>
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Salbei, grob geschnitten</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gemuese    >
+      <Schweinsfilet>
+          <quant>6 Zweiglein</quant>
+          <zutat>Salbei</zutat>
+          <quant>2 </quant>
+          <zutat>Schweinsfilets (je ca. 450 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Schweinsfilet>
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Kartoffeln, Sellerie und Kirschen mit Oel und Salbei mischen, wuerzen. Auf einem mit Backpapier belegten Blech verteilen. </inhalt>
+      </Gemuese    >
+      <Backen_   >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Temperatur auf 80 Grad reduzieren.  </inhalt>
+      </Backen_   >
+      <Schweinsfilet>
+          <inhalt>Salbei auf das Fleisch legen, mit Kuechenschnur binden. Bratbutter in einer Bratpfanne heiss werden lassen. Fleisch wuerzen, rundum ca. 4 Min. anbraten, Fleisch auf das Gemuese legen. </inhalt>
+      </Schweinsfilet>
+      <Niedergaren>
+          <inhalt>Ca. 11/2 Std. in der Mitte des Ofens. Die Kerntemperatur soll ca. 58 Grad betragen. Fleisch tranchieren, mit dem Kirschen-Gemuese anrichten.</inhalt>
+      </Niedergaren>
+   </rezept>
+</Rezept>

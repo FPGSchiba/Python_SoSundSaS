@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>342 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>Rande (ca. 100 g), fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel (klein), fein gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosoel, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+      </Teig      >
+      <Frosting  >
+          <quant>2 1/2 EL</quant>
+          <zutat>Kokosoel, weich</zutat>
+          <quant>10 ml</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>200 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>10 ml</quant>
+          <zutat>Randensaft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>einige </quant>
+          <zutat>Kokosnuss-Stuecke</zutat>
+          <quant>1 Prise</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Frosting  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Backen: ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Die Cupcakes auskuehlen, aus den Foermchen loesen.</inhalt>
+      </Teig      >
+      <Frosting  >
+          <inhalt>Kokosoel, Mandelmilch, Puderzucker, Randensaft, Zimt und Vanille zu einer geschmeidigen Creme ruehren und mit Hilfe eines Spritzbeutels auf den Cupcakes verteilen. Mit Kokos-Stuecken und nach Belieben getrockneten Kornblumen garnieren.</inhalt>
+      </Frosting  >
+   </rezept>
+</Rezept>

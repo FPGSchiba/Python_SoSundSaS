@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>276 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mehlmischung>
+          <quant>300 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>200 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>80 g</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>40 g</quant>
+          <zutat>Leinsamen</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe  (ca. 7 g)</zutat>
+      </Mehlmischung>
+      <Teig      >
+          <quant>4 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>100 g</quant>
+          <zutat>Melasse</zutat>
+          <quant>wenig </quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Mehlmischung>
+          <inhalt>Mehle und alle Zutaten bis und mit Hefe in der Schuessel der Kuechenmaschine mischen. </inhalt>
+      </Mehlmischung>
+      <Teig      >
+          <inhalt>Buttermilch und Melasse in eine Pfanne geben, leicht erwaermen (mit einem Finger testen, die Mischung darf sich nicht heiss anfuehlen). Fluessigkeit zu der Mehlmischung giessen, mit der Kuechenmaschine auf kleiner Stufe ca. 15 Min. kneten. Teig in die vorbereitete Form geben, mit wenig Wasser bestreichen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 4 Std. in der Mitte des auf 120 Grad vorgeheizten Ofens. Brot mit Alufolie zudecken. Ofen ausschalten, Brot darin ca. 1 1/2 Std. trocknen lassen. Herausnehmen, aus der Form nehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

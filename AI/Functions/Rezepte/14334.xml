@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>266 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Form_     >
+          <quant> </quant>
+          <zutat>Oel zum Bestreichen</zutat>
+      </Form_     >
+      <Boden     >
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade ( 64 % Kakao)</zutat>
+          <quant>220 g</quant>
+          <zutat>Schokoladeguetzli (z.B. Chocolate Chips Cookies)</zutat>
+      </Boden     >
+      <Quarkfuellung>
+          <quant>2 </quant>
+          <zutat>Clementinen</zutat>
+          <quant>500 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>2 Beutel</quant>
+          <zutat>Instant-Gelatine (je ca. 15 g)</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Quarkfuellung>
+      <Clementinen_>
+          <quant>3 </quant>
+          <zutat>Clementinen</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+      </Clementinen_>
+      <Verzieren >
+          <quant>2 EL</quant>
+          <zutat>ungesalzene geschaelte Pistazien</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Form                          </inhalt>
+      </How_To    >
+      <Form_     >
+          <inhalt>Springformring mit wenig Oel bestreichen, mit Klarsichtfolie auslegen.</inhalt>
+      </Form_     >
+      <How_To1   >
+          <inhalt>Boden                         </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Butter in Stuecke schneiden, Schokolade grob hacken. Beides in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Butter und Schokolade schmelzen, glatt ruehren. </inhalt>
+      </How_To2   >
+      <Boden     >
+          <inhalt>Springformring auf eine Tortenplatte stellen, Guetzlimasse auf dem Boden verteilen, mit einem Glasboden gut andruecken, ca. 15 Min. kuehl stellen.</inhalt>
+      </Boden     >
+      <How_To3   >
+          <inhalt>Clementinen heiss abspuelen, trocken tupfen. Von den Clementinen Schale abreiben und ca. 1 dl Saft auspressen. Mit dem Quark und der Gelatine gut verruehren.</inhalt>
+      </How_To3   >
+      <Quarkfuellung>
+          <inhalt>Clementinen                   </inhalt>
+      </Quarkfuellung>
+      <Clementinen_>
+          <inhalt>Wasser mit dem Zucker aufkochen. Clementinen beigeben, Hitze reduzieren, ca. 10 Min. koecheln. Clementinen aus dem Sirup nehmen, abtropfen, auf einem Gitter auskuehlen. Vorgang einmal wiederholen. </inhalt>
+      </Clementinen_>
+      <Verzieren >
+          <inhalt>Formenring entfernen. Cheesecake mit den Clementinen belegen. Pistazien grob hacken, darueberstreuen.</inhalt>
+      </Verzieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

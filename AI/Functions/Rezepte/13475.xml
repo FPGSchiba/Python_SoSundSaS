@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>341 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Banane, geschaelt, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>300 g</quant>
+          <zutat>griechischer Jogurt nature, nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandelblaettchen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bananenstuecke in 2 Glaeser verteilen, mit dem Honig betraeufeln. Jogurt loeffelweise darauf verteilen, mit den Mandeln bestreuen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

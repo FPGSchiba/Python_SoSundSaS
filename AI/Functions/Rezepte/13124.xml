@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>649 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>54 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pouletbruestli>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Pouletbruestli, in feinen Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>wenig </quant>
+          <zutat>Chilipulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Pouletbruestli>
+      <Fuellen    >
+          <quant>8 </quant>
+          <zutat>Weizen-Tortillas</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, in Wuerfel</zutat>
+          <quant>150 </quant>
+          <zutat>Cheddar, gerieben</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <Pouletbruestli>
+          <inhalt>Wenig Oel in eine heisse Bratpfanne geben. Poulet portionenweise ca. 4 Min. ruehrbraten. Auf einen Teller geben. Salz bis und mit Chilipulver mischen, Pouletscheiben damit wuerzen. </inhalt>
+      </Pouletbruestli>
+      <Fuellen    >
+          <inhalt>1 Tortilla in eine heisse Bratpfanne ohne Fett geben, 1/4 der Avocado darauf verteilen. Poulet, Tomaten und Kaese je in 4 Portionen teilen. Je 1 Portion davon auf der Avocado verteilen. Mit einer zweiten Tortilla bedecken leicht andruecken, wenden. Hitze reduzieren, ca. 2 Min. fertig backen, bis der Kaese schmilzt, warm stellen. Vorgang 3-mal wiederholen. Quesadillas vierteln.</inhalt>
+      </Fuellen    >
+   </rezept>
+</Rezept>

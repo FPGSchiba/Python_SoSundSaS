@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>222 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mangosalsa>
+          <quant>1 </quant>
+          <zutat>Mango, in Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Mangosalsa>
+      <Tofu_marinieren>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Dukkah</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 </quant>
+          <zutat>Tofu nature (je ca. 200 g)</zutat>
+      </Tofu_marinieren>
+      <Tofu_Grillieren>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, laengs halbiert</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fine Food Dukkah</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesam</zutat>
+      </Tofu_Grillieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mangosalsa                    </inhalt>
+      </How_To    >
+      <Mangosalsa>
+          <inhalt>Mango und alle Zutaten bis und mit Salz sorgfaeltig mischen, kuehlstellen.</inhalt>
+      </Mangosalsa>
+      <How_To1   >
+          <inhalt>Limettensaft und alle Zutaten bis und mit Sesamoel in eine Schuessel geben, gut verruehren. Tofu beigeben, in der Marinade wenden, zugedeckt im Kuehlschrank ca. 1 Std. marinieren.</inhalt>
+      </How_To1   >
+      <Tofu_marinieren>
+          <inhalt>Tofu aus der Marinade nehmen, trocken tupfen. Bundzwiebeln mit der restlichen Marinade bestreichen.</inhalt>
+      </Tofu_marinieren>
+      <Tofu_Grillieren>
+          <inhalt>Tofu ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 10 Min. grillieren. Nach 3/4 der Garzeit, Bundzwiebeln beigeben, unter gelegentlichem wenden grillieren. Dukkah und Sesam mischen, zum Tofu servieren.</inhalt>
+      </Tofu_Grillieren>
+   </rezept>
+</Rezept>

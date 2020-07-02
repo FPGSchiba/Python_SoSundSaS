@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>313 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <In_Salz_gebeiztes_Eigelb>
+          <quant>150 g</quant>
+          <zutat>Meersalz</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eigelbe</zutat>
+      </In_Salz_gebeiztes_Eigelb>
+      <Tatar     >
+          <quant>500 g</quant>
+          <zutat>Rindsfilet oder Rindshuft, in Wuerfeli</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli mit dem Gruen, Radiesli in Wuerfeli, Gruen beiseite gelegt</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haselnuesse, grob gehackt, geroestet</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honigsenf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, abgeriebene Schale und Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Tatar     >
+   </einkaufliste>
+   <rezept>
+      <In_Salz_gebeiztes_Eigelb>
+          <inhalt>Salz und Zucker mischen, 2/3 davon in die Form geben, mit einem Loeffelruecken 4 Mulden formen. Eigelbe vorsichtig in die Mulden geben, sorgfaeltig mit der restlichen Salz-Zucker-Mischung bedecken. Form gut verschliessen, ca. 12 Std. kuehl stellen. Herausnehmen, abwaschen. </inhalt>
+      </In_Salz_gebeiztes_Eigelb>
+      <Tatar     >
+          <inhalt>Fleisch, Radiesli mit dem Radiesligruen und alle Zutaten bis und mit je einem 1 EL Oel und Limettensaft mischen, wuerzen. Tatar auf 4 Tellern anrichten, je ein Eigelb auf die Mitte legen. Restliches Oel und Limettensaft verruehren, salzen, daruebertraeufeln. </inhalt>
+      </Tatar     >
+   </rezept>
+</Rezept>

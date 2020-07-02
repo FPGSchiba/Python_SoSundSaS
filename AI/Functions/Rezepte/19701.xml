@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>184 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden_    >
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>12 Scheiben</quant>
+          <zutat>Toastbrot</zutat>
+          <quant>5 EL</quant>
+          <zutat>Panko</zutat>
+      </Boden_    >
+      <Spinat    >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlter Blattspinat, angetaut</zutat>
+          <quant>120 g</quant>
+          <zutat>Luzerner Rahmkaese</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Spinat    >
+      <Muffins_  >
+          <quant>150 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>12 Scheiben</quant>
+          <zutat>Toastbrot</zutat>
+          <quant>5 EL</quant>
+          <zutat>Panko</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlter Blattspinat, angetaut</zutat>
+          <quant>120 g</quant>
+          <zutat>Luzerner Rahmkaese</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>150 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+      </Muffins_  >
+   </einkaufliste>
+   <rezept>
+      <Boden_    >
+          <inhalt>                              </inhalt>
+      </Boden_    >
+      <Spinat    >
+          <inhalt>Zwiebel schaelen, fein schneiden. Oel in einer Pfanne erhitzen. Zwiebel kurz andaempfen, Spinat beigeben, zugedeckt, ca. 10 Min. erwaermen. Pfanne von der Platte nehmen, etwas abkuehlen. Kaese grob reiben. </inhalt>
+      </Spinat    >
+      <Muffins_  >
+          <inhalt>                              </inhalt>
+      </Muffins_  >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

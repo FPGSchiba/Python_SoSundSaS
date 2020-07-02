@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>282 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ragout    >
+          <quant>40 g</quant>
+          <zutat>getrocknete Morchelhuete</zutat>
+          <quant>3 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>600 g</quant>
+          <zutat>weisse Spargelspitzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Ragout    >
+      <Sauce     >
+          <quant>2 1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+          <quant>2 EL</quant>
+          <zutat>trockener weisser Vermouth (z.B. Noilly Prat)</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Ragout    >
+          <inhalt>Morchel-Huete einweichen, gut waschen, abtropfen, groessere laengs halbieren. Schalotten in feine Streifen schneiden, Spargelspitzen laengs halbieren, schraeg in ca. 2 cm lange Stuecke schneiden. Butter in einer Pfanne erwaermen, Schalotten und Morcheln ca. 3 Min. andaempfen. Spargeln beigeben, wuerzen, zugedeckt bei kleiner Hitze ca. 5 Min. mitdaempfen.</inhalt>
+      </Ragout    >
+      <Sauce     >
+          <inhalt>Halbrahm dazugiessen, offen ca. 5 Min. koecheln. Schnittlauch grob schneiden, mit dem Vermouth beigeben, mischen.</inhalt>
+      </Sauce     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

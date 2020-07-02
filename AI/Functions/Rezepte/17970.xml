@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>465 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Heidelbeeren>
+          <quant>300 g</quant>
+          <zutat>tiefgekuehlte Heidelbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Hanfprotein</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+      </Heidelbeeren>
+      <Bananen-Glace>
+          <quant>2 </quant>
+          <zutat>Bananen, reif, in Stuecken, ueber Nacht gefroren</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussmus</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 TL</quant>
+          <zutat>Honig (oder Ahornsirup)</zutat>
+      </Bananen-Glace>
+      <Toppings  >
+          <quant>50 g</quant>
+          <zutat>Heidelbeeren (frisch oder tiefgekuehlt)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Cocoa Nibs</zutat>
+          <quant>2 EL</quant>
+          <zutat>Granola, nach Wahl</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Heidelbeeren>
+          <inhalt>Heidelbeeren mit allen Zutaten bis und mit Datteln im Mixglas puerieren, auf der Bananen-Glace verteilen.</inhalt>
+      </Heidelbeeren>
+      <Bananen-Glace>
+          <inhalt>Bananen ca. 5 Min. antauen, mit allen Zutaten bis und mit Honig im Mixglas puerieren, in 2 Schalen verteilen.</inhalt>
+      </Bananen-Glace>
+      <Toppings  >
+          <inhalt>Heidelbeeren und Jogurt darauf verteilen, mit Cocoa Nibs und Granola verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

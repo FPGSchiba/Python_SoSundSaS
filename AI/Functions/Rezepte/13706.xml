@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>161 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sirup_    >
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sanddorn (Brotaufstrich)</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Sirup_    >
+      <Cookie-Masse>
+          <quant>100 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>25 g</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>25 g</quant>
+          <zutat>Weizenkeime</zutat>
+          <quant>3 EL</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>30 </quant>
+          <zutat>getrocknete Bananen, grob gehackt</zutat>
+          <quant>30 </quant>
+          <zutat>getrocknete Apfelringe, grob gehackt</zutat>
+      </Cookie-Masse>
+      <Anrichten >
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>150 g</quant>
+          <zutat>gemischte Beeren (z. B. Johannisbeeren, Himbeeren, Heidelbeeren)</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Sirup_    >
+          <inhalt>Rohzucker, Butter, Sanddorn und Salz in einer Pfanne kurz aufkochen. </inhalt>
+      </Sirup_    >
+      <Cookie-Masse>
+          <inhalt>Haferflocken und alle Zutaten bis und mit Apfelringe in einer Schuessel mischen. Warmen Sirup daruntermischen. Mit einem Essloeffel 12 Haeufchen mit genuegend Abstand auf zwei mit Backpapier belegte Bleche geben, etwas flach druecken. </inhalt>
+      </Cookie-Masse>
+      <Backen    >
+          <inhalt>Pro Blech ca. 15 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Anrichten >
+          <inhalt>Jogurt auf den Cookies verteilen, mit Beeren belegen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

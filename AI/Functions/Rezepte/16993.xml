@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>474 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nuesse_einweichen>
+          <quant>150 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+      </Nuesse_einweichen>
+      <Nussmasse >
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Edelhefe</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Nussmasse >
+      <Fertigstellen>
+          <quant>1 EL</quant>
+          <zutat>getrocknete italienische Kraeutermischung</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Nuesse_einweichen>
+          <inhalt>Nuesse ca. 12 Std. oder ueber Nacht in kaltem Wasser einweichen. Nuesse gut abtropfen. </inhalt>
+      </Nuesse_einweichen>
+      <Nussmasse >
+          <inhalt>Nuesse mit Zitronenschale und -saft, Edelhefe, Wasser, Knoblauchpulver und Salz im Cutter zu einer feinen, homogenen Masse puerieren. Ein Sieb auf eine Schuessel geben, mit einem Gazetuch auslegen. Nussmasse in das Tuch geben, Tuchecken einschlagen und beschweren (z.B. mit Schaelchen oder Konservendosen). Zugedeckt ca. 12 Std. oder ueber Nacht in den Kuehlschrank stellen. </inhalt>
+      </Nussmasse >
+      <Fertigstellen>
+          <inhalt>Masse sorgfaeltig aus dem Tuch nehmen, mit den Kraeutern bestreuen.</inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

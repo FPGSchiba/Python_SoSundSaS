@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>311 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>100 g</quant>
+          <zutat>weisse Schokolade</zutat>
+          <quant>100 g</quant>
+          <zutat>Butterguetzli (z.B. Petit Beurre), zerdrueckt</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>150 g</quant>
+          <zutat>Erdbeeren, die Haelfte davon  halbiert</zutat>
+      </Boden     >
+      <Erdbeer_Mousse>
+          <quant>250 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>4 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingeweicht, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>8 </quant>
+          <zutat>Erdbeeren</zutat>
+      </Erdbeer_Mousse>
+      <Schnitten >
+          <quant>50 g</quant>
+          <zutat>Heidelbeeren, in Scheiben</zutat>
+          <quant>50 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Johannisbeeren</zutat>
+      </Schnitten >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Guetzli, Butter und Kardamom mischen, Schokolade darunter ruehren, in die vorbereitete Form verteilen, gut andruecken, ca. 15 Min. kuehl stellen. Die ganzen Erdbeeren auf dem Boden, die halbierten am Formenrand verteilen. </inhalt>
+      </Boden     >
+      <Erdbeer_Mousse>
+          <inhalt>Erdbeeren, Puderzucker und Zitronensaft, puerieren, durch ein Sieb in eine Schuessel streichen. Gelatine mit dem Wasser aufloesen, mit 2 EL Masse verruehren, sofort unter die restliche Masse ruehren. Eiweiss mit dem Salz steif schlagen, mit dem Schlagrahm sorgfaeltig unter die Erdbeermasse ziehen, Masse in vorbereitete Form fuellen, Erdbeeren darin verteilen, zugedeckt ca. 3 Std. kuehl stellen.  </inhalt>
+      </Erdbeer_Mousse>
+      <Schnitten >
+          <inhalt>Mousse aus der Form nehmen, in 8 Schnitten schneiden, mit den Beeren verzieren. </inhalt>
+      </Schnitten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

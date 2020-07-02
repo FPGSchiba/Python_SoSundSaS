@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1091 kcal</NaehrwertProPerson>
+       <Fett>72 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>58 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Grossbritanien>
+          <quant>400 g</quant>
+          <zutat>Gschwellti (Raclettekartoffeln), vom Vortag, grob gerieben</zutat>
+          <quant>3 EL</quant>
+          <zutat>Whiskey</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Cheddar, in Scheiben</zutat>
+          <quant>8 </quant>
+          <zutat>Essiggurken, in Scheiben</zutat>
+      </Grossbritanien>
+      <Frankreich>
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in Wuerfeli</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>2 EL</quant>
+          <zutat>Calvados</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Brie, in Scheiben</zutat>
+      </Frankreich>
+      <Spanien   >
+          <quant>200 g</quant>
+          <zutat>Chorizo, fein gewuerfelt</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>20 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Manchego, in Scheiben</zutat>
+      </Spanien   >
+   </einkaufliste>
+   <rezept>
+      <Grossbritanien>
+          <inhalt>Kartoffeln mit Whisky und Salz mischen. Ca. 2 EL in die Raclette-Pfaennchen legen, Cheddar und Essiggurke darauf verteilen. Unter dem Raclette-Ofen-Grill ca. 6 Min. schmelzen.</inhalt>
+      </Grossbritanien>
+      <Frankreich>
+          <inhalt>Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und her- Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Pfanne von der Platte nehmen. Aceto und Wasser beigeben, Caramel zugedeckt weiterkoecheln, bis er sich aufgeloest hat. Fluessigkeit offen auf die Haelfte einkochen. Apfelwuerfeli und alle Zutaten bis und mit Salz beigeben, ca. 10 Min. koecheln, auskuehlen. Brie in Raclette-Pfaennchen geben, unter dem Raclette-Ofen-Grill ca. 5 Min. schmelzen, Calvados Aepfel darauf verteilen.</inhalt>
+      </Frankreich>
+      <Spanien   >
+          <inhalt>Chorizo in einer Bratpfanne ca. 5 Min. ruehrbraten. Chorizo herausnehmen, Zwiebel, Knoblauch und Paprika in das Bratfett geben, Hitze reduzieren, ca. 10 Min. ruehrbraten. Chorizo, Zucker, Essig, Sirup und Chili beigeben, zugedeckt bei kleiner Hitze ca. 30 Min. koecheln. Masse in den Cutter geben, kurz mixen, auskuehlen.  Manchego in die Raclette-Pfaennchen geben, unter dem Raclette-Ofen-Grill ca. 6 Min. schmelzen. Chorizo-Tapenade darauf verteilen. </inhalt>
+      </Spanien   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

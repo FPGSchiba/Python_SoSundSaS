@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>293 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig_ >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe  (7 g)</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Hefeteig_ >
+      <Formen_   >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>4 EL</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+      </Formen_   >
+      <Glasur    >
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig_ >
+          <inhalt>Mehl, Salz, Zucker, Zimt und Hefe in einer Schuessel mischen. Butter, Milch und Ei beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig_ >
+      <Formen_   >
+          <inhalt>Butter, Zucker, Zimt, Kardamompulver und Nuesse verruehren. Teig auf wenig Mehl zu einem Rechteck von ca. 40 x 50 cm auswallen. Fuellung darauf verteilen, dabei ringsum einen Rand von ca. 1 cm frei lassen. Teig von der Laengsseite her aufrollen, mit einem Brotmesser ohne Druck in ca. 3 cm dicke Scheiben schneiden, auf ein mit Backpapier belegtes Blech legen, bei Raumtemperatur nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Formen_   >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. </inhalt>
+      </Backen    >
+      <Glasur    >
+          <inhalt>Puderzucker und Zitronensaft verruehren, Zimtschnecken damit bestreichen, auf einem Gitter auskuehlen.</inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

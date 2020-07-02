@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>302 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pouletbruestli_fuellen>
+          <quant>4 </quant>
+          <zutat>Pouletbruestli</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale, ganzer Saft</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian, Blaetter abgezupft</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, in Scheiben</zutat>
+          <quant>6 </quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, laengs halbiert</zutat>
+      </Pouletbruestli_fuellen>
+      <Braten    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>3 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kapern, abgespuelt, abgetropft</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+      </Braten    >
+   </einkaufliste>
+   <rezept>
+      <Pouletbruestli_fuellen>
+          <inhalt>Pouletbruestli der Laenge nach einschneiden, innen und aussen wuerzen. Zitronenschale, Thymian, Mozzarella und je 3 Spargeln in die Oeffnung legen, Pouletbruestli schliessen, mit je einem Zahnstocher fixieren. Zitronensaft beiseite stellen.</inhalt>
+      </Pouletbruestli_fuellen>
+      <Braten    >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen. Pouletbruestli rundum ca. 6 Min. anbraten, in die vorbereitete Form legen. Bouillon in dieselbe Pfanne giessen, Bratsatz loesen. Maizena mit dem beiseite gestellten Zitronensaft verruehren, dazugiessen, aufkochen und ca. 2 Min. koecheln. Mit den Kapern und dem Thymian zum Poulet in die Form geben. </inhalt>
+      </Braten    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

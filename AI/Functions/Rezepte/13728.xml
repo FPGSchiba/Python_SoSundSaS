@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>841 kcal</NaehrwertProPerson>
+       <Fett>65 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>55 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Krautstiel_kochen>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>700 g</quant>
+          <zutat>Krautstiel, in ca. 1 1/2 cm breiten Streifen</zutat>
+          <quant>120 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Krautstiel_kochen>
+      <Plaetzli_panieren>
+          <quant>8 </quant>
+          <zutat>Schweinsplaetzli  (z.B. Nierstueck, je ca. 80 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant>120 g</quant>
+          <zutat>Cornflakes</zutat>
+      </Plaetzli_panieren>
+      <Plaetzli_braten>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, in Schnitzen</zutat>
+      </Plaetzli_braten>
+   </einkaufliste>
+   <rezept>
+      <Krautstiel_kochen>
+          <inhalt>Butter in einer Pfanne warm werden lassen. Krautstiel ca. 15 Min. daempfen, Kaese daruntermischen, salzen.</inhalt>
+      </Krautstiel_kochen>
+      <Plaetzli_panieren>
+          <inhalt>Plaetzli wuerzen, portionenweise im Mehl wenden, ueberschuessiges Mehl abschuetteln. Plaetzli im Ei, dann in den Cornflakes wenden, Panade gut andruecken.</inhalt>
+      </Plaetzli_panieren>
+      <Plaetzli_braten>
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Plaetzli portionenweise bei mittlerer Hitze beidseitig je ca. 3 Min. braten. Plaetzli mit dem Krautstiel anrichten, Zitronenschnitze dazu servieren.</inhalt>
+      </Plaetzli_braten>
+   </rezept>
+</Rezept>

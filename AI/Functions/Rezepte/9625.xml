@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>271 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>5 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schokoladenpulver</zutat>
+      </Fill_Header>
+      <Garnitur  >
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>300 g</quant>
+          <zutat>blaue und weisse kernlose Trauben</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Geschlossenen Formenring auf ein mit Backpapier belegtes Blech stellen. Eiweisse mit dem Salz steif schlagen, die Haelfte des Zuckers beigeben, weiterschlagen, bis die Masse glaenzt. Restlichen Zucker und Essig beigeben, weiterschlagen, bis der Eischnee glaenzend und sehr steif ist. Kakao- und Schokoladepulver auf den Eischnee sieben, sorgfaeltig mischen. Die Masse in der Form verteilen, mit einem Spachtel vom Rand loesen, Formenring entfernen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen/trocknen: Ofen auf 200 Grad vorheizen, dann Hitze auf 150 Grad reduzieren. Pavlova ca. 20 Min. in der unteren Haelfte backen. Hitze auf 120 Grad reduzieren, Pavlova ca. 1 1/2 Std. trocknen lassen, dabei die Ofentuere mit einem Kellenstiel offen halten. Pavlova herausnehmen, auf einem Gitter auskuehlen. Pavlova auf eine Tortenplatte schieben.</inhalt>
+      </How_To1   >
+      <Garnitur  >
+          <inhalt>Rahm mit Creme fraiche steif schlagen, auf der Pavlova verteilen. Trauben waschen, im Zucker wenden, auf dem Rahm verteilen.</inhalt>
+      </Garnitur  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

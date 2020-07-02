@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>333 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aepfel_marinieren>
+          <quant>800 g</quant>
+          <zutat>Aepfel (z.B. Kissabel), geschaelt, halbiert, Kerngehaeuse entfernt, in ca. 1 mm dicke Scheiben gehobelt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Aepfel_marinieren>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>120 g</quant>
+          <zutat>gemahlene geschaelte Mandeln, geroestet</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Aepfel_marinieren>
+          <inhalt>Aepfel mit Zitronensaft und Zucker mischen, zugedeckt ca. 30 Min. marinieren. </inhalt>
+      </Aepfel_marinieren>
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz mit den Schwingbesen des Handruehrgeraets darunterruehren. Eigelb darunterruehren. Mehl beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen. Teig zwischen zwei Backpapieren rund (ca. 32 cm Ø) auswallen. Oberes Backpapier entfernen, Teig mit dem Backpapier ins Blech legen. Teigboden mit einer Gabel dicht einstechen, mit dem entfernten Backpapier belegen und mit getrockneten Huelsenfruechten beschweren.</inhalt>
+      </Teig      >
+      <Blindbacken>
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Backpapier und Huelsenfruechte entfernen, Tarteboden etwas abkuehlen. </inhalt>
+      </Blindbacken>
+      <Fuellung   >
+          <inhalt>Butter, Zucker und Salz mit den Schwingbesen des Handruehrgeraets gut verruehren, Ei und Eiweiss beigeben, ca. 3 Min. weiterruehren, bis die Masse heller ist. Mandeln, Vanille und Mehl daruntermischen.</inhalt>
+      </Fuellung   >
+      <Tarte     >
+          <inhalt>Fuellung auf dem Tarteboden verteilen. Apfelscheiben zu Rosen formen, auf die Fuellung stellen. </inhalt>
+      </Tarte     >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des Ofens. Herausnehmen, im Blech etwas abkuehlen, aus dem Blech heben, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

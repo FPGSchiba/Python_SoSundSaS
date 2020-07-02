@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>652 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>61 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffel-Randen-Roesti>
+          <quant>500 g</quant>
+          <zutat>mehlig kochende Kartoffeln, grob gerieben</zutat>
+          <quant>250 g</quant>
+          <zutat>rohe Randen, grob gerieben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Kartoffel-Randen-Roesti>
+      <Rehrueckenfilet>
+          <quant>2 </quant>
+          <zutat>Rehrueckenfilet (je ca. 400 g)</zutat>
+          <quant>6 </quant>
+          <zutat>Wacholderbeeren, im Moerser zerstossen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Rehrueckenfilet>
+      <Feigen-Specksauce>
+          <quant>120 g</quant>
+          <zutat>Bauernspeck am Stueck, Schwarte entfernt, in feinen Staengeli</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wildfond</zutat>
+          <quant>2 EL</quant>
+          <zutat>Feigensenf</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 </quant>
+          <zutat>Feigen, in Schnitzchen</zutat>
+      </Feigen-Specksauce>
+   </einkaufliste>
+   <rezept>
+      <Kartoffel-Randen-Roesti>
+          <inhalt>Kartoffeln und Randen mit dem Salz mischen. Bratbutter in einer beschichteten Bratpfanne erhitzen. Gemuese beigeben, unter gelegentlichem Wenden ca. 10 Min. anbraten. Roesti zu einem Kuchen formen. Roesti zugedeckt bei mittlerer Hitze ca. 15 Min. weiterbraten. Einen grossen flachen Teller auf die Pfanne legen. Roesti auf den Teller stuerzen. Wenig Bratbutter in die Pfanne geben, Roesti mit der ungebratenen Seite nach unten in die Pfanne zurueckgleiten lassen, offen  ca. 15 Min. fertig braten.</inhalt>
+      </Kartoffel-Randen-Roesti>
+      <Rehrueckenfilet>
+          <inhalt>Fleisch ca. 30 Min. vor dem Anbraten aus dem Kuehlschrank nehmen. Ofen auf 60 Grad erwaermen. Wacholderbeeren, Rosmarin, Salz und Pfeffer mischen, Fleisch damit einreiben. Bratbutter in einer beschichteten Bratpfanne erhitzen. Fleisch rundum ca. 5 Min. anbraten, im vorgeheizten Ofen bis zum Servieren ruhen lassen. </inhalt>
+      </Rehrueckenfilet>
+      <Feigen-Specksauce>
+          <inhalt>Speck in dieselbe Pfanne geben, bei mittlerer Hitze knusprig braten. Fond dazugiessen, Bratsatz loesen, unter Ruehren etwas einkoecheln, Senf darunterruehren. Kalte Butter portionenweise unter Ruehren mit dem Schwingbesen in die Sauce geben. Dabei die Pfanne hin und wieder kurz auf die Platte stellen, um die Sauce nur leicht zu erwaermen, sie darf nicht kochen. Ruehren, bis die Sauce cremig ist, wuerzen. Feigen beigeben. Sauce zum Rehfleisch und der Roesti servieren. </inhalt>
+      </Feigen-Specksauce>
+   </rezept>
+</Rezept>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>345 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>3 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Creme     >
+      <Eiweissschnee>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Eiweissschnee>
+      <Eiweisswolke>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Trockenfrucht-Nussmischung, grob gehackt</zutat>
+      </Eiweisswolke>
+   </einkaufliste>
+   <rezept>
+      <Creme     >
+          <inhalt>Orangensaft und alle Zutaten bis und mit Eigelben mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Sobald die Masse bindet, die Pfanne sofort von der Platte nehmen, ca. 2 Min. weiterruehren. Creme durch ein Sieb in eine Schuessel giessen, auskuehlen, zugedeckt ca. 1 Std. kuehl stellen. Creme glatt ruehren. Rahm steif schlagen, mit dem Gummischaber sorgfaeltig unter die Creme ziehen. Creme in die Schalen fuellen.</inhalt>
+      </Creme     >
+      <Eiweissschnee>
+          <inhalt>Eiweiss mit dem Salz steif schlagen, Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt.</inhalt>
+      </Eiweissschnee>
+      <Eiweisswolke>
+          <inhalt>Milch in einer weiten Pfanne erwaermen. Vom Eischnee mit zwei Essloeffeln 4 Nocken abstechen, auf die Milch setzen, offen bei kleiner Hitze knapp unter dem Siedepunkt ca. 8 Min. ziehen lassen. Nocken mit einer Schaumkelle herausnehmen, auf der Creme anrichten. Frucht-Nussmischung darueberstreuen.</inhalt>
+      </Eiweisswolke>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

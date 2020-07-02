@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>204 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Zuckersirup>
+          <quant>5 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>5 EL</quant>
+          <zutat>Wasser</zutat>
+      </Zuckersirup>
+      <Basil_Smash>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, Blaetter abgezupft, wenig beiseite gestellt</zutat>
+          <quant>12 EL</quant>
+          <zutat>Gin (ca. 2 dl)</zutat>
+          <quant>8 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Basil_Smash>
+   </einkaufliste>
+   <rezept>
+      <Zuckersirup>
+          <inhalt>Zucker und Wasser in einer kleinen Pfanne aufkochen, koecheln, bis sich der Zucker aufgeloest hat, auskuehlen. </inhalt>
+      </Zuckersirup>
+      <Basil_Smash>
+          <inhalt>Die Glaeser mit Eiswuerfeln fuellen. 1/4 des Basilikums in das Konfi-Glas geben, mit einer Kelle etwas zerdruecken. 3 EL Gin, 2 EL Zitronensaft und 2 EL Zuckersirup beigeben, mit Eiswuerfel Glas auffuellen, gut verschliessen. Glas ca. 1/2 Min. gut schuetteln. Cocktail durch ein Sieb in ein Glas giessen, mit beiseite gestellten Basilikumblaettern garnieren. Vorgang nochmals 3-mal wiederholen.  </inhalt>
+      </Basil_Smash>
+   </rezept>
+</Rezept>

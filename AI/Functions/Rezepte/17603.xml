@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>17 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Limonade_ >
+          <quant>1/2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>70 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 </quant>
+          <zutat>Zitronen, nur Saft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>2 </quant>
+          <zutat>Zitronengras , laengs halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, in Scheiben</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+      </Limonade_ >
+   </einkaufliste>
+   <rezept>
+      <Limonade_ >
+          <inhalt>Wasser, Honig und Zitronensaft verruehren. Pfefferminze und alle Zutaten bis und mit Limettenscheiben beigeben, mit Mineralwasser auffuellen, bis zum Servieren kuehl stellen. </inhalt>
+      </Limonade_ >
+   </rezept>
+</Rezept>

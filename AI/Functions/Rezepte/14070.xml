@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>459 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, in Scheiben</zutat>
+          <quant>500 g</quant>
+          <zutat>Suesskartoffeln, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Curry</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suppe     >
+      <Knusper   >
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>Toastbrot, in Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Aprikosen, in Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Knusper   >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Zwiebel, Knoblauch, Suesskartoffeln und Birne ca. 2 Min. andaempfen. Curry beigeben, Bouillon dazugiessen, Suppe bei mittlerer Hitze ca. 15 Min. kochen. Suppe puerieren, Saucen-Halbrahm dazugiessen, wuerzen. </inhalt>
+      </Suppe     >
+      <Knusper   >
+          <inhalt>Butter in einer Bratpfanne warm werden lassen. Toastbrot und Aprikosen ca. 2 Min. ruehrbraten, Petersilie beigeben. Suppe anrichten, Aprikosenknusper darauf verteilen.</inhalt>
+      </Knusper   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>152 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 kg</quant>
+          <zutat>vorwiegend festkochende Kartoffeln, unter fliessendem Wasser gebuerstet</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kartoffeln knapp bedeckt im siedenden Wasser bei mittlerer Hitze ca. 25 Min. weich kochen. Kartoffeln abtropfen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=uERVr2oDXrU"/>
+</Rezept>

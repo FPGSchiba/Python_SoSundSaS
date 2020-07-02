@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>385 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_schmelzen>
+          <quant>5 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade (64 % Kakao), fein gehackt</zutat>
+      </Schokolade_schmelzen>
+      <Glace_herstellen>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+      </Glace_herstellen>
+      <Gefrieren >
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade (64 % Kakao), grob gehackt</zutat>
+      </Gefrieren >
+      <Anrichten >
+          <quant>40 g</quant>
+          <zutat>Salzbrezeli, zerbroeckelt</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Schokolade_schmelzen>
+          <inhalt>Rahm heiss werden lassen, Pfanne von der Platte nehmen, Schokolade beigeben, schmelzen.</inhalt>
+      </Schokolade_schmelzen>
+      <Glace_herstellen>
+          <inhalt>Eier und Zucker in einer Schuessel gut verruehren. Den Schokoladerahm unter Ruehren dazugiessen, zurueck in die Pfanne giessen, unter staendigem Ruehren bei mittlerer Hitze bis vors Kochen bringen. Pfanne von der Platte nehmen, ca. 2 Min. weiterruehren. Creme durch ein Sieb in eine Chromstahlschuessel giessen, auskuehlen.</inhalt>
+      </Glace_herstellen>
+      <Gefrieren >
+          <inhalt>Masse zugedeckt ca. 3 Std. gefrieren, dabei 3-mal durchruehren. Schokolade darunterruehren, ca. 1 Std. fertig gefrieren.</inhalt>
+      </Gefrieren >
+      <Anrichten >
+          <inhalt>Aus der Glace Kugeln formen, Salzsbrezeli darueberstreuen.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

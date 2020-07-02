@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>467 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mousse    >
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 400 g)</zutat>
+          <quant>120 g</quant>
+          <zutat>dunkle Schokolade, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Agavensirup</zutat>
+      </Mousse    >
+      <Anrichten_&amp;_Verzieren>
+          <quant>1 Dose</quant>
+          <zutat>Kokosmilch (400 ml)</zutat>
+      </Anrichten_&amp;_Verzieren>
+   </einkaufliste>
+   <rezept>
+      <Mousse    >
+          <inhalt>Kicherebsen abtropfen, den Aufguss (Aquafaba) dabei auffangen. (Kichererbsen zugedeckt kuehl stellen und spaeter z.B. fuer einen Salat oder Humus verwenden). Aquafaba in den Standmixer geben und so lange aufschlagen, bis eine weisse, schneeaehnliche Konsistenz entsteht. Schokolade im Wasserbad schmelzen, Agavensirup daruntermischen. Schokolade sorgfaeltig mit einem Holzloeffel unter den Aquafaba-Schnee ziehen. </inhalt>
+      </Mousse    >
+      <Anrichten_&amp;_Verzieren>
+          <inhalt>Kokosmilch ueber Nacht in den Kuehlschrank stellen. Den "hart" gewordenen Teil der Kokosmilch aus der Dose nehmen, mit den Schwinbesen des Handruehrgeraetes schaumig schlagen. Schokoladenmousse in Glaeser verteilen, mit dem Kokos-Schaum verzieren. Mind. 1 Stunde kuehl stellen. </inhalt>
+      </Anrichten_&amp;_Verzieren>
+   </rezept>
+</Rezept>

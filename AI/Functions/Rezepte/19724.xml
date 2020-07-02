@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>74 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>100 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Himbeerkonfituere</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Taschen   >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 25 x 42 cm)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+      </Taschen   >
+      <Backen    >
+          <quant>1 TL</quant>
+          <zutat>Himbeerkonfituere</zutat>
+          <quant>30 </quant>
+          <zutat>Zucker-Augen</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Himbeerkonfituere</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 25 x 42 cm)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Himbeerkonfituere</zutat>
+          <quant>30 </quant>
+          <zutat>Zucker-Augen</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Taschen                       </inhalt>
+      </Fuellung   >
+      <Taschen   >
+          <inhalt>                              </inhalt>
+      </Taschen   >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen. Mit wenig Himbeerkonfituere je zwei Augen aufkleben. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

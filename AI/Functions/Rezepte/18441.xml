@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>2 </quant>
+          <zutat>rote Chilis, entkernt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Wasabi-Paste</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Limettensaft</zutat>
+      </Sauce     >
+      <Ceviche   >
+          <quant>400 g</quant>
+          <zutat>Thunfisch-Steaks (Sushi-Qualitaet), in Wuerfeln</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke, in Wuerfeln</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+      </Ceviche   >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Chilis mit allen Zutaten bis und mit Limettensaft im Mixglas puerieren. Sauce zugedeckt beiseite stellen.</inhalt>
+      </Sauce     >
+      <Ceviche   >
+          <inhalt>Thunfisch mit der beiseite gestellten Sauce mischen, kurz ziehen lassen. Radiesli und Gurke daruntermischen, anrichten, mit Koriander garnieren</inhalt>
+      </Ceviche   >
+   </rezept>
+</Rezept>

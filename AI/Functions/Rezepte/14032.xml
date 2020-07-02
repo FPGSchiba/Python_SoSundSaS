@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>150 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung_  >
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten, grob gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>Salami in Tranchen, in Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Tomatensauce Basilico</zutat>
+          <quant>100 g</quant>
+          <zutat>Fondue Kaesemischung </zutat>
+      </Fuellung_  >
+      <Pizza-Balls>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Pizzateig  (ca. 25x33cm)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>getrockneter Oregano</zutat>
+          <quant>20 g</quant>
+          <zutat>Fondue Kaesemischung </zutat>
+      </Pizza-Balls>
+   </einkaufliste>
+   <rezept>
+      <Fuellung_  >
+          <inhalt>Tomaten und alle Zutaten bis und mit Kaese mischen. </inhalt>
+      </Fuellung_  >
+      <Pizza-Balls>
+          <inhalt>Pizzateig zu einer Rolle formen, in 12 Portionen teilen, zu Kugeln formen. Teigstuecke auf wenig Mehl auswallen (je ca. 15 cm Ø). Je 2 EL Fuellung auf die Mitte der Teigrondellen geben, Kugeln formen, gut andruecken. Teigkugeln mit dem Verschluss nach unten auf einem mit Backpapier belegten Blech so aneinander legen, dass ein "Rechteck" entsteht. Oregano und Kaese mischen, Pizza-Balls damit bestreuen.</inhalt>
+      </Pizza-Balls>
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

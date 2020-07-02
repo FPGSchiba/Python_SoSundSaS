@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>497 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaetzli-Teig>
+          <quant>200 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Dinkelvollkornmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Spaetzli-Teig>
+      <Rosenkohl >
+          <quant>800 g</quant>
+          <zutat>Rosenkohl, halbiert</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Rosenkohl >
+      <Spaetzli_zubereiten>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Spaetzli_zubereiten>
+      <Anrichten >
+          <quant>4 EL</quant>
+          <zutat>Pekannuesse, grob gehackt, geroestet</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Spaetzli-Teig>
+          <inhalt>Mehle, Salz und Kurkuma in einer Schuessel mischen, in der Mitte eine Mulde eindruecken. Wasser nach und nach unter Ruehren in die Mulde giessen, mit einer Kelle mischen und so lange klopfen, bis der Teig Blasen wirft. Zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </Spaetzli-Teig>
+      <Rosenkohl >
+          <inhalt>Rosenkohl mit allen Zutaten bis und mit Salz mischen, auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Rosenkohl >
+      <Backen:   >
+          <inhalt>ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen:   >
+      <Spaetzli_zubereiten>
+          <inhalt>Teig portionenweise mit einem nassen Spachtel auf einem nassen Brett ausstreichen. Mit dem Spachtel schmale Teigstreifen vom Brett direkt ins siedende Salzwasser schaben, dabei den Spachtel immer wieder ins siedende Wasser tauchen. Sobald die Spaetzli an die Oberflaeche steigen, mit einer Schaumkelle herausnehmen, warm stellen. Vor dem Anrichten etwas Oel in einer Bratpfanne erhitzen. Spaetzli portionenweise anbraten, Zitronenschale, -saft und Pfeffer daruntermischen.</inhalt>
+      </Spaetzli_zubereiten>
+      <Anrichten >
+          <inhalt>Spaetzli auf den Tellern verteilen, Rosenkohl darauf anrichten, mit Pekannuessen garnieren.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>218 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Milchmasse_>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Milchmasse_>
+      <Himbeermasse_>
+          <quant>150 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>25 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>150 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>25 g</quant>
+          <zutat>Zucker</zutat>
+      </Himbeermasse_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Milchmasse                    </inhalt>
+      </How_To    >
+      <Milchmasse_>
+          <inhalt>Rahm steif schlagen,          </inhalt>
+      </Milchmasse_>
+      <Himbeermasse_>
+          <inhalt>                              </inhalt>
+      </Himbeermasse_>
+      <Glace_    >
+          <inhalt>                              </inhalt>
+      </Glace_    >
+   </rezept>
+</Rezept>

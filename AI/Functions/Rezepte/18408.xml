@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>120 kcal</NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Feigensenf_>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>400 g</quant>
+          <zutat>Feigen, in Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>40 g</quant>
+          <zutat>gelbe Senfkoerner</zutat>
+          <quant>2 TL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fenchelsamen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Feigensenf_>
+   </einkaufliste>
+   <rezept>
+      <Feigensenf_>
+          <inhalt>Butter in einer Pfanne erwaermen. Feigen beigeben, ca. 5 Min. andaempfen. Wein, Aceto, Zucker und Salz beigeben, zugedeckt unter gelegentlichem Ruehren bei kleiner Hitze ca. 10 Min. koecheln. Senfkoerner, Thymianblaettchen, Fenchelsamen und Pfeffer und beigeben, puerieren. </inhalt>
+      </Feigensenf_>
+      <Einfuellen >
+          <inhalt>Feigensenf nochmals aufkochen, siedend heiss bis knapp unter den Rand in die sauberen, vorgewaermten Glaeser fuellen, sofort verschliessen. Auskuehlen, im Kuehlschrank ca. 3 Tage ziehen lassen, damit sich das Aroma vollstaendig entfaltet.</inhalt>
+      </Einfuellen >
+   </rezept>
+</Rezept>

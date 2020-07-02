@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>742 kcal</NaehrwertProPerson>
+       <Fett>55 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaffee_Rahm>
+          <quant>30 g</quant>
+          <zutat>Kaffeebohnen (z.B. Fine Food Hawaiian Kona Coffee)</zutat>
+          <quant>6 dl</quant>
+          <zutat>Halbrahm</zutat>
+      </Kaffee_Rahm>
+      <Pannacotta>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+      </Pannacotta>
+      <Glace     >
+          <quant>100 g</quant>
+          <zutat>Christstollen (z.B. Fine Food Christstollen aus Dresden), fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Amaretto</zutat>
+          <quant>250 g</quant>
+          <zutat>Glace Fior di Latte (z.B. Fine Food Gelato Fior di Latte)</zutat>
+      </Glace     >
+      <Anrichten >
+          <quant>1/2 TL</quant>
+          <zutat>Gruentee (z.B. Fine Food Sencha )</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haselnuesse (z.B. Fine Food Nocciola Piemonte IGP), grob gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Feigen, in Schnitzchen</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Kaffee_Rahm>
+          <inhalt>Die Kaffeebohnen zum Rahm geben, zugedeckt im Kuehlschrank ca. 8 Std. oder ueber Nacht ziehen lassen. </inhalt>
+      </Kaffee_Rahm>
+      <Pannacotta>
+          <inhalt>Rahm durch ein Sieb in eine Pfanne giessen, mit Zucker aufkochen. Hitze reduzieren, ca. 10 Min. einkoecheln (ergibt ca. 5 1/2 dl). Gelatine unter den heissen Rahm ruehren, durch ein Sieb in einen Messbecher giessen, in die vorbereiteten Foermchen fuellen, auskuehlen. Zugedeckt im Kuehlschrank ca. 6 Std. oder ueber Nacht fest werden lassen. </inhalt>
+      </Pannacotta>
+      <Glace     >
+          <inhalt>Christstollen und Amaretto in einer Chromstahlschuessel mischen. Glace beigeben, mit den Schwingbesen des Handruehrgeraets kurz mitruehren bis eine homogene Masse entsteht. Masse zugedeckt ca. 2 Std. gefrieren. </inhalt>
+      </Glace     >
+      <Anrichten >
+          <inhalt>Panna cotta mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen. Foermchen kurz in warmes Wasser tauchen, Panna cotta auf Teller stuerzen. Mit Glace, Gruentee, Nuessen und Feigen anrichten. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

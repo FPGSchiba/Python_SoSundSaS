@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>467 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace_    >
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, nur ausgekratzte Samen</zutat>
+          <quant>3 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+      </Glace_    >
+      <Schokolade>
+          <quant>100 g</quant>
+          <zutat>Schokolade , grob gehackt</zutat>
+      </Schokolade>
+   </einkaufliste>
+   <rezept>
+      <Glace_    >
+          <inhalt>Milch mit Zucker und Vanille in einer Pfanne unter Ruehren aufkochen, in eine Chromstahlschuessel giessen, auskuehlen. Schlagrahm mit dem Gummischaber sorgfaeltig darunterziehen. Zugedeckt ca. 5 Std. tiefkuehlen, dabei 2-3-mal durchruehren. </inhalt>
+      </Glace_    >
+      <Schokolade>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Mit einer Gabel unter die Eismasse mischen, nochmals ca. 1 Std. tiefkuehlen.</inhalt>
+      </Schokolade>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

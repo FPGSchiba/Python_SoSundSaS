@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>260 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>800 g</quant>
+          <zutat>gemischtes Gemuese (z.B. Radiesli, Broccoli, Blumenkohl, Rueebli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>600 g</quant>
+          <zutat>Rindshuft (tiefgekuehlte Rindshuft fuer Fondue-Chinois)</zutat>
+      </Fill_Header>
+      <Sud:      >
+          <quant>1 1/2 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer</zutat>
+          <quant>50 g</quant>
+          <zutat>Shiitake-Pilze</zutat>
+      </Sud:      >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemuese in mundgerechte Stuecke schneiden, im Salzwasser knapp weich kochen, abtropfen. Zusammen mit dem Fleisch zum Fondue servieren.</inhalt>
+      </How_To    >
+      <Sud:      >
+          <inhalt>Bouillon aufkochen. Ingwer in Scheibchen, Shiitake in Streifen schneiden, beides zur Bouillon geben, in ein Caquelon fuellen, auf ein Rechaud auf den Tisch stellen.</inhalt>
+      </Sud:      >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

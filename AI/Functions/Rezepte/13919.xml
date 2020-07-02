@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>432 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>500 g</quant>
+          <zutat>Pastinaken, in kleinen Stuecken</zutat>
+          <quant>200 g</quant>
+          <zutat>Lauch, in Ringen</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in kleinen Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>7 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Suppe     >
+      <Garnitur  >
+          <quant>50 g</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in ca. 1 mm duennen Scheiben gehobelt</zutat>
+          <quant>150 g</quant>
+          <zutat>rohe Randen, in ca. 1 mm duennen Scheiben gehobelt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Kresse</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Pastinaken, Lauch, Aepfel und Sternanis ca. 2 Min. andaempfen. Bouillon und Apfelsaft dazugiessen, aufkochen, zugedeckt bei mittlerer Hitze ca. 15 Min. weich kochen. Sternanis entfernen. Suppe puerieren, Saucen-Halbrahm dazugiessen, nur noch heiss werden lassen, salzen.</inhalt>
+      </Suppe     >
+      <Garnitur  >
+          <inhalt>Kuerbiskerne ohne Fett in einer beschichteten Bratpfanne  ca. 3 Min. roesten, herausnehmen. Wenig Oel in derselben Pfanne heiss werden lassen. Rueebli bei mittlerer Hitze ca. 6 Min. ruehrbraten, herausnehmen. Randen bei mittlerer Hitze ca. 6 Min. ruehrbraten, herausnehmen, beides salzen. Suppe anrichten, Kuerbiskerne, Rueebli, Randen und Kresse darauf verteilen.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

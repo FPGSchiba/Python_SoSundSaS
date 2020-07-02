@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>126 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Drink     >
+          <quant>12 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Whiskey (z.B. Wild Turkey Bourbon Whiskey)</zutat>
+          <quant>4 dl</quant>
+          <zutat>Cola (z.B. Happy Cola)</zutat>
+          <quant>1/4 </quant>
+          <zutat>Bio-Zitrone, in duennen Scheiben</zutat>
+      </Drink     >
+   </einkaufliste>
+   <rezept>
+      <Drink     >
+          <inhalt>Eiswuerfel und Whiskey in die Glaeser verteilen, Cola dazugiessen und mit Zitronenscheiben garnieren. </inhalt>
+      </Drink     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>124 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Jogurtmasse_>
+          <quant>360 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>30 g</quant>
+          <zutat>Meringue-Schalen</zutat>
+      </Jogurtmasse_>
+      <Gefrieren >
+          <quant>100 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>10 </quant>
+          <zutat>Holzstaengeli</zutat>
+          <quant>360 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>30 g</quant>
+          <zutat>Meringue-Schalen</zutat>
+          <quant>100 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>10 </quant>
+          <zutat>Holzstaengeli</zutat>
+      </Gefrieren >
+   </einkaufliste>
+   <rezept>
+      <Jogurtmasse_>
+          <inhalt>Cakeform mit Backpapier auslegen. Jogurt mit allen Zutaten bis und mit Honig puerieren. Masse in die Cakeform giessen.  </inhalt>
+      </Jogurtmasse_>
+      <Gefrieren >
+          <inhalt>Brombeeren halbieren, Erdbeeren in Scheiben schneiden.</inhalt>
+      </Gefrieren >
+      <Frozen_Jogurt>
+          <inhalt>Glace aus der Form nehmen, Backpapier entfernen, in Stuecke schneiden, sofort geniessen.</inhalt>
+      </Frozen_Jogurt>
+   </rezept>
+</Rezept>

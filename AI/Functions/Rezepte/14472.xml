@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>632 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kissen    >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (25x42 cm)</zutat>
+          <quant>250 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>2 </quant>
+          <zutat>hart gekochte Eier, grob gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kissen    >
+      <Belegen   >
+          <quant>3 </quant>
+          <zutat>Birnen, halbiert, entkernt, in Schnitzchen</zutat>
+          <quant>einige </quant>
+          <zutat>Butterfloeckli</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Belegen   >
+   </einkaufliste>
+   <rezept>
+      <Kissen    >
+          <inhalt>Teig entrollen, in 4 Rechtecke schneiden, mit dem Backapier auf ein Blech ziehen. Huettenkaese, Kaese und Eier mischen, wuerzen. Kaesemasse auf den Teigstuecken verteilen, dabei ringsum einen Rand von ca. 1 cm frei lassen.</inhalt>
+      </Kissen    >
+      <Belegen   >
+          <inhalt>Birnen ziegelartig auf die Kaesemasse legen. Butter, Sbrinz und Rosmarin darauf verteilen, wuerzen. </inhalt>
+      </Belegen   >
+      <Backen    >
+          <inhalt>Ca. 18 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

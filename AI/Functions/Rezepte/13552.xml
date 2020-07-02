@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>428 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Paneer    >
+          <quant>400 g</quant>
+          <zutat>Paneer, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>8 </quant>
+          <zutat>Holzspiesschen</zutat>
+          <quant>3 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Curry</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Paneer    >
+      <Anrichten >
+          <quant>2 </quant>
+          <zutat>Limetten, heiss abgespuelt, trocken getupft, in Schnitzen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Paneer                        </inhalt>
+      </How_To    >
+      <Paneer    >
+          <inhalt>Holzkohle-/ Gas-/ Elektrogrill:  Paneer ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 220 Grad) zugedeckt beidseitig je ca. 4 Min. grillieren. </inhalt>
+      </Paneer    >
+      <Anrichten >
+          <inhalt>Paneer mit den Limettenschnitzen, Koriander und Chili anrichten. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

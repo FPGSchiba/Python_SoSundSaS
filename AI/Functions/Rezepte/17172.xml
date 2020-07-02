@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>259 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbiskerne>
+          <quant>60 g</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Kuerbiskerne>
+      <Sauce     >
+          <quant>2 TL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>4 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kuerbiskernoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Sauce     >
+      <Salat     >
+          <quant>600 g</quant>
+          <zutat>Radiesli mit dem Gruen, Gruen beseite gestellt, Radiesli geviertelt</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Kuerbiskerne>
+          <inhalt>Kuerbiskerne ohne Fett in einer beschichteten Bratpfanne roesten. Zucker beigeben, ca. 1 Min. weiter roesten. Herausnehmen, auf einem Backpapier verteilen, auskuehlen.</inhalt>
+      </Kuerbiskerne>
+      <Sauce     >
+          <inhalt>Senf, Essig und Oel in einer Schuessel verruehren, salzen. </inhalt>
+      </Sauce     >
+      <Salat     >
+          <inhalt>Radiesli, Radiesligruen, Cranberries mit den Kuerbiskernen zur Sauce geben, mischen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>69 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung_  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmel, zerstossen</zutat>
+          <quant>250 g</quant>
+          <zutat>Seidentofu, in Stuecken</zutat>
+          <quant>200 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung_  >
+      <Formen    >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1 TL</quant>
+          <zutat>Hanfsamen</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Fuellung_  >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebeln, Knoblauch, Zimt und Kreuzkuemmel ca. 2 Min. andaempfen. Tofu beigeben, mit einer Kelle leicht zerdruecken. Spinat beigeben, zusammenfal­len lassen, Zitronensaft dazugiessen, wuerzen. Fuellung auskuehlen.</inhalt>
+      </Fuellung_  >
+      <Formen    >
+          <inhalt>Strudelteigblaetter entrollen. 1 Teigblatt auf ein feuchtes Tuch legen, mit wenig Oel bestreichen, laengs in 4 Streifen schneiden. Ca. 11/2 EL Fuellung in eine Ecke der Streifen geben, mehrmals einklappen, sodass Dreiecke entstehen. Mit restlichem Teig und Fuellung gleich verfahren. Dreiecke auf ein mit Backpapier belegtes Blech legen. Restliches Oel und Mandeldrink verruehren, Dreiecke damit bestreichen, Hanfsamen darueberstreuen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

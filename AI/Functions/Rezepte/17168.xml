@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>649 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Baiser    >
+          <quant>6 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>330 g</quant>
+          <zutat>feinster Zucker</zutat>
+          <quant>30 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+      </Baiser    >
+      <Caramel-Sauce>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Caramel-Sauce>
+      <Vanille-Rahm>
+          <quant>3 1/2 dl</quant>
+          <zutat>Vollrahm, kalt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Vanille-Rahm>
+      <Fertigstellen>
+          <quant>100 g</quant>
+          <zutat>Pekannuesse, grob gehackt</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Baiser                        </inhalt>
+      </How_To    >
+      <Baiser    >
+          <inhalt>Fuer die Baiser-Geister die Schokolade im Wasserbad schmelzen. Mit einem Staebchen oder feinen Pinsel Gesichter auf die ausgekuehlten Baiser-Geister malen.</inhalt>
+      </Baiser    >
+      <Backen/Trocknen>
+          <inhalt>2 - 2 1/2 Std. im auf 100 Grad (Heissluft/Umluft) vorgeheizten Ofens, dabei einen Kochloeffel-Stiel in die Ofentuere klemmen. Baiser auskuehlen.</inhalt>
+      </Backen/Trocknen>
+      <Caramel-Sauce>
+          <inhalt>Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht, Pfanne von der Platte nehmen. Butter beigeben, unter Ruehren schmelzen. Rahm und Salz beigeben, unter Ruehren aufkochen, Hitze reduzieren. Bei kleiner Hitze unter staendigem Ruehren zu einer dicklichen Sauce einkoecheln. In eine Schuessel geben, auskuehlen. </inhalt>
+      </Caramel-Sauce>
+      <Vanille-Rahm>
+          <inhalt>Rahm Steif schlagen, Vanillepaste darunterziehen.</inhalt>
+      </Vanille-Rahm>
+      <Fertigstellen>
+          <inhalt>Einen Baiser-Boden auf eine Kuchenplatte legen, die Haelfte des Schlagrahms, der Nuesse und der Caramel-Sauce darauf verteilen. Mit dem zweiten Baiser-Boden bedecken, restlichen Schlagrahm, Nuesse und Caramel-Sauce darauf verteilen. Mit den Baiser-Geistern verzieren.</inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>414 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suesskartoffeln>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>500 g</quant>
+          <zutat>Suesskartoffeln, in Stuecken</zutat>
+          <quant>250 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+      </Suesskartoffeln>
+      <Romanesco >
+          <quant>35 g</quant>
+          <zutat>Crackers mit Thymian und Meersalz, fein zerdrueckt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Backpapiere</zutat>
+          <quant>700 g</quant>
+          <zutat>Romanesco</zutat>
+          <quant>1/2 </quant>
+          <zutat>Salz</zutat>
+      </Romanesco >
+      <Jakobsnuesse>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>12 </quant>
+          <zutat>Jakobsnuesse</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fine Food Olivenoel Zitrone </zutat>
+      </Jakobsnuesse>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suesskartoffeln                </inhalt>
+      </How_To    >
+      <Suesskartoffeln>
+          <inhalt>Oel erwaermen, Knoblauch und Kartoffeln andaempfen. Bouillon dazugiessen, aufkochen. Hitze reduzieren, zugedeckt ca. 20 Min. weich koecheln. Kartoffeln mit der Gabel oder mit dem Kartoffelstampfer grob zerdruecken. Butter daruntermischen, Pueree salzen.</inhalt>
+      </Suesskartoffeln>
+      <How_To1   >
+          <inhalt>Fuer den Crumble Crackers und alle Zutaten bis und mit Pfeffer mischen, beiseite stellen. </inhalt>
+      </How_To1   >
+      <Romanesco >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Backpapier entfernen, Romanecso mit dem Crumble bestreuen, ca. 10 Min. fertig backen. </inhalt>
+      </Romanesco >
+      <Jakobsnuesse>
+          <inhalt>Oel in beschichteter Bratpfanne heiss werden lassen. Jakobsnuesse portionenweise beidseitig je ca. 2 Min. braten, salzen.</inhalt>
+      </Jakobsnuesse>
+   </rezept>
+</Rezept>

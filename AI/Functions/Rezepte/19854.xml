@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>253 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>220 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>4 </quant>
+          <zutat>Bio-Zitronen, abgeriebene Schale, Saft beiseitegestellt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Guss      >
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Thymian, sehr fein geschnitten</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter und Zucker in eine Schuessel geben, mit den Schwingbesen des Mixers gut verruehren. Eier beigeben, weiterrruehren, bis die Masse heller ist. Zitronenschale, Thymian und Milch darunterruehren. Mehl, Backpulver und Salz mischen, daruntermischen. Teig in die vorbereitete Form verteilen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, Cake etwas abkuehlen, mit einem Holzspiesschen dicht einstechen.</inhalt>
+      </Backen    >
+      <Guss      >
+          <inhalt>Beiseite gestellten Zitronensaft (ca. 21/2 dl) mit dem Puderzucker und Thymian verruehren. Guss ueber den warmen Cake giessen. Cake aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Guss      >
+   </rezept>
+</Rezept>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>400 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pilzragout>
+          <quant>500 g</quant>
+          <zutat>gemischte  Pilze (z.B. Champignons, Eierschwaemme)</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salbei</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>2 dl</quant>
+          <zutat>Suure Moscht</zutat>
+          <quant>1 EL</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Pilzragout>
+      <Apfelweinrisotto>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Suure Moscht</zutat>
+          <quant>1 </quant>
+          <zutat>rotschaliger Apfel, ungeschaelt</zutat>
+          <quant>7 dl</quant>
+          <zutat>Wasser, heiss</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>saurer Halbrahm</zutat>
+      </Apfelweinrisotto>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pilzragout                    </inhalt>
+      </How_To    >
+      <Pilzragout>
+          <inhalt>Pilze je nach Groesse halbieren oder vierteln. Bundzwiebeln mit dem Gruen in Ringe schneiden. 2 EL Gruen beiseite stellen. Thymian abzupfen, Salbei fein schneiden.</inhalt>
+      </Pilzragout>
+      <How_To1   >
+          <inhalt>Bratbutter heiss werden lassen, Pilze portionenweise je ca. 4 Min. anbraten, herausnehmen. Evtl. wenig Bratbutter beigeben.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Zwiebel beigeben, Knoblauch dazupressen,  ca. 1 Min. anbraten, Pilze wieder beigeben, Kraeuter und Senf daruntermischen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Suure Moscht dazugiessen, aufkochen, bei kleiner Hitze ca. 10 Min. koecheln. Sauren Halbrahm daruntermischen, wuerzen.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Apfelweinrisotto              </inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Zwiebel hacken. Butter warm werden lassen, Zwiebel andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist.</inhalt>
+      </How_To5   >
+      <Apfelweinrisotto>
+          <inhalt>Apfel dazureiben. Wasser salzen und unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist.</inhalt>
+      </Apfelweinrisotto>
+      <How_To6   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=b-77ZZItFdA"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>657 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>74 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Flammkuchen>
+          <quant>2 </quant>
+          <zutat>ausgewallte Flammkuchenteige (je ca. 24 x 33 cm)</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine, in ca. 4 mm dicken Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Fenchel, in ca. 2 mm dicke Scheiben gehobelt</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in duennen Schnitzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Flammkuchen>
+      <Backen    >
+          <quant>2 EL</quant>
+          <zutat>Basilikum, Blaetter abgezupft</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Flammkuchen>
+          <inhalt>Teige entrollen, mit dem Backpapier auf zwei Bleche legen. Creme fraiche wuerzen, Teige damit bestreichen. Gemuese mit dem Oel mischen, salzen, auf der Creme fraiche verteilen. </inhalt>
+      </Flammkuchen>
+      <Backen    >
+          <inhalt>Ca. 20 Min. im auf 200 Grad vorgeheizten Ofen (Heissluft). Basilikum darauf verteilen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>352 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>trockener weisser Vermouth</zutat>
+          <quant>50 g</quant>
+          <zutat>Kresse, wenig fuer die Garnitur beiseite gestellt</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer, nach Bedarf</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>20 g</quant>
+          <zutat>Gemuesechips</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer Pfanne erhitzen, Schalotte beigeben, ca. 1 Min. andaempfen. Kartoffeln beigeben, Bouillon und Vermouth dazugiessen, aufkochen. Hitze reduzieren, zugedeckt ca. 15 Min. koecheln. Kresse beigeben, Suppe puerieren und wuerzen. Rahm steif schlagen, unter die Suppe ziehen. Mit beiseite gestellter Kresse und Gemuesechips garnieren. </inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

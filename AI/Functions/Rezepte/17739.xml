@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>636 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Asiatischer_Coleslaw>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sesam, geroestet</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein geschnitten</zutat>
+          <quant>200 g</quant>
+          <zutat>Weisskabis, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in feinen Streifen</zutat>
+      </Asiatischer_Coleslaw>
+      <Fleisch_marinieren_>
+          <quant>6 EL</quant>
+          <zutat>Hoisin-Sauce</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>400 g</quant>
+          <zutat>Schweinshals , in feinen Stuecken</zutat>
+          <quant>4 </quant>
+          <zutat>Holzspiesschen</zutat>
+      </Fleisch_marinieren_>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+          <quant>4 </quant>
+          <zutat>Burger-Broetli, halbiert</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+   </einkaufliste>
+   <rezept>
+      <Asiatischer_Coleslaw>
+          <inhalt>Limettensaft und alle Zutaten bis und mit Chili in einer Schuessel verruehren. Kabis und Rueebli beigeben, gut mischen, zugedeckt ziehen lassen. </inhalt>
+      </Asiatischer_Coleslaw>
+      <Fleisch_marinieren_>
+          <inhalt>Hoisin Sauce, Oel und Sojasauce verruehren, Fleisch mit 6 EL der Marinade mischen, an die Holzspiesschen stecken, zugedeckt ca. 30 Min. marinieren. </inhalt>
+      </Fleisch_marinieren_>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+          <inhalt>Spiessli ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) zugedeckt ca. 15 Min. grillieren, von Zeit zu Zeit wenden. In der letzten Minute Broetlihaelften mitgrillieren. Broetliboeden und -deckel mit der beiseite gestellten Marinade bestreichen. Fleisch von den Spiessli schieben, mit dem Coleslaw auf den Broetliboeden verteilen, Broetlideckel darauflegen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+   </rezept>
+</Rezept>

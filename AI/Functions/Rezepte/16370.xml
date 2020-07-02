@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>300 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>2 </quant>
+          <zutat>Nektarinen (oder Pfirsiche), in Schnitzen</zutat>
+          <quant>300 g</quant>
+          <zutat>Mozzarella, abgetropft, in Wuerfeln</zutat>
+      </Salat     >
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Dijon-Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Gemuesebouillon, kalt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aprikosenkonfituere</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Rucola, Nektarinen und Mozzarella in Schalen oder auf Tellern anrichten.</inhalt>
+      </Salat     >
+      <Sauce     >
+          <inhalt>Alle Zutaten gut verruehren, wuerzen, vor dem Servieren ueber den Salat traeufeln.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

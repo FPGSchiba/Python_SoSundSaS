@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>387 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade_&amp;_Fisch>
+          <quant>1/4 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>1 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>5 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Lachsforellenfilets  </zutat>
+      </Marinade_&amp;_Fisch>
+      <Gemuese    >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>400 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>200 g</quant>
+          <zutat>Lauch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Gemuese    >
+      <Garnitur  >
+          <quant>1 </quant>
+          <zutat>Bio-Orange</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Marinade &amp; Fisch          </inhalt>
+      </How_To    >
+      <Marinade_&amp;_Fisch>
+          <inhalt>Gemuese                        </inhalt>
+      </Marinade_&amp;_Fisch>
+      <Gemuese    >
+          <inhalt>Beiseite gestellte Marinade ueber das Gemuese geben, mischen, aufkochen. Bei kleiner Hitze ca. 4 Min. koecheln.</inhalt>
+      </Gemuese    >
+      <Garnitur  >
+          <inhalt>Orange vierteln, mit der Schale in Scheibchen schneiden, mit den Forellenfilets auf das Gemuese legen. Zugedeckt ca. 5 Min. ziehen lassen. Filets auf Tellern anrichten, Gemuese wuerzen, dazu servieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

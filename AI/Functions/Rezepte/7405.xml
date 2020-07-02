@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>200 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1/2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>3 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>4 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>50 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>75 g</quant>
+          <zutat>Knollensellerie, in feinsten Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>rotschaliger Apfel, in Wuerfeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Nuesslisalat</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kuerbiskerne, geroestet, grob gehackt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Senf und alle Zutaten bis und mit Quark in einer Schuessel gut verruehren, wuerzen, 4 EL davon beiseitestellen. Sellerie und Apfel unter die restliche Sauce mischen, ca. 30 Min. ziehen lassen. Apfel Sellerie-Salat mit Nuesslisalat auf Teller verteilen, Nuesslisalat mit beiseitegestellter Sauce betraeufeln. Kuerbiskerne darueberstreuen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

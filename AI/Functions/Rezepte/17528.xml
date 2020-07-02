@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>292 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mango     >
+          <quant>1 </quant>
+          <zutat>Mango (ca. 300 g, z.B. Primagusto), in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pfefferminzblaetter, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Piment d'Espelette (z.B. Fine Food)</zutat>
+      </Mango     >
+      <Anrichten >
+          <quant>4 Kugeln</quant>
+          <zutat>Mangosorbet</zutat>
+          <quant>4 dl</quant>
+          <zutat>Champagner (z.B. Bonnaire Fine Food)</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>4 Prisen</quant>
+          <zutat>Piment d'Espelette (z.B. Fine Food)</zutat>
+          <quant>70 g</quant>
+          <zutat>Guetzli (z.B. Mandeltuiles Fine Food)</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Mango     >
+          <inhalt>Mango, Minze und Piment d'Espelette in einer Schuessel mischen, zugedeckt ca. 4 Std. marinieren.</inhalt>
+      </Mango     >
+      <Anrichten >
+          <inhalt>Mangowuerfeli in die Glaeser verteilen. Je eine Kugel Sorbet darauf geben, mit Champagner auffuellen. Mit Minze und Piment d’Espelette verzieren. Die Mandeltuiles dazu servieren.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

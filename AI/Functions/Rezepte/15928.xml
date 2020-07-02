@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>175 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kichererbsen>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 420 g), abgespuelt, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tamarindenpaste</zutat>
+          <quant>1 EL</quant>
+          <zutat>Za'Atar (Gewuerzmischung)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Kichererbsen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kichererbsen                  </inhalt>
+      </How_To    >
+      <Kichererbsen>
+          <inhalt>Backen: ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Kichererbsen>
+   </rezept>
+</Rezept>

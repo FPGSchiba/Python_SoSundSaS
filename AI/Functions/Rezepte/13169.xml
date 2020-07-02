@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>434 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizza-Belag>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>600 g</quant>
+          <zutat>Kohlrabi, grob gerieben</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 410 g), abgespuelt, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Oregano, fein geschnitten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Pizza-Belag>
+      <Pizzaboden>
+          <quant>1 </quant>
+          <zutat>Pizzateig (ca. 800 g)</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Backen</zutat>
+      </Pizzaboden>
+      <Pizza_belegen>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>200 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>25 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Pizza_belegen>
+   </einkaufliste>
+   <rezept>
+      <Pizza-Belag>
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Kohrabi und Kichererbsen ca. 5 Min. ruehrbraten. Oregano beigeben, wuerzen, herausnehmen, zugedeckt warm stellen.</inhalt>
+      </Pizza-Belag>
+      <Pizzaboden>
+          <inhalt>Teig in 8 gleichgrosse Stuecke schneiden, auf wenig Mehl flach druecken (je ca. 10 cm Ø). Wenig Oel in derselben Pfanne heiss werden lassen. Teigfladen portionenweise bei mittlerer Hitze beidseitig je ca. 2 Min. backen, herausnehmen, warm stellen.</inhalt>
+      </Pizzaboden>
+      <Pizza_belegen>
+          <inhalt>Pizzaboeden mit Creme fraiche bestreichen, Kohlrabi, Kichererbsen, Tomaten und Rucola darauf verteilen, wuerzen. </inhalt>
+      </Pizza_belegen>
+   </rezept>
+</Rezept>

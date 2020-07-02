@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>519 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cupcakes  >
+          <quant>150 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>40 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade, gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Apfelessig</zutat>
+      </Cupcakes  >
+      <Frosting  >
+          <quant>150 g</quant>
+          <zutat>Curry Cashew-Nuesse, ueber nacht in Wasser eingeweicht</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Reissirup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>50 g</quant>
+          <zutat>tiefgekuehlte Heidelbeeren</zutat>
+      </Frosting  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Cupcakes                      </inhalt>
+      </How_To    >
+      <Cupcakes  >
+          <inhalt>Mehl und alle Zutaten bis und mit Salz in einer Schuessel mischen. Mandel-Drink und Oel dazugiessen, gut verruehren. Schokolade und Essig daruntermischen. Teig ins vorbereitete</inhalt>
+      </Cupcakes  >
+      <How_To1   >
+          <inhalt>Backen:                       </inhalt>
+      </How_To1   >
+      <Backen:   >
+          <inhalt>dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen:   >
+      <Frosting  >
+          <inhalt>Alle Zutaten im Mixglas puerieren. Die Masse kurz kuehl stellen. Frosting in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø) geben, ca. 15 Min. kuehl stellen. Masse auf die Cupcakes spritzen.</inhalt>
+      </Frosting  >
+   </rezept>
+</Rezept>

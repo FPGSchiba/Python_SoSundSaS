@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>384 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tomatenbrot-Pueree>
+          <quant>75 g</quant>
+          <zutat>Weissbrot vom Vortag, ohne Rinde</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 240 g)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer (z.B. Fine Food Tasmanian Pepper)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel mit Basilikum (z.B. Fine Food Azeite de oliva virgem extra con basilico)</zutat>
+      </Tomatenbrot-Pueree>
+      <Sauce     >
+          <quant>1 1/2 EL</quant>
+          <zutat>Kalbsfond (z.B. Fine Food Fond de veau)</zutat>
+          <quant>2 dl</quant>
+          <zutat>italienischer Rotwein  (z.B. Fine Food Dromos, Maremma Toscana)</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>2 EL</quant>
+          <zutat>Trueffelbutter (z.B. Fine Food Beurre a l'arome des truffes)</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel (z.B. Fine Food Murray River Salt)</zutat>
+      </Sauce     >
+      <Lammkoteletts>
+          <quant>2 </quant>
+          <zutat>Lammracks (z.B. Fine Food Rack of Irish Lambs, je ca. 330 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer (z.B. Fine Food Tasmanian Pepper)</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Lammkoteletts>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tomatenbrot-Pueree             </inhalt>
+      </How_To    >
+      <Tomatenbrot-Pueree>
+          <inhalt>Fuer das Pueree Brot in duenne Scheiben schneiden, auf ein Backblech legen. Im auf 200 Grad vorgeheizten Ofen einige Minuten goldbraun roesten. Knoblauchzehe halbieren, Brot damit einreiben. Brotscheiben in eine Pfanne schichten. Tomaten, Zucker und Bouillon beigeben. Bei kleiner Hitze unter gelegentlichem Ruehren ca. 15 Min. zu einer breiigen Masse einkoecheln, bei Bedarf etwas Bouillon dazugiessen. Am Schluss wuerzen und das Oel darunterruehren.</inhalt>
+      </Tomatenbrot-Pueree>
+      <How_To1   >
+          <inhalt>Fuer die Sauce Kalbsfond mit Wein, Lorbeerblatt und Rosmarin in einem Pfaennchen aufkochen, zur Haelfte einkochen. Gewuerze entfernen. Butter in Stuecken darunterruehren, salzen.</inhalt>
+      </How_To1   >
+      <Sauce     >
+          <inhalt>Lammracks in einzelne Koteletts schneiden, wuerzen, in Bratbutter beidseitig je ca. 2 Min. braten.</inhalt>
+      </Sauce     >
+      <Lammkoteletts>
+          <inhalt>Das Tomatenbrotpueree auf Tellern anrichten, Koteletts darauf verteilen, wenig Sauce daruebertraeufeln. Mit Zwiebeln, Feta und Basilikum garnieren.</inhalt>
+      </Lammkoteletts>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

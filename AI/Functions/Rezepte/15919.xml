@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>318 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gewuerzmischung_>
+          <quant>1/2 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Anis</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Gewuerzmischung_>
+      <Popcorn_  >
+          <quant>1 TL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>150 g</quant>
+          <zutat>Popcorn-Mais</zutat>
+      </Popcorn_  >
+   </einkaufliste>
+   <rezept>
+      <Gewuerzmischung_>
+          <inhalt>Cayennepfeffer und alle Zutaten bis und mit Fleur de Sel in einer Schuessel mischen. </inhalt>
+      </Gewuerzmischung_>
+      <Popcorn_  >
+          <inhalt>Oel in einer weiten Pfanne erhitzen. Maiskoerner beigeben, sofort zudecken, bei mittlerer Hitze ca. 2 Min. aufspringen lassen. Popcorn zur Gewuerzmischung geben, mischen. </inhalt>
+      </Popcorn_  >
+   </rezept>
+</Rezept>

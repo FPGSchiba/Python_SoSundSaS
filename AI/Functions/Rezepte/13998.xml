@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>544 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>69 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbis-Knoepfli>
+          <quant>300 g</quant>
+          <zutat>Kuerbis (z.B. Butternut), in Stuecken (ergibt ca. 250 g)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Kuerbis-Knoepfli>
+      <Fleisch_&amp;_Anrichten>
+          <quant>2 Paeckli</quant>
+          <zutat>Hirschpfeffer (600 g) (Betty Bossi)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kuerbiskerne, geroestet</zutat>
+      </Fleisch_&amp;_Anrichten>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kuerbis-Knoepfli                </inhalt>
+      </How_To    >
+      <Kuerbis-Knoepfli>
+          <inhalt>Teig portionenweise durch's Knoepflisieb ins leicht siedende Salzwasser streichen. Knoepfli ziehen lassen, bis sie an die Oberflaeche steigen. Mit einer Schaumkelle herausheben, warm stellen. </inhalt>
+      </Kuerbis-Knoepfli>
+      <Fleisch_&amp;_Anrichten>
+          <inhalt>Fleisch nach Verpackungsangabe erhitzen. Zusammen mit den Knoepfli anrichten, Kuerbiskerne darueberstreuen.</inhalt>
+      </Fleisch_&amp;_Anrichten>
+   </rezept>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>682 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>75 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>50 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>30 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>50 g</quant>
+          <zutat>Fine Food Crema di Cardiofi per crostini</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Pastateige laengs halbieren, 2 der entstandenen 4 Teigstreifen mit Eiweiss bestreichen. Fuellung halbieren jeweils 8 baumnussgrosse Portionen auf den Teigstreifen verteilen. Die beiden anderen unbestrichenen Teigstreifen darueberlegen, leicht andruecken, dabei eingeschlossene Luft herausdruecken. Ravioli mit einem Teigraedchen voneinander trennen. Butter erwaermen, Salbei andaempfen. Ravioli portionenweise im knapp siedenden Salzwasser ca. 5 Min. ziehen lassen, abtropfen, auf zwei Tellern anrichten, Salbeibutter darauf verteilen.</inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

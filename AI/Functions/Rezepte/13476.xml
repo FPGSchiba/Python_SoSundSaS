@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>447 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spinatbaellchen_(ergibt_ca._8_Stk.)>
+          <quant>80 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>35 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, klein</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Paniermehl</zutat>
+      </Spinatbaellchen_(ergibt_ca._8_Stk.)>
+      <Jogurt-Sauce>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature, nature</zutat>
+          <quant>1/2 </quant>
+          <zutat>Gurke, gerieben</zutat>
+          <quant>wenig </quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Dukkah (Gewuerzmischung) oder Sumach</zutat>
+          <quant>wenig </quant>
+          <zutat>Kraeutersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Jogurt-Sauce>
+      <Pita-Brote>
+          <quant>2 </quant>
+          <zutat>Pitabrote</zutat>
+          <quant>1/2 </quant>
+          <zutat>Kohlrabi, in Stiften</zutat>
+          <quant>2 </quant>
+          <zutat>Kopfsalatblaetter</zutat>
+          <quant>2 Handvoll</quant>
+          <zutat>Sprossen </zutat>
+      </Pita-Brote>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spinatbaellchen (ergibt ca. 8 Stk.)</inhalt>
+      </How_To    >
+      <Spinatbaellchen_(ergibt_ca._8_Stk.)>
+          <inhalt>Backen: 15-20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Spinatbaellchen_(ergibt_ca._8_Stk.)>
+      <Jogurt-Sauce>
+          <inhalt>Alle Zuaten vermischen, wuerzen.</inhalt>
+      </Jogurt-Sauce>
+      <Pita-Brote>
+          <inhalt>Brote wenn noetig aufschneiden, mit Wasser benetzen und toasten. Je 1 EL Jogurtsauce in die Brote geben, Salat, Spinatbaellchen und Kohlrabi in die Brote verteilen, mit je 1 EL Sauce betraeufeln und mit Sprossen garnieren. Sofort servieren.</inhalt>
+      </Pita-Brote>
+   </rezept>
+</Rezept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>93 kcal </NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tuermchen  >
+          <quant>350 g</quant>
+          <zutat>fest kochende Kartoffeln, in 1 mm dicke Scheiben gehobelt</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>4 </quant>
+          <zutat>Thymianzweiglein, Blaettchen abgezupft</zutat>
+      </Tuermchen  >
+      <Dip       >
+          <quant>125 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>30 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian, Blaettchen abgezupft</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Tuermchen  >
+          <inhalt>Kartoffeln mit Oel, Knoblauch, Salz und der Haelfte des Kaeses und des Thymians in einer Schuessel mischen. Kartoffeln im vorbereiteten Blech verteilen, leicht andruecken. </inhalt>
+      </Tuermchen  >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, restlichen Kaese und Thymian darueberstreuen, ca. 10 Min. fertigbacken. </inhalt>
+      </Backen    >
+      <Dip       >
+          <inhalt>Frischkaese mit Zitronensaft, Kaese und Thymian verruehren, dazu servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

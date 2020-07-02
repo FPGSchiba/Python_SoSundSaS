@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>746 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>72 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tonnato   >
+          <quant>1 Dose</quant>
+          <zutat>weisser Thon in Oel (MSC ca. 80 g)</zutat>
+          <quant>20 g</quant>
+          <zutat>Sardellenfilets</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kapern</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tonnato   >
+      <Flammkuchen_backen>
+          <quant>2 </quant>
+          <zutat>ausgewallte Flammkuchenteige</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feine Streifen</zutat>
+          <quant>300 g</quant>
+          <zutat>gekochter Ofenbraten in Tranchen</zutat>
+          <quant>50 g</quant>
+          <zutat>Rucola</zutat>
+      </Flammkuchen_backen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tonnato                       </inhalt>
+      </How_To    >
+      <Tonnato   >
+          <inhalt>Flammkuchen backen            </inhalt>
+      </Tonnato   >
+      <Flammkuchen_backen>
+          <inhalt>Backen pro Blech: ca. 15 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens (oder beide Flammkuchen ca. 15 Min. bei 200 Grad Heissluft). Flammkuchen herausnehmen, mit dem Braten belegen. Tonnato-Sauce und Rucola darauf verteilen.</inhalt>
+      </Flammkuchen_backen>
+   </rezept>
+</Rezept>

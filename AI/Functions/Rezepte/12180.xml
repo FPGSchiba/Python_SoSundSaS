@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>528 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>800 g</quant>
+          <zutat>Entrecote am Stueck</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>scharfer Curry</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Rosenpaprika</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch   >
+      <Chutney   >
+          <quant>100 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>200 g</quant>
+          <zutat>Schalotten, in Vierteln</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+      </Chutney   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Fleisch ca. 1 Std. vor dem Anbraten aus dem Kuehlschrank nehmen. Ofen auf 80 Grad vorheizen, Bratgeschirr und Teller vorwaermen. </inhalt>
+      </Fleisch   >
+      <How_To1   >
+          <inhalt>Niedergaren: ca. 2 Std. die Kerntemperatur des Fleisches soll ca. 55 Grad betragen. Das Fleisch kann anschliessend bei 60 Grad bis zu ca. 1 Std. warm gehalten werden.</inhalt>
+      </How_To1   >
+      <Chutney   >
+          <inhalt>Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Pfanne von der Platte nehmen. Schalotten, Essig, Wasser und Salz beigeben, zugedeckt ca. 10 Min.weiterkoecheln. Cranberrys beigeben, offen ca. 2 Min. fertig koecheln.</inhalt>
+      </Chutney   >
+   </rezept>
+</Rezept>

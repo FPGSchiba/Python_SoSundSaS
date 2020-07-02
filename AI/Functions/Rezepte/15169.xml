@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>491 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Baerlauch_ >
+          <quant>20 g</quant>
+          <zutat>Baerlauch, grob geschnitten</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Baerlauch_ >
+      <Teig_     >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Teig_     >
+      <Tagliatelle>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Tagliatelle>
+      <Sauce_    >
+          <quant>4 EL</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Baerlauch                      </inhalt>
+      </How_To    >
+      <Baerlauch_ >
+          <inhalt>Baerlauch mit den Eiern puerieren, salzen.  </inhalt>
+      </Baerlauch_ >
+      <How_To1   >
+          <inhalt>Teig                          </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Teig ca. 10 Min. kneten, bis er glatt und geschmeidig ist und nicht mehr an den Haenden klebt. Eine Kugel formen, diese in Klarsichtfolie einpacken, bei Raumtemperatur ca. 1 Std. ruhen lassen.</inhalt>
+      </How_To2   >
+      <Teig_     >
+          <inhalt>Teig halbieren, auf wenig Mehl hauchduenn auswallen, in ca. 5 mm breite Streifen schneiden. </inhalt>
+      </Teig_     >
+      <Tagliatelle>
+          <inhalt>Sauce                         </inhalt>
+      </Tagliatelle>
+      <Sauce_    >
+          <inhalt>Butter in derselben Pfanne unter Hin-und-her Bewegen ca. 4 Min. erwaermen, Tagliatelle und Nuesse beigeben, mischen, heiss werden lassen.</inhalt>
+      </Sauce_    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

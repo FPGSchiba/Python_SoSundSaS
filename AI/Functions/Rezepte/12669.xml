@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>139 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>150 g</quant>
+          <zutat>gekochte Randen, in Wuerfeln</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>entsteinte Doerrpflaumen, fein geschnitten</zutat>
+          <quant>300 g</quant>
+          <zutat>Macadamia-Nuesse, fein gehackt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Randen, Zucker und Wasser in einer Pfanne puerieren, aufkochen, unter Ruehren ca. 3 Min. koecheln. Pflaumen beigeben, ca. 5 Min. fertig koecheln, auskuehlen. Masse mit 200 g  der Nuesse mischen. Mit nassen Haenden zu 20 Kugeln formen, in den restlichen Nuessen wenden.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

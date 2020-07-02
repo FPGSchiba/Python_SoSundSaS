@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>147 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace_    >
+          <quant>100 g</quant>
+          <zutat>gezuckerte Kondensmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>3 </quant>
+          <zutat>Limetten, heiss abgespuelt, trocken getupft, abgeriebene Schale und ganzer Saft</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>12 </quant>
+          <zutat>Holzstaengeli</zutat>
+      </Glace_    >
+      <Servieren >
+          <quant>3 Stueck</quant>
+          <zutat>Guetzli (z.B. Vollkorn-Honig-Guetzli)</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Glace                         </inhalt>
+      </How_To    >
+      <Glace_    >
+          <inhalt>Masse in die Glacebehaelter geben. Holzstaengeli einstecken, ca. 7 Std. gefrieren. </inhalt>
+      </Glace_    >
+      <Servieren >
+          <inhalt>Glace aus den Behaeltern nehmen, Guetzli darueberstreuen, sofort servieren. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

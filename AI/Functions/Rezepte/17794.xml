@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>393 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gnocchi_  >
+          <quant>200 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>500 g</quant>
+          <zutat>Gnocchi</zutat>
+          <quant>250 g</quant>
+          <zutat>Champignons, in Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>entsteinte gruene Oliven, fein geschnitten</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+      </Gnocchi_  >
+   </einkaufliste>
+   <rezept>
+      <Gnocchi_  >
+          <inhalt>Speck in einer beschichteten Bratpfanne  langsam knusprig braten, herausnehmen, beiseite stellen. Gnocchi in derselben Pfanne kurz anbraten. Pilze und Oliven beigeben, unter gelegentlichem Ruehren ca. 10 Min. braten, herausnehmen, beiseite stellen. Cherry-Tomaten in derselben Pfanne kurz andaempfen, wuerzen. Wasser dazugiessen, ca. 10 Min. koecheln. Gnocchi und Pilze mit dem Speck wieder beigeben, warm werden lassen. Huettenkaese dazu servieren. </inhalt>
+      </Gnocchi_  >
+   </rezept>
+</Rezept>

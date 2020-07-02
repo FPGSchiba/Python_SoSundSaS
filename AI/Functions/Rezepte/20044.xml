@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>160 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suppe     >
+      <Anrichten >
+          <quant>50 g</quant>
+          <zutat>Kresse</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel, Knoblauch und Ingwer ca. 3 Min. andaempfen, Spinat beigeben, ca. 2 Min. mitdaempfen. Bouillon und Kokosmilch dazugiessen, aufkochen. Hitze reduzieren, Suppe ca. 10 Min. koecheln, fein puerieren, wuerzen.</inhalt>
+      </Suppe     >
+      <Anrichten >
+          <inhalt>Suppe in tiefen Tellern anrichten, mit Kresse garnieren.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

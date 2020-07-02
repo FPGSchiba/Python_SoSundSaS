@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>771 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>108 g </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>gelbe und rote Peperoni</zutat>
+          <quant>100 g</quant>
+          <zutat>Cherry-Rispentomaten</zutat>
+          <quant>2 </quant>
+          <zutat>Auberginen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>2 </quant>
+          <zutat>Zucchetti</zutat>
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Penne)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant> </quant>
+          <zutat>Salz</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Peperoni waschen, nass aufs Blech geben, in der Mitte des auf 225 Grad C vorgeheizten Backofens ca. 20 Minuten roesten, bis die Haut schwaerzliche Stellen bekommt. 5 Minuten vor Ende der Backzeit Cherrytomaten aufs Blech geben, mitschmoren. Herausnehmen, Peperoni unter einem feuchten Tuch auskuehlen lassen, schaelen, entkernen, in Stuecke schneiden. Aubergine streifig schaelen, wuerfeln. Mit 1 EL Olivenoel mischen, ca. 10 Min. im 225 Grad C heissen Ofen garen, herausnehmen. Zucchetti in Streifen schneiden (laengs vierteln, Samenteil entfernen). Penne in siedendem Salzwasser bissfest garen, abgiessen, abtropfen lassen. Knoblauch in einer grossen Pfanne im restlichen Oel roesten, mit Chili wuerzen. Zucchetti beifuegen, unter Wenden kurz braten. Pasta und wenig Wasser dazugeben, unter Ruehren erhitzen, salzen. Auberginen, Peperoni und Tomaten beifuegen, mischen und heiss werden lassen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+</Rezept>

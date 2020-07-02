@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>156 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>6 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel (z.B. Braeburn), grob gerieben</zutat>
+          <quant>250 g</quant>
+          <zutat>Beeren (z.B. Brombeern, Himbeeren oder Heidelbeeren</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Haferflocken, Jogurt, Milch und Zitronensaft mischen. Aepfel und Beeren beigeben, mischen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

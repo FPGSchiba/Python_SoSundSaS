@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>287 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorfrittieren>
+          <quant>800 g</quant>
+          <zutat>Pastinaken (z.B. ProSpecieRara halblange Turga), in ca. 1 cm dicken Staengelchen</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Vorfrittieren>
+      <Frittieren>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, ungeschaelt, gequetscht</zutat>
+          <quant>8 Zweiglein</quant>
+          <zutat>Kraeuter (z.B. Rosmarin, Salbei, Thymian, Oregano)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Frittieren>
+      <Dip       >
+          <quant>3 EL</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Vorfrittieren>
+          <inhalt>Pastinaken warm abspuelen, auf einem Tuch sehr gut trocken tupfen. Brattopf bis zu 1/2 Hoehe mit Oel fuellen, auf 160 Grad erhitzen. Pastinaken portionenweise je ca. 5 Min. vorfrittieren, sie duerfen keine Farbe annehmen. Mit einer Schaumkelle herausnehmen, auf einem mit Haushaltpapier belegten Gitter abtropfen, auskuehlen.</inhalt>
+      </Vorfrittieren>
+      <Frittieren>
+          <inhalt>Oel auf 180 Grad erhitzen, vorfrittierte Pastinaken-Frites mit Knoblauch und Kraeutern portionenweise je ca. 3 Min. knusprig und goldgelb backen. Mit der Schaumkelle herausnehmen, auf dem mit frischem Haushaltspapier belegten Gitter abtropfen, salzen.</inhalt>
+      </Frittieren>
+      <Dip       >
+          <inhalt>Halbrahm mit Senf verruehren, salzen. Dip zu den Pastinaken-Frites servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

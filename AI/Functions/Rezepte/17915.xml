@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>535 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln_und_Tomaten>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>350 g</quant>
+          <zutat>Kartoffeln festkochend, in duenne Scheiben gehobelt</zutat>
+          <quant>200 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kartoffeln_und_Tomaten>
+      <Guss      >
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Manchego, grob gerieben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln_und_Tomaten>
+          <inhalt>Oel in einer weiten, beschichteten Bratpfanne erhitzen. Kartoffeln ca. 4 Min. braten, Tomaten beigeben, ca. 2 Min. mitbraten, wuerzen. Hitze reduzieren.</inhalt>
+      </Kartoffeln_und_Tomaten>
+      <Guss      >
+          <inhalt>Eier und Kaese verruehren, wuerzen. Guss ueber die Kartoffeln giessen, zugedeckt bei mittlerer Hitze ca. 20 Min. stocken lassen. Auf einen Teller stuerzen, servieren. </inhalt>
+      </Guss      >
+   </rezept>
+</Rezept>

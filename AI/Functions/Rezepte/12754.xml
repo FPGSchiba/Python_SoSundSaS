@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>396 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zoodles   >
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+          <quant>400 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>schwarze Oliven, halbiert</zutat>
+          <quant>1 kg</quant>
+          <zutat>Zucchetti, mit dem Gemuesetwister in Spaghetti geschnitten oder in feinen Streifen</zutat>
+          <quant>50 g</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, in feine Streifen</zutat>
+          <quant>80 g</quant>
+          <zutat>Parmesan, gerieben</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Zoodles   >
+   </einkaufliste>
+   <rezept>
+      <Zoodles   >
+          <inhalt>Oel in einer Bratpfanne erwaermen. Zwiebel, Knoblauch und Peperoncino andaempfen. Cherry-Tomaten und Oliven beigeben, ca. 3 Min. ruehrbraten. Zucchetti und alle restlichen Zutaten bis und mit Olivenoel daruntermischen, wuerzen, nur noch heiss werden lassen.</inhalt>
+      </Zoodles   >
+   </rezept>
+</Rezept>

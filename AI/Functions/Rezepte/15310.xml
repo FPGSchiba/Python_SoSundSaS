@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>266 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>40 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>25 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>4 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>2 EL</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Boden     >
+      <Fuellung   >
+          <quant>120 g</quant>
+          <zutat>Cashew-Nuesse, ueber Nacht in Wasser eingeweicht</zutat>
+          <quant>300 ml</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>20 g</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>200 ml</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>3 TL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>1 EL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 ml</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>2 TL</quant>
+          <zutat>Agar-Agar (Morga)</zutat>
+      </Fuellung   >
+      <Dekoration>
+          <quant>30 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao)</zutat>
+          <quant>2 </quant>
+          <zutat>Kiwis, in Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Matchapulver </zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Boden                         </inhalt>
+      </How_To    >
+      <Boden     >
+          <inhalt>Dinkelmehl und alle restlichen Zutaten bis und mit Salz puerieren. Die Masse mit einem Loeffel oder den Fingern in eine gefettete, eckige Form (ca. 11 x 21 cm, vorzugsweise Silikonform) druecken und glattstreichen.</inhalt>
+      </Boden     >
+      <How_To1   >
+          <inhalt>Backen: 10-12 Min. in der Mitte des auf 170 Grad vorgeheizten Ofens. Den Teig in der Form bis zur Fertigstellung in den Tiefkuehler stellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Abgetropfte Cashews und alle restlichen Zutaten bis und mit Salz puerieren.</inhalt>
+      </How_To2   >
+      <Fuellung   >
+          <inhalt>Dekoration                    </inhalt>
+      </Fuellung   >
+      <Dekoration>
+          <inhalt>Den Cheesecake in 12 gleich grosse Stuecke schneiden, mit Matchapulver bestaeuben und mit den Kiwi-Scheiben dekorieren.</inhalt>
+      </Dekoration>
+   </rezept>
+</Rezept>

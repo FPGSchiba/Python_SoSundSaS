@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>777 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>48 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pinienkerne_roesten>
+          <quant>30 g</quant>
+          <zutat>Pinienkerne</zutat>
+      </Pinienkerne_roesten>
+      <Fleisch_anbraten>
+          <quant>8 </quant>
+          <zutat>Schweinsfiletmedaillons (je ca. 80 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch_anbraten>
+      <Sauce     >
+          <quant>6 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>40 g</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Kalbsfond</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+      </Sauce     >
+      <Pastinaken-Stampf>
+          <quant>800 g</quant>
+          <zutat>mehlig kochende Kartoffeln</zutat>
+          <quant>600 g</quant>
+          <zutat>Pastinaken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Pastinaken-Stampf>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pinienkerne roesten            </inhalt>
+      </How_To    >
+      <Pinienkerne_roesten>
+          <inhalt>Pinienkerne in einer Bratpfanne ohne Fett roesten, beiseite stellen. </inhalt>
+      </Pinienkerne_roesten>
+      <How_To1   >
+          <inhalt>Fleisch anbraten              </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Ofen auf 80 Grad vorheizen, Platte und Teller vorwaermen.</inhalt>
+      </How_To2   >
+      <Fleisch_anbraten>
+          <inhalt>Medaillons wuerzen, mit Bratspeck umwickeln. </inhalt>
+      </Fleisch_anbraten>
+      <How_To3   >
+          <inhalt>Niedergaren: Ca. 40 Min. in der Mitte des vorgeheizten Ofens (Kerntemperatur: 60-65 Grad).</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Schalotten in feine Streifen schneiden. Schalotten, Zucker und Thymian in derselben Pfanne bei mittlerer Hitze ca. 15 Min. andaempfen. Cranberrys und beiseite gestellte Pinienkerne beigeben, Aceto balsamico und Kalbsfond dazugiessen, ca. 5 Min. koecheln, wuerzen. Pfanne von der Platte nehmen, Butter unter Ruehren beigeben. </inhalt>
+      </How_To4   >
+      <Sauce     >
+          <inhalt>Kartoffeln und Pastinaken schaelen und in Stuecke schneiden.  </inhalt>
+      </Sauce     >
+      <Pastinaken-Stampf>
+          <inhalt>Milch und Butter beigeben, mit einem Kartoffelstampfer oder einer Gabel zerdruecken, wuerzen. Stampf mit den Medaillons und der Sauce auf den vorgewaermten Tellern anrichten.</inhalt>
+      </Pastinaken-Stampf>
+   </rezept>
+</Rezept>

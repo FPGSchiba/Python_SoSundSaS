@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>417 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 </quant>
+          <zutat>rote Peperoni, quer halbiert</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kraeutersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>80 g</quant>
+          <zutat>Rohess-Speck, in Streifchen</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>3 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Kraeutersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Peperoni innen wuerzen, auf ein gefettetes Backblech legen. Speck in die Peperoni verteilen. Fuer den Guss Eier, Rahm und Majoran verruehren, wuerzen, in die Peperoni verteilen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Peperoni ca. 25 Min. ueber mittelstarker Glut/auf mittlerer Stufe grillieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

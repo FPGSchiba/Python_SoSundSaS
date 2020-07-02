@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>331 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Honig-Bananen>
+          <quant>2 </quant>
+          <zutat>Bananen, schraeg in Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Honig-Bananen>
+      <Pancakes  >
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>feine Vollkorn-Haferflocken, geroestet</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>30 g</quant>
+          <zutat>Schokoladen-Wuerfeli</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Backen</zutat>
+      </Pancakes  >
+   </einkaufliste>
+   <rezept>
+      <Honig-Bananen>
+          <inhalt>Bananen mit Zitronensaft und Honig mischen, bis zum Servieren zugedeckt kuehl stellen.</inhalt>
+      </Honig-Bananen>
+      <Pancakes  >
+          <inhalt>Mehl und alle Zutaten bis und mit Salz in einer Schuessel mischen. Buttermilch, Butter und Eigelb verruehren, daruntermischen. Eiweiss mit dem Salz steif schlagen, mit dem Gummischaber sorgfaeltig unter die Masse ziehen. Wenig Bratbutter in einer weiten beschichteten Bratpfanne erhitzen. Hitze reduzieren, portionenweise so viel Teig in die Pfanne geben, dass Pancakes von ca. 8 cm Ø entstehen. Sind die Unterseiten gebacken, und loesen sie sich von selbst, Pancakes wenden, fertig backen, warm stellen. Restliche Pancakes gleich zubereiten. Honig-Bananen dazu servieren.</inhalt>
+      </Pancakes  >
+   </rezept>
+</Rezept>

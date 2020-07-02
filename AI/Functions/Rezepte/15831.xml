@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>483 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rhabarber-BBQ-Sauce_>
+          <quant>450 g</quant>
+          <zutat>Rhabarber</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>Cognac</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>milder Paprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Rhabarber-BBQ-Sauce_>
+      <Grillbrote>
+          <quant>250 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g)</zutat>
+          <quant>3 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Grillbrote>
+      <Grillieren>
+          <quant>500 g</quant>
+          <zutat>Halloumi</zutat>
+      </Grillieren>
+      <Fertigstellen>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli</zutat>
+          <quant>50 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rhabarber-BBQ-Sauce           </inhalt>
+      </How_To    >
+      <Rhabarber-BBQ-Sauce_>
+          <inhalt>Rhabarber in feine Scheiben schneiden, Schalotte fein hacken. </inhalt>
+      </Rhabarber-BBQ-Sauce_>
+      <How_To1   >
+          <inhalt>Oel in einer Pfanne erwaermen, Rhabarber, Schalotte und Zucker ca. 1 Min. andaempfen. Cognac beigeben, ca. 1 Min. einkochen. Tomatenpueree, Honig und Paprika beigeben, unter gelegentlichem Ruehren bei kleiner Hitze ca. 20 Min. koecheln, salzen, auskuehlen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Hefe in eine Schuessel zerbroeckeln, mit Dinkel-, Weissmehl und Salz mischen. Wasser und Oel beigeben, zu einem weichen, glatten Teig kneten. </inhalt>
+      </How_To2   >
+      <Grillbrote>
+          <inhalt>Teig in 8 Portionen teilen, zu Kugeln formen, auf wenig Oel mit der Hand etwas flach druecken. </inhalt>
+      </Grillbrote>
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Grillbrote ueber mittelstarker Glut / auf mittlerer Stufe (ca. 180 Grad) beidseitig je ca. 3 Min. grillieren. Halloumi in ca. 1 cm dicke Scheiben schneiden, neben den Broten auf den Grill legen, beidseitig je ca. 1 Min. grillieren. </inhalt>
+      </Grillieren>
+      <Fertigstellen>
+          <inhalt>Radiesli in feine Scheiben schneiden. Grillbrote aufschneiden, mit Rhabarber-BBQ-Sauce, Halloumi, Radiesli und Rucola fuellen, wuerzen. </inhalt>
+      </Fertigstellen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

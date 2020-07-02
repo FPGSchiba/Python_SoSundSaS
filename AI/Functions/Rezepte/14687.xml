@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>301 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Panna_cotta>
+          <quant>1 Dose</quant>
+          <zutat>Kokosmilch (400 ml)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Birkenzucker oder Dattelsirup</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Agar-Agar (Morga) (gehaeuft)</zutat>
+      </Panna_cotta>
+      <Kakicreme_&amp;_Anrichten>
+          <quant>2 </quant>
+          <zutat>Kakis</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Pistazien, geroestet und gesalzen</zutat>
+      </Kakicreme_&amp;_Anrichten>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Panna cotta                   </inhalt>
+      </How_To    >
+      <Panna_cotta>
+          <inhalt>Kakicreme &amp; Anrichten     </inhalt>
+      </Panna_cotta>
+      <Kakicreme_&amp;_Anrichten>
+          <inhalt>Anrichten: Panna cotta mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen. Glaeser/Foermchen kurz in heisses Wasser tauchen, Panna cotta auf Teller stuerzen. Die Kakicreme gleichmaessig auf der Panna cotta verteilen, mit Pistazien verzieren.</inhalt>
+      </Kakicreme_&amp;_Anrichten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

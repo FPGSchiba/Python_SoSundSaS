@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>395 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>20 g</quant>
+          <zutat>Hefe, zerbroeckelt</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+      </Hefeteig  >
+      <Guss      >
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter</zutat>
+      </Guss      >
+      <Gewuerz-Zwetschgen>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>600 g</quant>
+          <zutat>Zwetschgen, halbiert, entsteint</zutat>
+      </Gewuerz-Zwetschgen>
+      <Backen_   >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter, Milch, Ei und Zitronenschale beigeben, mischen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen. </inhalt>
+      </Hefeteig  >
+      <Guss      >
+          <inhalt>Milch, Zucker und Butter in einer kleinen Pfanne erwaermen, die Haelfte davon in die vorbereitete Form giessen. Teig 8 Portionen teilen, zu Kugeln formen, nebeneinander in die Form setzen. Zugedeckt ca. 30 Min. aufgehen lassen.</inhalt>
+      </Guss      >
+      <Gewuerz-Zwetschgen>
+          <inhalt>Wasser  mit dem Zucker, Zimtstange, Sternanis, Lorbeerblatt und Ingwer aufkochen. Zwetschgen beigeben, bei kleiner Hitze ca. 10 Min. weich koecheln. Lauwarm zu den Dampfnudeln servieren.</inhalt>
+      </Gewuerz-Zwetschgen>
+      <Backen_   >
+          <inhalt>Dampfnudeln ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Restlichen Guss daruebergiessen, ca. 10 Min. fertig backen. Herausnehmen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen_   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>654 kcal</NaehrwertProPerson>
+       <Fett>53 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramelisierte_Nuesse>
+          <quant>150 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup oder Honig</zutat>
+          <quant>EL </quant>
+          <zutat>Wasser</zutat>
+      </Caramelisierte_Nuesse>
+      <Salat     >
+          <quant>1 </quant>
+          <zutat>Zitrone, ganzer Saft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+          <quant>600 g</quant>
+          <zutat>gewaschener, geruesteter Federkohl, in Stuecken</zutat>
+          <quant>3 </quant>
+          <zutat>Birnen, in Wuerfeli</zutat>
+          <quant>200 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Caramelisierte_Nuesse>
+          <inhalt>Nuesse mit Ahornsiurp und Wasser in einer Bratpfanne unter Ruehren erhitzen, bis die Nuesse caramelisiert sind. Auf ein Backpapier geben, auskuehlen.</inhalt>
+      </Caramelisierte_Nuesse>
+      <Salat     >
+          <inhalt>Zitronensaft und Oel in einer Schuessel verruehren, salzen. Federkohl und Birnen beigeben. Salat auf Teller geben, Feta darauf verteilen, Nuesse darueberstreuen.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

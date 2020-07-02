@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>914 kcal</NaehrwertProPerson>
+       <Fett>64 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>54 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kraeutermischung_>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Oregano, fein geschnitten</zutat>
+      </Kraeutermischung_>
+      <Fondue_   >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>800 g</quant>
+          <zutat>Fondue Kaesemischung </zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Martini Bianco</zutat>
+      </Fondue_   >
+   </einkaufliste>
+   <rezept>
+      <Kraeutermischung_>
+          <inhalt>Alle Kraeuter mischen.         </inhalt>
+      </Kraeutermischung_>
+      <Fondue_   >
+          <inhalt>Caquelon mit Knoblauch ausreiben. Kaesemischung ins Caquelon geben. Maizena mit Wasser und Martini anruehren, dazugiessen, unter gleichmaessigem Ruehren bei mittlerer Hitze aufkochen, bis der Kaese geschmolzen ist. Kraeuter darunterruehren.</inhalt>
+      </Fondue_   >
+   </rezept>
+</Rezept>

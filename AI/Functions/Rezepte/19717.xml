@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>715 kcal</NaehrwertProPerson>
+       <Fett>63 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nussmischung>
+          <quant>1 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>2 TL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Wasabi-Paste</zutat>
+          <quant>1 TL</quant>
+          <zutat>Honig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>150 g</quant>
+          <zutat>Nussmischung</zutat>
+      </Nussmischung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nussmischung                  </inhalt>
+      </How_To    >
+      <Nussmischung>
+          <inhalt>Backen                        </inhalt>
+      </Nussmischung>
+      <Backen    >
+          <inhalt>Grad (Heissluft) vorgeheizten Ofens. Nuesse mit dem Backpapier vom Blech ziehen, auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

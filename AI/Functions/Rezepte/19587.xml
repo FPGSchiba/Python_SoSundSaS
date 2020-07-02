@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>382 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Crevetten_marinieren>
+          <quant>800 g</quant>
+          <zutat>ungeschaelte rohe Crevetten (Bio), frisch oder tiefgekuehlt, aufgetaut</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Harissa</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+      </Crevetten_marinieren>
+      <Gemuese    >
+          <quant>2 </quant>
+          <zutat>Fenchel, in Schnitzen</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln, laengs halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese    >
+      <Tomatendip>
+          <quant>1 </quant>
+          <zutat>Tomate, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gerieben</zutat>
+          <quant>3 EL</quant>
+          <zutat>Pesto rosso</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Harissa</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Tomatendip>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </einkaufliste>
+   <rezept>
+      <Crevetten_marinieren>
+          <inhalt>Ruecken der Crevetten mit einer Schere bis zum Schwanzende aufschneiden, etwas auseinander druecken. Oel, Harissa, Knoblauchpulver und Rosmarin in einer Schuessel verruehren, Crevetten beigeben, mischen. </inhalt>
+      </Crevetten_marinieren>
+      <Gemuese    >
+          <inhalt>Gemuese mit dem Oel und Rosmarin mischen, salzen, in eine Grillschale geben. </inhalt>
+      </Gemuese    >
+      <Tomatendip>
+          <inhalt>Tomate und alle Zutaten bis und mit Harissa verruehren, Petersilie darunterruehren. </inhalt>
+      </Tomatendip>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Fenchel ueber mittelstarker Glut/ auf mittlerer Stufe (ca. 200 Grad) unter gelegentlichem Wenden ca. 15 Min. grillieren. Bundzwiebeln ca. 5 Min. mitgrillieren. Crevetten salzen, beidseitig je ca. 6 Min. grillieren. Crevetten und Gemuese mit dem Dip servieren. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

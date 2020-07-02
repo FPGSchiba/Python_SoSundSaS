@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>590 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>4 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 EL</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Estragon, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>400 g</quant>
+          <zutat>Knollensellerie, in feine Streifen gehobelt</zutat>
+      </Salat     >
+      <Lachs_    >
+          <quant>50 g</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>60 g</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Lachstranchen mit Haut (150 g)</zutat>
+      </Lachs_    >
+      <Servieren >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Wasser</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Limettensaft und alle Zutaten bis und mit Salz verruehren, Sellerie daruntermischen, zugedeckt bei Raumtemperatur ca. 30 Min. ziehen lassen. </inhalt>
+      </Salat     >
+      <Lachs_    >
+          <inhalt>Sesam im Cutter fein mahlen, auf einen flachen Teller geben. Meerrettich und Salz mischen. Fisch mit Meerrettich bestreichen, dann im Sesam wenden, gut andruecken. </inhalt>
+      </Lachs_    >
+      <Servieren >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Lachs zuerst auf der Hautseite 3 Min. anbraten, wenden ca. 3 Min. fertigbraten. Honig und Wasser verruehren, ueber den Lachs traeufeln. Lachs mit dem Salat servieren. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

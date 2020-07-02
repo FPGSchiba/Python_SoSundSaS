@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>568 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>100 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Reis      >
+      <Salat     >
+          <quant>3 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Stangensellerie, in Scheibchen</zutat>
+          <quant>150 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Blauschimmelkaese (z.B. St. Agur), in Stuecken</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Reis      >
+          <inhalt>Reis im siedenden Salzwasser ca. 20 Min. knapp weich kochen, abtropfen, kalt abspuelen. </inhalt>
+      </Reis      >
+      <Salat     >
+          <inhalt>Essig und Oel in einer Schuessel verruehren, wuerzen. Reis mit dem Sellerie und Heidelbeeren beigeben, mischen. Kaese darauf verteilen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

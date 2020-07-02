@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>725 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>59 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren_kochen>
+          <quant>300 g</quant>
+          <zutat>Teigwaren (z.B. Hoernli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+      </Teigwaren_kochen>
+      <Auflauf   >
+          <quant>200 g</quant>
+          <zutat>Schinken</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+      </Auflauf   >
+      <Guss      >
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>300 g</quant>
+          <zutat>Teigwaren (z.B. Hoernli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>200 g</quant>
+          <zutat>Schinken</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Teigwaren_kochen>
+          <inhalt>Teigwaren im siedenden Salzwasser al dente kochen, kalt abspuelen, abtropfen. </inhalt>
+      </Teigwaren_kochen>
+      <Auflauf   >
+          <inhalt>                              </inhalt>
+      </Auflauf   >
+      <Guss      >
+          <inhalt>                              </inhalt>
+      </Guss      >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

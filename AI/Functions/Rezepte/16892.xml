@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>129 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Masse     >
+          <quant>40 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>35 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>200 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>150 g</quant>
+          <zutat>Erdnussbutter (creamy)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur die abgeriebene Schale</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Meersalz</zutat>
+      </Masse     >
+      <Kugeln_formen>
+          <quant>2 EL</quant>
+          <zutat>Kokosraspel</zutat>
+      </Kugeln_formen>
+   </einkaufliste>
+   <rezept>
+      <Masse     >
+          <inhalt>Mandeln und Haferflocken im Cutter fein mahlen. Datteln und alle restlichen Zutaten beigeben und solange weitermixen, bis eine kompakte, formbare Masse entsteht. </inhalt>
+      </Masse     >
+      <Kugeln_formen>
+          <inhalt>Die Masse in 16 Stuecke teilen, mit nassen Haenden zu Kugeln formen und in den Kokosraspeln wenden.</inhalt>
+      </Kugeln_formen>
+   </rezept>
+</Rezept>

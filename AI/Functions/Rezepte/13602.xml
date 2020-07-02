@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>645 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>98 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mueesli    >
+          <quant>9 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>9 EL</quant>
+          <zutat>Amaranth-Pops</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandelblaettchen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Karma Coconut Chips Sweet</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+      </Mueesli    >
+      <Toppings_&amp;_Anrichten>
+          <quant>1 </quant>
+          <zutat>Mango, in Wuerfeli</zutat>
+          <quant>250 g</quant>
+          <zutat>Heidelbeeren oder Blaubeeren</zutat>
+          <quant>2 TL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>2 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>2 dl</quant>
+          <zutat>Reisdrinks</zutat>
+          <quant>4 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+      </Toppings_&amp;_Anrichten>
+   </einkaufliste>
+   <rezept>
+      <Mueesli    >
+          <inhalt>Alle Zutaten vermischen, in einer weiten Pfanne ca. 8 Min. goldbraun roesten. Auskuehlen.</inhalt>
+      </Mueesli    >
+      <Toppings_&amp;_Anrichten>
+          <inhalt>Mueesli in Schalen geben, mit Mango, Beeren und 1 TL Mandelmus verzieren. Kalte Mandelmilch und Reisdrink mit restlichem Mandelmus, Eiswuerfeln und Kokosbluetenzucker puerieren, zum Mueesli giessen, sofort servieren.</inhalt>
+      </Toppings_&amp;_Anrichten>
+   </rezept>
+</Rezept>

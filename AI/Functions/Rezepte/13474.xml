@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>151 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Cuba_Libre_>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>8 EL</quant>
+          <zutat>Rum</zutat>
+          <quant>6 dl</quant>
+          <zutat>Cola</zutat>
+          <quant>1 </quant>
+          <zutat>Limette,  heiss abgespuelt, in 8 Stuecken</zutat>
+      </Cuba_Libre_>
+   </einkaufliste>
+   <rezept>
+      <Cuba_Libre_>
+          <inhalt>Eiswuerfel in die Glaeser verteilen, je 2 EL Rum beigeben, mit Coca Cola auffuellen. Je zwei Limettenstuecke ueber dem Glas ausdruecken, dazugeben. </inhalt>
+      </Cuba_Libre_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>468 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spinat-Kartoffel-Schicht>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>600 g</quant>
+          <zutat>gekochte Kartoffeln</zutat>
+          <quant>400 g</quant>
+          <zutat>tiefgekuehlter Blattspinat, angetaut, gut ausgedrueckt, grob gehackt</zutat>
+      </Spinat-Kartoffel-Schicht>
+      <Fisch     >
+          <quant>400 g</quant>
+          <zutat>Goldbuttfilets (MSC)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Paprika</zutat>
+      </Fisch     >
+      <Sauce     >
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Kerbel oder glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spinat-Kartoffel-Schicht      </inhalt>
+      </How_To    >
+      <Spinat-Kartoffel-Schicht>
+          <inhalt>Eier, Milch und Mehl in einer grossen</inhalt>
+      </Spinat-Kartoffel-Schicht>
+      <How_To1   >
+          <inhalt>Schuessel gut verruehren, wuerzen. Kartoffeln an der Roestiraffel direkt</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>in die Eimasse reiben, Spinat daruntermischen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Fischfilets wuerzen. Einen Drittel der</inhalt>
+      </How_To3   >
+      <Fisch     >
+          <inhalt>Backen                        </inhalt>
+      </Fisch     >
+      <Backen    >
+          <inhalt>Sauce                         </inhalt>
+      </Backen    >
+      <Sauce     >
+          <inhalt>Den Fischcake mit dem Backpapier aus der Form heben, in ca. 2 cm dicke Scheiben schneiden, Sauce dazu servieren.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

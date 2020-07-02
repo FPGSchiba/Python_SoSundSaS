@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>348 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Speck_&amp;_Zwiebeln>
+          <quant>120 g</quant>
+          <zutat>Bratspeck in Tranchen, feinen in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein geschnitten</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+      </Speck_&amp;_Zwiebeln>
+      <Kartoffeln>
+          <quant>250 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Kartoffeln>
+      <Hefeteig  >
+          <quant>450 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe  (ca. 7 g)</zutat>
+      </Hefeteig  >
+      <Brot_formen>
+          <quant>40 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+      </Brot_formen>
+   </einkaufliste>
+   <rezept>
+      <Speck_&amp;_Zwiebeln>
+          <inhalt>Speck in einer Bratpfanne ohne Fett anbraten, Zwiebel beigeben, ca. 5 Min. mitbraten. Kraeuter beigeben, kurz mitbraten, Pfanne von der Herdstelle nehmen, auskuehlen.</inhalt>
+      </Speck_&amp;_Zwiebeln>
+      <Kartoffeln>
+          <inhalt>Kartoffeln im siedenden Salzwasser zugedeckt bei mittlerer Hitze ca.15 Min. weich kochen, auskuehlen. Kartoffeln gut abtropfen, dabei 2 dl Kochwasser auffangen und beiseite stellen. Kartoffeln durchs Passe-vite direkt in die Pfanne treiben. Butter beigeben, darunterruehren, auskuehlen.</inhalt>
+      </Kartoffeln>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Das Kartoffelpueree und die Haelfte des beiseite gestellten Kochwassers beigeben, mit den Knethaken der Kuechenmaschine kurz kneten. Restliches Wasser und 3/4 der Speck-Zwiebelmasse beigeben, ca. 10 Min. zu einem glatten Teig kneten. Teig zugedeckt bei Raumtemperatur ca. 1 Std. ums Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Brot_formen>
+          <inhalt>Die kleine Schuessel umgekehrt in die Mitte der Springform stellen. Teig in walnussgrosse Stuecke teilen, zu Kugeln formen und ringfoermig rund um die Schuessel  in die Springform legen. Zugedeckt bei Raumtemperatur nochmals ca. 30 Min. aufgehen lassen. Die restliche Speck-Zwiebelmasse mit der Butter verruehren, Teig damit bestreichen.</inhalt>
+      </Brot_formen>
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

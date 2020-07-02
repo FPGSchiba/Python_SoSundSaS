@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>513 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>77 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>350 g</quant>
+          <zutat>Sushi-Reis</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Reis      >
+      <Fuellung   >
+          <quant>200 g</quant>
+          <zutat>Rindsfilet</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>100 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Wasabi-Paste</zutat>
+          <quant>30 g</quant>
+          <zutat>eingelegter Ingwer</zutat>
+      </Fuellung   >
+      <Rollen    >
+          <quant>4 </quant>
+          <zutat>Nori-Blaetter</zutat>
+      </Rollen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Reis                          </inhalt>
+      </How_To    >
+      <Reis      >
+          <inhalt>Reis in einem Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Wasser mit dem Reis in eine Pfanne geben, ca. 30 Min. quellen lassen.</inhalt>
+      </Reis      >
+      <How_To1   >
+          <inhalt>Reis offen aufkochen, Hitze reduzieren, bis das Wasser so weit verdampft ist, dass sich kleine Krater im Reis bilden, zugedeckt bei kleiner Hitze ca. 10 Min. quellen lassen, dabei Deckel nie abheben. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Zucker, Reisessig und Salz in einer kleinen Pfanne unter Ruehren erwaermen, bis sich der Zucker ausgeloest hat. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Reis in eine weite Schuessel geben, mit der warmen Fluessigkeit betraeufeln, mit einer Gabel ca. 3 Min. sorgfaeltig mischen, dabei mit einem Faecher oder einem Karton Luft zufaechern. Reis mit einem feuchten Tuch bedecken, ca. 15 Min. stehen lassen. </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Rueebli mit dem Sparschaeler in Streifen abschaelen. Oel erhitzen, Fleisch rundum ca. 1 Min. braten. Sesam daruntermischen. Jogurt und Wasabi verruehren. Ingwer abtropfen und mit den Rueebli separat beiseite stellen.</inhalt>
+      </How_To5   >
+      <Fuellung   >
+          <inhalt>1 Nori-Blatt mit der rauen Seite nach oben auf eine Bambusmatte oder auf ein Stueck Klarsichtfolie legen. Vom Reis 1/3 beiseite stellen. Vom restlichen Reis 1/4 auf das Noriblatt geben, dabei oben ca. 2 cm frei lassen.</inhalt>
+      </Fuellung   >
+      <Rollen    >
+          <inhalt>Rolle mit wenig Wasser betraeufeln, 2 Rollen in den Pistazien, 2 Rollen im Piment wenden. Rollen mit einem nassen, sehr scharfen Messer halbieren.</inhalt>
+      </Rollen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=lWdKlSMSV0I"/>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

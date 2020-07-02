@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>320 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>400 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Hefeteig  >
+      <Fuellung   >
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>500 g</quant>
+          <zutat>Heidelbeeren</zutat>
+      </Fuellung   >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter, Milch und Ei beigeben, mischen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Fuellung   >
+          <inhalt>Fuer die Fuellung alle Zutaten in einer Schuessel mischen. Teig auf wenig Mehl zu einem Rechteck von ca. 40 x 50 cm auswallen. Fuellung darauf verteilen, dabei ein ca.1cm breiter Rand frei lassen. Teig von der Laengsseite her aufrollen, mit einem Brotmesser ohne Druck in ca. 10 Stuecke schneiden. Schnecken gleichmaessig in die vorbereitete Form verteilen, zugedeckt bei Raumtemperatur nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Kuchen herausnehmen, ca. 10 Min. in der Form abkuehlen, Formenrand entfernen, Kuchen auf ein Gitter schieben, auskuehlen. Mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>345 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pancake-Masse_>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>10 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Pancake-Masse_>
+      <Pancake-Raclette_>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Beerenmischung, aufgetaut</zutat>
+          <quant>100 g</quant>
+          <zutat>Nutella </zutat>
+      </Pancake-Raclette_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pancake-Masse                 </inhalt>
+      </How_To    >
+      <Pancake-Masse_>
+          <inhalt>Eiweiss mit dem Salz steif schlagen, sorgfaeltig unter die Masse ziehen. </inhalt>
+      </Pancake-Masse_>
+      <Pancake-Raclette_>
+          <inhalt>Zimt und Zucker mischen. Raclette-Pfaennchen mit wenig Butter bestreichen, im Raclette-Ofen heiss werden lassen. So viel Teig in die Pfaennchen geben, dass die Boeden duenn ueberzogen sind. Beeren darauf verteilen. Pancakes backen, bis sich die Unterseite von selbst loest. Mit Nutella oder Zimt-Zucker verfeinern. </inhalt>
+      </Pancake-Raclette_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>508 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blumenkohl-Boden>
+          <quant>750 g</quant>
+          <zutat>Blumenkohl, in Stuecken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Sbrinz, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Blumenkohl-Boden>
+      <Belag     >
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli mit dem Gruen, Radiesli in Scheiben, Gruen beiseite gestellt</zutat>
+          <quant>70 g</quant>
+          <zutat>Cassisbeeren</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Salbei</zutat>
+          <quant>30 g</quant>
+          <zutat>Kernenmix</zutat>
+          <quant>5 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>50 g</quant>
+          <zutat>Sbrinz, grob gerieben</zutat>
+      </Belag     >
+      <Backen    >
+          <quant>30 g</quant>
+          <zutat>Micro Greens </zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Blumenkohl-Boden>
+          <inhalt>Blumenkohl im Cutter fein hacken, salzen, in einem Sieb ca. 30 Min. ziehen lassen. Blumenkohl in einem Tuch gut ausdruecken, in eine Schuessel geben. Kaese, Ei, Salz und Pfeffer daruntermischen. Masse auf ein mit Backpapier belegtes Blech geben, mit den Haenden zu einem runden Fladen (ca. 28 cm Ø) formen. </inhalt>
+      </Blumenkohl-Boden>
+      <Belag     >
+          <inhalt>Creme fraiche auf dem Blumenkohlboden verteilen, Radiesli und Cassisbeeren darauf verteilen. Beseite gestelltes Radiesligruen mit Salbei und Kernen in den Cutter geben, Oel und Wasser beigeben, puerieren, wuerzen, auf dem Fladen verteilen, Kaese darueberstreuen. </inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, Micro Greens darauf verteilen, salzen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

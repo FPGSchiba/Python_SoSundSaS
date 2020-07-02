@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>294 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>750 g</quant>
+          <zutat>Bohnen</zutat>
+          <quant>600 g</quant>
+          <zutat>fest kochende Kartoffeln, in Schnitzchen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kraeutersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherter Tofu, in Dreiecken</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln, in Streifen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kraeutersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kernenmix, geroestet</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kerbelblaettchen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in weiter Pfanne erhitzen, Bohnen und Kartoffeln ca. 2 Min. andaempfen, Bouillon dazugiessen, zugedeckt bei kleiner Hitze ca. 20 Min. koecheln, wuerzen. Oel in beschichteter Pfanne erhitzen, Tofu und Zwiebeln bei mittlerer Hitze ca. 5 Min. braten, herausnehmen, wuerzen. Kartoffeln und Bohnen mit Tofu anrichten, Kernen und Kerbel darueberstreuen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>842 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>80 g  </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizzoccheri>
+          <quant>300 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Pizzoccheri>
+      <Gemuese    >
+          <quant>250 g</quant>
+          <zutat>Kartoffeln, in Wuerfeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser</zutat>
+          <quant>500 g</quant>
+          <zutat>Wirz, in Streifen</zutat>
+          <quant>300 g</quant>
+          <zutat>Buendner Bergkaese, gerieben</zutat>
+      </Gemuese    >
+      <Topping   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Salsiz (ca. 100 g), in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>6 </quant>
+          <zutat>Salbeiblaetter, in feinen Streifen</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Pizzoccheri>
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Wasser dazugiessen, mit der Kelle mischen, bis der Teig zusammenhaelt. Auf wenig Mehl ca. 10 Min. kneten, bis der Teig elastisch ist, zugedeckt bei Raumtemperatur ca. 30 Min. ruhen lassen. Teig vierteln, portionenweise auf wenig Mehl ca. 2 mm dick rechteckig auswallen, in Streifen (ca. 1x6 cm) schneiden, etwas antrocknen lassen.</inhalt>
+      </Pizzoccheri>
+      <Gemuese    >
+          <inhalt>Kartoffeln im Salzwasser ca. 5 Min. kochen. Pizzoccheri beigeben, ca. 2 Min. koecheln, Gemuese beigeben, ca. 2 Min. weiterkoecheln. Kartoffel-Pizzoccheri-Mischung abtropfen, lagenweise mit dem Kaese in die vorbereitete Form fuellen.</inhalt>
+      </Gemuese    >
+      <Topping   >
+          <inhalt>Butter in einer Bratpfanne warm werden lassen. Salsiz, Zwiebel, Knoblauch und Salbei ca. 10 Min. hellbraun braten, auf den Pizzoccheri verteilen.</inhalt>
+      </Topping   >
+      <Gratinieren>
+          <inhalt>Ca. 5 Min. in der oberen Haelfte des auf 240 Grad vorgeheizten Ofens.</inhalt>
+      </Gratinieren>
+   </rezept>
+</Rezept>

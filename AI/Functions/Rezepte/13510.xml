@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>20 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade_ >
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sherry</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Senfkoerner, zerdrueckt</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Nelkenpulver</zutat>
+      </Marinade_ >
+   </einkaufliste>
+   <rezept>
+      <Marinade_ >
+          <inhalt>Tomatenpueree und alle restlichen Zutaten verruehren. </inhalt>
+      </Marinade_ >
+   </rezept>
+</Rezept>

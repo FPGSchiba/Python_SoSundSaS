@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>508 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kraeuter-Oel>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+      </Kraeuter-Oel>
+      <Kartoffeln>
+          <quant>1 1/2 kg</quant>
+          <zutat>fest kochende Kartoffeln, geschaelt, in ca. 3 cm grossen Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Kartoffeln>
+      <Dip       >
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>2 EL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Akazienhonig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Kraeuter-Oel>
+          <inhalt>Butter und Oel in einer kleinen Pfanne erwaermen. Knoblauch und Kraeuter beigeben, auf der ausgeschalteten Platte ca. 15 Min. ziehen lassen. </inhalt>
+      </Kraeuter-Oel>
+      <Kartoffeln>
+          <inhalt>Kartoffeln im Salzwasser ca. 15 Min. kochen, abgiessen und ca. 5 Min. ausdampfen lassen. Kartoffeln in eine Schuessel geben, Kraeuter-Oel durch ein Sieb dazugiessen, Kraeuter beiseite stellen. Kartoffeln mit dem Oel und Salz mischen, die Oberflaeche der Kartoffeln dabei etwas zerdruecken (siehe Hinweis). Kartoffeln auf einem mit Backpapier belegten Blech verteilen.  </inhalt>
+      </Kartoffeln>
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Kartoffeln dabei ca. 2-mal wenden. Beiseite gestellte Kraeuter auf den Kartoffeln verteilen, ca. 15 Min. fertig backen.</inhalt>
+      </Backen    >
+      <Dip       >
+          <inhalt>Creme fraiche mit Mayonnaise, Senf und Honig verruehren, wuerzen. Dip zu den Bratkartoffeln servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

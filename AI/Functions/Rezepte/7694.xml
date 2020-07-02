@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>517 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch_marinieren>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur abgeriebene Schale</zutat>
+          <quant>2 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 1/2 kg</quant>
+          <zutat>Kalbsbraten (z.B. Schulter)</zutat>
+      </Fleisch_marinieren>
+      <Orangenscheiben>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, in ca. 5 mm dicken Scheiben, halbiert</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+      </Orangenscheiben>
+      <Braten_&amp;_Sauce>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Kalbsfuesschen, kalt abgespuelt</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, quer halbiert</zutat>
+          <quant>3 </quant>
+          <zutat>Sternanise</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Cognac</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, abgeriebene Schale und ganzer Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Braten_&amp;_Sauce>
+   </einkaufliste>
+   <rezept>
+      <Fleisch_marinieren>
+          <inhalt>Oel und alle Zutaten bis und mit Pfeffer mischen. Fleisch damit bestreichen, zugedeckt im Kuehlschrank ca. 3 Std. marinieren. Das Fleisch ca. 1 Std. vor dem Anbraten aus dem Kuehlschrank nehmen. </inhalt>
+      </Fleisch_marinieren>
+      <Orangenscheiben>
+          <inhalt>Ein Backblech in die Mitte des Ofens schieben. Ofen auf 220 Grad vorheizen. Orangenscheiben auf das heisse Blech verteilen. Ca. 10 Min., backen, herausnehmen, Orangenscheiben sorgfaeltig wenden, mit Zucker bestreuen, beiseitestellen.</inhalt>
+      </Orangenscheiben>
+      <Braten_&amp;_Sauce>
+          <inhalt>Bratgeschirr in der unteren Haelfte des vorgeheizten Ofens heiss werden  lassen. Das Fleisch salzen. Fleisch ins Bratgeschirr legen, beidseitig je ca. 10 Min. anbraten. Kalbsfuesschen, Zwiebel und Sternanis beigeben, ca. 10 Min. mitbraten. Hitze auf 180 Grad reduzieren. Cognac daruebergiessen. Wein dazugiessen, Butter beigeben. Fleischthermometer an der dicksten Stelle einstecken. Ca. 50 Min. weiterbraten. Braten von Zeit zu Zeit mit der Fluessigkeit uebergiessen. Gesamtbratzeit: ca. 80 Minuten. Die Kerntemperatur soll 70-75 Grad betragen. Braten herausnehmen, vor dem Tranchieren zugedeckt ca. 10 Min. stehen lassen. Beiseitegestellte Orangenscheiben im ausgeschalteten Ofen nochmals warm werden lassen. Restliche Bratfluessigkeit in eine Pfanne absieben. Saucenhalbrahm, Orangenschale und -saft beigeben. Sauce kurz koecheln, wuerzen.</inhalt>
+      </Braten_&amp;_Sauce>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=yNIMAigQY0Y"/>
+</Rezept>

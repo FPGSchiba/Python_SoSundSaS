@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>536 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 </quant>
+          <zutat>Weizen-Tortillas</zutat>
+          <quant>120 g</quant>
+          <zutat>Betty Bossi Sunny Salad</zutat>
+          <quant>100 g</quant>
+          <zutat>Cheddar, grob gerieben</zutat>
+          <quant>130 g</quant>
+          <zutat>Herbs chicken stripes</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tortillas mit Salat, Kaese und Poulet belegen, einrollen und mit Kuechenschnur zubinden. In der Grillpfanne rundum ca. 5 Min. braten. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

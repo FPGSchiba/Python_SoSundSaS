@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>561 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuchenteig_>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+      </Kuchenteig_>
+      <Speck     >
+          <quant>180 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+      </Speck     >
+      <Guss      >
+          <quant>5 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Gruyere, fein gerieben</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Kuchenteig_>
+          <inhalt>Mehl und Salz in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Kuchenteig_>
+      <Speck     >
+          <inhalt>Speck in einer beschichteten Bratpfanne langsam knusprig braten, auskuehlen.</inhalt>
+      </Speck     >
+      <Formen_   >
+          <inhalt>Teig auf wenig Mehl rund, ca. 32 cm Ø, auswallen. Teig in die vorbereitete Form legen, so dass ein Rand von ca. 3 cm entsteht. Boden mit einer Gabel dicht einstechen, Speckwuerfeli darauf verteilen.</inhalt>
+      </Formen_   >
+      <Guss      >
+          <inhalt>Rahm, Eier und Kaese in einer Schuessel verruehren, wuerzen. Guss ueber die Speckwuerfeli giessen.</inhalt>
+      </Guss      >
+      <Backen_   >
+          <inhalt>Ca. 20 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Hitze auf 180 Grad reduzieren, ca. 20 Min. fertig backen.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

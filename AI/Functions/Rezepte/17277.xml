@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>64 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Smoothie_ >
+          <quant>2 </quant>
+          <zutat>Aepfel, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>gekochte Rande, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Rueeblisaft</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+      </Smoothie_ >
+   </einkaufliste>
+   <rezept>
+      <Smoothie_ >
+          <inhalt>Aepfel mit allen Zutaten in ein Mixglas geben, fein puerieren, mind. 30 Min. kuehl stellen. </inhalt>
+      </Smoothie_ >
+   </rezept>
+</Rezept>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>54 kcal </NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>1 EL</quant>
+          <zutat>Senfkoerner, zerstossen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>schwarzer Pfeffer, zerstossen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weisswein</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Thymianblaettchen, grob geschnitten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rosmarinnadeln, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Lammgigot mit dem Knochen (ca. 2,8 kg), beim Metzger vorbestellt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+      </Marinade  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Marinade                      </inhalt>
+      </How_To    >
+      <Marinade  >
+          <inhalt>Ofen auf 220 Grad vorheizen. Bratgeschirr in der unteren Haelfte des Ofens ca. 5 Min. heiss werden lassen. Fleisch salzen, hineinlegen, ca. 20 Min. anbraten. Hitze auf 100 Grad reduzieren. Fleischthermometer an der dicksten Stelle so einstecken, dass es den Knochen nicht beruehrt, ca. 2 Std. weiterbraten. Die Kerntemperatur soll ca. 65 Grad betragen. Fleisch von Zeit zu Zeit mit dem entstandenen Saft betraeufeln. Fleisch herausnehmen, vor dem Tranchieren zugedeckt ca. 10 Min. ruhen lassen.</inhalt>
+      </Marinade  >
+   </rezept>
+</Rezept>

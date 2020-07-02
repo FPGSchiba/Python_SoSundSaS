@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>420 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>Champignons, in Scheiben</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Fisch_&amp;_Kartoffeln>
+          <quant>2 </quant>
+          <zutat>Wolfsbarsche (Bio) (je ca. 400 g), ausgenommen</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>600 g</quant>
+          <zutat>Gschwellti (fest kochende Sorte) vom Vortag, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>25 g</quant>
+          <zutat>Butterfloeckli</zutat>
+          <quant>2 </quant>
+          <zutat>Backpapiere (je ca. 33x42 cm)</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in Schnitzen oder Scheiben</zutat>
+      </Fisch_&amp;_Kartoffeln>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Zwiebel und Knoblauch im Oel andaempfen, Champignons beigeben, offen ca. 10 Min. mitdaempfen, bis die entstandene Fluessigkeit vollstaendig eingekocht ist. Zitronenschale, -saft und Petersilie daruntermischen, wuerzen, auskuehlen.</inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Fisch &amp; Kartoffeln        </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Einpacken: Je 1/2 der Kartoffeln und der beiseite gestellten Fuellung in die Mitte der Backpapiere geben. Fische darauf legen, Wein darueber giessen, mit Butterfloeckli belegen. Vorderen und hinteren Papierrand ueber dem Fisch ca. 1 cm einschlagen, 1-mal umschlagen, Enden, nicht zu nahe am Fisch mit Kuechenschnur zusammenbinden, auf ein Backblech legen.</inhalt>
+      </How_To2   >
+      <Fisch_&amp;_Kartoffeln>
+          <inhalt>Servieren: Paeckli auf Platte legen, Papier oeffnen, Fische mit Zitrone garnieren.</inhalt>
+      </Fisch_&amp;_Kartoffeln>
+   </rezept>
+</Rezept>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>527 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Jalousien >
+          <quant>3 </quant>
+          <zutat>Birnen (z.B.gute Luise), in ca. 2 mm dicken Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>roter Portwein</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Blaetterteig</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl zum Auswallen</zutat>
+          <quant>150 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), in Wuerfeli</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer</zutat>
+      </Jalousien >
+      <Salat     >
+          <quant>1 1/2 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer nach Bedarf</zutat>
+          <quant>100 g</quant>
+          <zutat>Lollo, in Stuecken</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Jalousien                     </inhalt>
+      </How_To    >
+      <Jalousien >
+          <inhalt>Birnen mit Portwein mischen, salzen. Ca. 5 Min. stehen lassen, bis der Portwein vollstaendig aufgesogen ist. Teig auf wenig Mehl zu einem Quadrat von ca. 30 x 30 cm auswallen, Teig in 8 Rechtecke schneiden. Teigstuecke auf ein mit Backpapier belegtes Blech legen. Raender im Abstand von ca. 1 cm schraeg einschneiden. Birnen auf die Teigstuecke legen, Gorgonzola darauf verteilen. </inhalt>
+      </Jalousien >
+      <How_To1   >
+          <inhalt>Salat                         </inhalt>
+      </How_To1   >
+      <Salat     >
+   </rezept>
+</Rezept>

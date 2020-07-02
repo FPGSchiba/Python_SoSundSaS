@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>102 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig  >
+          <quant>120 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>feiner Maisgriess</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3 Zweige</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Ruehrteig  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ruehrteig                      </inhalt>
+      </How_To    >
+      <Ruehrteig  >
+          <inhalt>Maisgriess und alle Zutaten bis und mit Backpulver mischen, unter die Masse ruehren. Mit einem Loeffel in die vorbereitete Form fuellen. </inhalt>
+      </Ruehrteig  >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Madeleines aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

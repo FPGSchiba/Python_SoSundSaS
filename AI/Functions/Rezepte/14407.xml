@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>629 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>86 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>2 </quant>
+          <zutat>Aepfel (z. B. Boskoop), in Wuerfeln</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Orange, in Wuerfeln</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+      </Fuellung   >
+      <Gans      >
+          <quant>1 </quant>
+          <zutat>Gans  (ca. 4 kg), kuechenfertig, beim Metzger vorbestellt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gans      >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Aepfel und alle Zutaten bis und mit Thymian mischen.</inhalt>
+      </Fuellung   >
+      <Gans      >
+          <inhalt>Gans innen und aussen kalt ausspuelen, trocken tupfen, mit der Apfelmischung fuellen. Schenkel und Fluegel mit Kuechenschnur binden. Gans mit der Brustseite nach oben auf ein Blech legen, wuerzen.</inhalt>
+      </Gans      >
+      <Braten    >
+          <inhalt>Ca. 2 1/4 Std. in der unteren Haelfte des auf 170 Grad vorgeheizten Ofens, dabei die Gans von Zeit zu Zeit mit der Bratfluessigkeit uebergiessen. Schnur entfernen, tranchieren.</inhalt>
+      </Braten    >
+   </rezept>
+</Rezept>

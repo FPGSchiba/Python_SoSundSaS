@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>232 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Himbeer-Masse>
+          <quant>350 g</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Himbeer-Masse>
+      <Biskuit   >
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser, heiss</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl oder Backmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Biskuit   >
+      <Rahm      >
+          <quant>4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>3 EL</quant>
+          <zutat>Nonpareilles</zutat>
+      </Rahm      >
+      <Dekorieren>
+          <quant>80 g</quant>
+          <zutat>Modelliermarzipan</zutat>
+          <quant>1 Tube</quant>
+          <zutat>rote Lebensmittelfarbe</zutat>
+          <quant>1 Tube</quant>
+          <zutat>gelbe Lebensmittelfarbe</zutat>
+          <quant>1 Tube</quant>
+          <zutat>blaue Lebensmittelfarbe</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <Himbeer-Masse>
+          <inhalt>Himbeeren, Zucker und Wasser in eine Pfanne geben, aufkochen. Zugedeckt ca. 10 Min. koecheln, mit einer Gabel zerdruecken, auskuehlen.</inhalt>
+      </Himbeer-Masse>
+      <Biskuit   >
+          <inhalt>Zucker, Eigelbe und Wasser in eine Schuessel geben, mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse hell und schaumig ist. Eiweisse mit dem Salz steif schlagen, Zucker und Vanille beigeben, weiterschlagen, bis der Eischnee glaenzt. Mehl und Backpulver mischen, lagenweise mit dem Eischnee auf die Masse geben, mit dem Gummischaber sorgfaeltig darunterziehen, in die vorbereitete Form fuellen.</inhalt>
+      </Biskuit   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Biskuit auf ein Gitter stuerzen, Backpapier entfernen, auskuehlen. Biskuit quer dritteln, Schnittflaechen mit der Haelfte der Himbeer-Masse traenken. </inhalt>
+      </Backen    >
+      <Rahm      >
+          <inhalt>Rahm, Puderzucker und Vanillepaste steif schlagen. 1/3 des Schlagrahms mit den restlichen Himbeeren mischen, auf den Schnittflaechen von 2 Tortenboeden verteilen, 3. Tortenboden darauflegen. Torte rundum mit dem restlichen Schlagrahm bestreichen. Nonpareilles darauf verteilen, Torte ca. 1 Std. kuehl stellen.</inhalt>
+      </Rahm      >
+      <Dekorieren>
+          <inhalt>Marzipan dritteln. Je ein Drittel mit einigen Tropfen Lebensmittelfarbe betraeufeln und Farbe einkneten. Marzipan je zwischen 2 Backpapieren ca. 2 mm duenn auswallen, in Dreiecke schneiden. Tortenrand mit den Marzipan-Dreiecken dekorieren.</inhalt>
+      </Dekorieren>
+   </rezept>
+</Rezept>

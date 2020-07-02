@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>440 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Trauben   >
+          <quant>200 g</quant>
+          <zutat>blaue Trauben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Trauben   >
+      <Roesti     >
+          <quant>2 Paeckli</quant>
+          <zutat>Roesti fixfertig (z.B. Karma Suesskartoffelroesti, je ca. 500 g)</zutat>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+      </Roesti     >
+      <Pilze     >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>600 g</quant>
+          <zutat>gemischte  Pilze, in Stuecken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Pilze     >
+      <Anrichten >
+          <quant>wenig </quant>
+          <zutat>Crema di Balsamico</zutat>
+          <quant> </quant>
+          <zutat>Chiliflocken, nach Bedarf</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Trauben   >
+          <inhalt>Trauben und alle Zutaten bis und mit Salz mischen, auf einem mit Backpapier belegten Blech verteilen.  </inhalt>
+      </Trauben   >
+      <Backen:   >
+          <inhalt>ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen:   >
+      <Roesti     >
+          <inhalt>Roesti zu 4 gleich grossen Bratlingen formen. Oel in einer beschichteten Bratpfanne erhitzen, Bratlinge bei mittlerer Hitze beidseitig je ca. 10 Min. braten, herausnehmen, warm stellen.</inhalt>
+      </Roesti     >
+      <Pilze     >
+          <inhalt>Oel in derselben Pfanne erhitzen, Knoblauch und Rosmarin ca. 3 Min. andaempfen. Pilze beigeben, unter gelegentlichem Ruehren ca. 10 Min. mitdaempfen, wuerzen.</inhalt>
+      </Pilze     >
+      <Anrichten >
+          <inhalt>Roesti-Bratlinge auf die Teller geben, Pilze und Trauben darauf verteilen, mit Balsamico und Chiliflocken garnieren.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

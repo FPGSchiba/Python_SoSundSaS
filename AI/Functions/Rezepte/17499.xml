@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>511 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaghetti >
+          <quant>350 g</quant>
+          <zutat>Spaghetti</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaghetti >
+      <Sauce     >
+          <quant>1/2 TL</quant>
+          <zutat>Pfefferkoerner</zutat>
+          <quant>200 g</quant>
+          <zutat>Pecorino romano, fein gerieben</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Spaghetti >
+          <inhalt>Spaghetti im Salzwasser knapp al dente kochen, ca. 21/2 dl Kochwasser beiseite stellen. Spaghetti abtropfen.</inhalt>
+      </Spaghetti >
+      <Sauce     >
+          <inhalt>Pfefferkoerner im Moerser oder mit einem Messerruecken zerstossen, ohne Fett in einer Bratpfanne ca. 2 Min. roesten. Spaghetti und ca. 1 dl Kochwasser beigeben, unter gelegentlichem Ruehren Spaghetti fertig kochen. Restliches Kochwasser mit dem Kaese in einer Schuessel verruehren, zu den Spaghetti geben, mischen, bis der Kaese geschmolzen ist. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

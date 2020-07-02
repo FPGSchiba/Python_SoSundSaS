@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>367 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln>
+          <quant>600 g</quant>
+          <zutat>fest kochende Kartoffeln</zutat>
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Kartoffeln>
+      <Involtini >
+          <quant>50 g</quant>
+          <zutat>Rohschinken</zutat>
+          <quant>3 EL</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Artischockenboden</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>300 g</quant>
+          <zutat>Kalbsplaetzli-Piccata </zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Kalbsfond</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Marsala</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Involtini >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kartoffeln                    </inhalt>
+      </How_To    >
+      <Kartoffeln>
+          <inhalt>Kartoffeln in ca. 2 cm grosse Wuerfel schneiden. Wasser aufkochen, salzen. Kartoffeln beigeben, ca. 5 Min. vorkochen, gut abtropfen.</inhalt>
+      </Kartoffeln>
+      <How_To1   >
+          <inhalt>Rosmarin fein schneiden. Olivenoel und Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Kartoffeln beigeben, Hitze etwas reduzieren, Kartoffeln unter gelegentlichem Wenden ca. 10 Min. knusprig braten. Salz und Rosmarin daruntermischen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Involtini                     </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Rohschinken und Petersilie fein schneiden. Artischockenboeden gut abtropfen, 5 Stueck beiseitestellen, Rest hacken. </inhalt>
+      </How_To3   >
+      <Involtini >
+          <inhalt>Gehackte Artischocken mit allen Zutaten bis und mit Muskat in einer Schuessel mischen.</inhalt>
+      </Involtini >
+      <How_To4   >
+          <inhalt>Fleisch zwischen Haushaltfolie duenn klopfen, auf einer Seite wuerzen, wenden. </inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Mehl auf einen flachen Teller geben, Involtini darin wenden, ueberschuessiges Mehl abschuetteln.</inhalt>
+      </How_To5   >
+      <How_To6   >
+          <inhalt>Fond und Marsala in derselben Pfanne aufkochen, bei mittlerer Hitze ca. 5 Min. koecheln, wuerzen.</inhalt>
+      </How_To6   >
+      <Servieren >
+          <inhalt>Beiseitegestellte Artischockenboeden in Schnitzchen schneiden, mit den Involtini in die Sauce geben, zugedeckt bei kleiner Hitze ca. 5 Min. ziehen lassen. Jus evtl. absieben. Involtini mit Marsala-Jus und den Rosmarin-Kartoffeln servieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=uERVr2oDXrU"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=IaE7D_ogQkQ"/>
+</Rezept>

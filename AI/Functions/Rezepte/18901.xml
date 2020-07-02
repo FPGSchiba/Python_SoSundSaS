@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>245 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>244 g </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Boden_    >
+          <quant>150 g</quant>
+          <zutat>Guetzli</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, ausgekuehlt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Boden_    >
+      <Frischkaesemasse_>
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>60 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Limette, abgeriebene Schale, ganzer Saft</zutat>
+          <quant>4 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Frischkaesemasse_>
+      <Kakimasse_>
+          <quant>3 </quant>
+          <zutat>Persimon Kaki, in Stuecken</zutat>
+          <quant>1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Blatt</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+      </Kakimasse_>
+      <Cheesecake>
+          <quant>1 </quant>
+          <zutat>Kaki, in feinen Scheiben</zutat>
+      </Cheesecake>
+   </einkaufliste>
+   <rezept>
+      <Boden_    >
+          <inhalt>Guetzli in einem Plastikbeutel mit dem Wallholz fein zerstossen. Butter und Salz daruntermischen. Masse auf dem vorbereiteten Formenboden verteilen, mit einem Loeffelruecken oder Glasboden gut andruecken, kuehl stellen.</inhalt>
+      </Boden_    >
+      <Frischkaesemasse_>
+          <inhalt>Frischkaese, Jogurt, Puderzucker, Limettenschale und 2 EL Limettensaft mit den Schwingbesen des Handruehrgeraets verruehren. Gelatine mit dem Wasser aufloesen, 2 EL der Frischkaesemasse darunterruehren, sofort gut unter die restliche Masse ruehren, in einen Spritzsack fuellen, ca. 1 Std. kuehl stellen. </inhalt>
+      </Frischkaesemasse_>
+      <Kakimasse_>
+          <inhalt>Kaki mit restlichem Limettensaft und Wasser in einer Pfanne ca. 5 Min. weich kochen, puerieren. Gelatine beigeben, unter Ruehren aufloesen. Masse etwas abkuehlen, durch ein Sieb streichen, in einen Spritzsack fuellen, ca. 1 Std. kuehlstellen. </inhalt>
+      </Kakimasse_>
+      <Cheesecake>
+          <inhalt>Spitze von beiden Spritzsaecken ca. 2 cm breit abschneiden. Abwechslungsweise Kreise auf den Boden spritzen, mit der Frischkkaese-Jogurtmasse bedecken, ca. 2 Std. kuehlstellen. Kaki vor dem Servieren darauf verteilen. </inhalt>
+      </Cheesecake>
+   </rezept>
+</Rezept>

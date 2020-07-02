@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>327 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+      </Teig      >
+      <Sieden    >
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Sieden    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Knoepflimehl und Salz in einer Schuessel mischen, in der Mitte eine Mulde eindruecken. Milchwasser mit den Eiern verruehren, nach und nach unter Ruehren in die Mulde giessen, alles mischen und so lange klopfen, bis der Teig Blasen wirft. Zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </Teig      >
+      <Sieden    >
+          <inhalt>Teig portionenweise mit einem nassen Spachtel auf einem nassen Brett ausstreichen. Mit dem Spachtel schmale Teigstreifen vom Brett direkt ins siedende Salzwasser schaben, dabei den Spachtel immer wieder ins siedende Wasser tauchen. </inhalt>
+      </Sieden    >
+      <Spaetzli_  >
+          <inhalt>Sobald die Spaetzli an die Oberflaeche steigen, mit einer Schaumkelle herausnehmen, warm stellen.</inhalt>
+      </Spaetzli_  >
+   </rezept>
+</Rezept>

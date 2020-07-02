@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>328 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>500 g</quant>
+          <zutat>Rueebli, laengs geviertelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese    >
+      <Backen    >
+          <quant>600 g</quant>
+          <zutat>Suesskartoffeln, geschaelt, laengs in Schnitzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Backen    >
+      <Koriandersauce>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Thai-Basilikum, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Limette, wenig abgeriebene Schale und ganzer Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Koriandersauce>
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Rueebli, Oel, Sesam und Salz in einer Schuessel mischen, auf ein mit Backpapier belegtes Blech geben, ein zweites Backpapier ueber das Gemuese legen.</inhalt>
+      </Gemuese    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Suesskartoffeln, Oel, Sesam und Salz in derselben Schuessel mischen.  Oberes Backpapier entfernen, Suesskartoffeln zu den Rueebli aufs Blech geben. Ca. 40 Min. fertig backen. </inhalt>
+      </Backen    >
+      <Koriandersauce>
+          <inhalt>Koriander und alle Zutaten bis und mit Salz in einer Schuessel verruehren. Koriandersauce ueber das Gemuese traeufeln. </inhalt>
+      </Koriandersauce>
+   </rezept>
+</Rezept>

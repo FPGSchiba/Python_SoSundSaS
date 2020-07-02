@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>580 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dal       >
+          <quant>1 TL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>5 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Curry</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>360 g</quant>
+          <zutat>rote Linsen</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kokosmilch (ca. 400 g)</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Dal       >
+      <Anrichten >
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 EL</quant>
+          <zutat>gelbe Senfkoerner</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Dal       >
+          <inhalt>Oel in einer grossen Pfanne erwaermen, Zwiebel ca. 3 Min. andaempfen. Knoblauch und Ingwer beigeben, 1 Min. mitdaempfen. Curry, Kurkuma und Kreuzkuemmel beigeben, 1-2 Min. fertigdaempfen. Linsen, Kokosmilch und Wasser beigeben, aufkochen, salzen, ca. 15 Min. koecheln, bis die Linsen weich sind. Dabei hie und da umruehren.</inhalt>
+      </Dal       >
+      <Anrichten >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Senfkoerner beigeben, zugedeckt 10-15 Min. roesten. Die Senfkoerner zum Dahl geben, gut ruehren. Dahl sofort servieren.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

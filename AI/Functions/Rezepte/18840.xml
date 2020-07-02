@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>225 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fruchtsalat>
+          <quant>300 g</quant>
+          <zutat>Zwetschgen, entsteint, geviertelt</zutat>
+          <quant>300 g</quant>
+          <zutat>blaue Trauben, halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Fruchtsalat>
+      <Nuss-Krokant>
+          <quant>60 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+      </Nuss-Krokant>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fruchtsalat                   </inhalt>
+      </How_To    >
+      <Fruchtsalat>
+          <inhalt>Nuss-Krokant                  </inhalt>
+      </Fruchtsalat>
+      <Nuss-Krokant>
+          <inhalt>Fruchtsalat anrichten, Krokant darauf verteilen.</inhalt>
+      </Nuss-Krokant>
+   </rezept>
+</Rezept>

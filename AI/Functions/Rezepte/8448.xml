@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>306 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>125 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>Loeffelbiskuits</zutat>
+          <quant>5 Blaetter</quant>
+          <zutat>Gelatine</zutat>
+      </Boden     >
+      <Belag     >
+          <quant>500 g</quant>
+          <zutat>1/2-fett-Quark</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Mango</zutat>
+          <quant>3 </quant>
+          <zutat>Passionsfruechte</zutat>
+          <quant>1/2 Blatt</quant>
+          <zutat>Gelatine</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Springform vorbereiten        </inhalt>
+      </How_To    >
+      <Springform_vorbereiten>
+          <inhalt>Springformboden (ca. 24 cm Ø) mit Backpapier belegen, Rand mit Oel bestreichen, mit Klarsichtfolie belegen.</inhalt>
+      </Springform_vorbereiten>
+      <How_To1   >
+          <inhalt>Boden                         </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Butter fluessig werden lassen. Loeffelbiskuits fein zerdruecken. Gelatine ca. 5 Min. in kaltes Wasser einlegen.</inhalt>
+      </How_To2   >
+      <Boden     >
+          <inhalt>Butter und Biskuits mischen, auf den vorbereiteten Formenboden verteilen, gut andruecken.</inhalt>
+      </Boden     >
+      <How_To3   >
+          <inhalt>Belag                         </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Wasser zum Sieden bringen. Gelatine abtropfen, mit dem Wasser aufloesen, mit 5 EL Masse verruehren und sofort gut unter die restliche Masse ruehren.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Mango in feinste Scheiben schneiden, darauf anrichten. </inhalt>
+      </How_To5   >
+      <Belag     >
+          <inhalt>Abgetropfte Gelatine beigeben, bei kleiner Hitze unter Ruehren aufloesen. Mangoscheiben mit dem Passionsfruchtsaft betraeufeln, zugedeckt ca. 4 Std. kuehl stellen.</inhalt>
+      </Belag     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=sLzibmyOJV4"/>
+</Rezept>

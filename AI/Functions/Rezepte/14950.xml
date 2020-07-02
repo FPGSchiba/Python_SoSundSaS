@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>586 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Randen_kochen>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>rohe Rande (ca. 400 g), in Wuerfeln</zutat>
+      </Randen_kochen>
+      <Baumnuesse_glasieren>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+      </Baumnuesse_glasieren>
+      <Federkohl >
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>Federkohl (ca. 200 g)</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Federkohl >
+      <Servieren >
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Randen_kochen>
+          <inhalt>Wasser und Essig mit 2 EL Zucker aufkochen, Randenwuerfel beigeben, ca. 10 Min. weich kochen. Abtropfen, dabei ca. 2 dl Kochfluessigkeit auffangen. Kochfluessigkeit zurueck in die Pfanne giessen, restlichen Zucker beigeben und auf ca. die Haelfte einkochen, auskuehlen. </inhalt>
+      </Randen_kochen>
+      <Baumnuesse_glasieren>
+          <inhalt>Baumnuesse im siedenden Wasser ca. 2 Min. kochen, absieben und heiss abspuelen. Mit Zucker mischen, in einer beschichteten Bratpfanne ca. 4 Min. goldgelb braten, auskuehlen.</inhalt>
+      </Baumnuesse_glasieren>
+      <Federkohl >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen, Federkohl beigeben und ca. 5 Min. andaempfen, wuerzen. </inhalt>
+      </Federkohl >
+      <Servieren >
+          <inhalt>Federkohl auf Teller verteilen. Randen, Feta und Baumnuesse darauf anrichten. Eingekochte Kochfluessigkeit daruebertraeufeln, wuerzen. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

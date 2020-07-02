@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>993 kcal</NaehrwertProPerson>
+       <Fett>66 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>58 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Buchweizen-Crunch>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>80 g</quant>
+          <zutat>Buchweizen, ca. 2 Std. in Wasser eingelegt, abgetropft</zutat>
+          <quant>40 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian, Blaettchen abgezupft</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Buchweizen-Crunch>
+      <Raclette  >
+          <quant>800 g</quant>
+          <zutat>Raclettekaese in Scheiben (z.B. Hoehlengereift)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Birnel (Birnendicksaft) oder fluessiger Honig</zutat>
+          <quant>500 g</quant>
+          <zutat>Gschwellti (Raclettekartoffeln)</zutat>
+      </Raclette  >
+   </einkaufliste>
+   <rezept>
+      <Buchweizen-Crunch>
+          <inhalt>Oel in einer Bratpfanne erhitzen. Buchweizen bei mittlerer Hitze unter gelegentlichem Ruehren ca. 5 Min. braten. Baumnusskerne und Thymian beigeben, ca. 5 Min. mitbraten, salzen. Buchweizen-Crunch beiseite stellen. </inhalt>
+      </Buchweizen-Crunch>
+      <Raclette  >
+          <inhalt>Kaesescheiben in die Raclette-Pfaennchen legen, Buchweizen-Crunch darauf verteilen, wenig Birnel daruebertraeufeln. Kaese unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen, mit den Kartoffeln servieren.</inhalt>
+      </Raclette  >
+   </rezept>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>127 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pesto rosso</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>32 </quant>
+          <zutat>Crackers</zutat>
+          <quant>200 g</quant>
+          <zutat>Rohschinken in Tranchen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Creme fraiche mit dem Pesto verruehren, wuerzen. Die Haelfte der Crackers mit der Haelfte der Creme fraiche bestreichen. Je 1/2 Tranche Rohschinken darauf legen. Petersilienblaettchen abzupfen, je 2-3 auf den Crackers verteilen. Restliche Creme fraiche darauf verteilen, mit je einem Cracker bedecken und mit restlicher Petersilie garnieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

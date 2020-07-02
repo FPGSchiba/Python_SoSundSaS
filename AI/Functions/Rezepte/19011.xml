@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>434 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig_ >
+          <quant>300 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe  (ca. 7 g)</zutat>
+          <quant>3 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>weiche Doerraprikosen, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Aroniabeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>40 g</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+      </Hefeteig_ >
+      <Smørrebrød>
+          <quant>250 g</quant>
+          <zutat>Bio-Frischkaese nature</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, 1/2 abgeriebene Schale, Rest in Scheiben, geviertelt, beiseite gelegt</zutat>
+          <quant>50 g</quant>
+          <zutat>Kresse, 1/2 fein geschnitten, Rest beiseite gestellt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>240 g</quant>
+          <zutat>geraeucherte Forellenfilets, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Meerrettich, fein gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Gschwellti (fest kochende Sorte), in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Ringen</zutat>
+      </Smørrebrød>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hefeteig                      </inhalt>
+      </How_To    >
+      <Hefeteig_ >
+          <inhalt>Mehle, Salz und Hefe in der Schuessel der Kuechenmaschine mischen. Wasser dazugiessen, mit dem Knethacken der Kuechenmaschine auf kleiner Stufe ca. 10 Min. kneten. </inhalt>
+      </Hefeteig_ >
+      <How_To1   >
+          <inhalt>Backen                        </inhalt>
+      </How_To1   >
+      <Backen    >
+          <inhalt>Smørrebrød                    </inhalt>
+      </Backen    >
+      <Smørrebrød>
+          <inhalt>Die restlichen 4 Brotscheiben mit den Kartoffeln, Zwiebel und der restlichen Kresse belegen. </inhalt>
+      </Smørrebrød>
+   </rezept>
+</Rezept>

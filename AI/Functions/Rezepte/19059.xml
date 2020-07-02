@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>402 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Baked_Potatoes_>
+          <quant>1 kg</quant>
+          <zutat>Kartoffel Baked Potatoe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Baked_Potatoes_>
+      <Backen_   >
+          <quant>200 g</quant>
+          <zutat>Tomatensauce</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, in Wuerfeli</zutat>
+          <quant>60 g</quant>
+          <zutat>Salami, in Tranchen</zutat>
+      </Backen_   >
+      <Fertig_backen>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, Blaetter abgezupft</zutat>
+      </Fertig_backen>
+   </einkaufliste>
+   <rezept>
+      <Baked_Potatoes_>
+          <inhalt>Kartoffeln mit einer Gabel 3-mal einstechen, mit Oel bestreichen, salzen, auf ein mit Backpapier belegtes Blech stellen. </inhalt>
+      </Baked_Potatoes_>
+      <Backen_   >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, in der Mitte einschneiden, etwas auseinanderdruecken. Tomatensauce und Mozzarella darauf verteilen, Salami darauf legen. </inhalt>
+      </Backen_   >
+      <Fertig_backen>
+          <inhalt>Ca.10 Min. in der Mitte des Ofens. Basilikum darueberstreuen.</inhalt>
+      </Fertig_backen>
+   </rezept>
+</Rezept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>832 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>68 g  </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Steinpilze_einweichen>
+          <quant>25 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser, warm</zutat>
+      </Steinpilze_einweichen>
+      <Fondue    >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>800 g</quant>
+          <zutat>Fondue Kaesemischung </zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>500 g</quant>
+          <zutat>Brot, in Wuerfeln</zutat>
+      </Fondue    >
+   </einkaufliste>
+   <rezept>
+      <Steinpilze_einweichen>
+          <inhalt>Pilze im warmen Wasser ca. 20 Min. einweichen. Pilze herausnehmen, beiseite stellen. Einweichwasser durch ein Kaffeefilterpapier giessen, auffangen, beiseite stellen.</inhalt>
+      </Steinpilze_einweichen>
+      <Fondue    >
+          <inhalt>Caquelon mit Knoblauch ausreiben, Kaesemischung ins Caquelon geben. Maizena mit dem Wein anruehren, mit dem beiseite gestellten Einweichwasser dazugiessen, unter gleichmaessigem Ruehren bei mittlerer Hitze aufkochen, bis der Kaese geschmolzen ist und das Fondue cremig ist. Pilze grob hacken, mit der Petersilie darunterruehren, wuerzen. Fondue mit dem Brot servieren.</inhalt>
+      </Fondue    >
+   </rezept>
+</Rezept>

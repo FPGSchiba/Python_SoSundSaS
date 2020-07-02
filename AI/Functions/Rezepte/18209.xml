@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>496 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>81 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sushi-Reis>
+          <quant>350 g</quant>
+          <zutat>Sushi-Reis</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Sushi-Reis>
+      <Futomaki-Sushi>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>3 </quant>
+          <zutat>Nori-Blaetter</zutat>
+          <quant>1/2 </quant>
+          <zutat>Avocado, in Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Cocktailcrevetten (Bio)</zutat>
+          <quant>50 g</quant>
+          <zutat>Frischkaese (z.B. Philadelphia)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesam</zutat>
+      </Futomaki-Sushi>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sushi-Reis                    </inhalt>
+      </How_To    >
+      <Sushi-Reis>
+          <inhalt>Futomaki-Sushi                </inhalt>
+      </Sushi-Reis>
+      <Futomaki-Sushi>
+          <inhalt>Je 1/3 Avocado, Omelettenstreifen, Frischkaese und Crevetten auf die Mitte des Reises verteilen. Belegte Nori-Blaetter satt aufrollen, zwischen den Haenden rollen, bis alles gut zusammenhaelt. Die Enden der Rollen mit Reis auffuellen, andruecken. Die Rollen mit einem nassen, sehr scharfen Messer in je 8 gleich grosse Stuecke schneiden.</inhalt>
+      </Futomaki-Sushi>
+   </rezept>
+</Rezept>

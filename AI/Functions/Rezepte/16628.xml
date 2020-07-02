@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>196 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Sirup     >
+          <quant>1 1/2 kg</quant>
+          <zutat>Erdbeeren, halbiert</zutat>
+          <quant>600 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>6 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 </quant>
+          <zutat>Zitronen, nur der Saft</zutat>
+      </Sirup     >
+   </einkaufliste>
+   <rezept>
+      <Sirup     >
+          <inhalt>Erdbeeren mit Zucker und Wasser aufkochen, ca. 10 Min. koecheln, bis die Beeren weich sind. Erdbeeren puerieren, nochmals ca. 3 Min. koecheln. Alles durch den Geleesack oder ein feines Sieb giessen, gut abtropfen, nicht ausdruecken. Fluessigkeit zurueck in die Pfanne giessen, Zitronensaft beigeben, aufkochen.</inhalt>
+      </Sirup     >
+      <Sirup_abfuellen>
+          <inhalt>Sirup durch einen Trichter in die heiss ausgespuelten Flaschen giessen, sofort verschliessen, auskuehlen.</inhalt>
+      </Sirup_abfuellen>
+   </rezept>
+</Rezept>

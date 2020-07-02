@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>209 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Smoothie_ >
+          <quant>2 </quant>
+          <zutat>Persimon Kaki, in Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Blutorangensaft</zutat>
+          <quant>1 </quant>
+          <zutat>Passionsfrucht, Fruchtfleisch herausgeloest</zutat>
+          <quant>125 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+      </Smoothie_ >
+      <Topping_  >
+          <quant>1 </quant>
+          <zutat>Blutorange, geschaelt, in duennen Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Passionsfrucht, Fruchtfleisch herausgeloest</zutat>
+          <quant>1 </quant>
+          <zutat>Persimon Kaki, in Scheiben</zutat>
+          <quant>160 g</quant>
+          <zutat>Knuspermueesli (z.B. Waldbeeren)</zutat>
+      </Topping_  >
+   </einkaufliste>
+   <rezept>
+      <Smoothie_ >
+          <inhalt>Kaki, Blutorangensaft, Passionsfrucht, Ricotta und Zimt in ein Mixglas geben, puerieren. Smoothie in Bowls anrichten. </inhalt>
+      </Smoothie_ >
+      <Topping_  >
+          <inhalt>Fruechte und Mueesli darauf verteilen. </inhalt>
+      </Topping_  >
+   </rezept>
+</Rezept>

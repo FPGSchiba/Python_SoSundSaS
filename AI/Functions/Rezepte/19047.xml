@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>165 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Rhabarbersaft__>
+          <quant>400 g</quant>
+          <zutat>Rhabarber</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+      </Rhabarbersaft__>
+      <Sirup_    >
+          <quant>300 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>400 g</quant>
+          <zutat>Rhabarber</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>300 g</quant>
+          <zutat>Zucker</zutat>
+      </Sirup_    >
+   </einkaufliste>
+   <rezept>
+      <Rhabarbersaft__>
+          <inhalt>                              </inhalt>
+      </Rhabarbersaft__>
+      <Sirup_    >
+          <inhalt>Rhabarberfluessigkeit zurueck in die Pfanne giessen, </inhalt>
+      </Sirup_    >
+   </rezept>
+</Rezept>

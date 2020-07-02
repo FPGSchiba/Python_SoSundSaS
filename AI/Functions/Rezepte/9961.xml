@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>513 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rhabarber >
+          <quant>850 g</quant>
+          <zutat>Rhabarber, geschaelt in Stuecken (ergibt ca. 600 g)</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Rhabarber >
+      <Tiramisu  >
+          <quant>150 g</quant>
+          <zutat>Loeffelbiskuits, grob zerdrueckt</zutat>
+          <quant>150 g</quant>
+          <zutat>Bio-Frischkaese nature</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+      </Tiramisu  >
+      <Erdbeeren >
+          <quant>250 g</quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaetter zum Verzieren</zutat>
+      </Erdbeeren >
+   </einkaufliste>
+   <rezept>
+      <Rhabarber >
+          <inhalt>Rhabarber mit Zucker, Wasser und Zitronensaft zugedeckt ca. 5 Min. knapp weich koecheln, auskuehlen. Ca. 1 dl Rhabarbersaft auffangen, beiseite stellen.</inhalt>
+      </Rhabarber >
+      <Tiramisu  >
+          <inhalt>Die Haelfte der Loeffelbiskuits in die Glaeser verteilen. Die Haelfte des Rhabarberkompotts darauf verteilen. Frischkaese, Quark, Mascarpone und beiseite gestellten Rhabarbersaft gut verruehren. Die Haelfte der Quarkmasse auf dem Rhabarber verteilen, restliche Biskuits darauf verteilen, nochmals ca. 5 Min. kuehl stellen. Rhabarberkompott und Quarkmasse darauf verteilen. Zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </Tiramisu  >
+      <Erdbeeren >
+          <inhalt>Erdbeeren, Zucker und Zitronensaft mischen, auf die Quarkmasse verteilen, verzieren.</inhalt>
+      </Erdbeeren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>271 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>350 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Hefeteig  >
+      <Honig-Mandel-Kruste>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>50 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandelblaettchen</zutat>
+      </Honig-Mandel-Kruste>
+      <Vanillefuellung>
+          <quant>4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>80 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs halbiert, Samen ausgekratzt</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Vanillefuellung>
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in eine Schuessel geben, mischen. Butter, Milch und Ei beigeben, mischen, zu einem weichen, glatten Teig kneten. Teig zugedeckt bei Raumtemperatur ca. 1 1/4 Std. aufgehen lassen. Teig in die vorbereitete Form geben, nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Honig-Mandel-Kruste>
+          <inhalt>Butter und Honig in einer kleinen Pfanne warm werden lassen. Mandeln beigeben, ruehren, bis die Butter geschmolzen ist, etwas abkuehlen. Honig-Mandeln auf dem Teig verteilen. </inhalt>
+      </Honig-Mandel-Kruste>
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Hefekuchen auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Vanillefuellung>
+          <inhalt>Milch, Honig und Vanillesamen in einer Pfanne aufkochen. Eier, Maizena und Mehl in einer Schuessel verruehren. Ca. 1 dl der heissen Milch unter Ruehren zu den Eiern giessen, glatt ruehren. Die Eimasse zur restlichen Milch in die Pfanne zurueckgiessen. Unter  Ruehren bei kleiner Hitze ca. 12 Min. zu einer dicken Creme koecheln, sofort durch ein Sieb in eine Schuessel streichen, mit Klarsichtfolie bedecken, auskuehlen, ca. 30 Min. kuehl stellen. Creme glatt ruehren, Schlagrahm darunterziehen, nochmals zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Vanillefuellung>
+      <Bienenstich>
+          <inhalt>Hefekuchen quer halbieren, Vanillefuellung auf dem Kuchenboden verteilen, Deckel darauflegen, etwas andruecken.</inhalt>
+      </Bienenstich>
+   </rezept>
+</Rezept>

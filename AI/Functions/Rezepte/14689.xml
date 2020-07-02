@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>227 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+   </meta>
+   <einkaufliste>
+      <Kraeuter-Marinade_>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>5 EL</quant>
+          <zutat>gemischte Kraeuter (z.B. Majoran, Rosmarin, Thymian), fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kraeuter-Marinade_>
+   </einkaufliste>
+   <rezept>
+      <Kraeuter-Marinade_>
+          <inhalt>Oel und alle restlichen Zutaten verruehren.</inhalt>
+      </Kraeuter-Marinade_>
+   </rezept>
+</Rezept>

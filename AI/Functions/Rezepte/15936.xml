@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>601 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Auberginen, in Wuerfeli</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Pasta     >
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Fusilli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Emmentaler</zutat>
+          <quant>wenig </quant>
+          <zutat>glattblaettrige Petersilie,  Blaetter abgezupft</zutat>
+      </Pasta     >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Speck und Zwiebel in einer beschichteten Bratpfanne andaempfen. Auberginen beigeben, ca. 5 Min. mitdaempfen. Rahm dazugiessen, aufkochen, wuerzen, zugedeckt beiseite stellen.</inhalt>
+      </Sauce     >
+      <Pasta     >
+          <inhalt>Teigwaren im siedenden Salzwasser al dente kochen, abtropfen, dabei ca. 1 dl Kochwasser auffangen. Teigwaren, Kochwasser und Kaese zur Sauce geben, mischen, in die Bowls anrichten. Petersilie darueberstreuen. </inhalt>
+      </Pasta     >
+   </rezept>
+</Rezept>

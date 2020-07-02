@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>187 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Patties   >
+          <quant>600 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Carribbean Curry</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt,  fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Patties   >
+   </einkaufliste>
+   <rezept>
+      <Patties   >
+          <inhalt>Hackfleisch und alle Zutaten bis und mit Salz in einer Schuessel mischen, von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden. Masse mit nassen Haenden zu 4 Taetschli formen, etwas flach druecken. </inhalt>
+      </Patties   >
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Patties ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 4 Min. grillieren.</inhalt>
+      </Grillieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=8svkCG_1r1s"/>
+</Rezept>

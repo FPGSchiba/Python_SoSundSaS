@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>184 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gipfel    >
+          <quant>250 g</quant>
+          <zutat>Broccoli (ergibt ca. 175 g), in Roeschen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Vacherin fribourgeois, grob gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>16 Tranchen</quant>
+          <zutat>Buendnerfleisch (ca. 70 g)</zutat>
+          <quant>2 </quant>
+          <zutat>rund ausgewallte Blaetterteige</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb, verduennt</zutat>
+      </Gipfel    >
+      <Dip       >
+          <quant>1 3/4 dl</quant>
+          <zutat>Dessert Extrafin (Sauermilch)</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1/2 TL Saft</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gipfel                        </inhalt>
+      </How_To    >
+      <Gipfel    >
+          <inhalt>Ein Daempfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen, Broccoli salzen, zugedeckt bei mittlerer Hitze ca. 10 Min. knapp weich garen. Broccoli etwas abkuehlen, hacken, noch warm mit dem Kaese mischen. Majoran beigeben, wuerzen. </inhalt>
+      </Gipfel    >
+      <How_To1   >
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </How_To1   >
+      <Dip       >
+          <inhalt>Alle Zutaten verruehren, zu den Broccoli-Gipfeln servieren.</inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

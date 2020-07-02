@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>338 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nuesse_schaelen_>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse</zutat>
+      </Nuesse_schaelen_>
+      <Teig_     >
+          <quant>100 g</quant>
+          <zutat>geschaelte Mandeln, grob gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Orangeat</zutat>
+          <quant>100 g</quant>
+          <zutat>Zitronat</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>100 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+      </Teig_     >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Nuesse_schaelen_>
+          <inhalt>Nuesse auf einem Backblech verteilen. Ca. 5 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens roesten, bis die Haeutchen aufspringen. Nuesse herausnehmen, zwischen einem feuchtem Tuch hin und her bewegen, bis sich alle Haeutchen geloest haben. Nuesse grob hacken, in einer Schuessel geben. </inhalt>
+      </Nuesse_schaelen_>
+      <Teig_     >
+          <inhalt>Mandeln und alle Zutaten bis und mit Lebkuchengewuerz zu den Haselnuessen geben. Honig und Zucker unter Ruehren bei mittlerer Hitze langsam erhitzen, bis sich der Zucker aufgeloest hat. Honig in die Nussmischung geben. Mit einer Kelle gut mischen. Teig in der vorbereiteten Form verteilen, etwas andruecken. </inhalt>
+      </Teig_     >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 150 Grad vorgeheizten Ofens, herausnehmen, etwas abkuehlen. Panforte aus der Form nehmen, auf einem Gitter auskuehlen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

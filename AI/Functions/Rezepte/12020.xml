@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>412 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 </quant>
+          <zutat>Schweinshaxen (je ca. 150 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>5 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>200 g</quant>
+          <zutat>Doerrfruechte</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Die Haxen wuerzen, mit Mehl bestaeuben. Bratbutter in einem Brattopf erhitzen, Haxen portionenweise beidseitig bei mittlerer Hitze je ca. 3 Min. anbraten. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bouillon dazugiessen, Senf darunter ruehren, aufkochen, Hitze reduzieren. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Schmoren: zugedeckt ca. 40 Min. Doerrfruechte darunter mischen, ca. 40 Min. fertig schmoren, wuerzen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Dazu passen: Kartoffelstock oder Polenta.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

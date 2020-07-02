@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>478 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>200 g</quant>
+          <zutat>Lauch</zutat>
+          <quant>150 g</quant>
+          <zutat>Knollensellerie</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>geschaelte Rollgerste</zutat>
+      </Gemuese    >
+      <Bouillon  >
+          <quant>1 Liter</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Bouillon  >
+      <Wuerstli   >
+          <quant>8 </quant>
+          <zutat>Wienerli</zutat>
+          <quant>1 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+      </Wuerstli   >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Lauch in feine Streifen, Sellerie und Rueebli in Wuerfeli schneiden. Butter in einer Pfanne erwaermen, Gemuese ca. 3 Min. andaempfen, Gerste beigeben, kurz duensten.</inhalt>
+      </Gemuese    >
+      <Bouillon  >
+          <inhalt>Bouillon dazugiessen, aufkochen, zugedeckt bei kleiner Hitze ca. 45 Min. koecheln, wuerzen.</inhalt>
+      </Bouillon  >
+      <Wuerstli   >
+          <inhalt>Wienerli schraeg in Rugeli schneiden, mit dem Halbrahm beigeben, nur noch heiss werden lassen. Schnittlauch fein schneiden, ueber die angerichtete Suppe streuen.</inhalt>
+      </Wuerstli   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

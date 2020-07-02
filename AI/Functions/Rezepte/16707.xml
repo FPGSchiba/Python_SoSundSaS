@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>152 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Aromatisierter_Grapefruitsaft>
+          <quant>1 </quant>
+          <zutat>rosa Grapefruit, heiss abgespuelt, trocken getupft</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+      </Aromatisierter_Grapefruitsaft>
+      <Gin_&amp;_Tonic>
+          <quant>3/4 dl</quant>
+          <zutat>Gin</zutat>
+          <quant>8 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>8 dl</quant>
+          <zutat>Tonic Water</zutat>
+          <quant>1 </quant>
+          <zutat>rosa Grapefruit, heiss abgespuelt, trocken getupft, 1/2 in Schnitzen</zutat>
+          <quant>4 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>2 </quant>
+          <zutat>Zimtstangen, halbiert</zutat>
+      </Gin_&amp;_Tonic>
+   </einkaufliste>
+   <rezept>
+      <Aromatisierter_Grapefruitsaft>
+          <inhalt>Die Schale von der Grapefruit mit einem Sparschaeler duenn abschaelen, den Saft auspressen. Grapefruitsaft und -schale mit Lorbeer und Zimt in einer kleinen Pfanne erwaermen, zugedeckt ca. 30 Min. ziehen lassen. Aromatisierter Grapefruitsaft durch ein feines Sieb in die Glaeser giessen. </inhalt>
+      </Aromatisierter_Grapefruitsaft>
+      <Gin_&amp;_Tonic>
+          <inhalt>Gin und Eiswuerfel zum Grapefruitsaft in die Glaeser verteilen, mit Tonic auffuellen. Mit je 1 Grapefruitschnitz, 1 Lorbeerblatt und 1/2 Zimtstange die Glaeser garnieren, sofort servieren. </inhalt>
+      </Gin_&amp;_Tonic>
+   </rezept>
+</Rezept>

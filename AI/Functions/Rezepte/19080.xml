@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>309 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>1 kg</quant>
+          <zutat>Gschwellti (fest kochende Sorte) (vom Vortag), in ca. 2 cm grossen Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Lauch, in ca. 1 cm grossen Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese    >
+      <Salat     >
+          <quant>1 EL</quant>
+          <zutat>Honigsenf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>220 </quant>
+          <zutat>Friseesalat</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Kartoffeln, Lauch und Knoblauch mit dem Oel mischen, salzen. </inhalt>
+      </Gemuese    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der oberen Haelfte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+      <Salat     >
+          <inhalt>Senf, Aceto und Oel in einer Schuessel verruehren, wuerzen. Salat beigeben, mischen, mit den Kartoffeln und Lauch anrichten. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

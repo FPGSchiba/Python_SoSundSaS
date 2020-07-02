@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>363 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nuesse_    >
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Nuesse_    >
+      <Caramelsauce_>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Caramelsauce_>
+      <Boden_    >
+          <quant>120 g</quant>
+          <zutat>Guetzli (z.B. Digestive Weizen-Bisquits Original)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Boden_    >
+      <Frischkaese-Masse_>
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>70 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Frischkaese-Masse_>
+   </einkaufliste>
+   <rezept>
+      <Nuesse_    >
+          <inhalt>Nuesse in einer Pfanne bei mittlerer Hitze roesten. Zucker beigeben, unter gelegentlichem Hin- und-her-Bewegen der Pfanne weiterroesten, bis der Zucker aufgeloest ist. Pfanne von der Platte nehmen. Nuesse sofort auf einem Backpapier verteilen, auskuehlen. Nuesse grob hacken. </inhalt>
+      </Nuesse_    >
+      <Caramelsauce_>
+          <inhalt>Zucker, Wasser und Zitronensaft in einer Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin- und her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Pfanne von der Platte nehmen, Rahm dazugiessen, unter Ruehren bei kleiner Hitze koecheln, bis sich der Caramel aufgeloest hat, ca. 10 Min. einkoecheln. Pfanne von der Platte nehmen, Caramel auskuehlen.</inhalt>
+      </Caramelsauce_>
+      <Boden_    >
+          <inhalt>Guetzli in einem Plastikbeutel mit dem Wallholz fein zerstossen oder im Cutter mahlen, mit der Butter und der Haelfte der Nuesse mischen. Masse auf dem vorbereiteten Formenboden verteilen, mit dem Boden eines Glases gut andruecken. </inhalt>
+      </Boden_    >
+      <Frischkaese-Masse_>
+          <inhalt>Frischkaese, die Haelfte der Caramelsauce und alle restlichen Zutaten mit den Schwingbesen des Handruehrgeraets gut verruehren. Masse auf dem Guetzliboden verteilen. </inhalt>
+      </Frischkaese-Masse_>
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Cheescake auf eine Platte schieben, auskuehlen. Restliche Caramelsauce und Nuesse darauf verteilen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

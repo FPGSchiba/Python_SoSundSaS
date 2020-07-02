@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>397 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis_kochen>
+          <quant>300 g</quant>
+          <zutat>Basmatireis</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Reis_kochen>
+      <Fertigstellen>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, wenig abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Coconut Chips Ginger (z.B. Karma), grob gehackt</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Reis_kochen>
+          <inhalt>Reis im Sieb unter fliessendem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Kokosmilch und Wasser mit dem Reis und Salz aufkochen, Reis zugedeckt auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei Deckel nie abheben. </inhalt>
+      </Reis_kochen>
+      <Fertigstellen>
+          <inhalt>Reis mit einer Gabel lockern. Limettenschale, -saft und Kokos-Chips daruntermischen. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

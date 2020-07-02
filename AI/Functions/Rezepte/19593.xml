@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>622 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>350 g</quant>
+          <zutat>Bauernmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>2 </quant>
+          <zutat>Pouletbruestli</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche mit Kraeutern</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 140 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>Erbsli, aufgetaut</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Bauernmehl zum Bestaeuben</zutat>
+          <quant>350 g</quant>
+          <zutat>Bauernmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 </quant>
+          <zutat>Pouletbruestli</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche mit Kraeutern</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 140 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>Erbsli, aufgetaut</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Bauernmehl zum Bestaeuben</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>                              </inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Pouletbruestli in Streifen schneiden, salzen, mit 3 EL Creme fraiche mischen. Petersilie fein schneiden, </inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

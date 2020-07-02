@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>210 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant>300 g</quant>
+          <zutat>Knollensellerie, in Wuerfeln</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 TL</quant>
+          <zutat>milder Paprika</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter erwaermen, Zwiebel, Kartoffeln und Sellerie ca. 5 Min. andaempfen. Bouillon dazugiessen, aufkochen, Hitze reduzieren, zugedeckt ca. 20 Min. weich koecheln. Suppe puerieren. Creme fraiche, Paprika und Salz verruehren, auf der Suppe verteilen. Petersilie daraufgeben.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

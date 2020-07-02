@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>476 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polenta   >
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>270 g</quant>
+          <zutat>grobkoerniger Maisgriess (Bramata)</zutat>
+          <quant>270 g</quant>
+          <zutat>feiner Maisgriess (2 Min.)</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>480 g</quant>
+          <zutat>Fontina </zutat>
+      </Polenta   >
+   </einkaufliste>
+   <rezept>
+      <Polenta   >
+          <inhalt>Wasser in einer weiten Pfanne aufkochen, salzen. Maisgriess-Sorten mischen, unter staendigem Ruehren nach und nach ins siedende Wasser geben. Mind. 1 Std. unter haeufigem Ruehren bei kleinster Hitze zu einem dicken Brei koecheln. Je laenger die Polenta kocht, desto besser schmeckt sie. Wird die Polenta zu fest, wenig kochendes Wasser einruehren. Butter und Kaese darunterruehren bis der Kaese geschmolzen ist.</inhalt>
+      </Polenta   >
+   </rezept>
+</Rezept>

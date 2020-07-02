@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>678 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, fein gehackt</zutat>
+          <quant>350 g</quant>
+          <zutat>Risottoreis (z.B. S. Andrea)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Rotwein (z.B. Barolo)</zutat>
+          <quant>7 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>5 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Risotto   >
+      <Fleisch_&amp;_Pilze>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>700 g</quant>
+          <zutat>Schweinsplaetzli  (Nierstueck)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>150 g</quant>
+          <zutat>Eierschwaemme, in Stuecken</zutat>
+          <quant>2 TL</quant>
+          <zutat>Thymianblaettchen</zutat>
+      </Fleisch_&amp;_Pilze>
+   </einkaufliste>
+   <rezept>
+      <Risotto   >
+          <inhalt>Butter in einer Pfanne erwaermen, Zwiebel andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Die Haelfte des Rotweins dazugiessen, vollstaendig einkochen, restlichen Wein dazugiessen, unter Ruehren vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 20 Min. koecheln, bis der Reis cremig und al dente ist. Parmesan darunterruehren, wuerzen.</inhalt>
+      </Risotto   >
+      <Fleisch_&amp;_Pilze>
+          <inhalt>Wenig Bratbutter in einer Bratpfanne erhitzen, Plaetzli beidseitig je ca. 1 1/2 Min. braten, wuerzen, warm stellen. Wenig Bratbutter in derselben Bratpfanne erwaermen, Pilze ca. 3 Min. daempfen, Thymian beigeben. Pilze unter den Risotto mischen. Risotto und Fleisch zusammen servieren.</inhalt>
+      </Fleisch_&amp;_Pilze>
+   </rezept>
+</Rezept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>174 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>150 g</quant>
+          <zutat>Kirschen, entsteint, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce     >
+      <Anrichten >
+          <quant>80 g</quant>
+          <zutat>Bresaola , in feinen Tranchen</zutat>
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Kirschen mit Zwiebel, Zucker, Essig, Wasser und Salz in eine kleine Pfanne geben, mischen, aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren zugedeckt ca. 10 Min. koecheln, Sauce etwas abkuehlen. </inhalt>
+      </Sauce     >
+      <Anrichten >
+          <inhalt>Bresaola und Rucola auf Tellern anrichten, Sauce darauf verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

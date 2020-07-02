@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>728 kcal</NaehrwertProPerson>
+       <Fett>51 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Morcheln  >
+          <quant>20 g</quant>
+          <zutat>getrocknete Morcheln</zutat>
+      </Morcheln  >
+      <Spargel   >
+          <quant>3 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>500 g</quant>
+          <zutat>weisse Spargeln, geschaelt</zutat>
+      </Spargel   >
+      <Fuellung_  >
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung_  >
+      <Pasta_formen>
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Pasta_formen>
+      <Pasta-Bonbons>
+          <quant>3 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>50 g</quant>
+          <zutat>Parmesan, mit dem Sparschaeler in duenne Spaene gehobelt</zutat>
+      </Pasta-Bonbons>
+   </einkaufliste>
+   <rezept>
+      <Morcheln  >
+          <inhalt>Morcheln ca. 30 Min. in Wasser einweichen. Morcheln herausnehmen, gut durchspuelen, abtropfen. Eine Haelfte fein hacken, Rest halbieren. </inhalt>
+      </Morcheln  >
+      <Spargel   >
+          <inhalt>Wasser, Zitronensaft, Salz, Zucker und Butter in einer weiten Pfanne aufkochen. Spargeln beigeben, bei mittlerer Hitze ca. 8 Min. knapp weich koecheln. Spargeln herausnehmen, abtropfen. Spargelwasser beiseite stellen. Von den Spargeln die Spitzen ca. 4 cm lang abschneiden. Die Haelfte des restlichen Spargels schraeg in Scheiben schneiden, Rest grob hacken. </inhalt>
+      </Spargel   >
+      <Fuellung_  >
+          <inhalt>Mascarpone und Zitronenschale mit den gehackten Morcheln und Spargeln mischen, wuerzen. </inhalt>
+      </Fuellung_  >
+      <Pasta_formen>
+          <inhalt>Pastateige portionenweise entrollen, laengs halbieren, in ca. 8 cm grosse Quadrate schneiden. Jeweils ein 1/2 EL Fuellung auf die untere Haelfte der Quadrate verteilen, Teigraender mit Ei bestreichen, von unten her aufrollen. Seiten gut zusammen druecken, dabei eingeschlossene Luft herausdruecken. Pasta im knapp siedenden beiseite gestellten Spargelwasser ca. 7 Min. ziehen lassen, abtropfen, warm stellen.</inhalt>
+      </Pasta_formen>
+      <Pasta-Bonbons>
+          <inhalt>Butter in einer beschichteten Bratpfanne erwaermen. Spargelspitzen, Spargelscheiben mit den restlichen Morcheln ca. 5 Min. andaempfen. Pasta-Bonbons beigeben, nur noch warm werden lassen. Kaese ueber die Pasta streuen. </inhalt>
+      </Pasta-Bonbons>
+   </rezept>
+</Rezept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>307 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>350 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Teig      >
+      <Kranz     >
+          <quant>20 </quant>
+          <zutat>Schokoladen-Ostereili</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schokoladenpulver (z.B. Ovomaltine Pulver)</zutat>
+      </Kranz     >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter, Milchwasser und Ei beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Kranz     >
+          <inhalt>Teig in ca. 20 gleich grosse Stuecke teilen, etwas auswallen. Je 1 Schokolade-Ostereili daraufsetzen, zu Kugeln formen, in die vorbereitete Form geben, ca. 30 Min. aufgehen lassen. Milch, Butter und Ovomaltinepulver verruehren, ueber die Teigkugeln giessen, Form auf ein Backbllech stellen.</inhalt>
+      </Kranz     >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Gugelhopf auf ein Gitter stuerzen, auskuehlen oder lauwarm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

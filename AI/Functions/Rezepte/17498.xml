@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>61 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ravioli   >
+          <quant>150 g</quant>
+          <zutat>Backmasse mit Mandeln</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel (ca. 150 g), grob gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Ravioli   >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Ravioli   >
+          <inhalt>Backmasse und Apfel in einer Schuessel mischen. Pastateige entrollen, laengs dritteln. Die Fuellung in ca. 24 Haeufchen mit genuegend Abstand auf drei Teigstreifen verteilen. Restliche Teigstreifen mit dem Ei bestreichen, ueber die Haeufchen legen, gut andruecken, dabei eingeschlossene Luft herausdruecken. Ravioli mit einem Messer voneinander trennen, auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Ravioli   >
+      <Backen    >
+          <inhalt>Ca. 5 Min. in der oberen Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf ein Gitter legen, mit Puderzucker bestaeuben, noch  lauwarm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

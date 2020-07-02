@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>577 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>69 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suesskartoffeln>
+          <quant>4 </quant>
+          <zutat>Suesskartoffeln (je ca. 200 g), ungeschaelt</zutat>
+      </Suesskartoffeln>
+      <Zitronensirup>
+          <quant>6 </quant>
+          <zutat>Bio-Zitronen</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Zitronensirup>
+      <Zitronenpueree>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+          <quant>100 </quant>
+          <zutat>Zucker</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Zitronenpueree>
+      <Fuellung_  >
+          <quant>1 </quant>
+          <zutat>Granatapfel</zutat>
+          <quant>150 g</quant>
+          <zutat>Ziegenfrischkaese (z.B. Chavroux), in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Aprikosen, entsteint, in Wuerfeli</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, grob geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Fuellung_  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suesskartoffeln                </inhalt>
+      </How_To    >
+      <Suesskartoffeln>
+          <inhalt>Backen: ca. 40 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Suesskartoffeln>
+      <Zitronensirup>
+          <inhalt>Die Zitronenschalen bis auf das weisse Haeutchen mit einem scharfen Messer abschneiden, Schalen beiseite legen, Fruchfleisch auspressen.  Den entstandenen Saft (ca. 2 dl) mit dem Zucker in einem Pfaennchen zu Sirupdicke einkochen, auskuehlen (ergibt ca. 1 dl).</inhalt>
+      </Zitronensirup>
+      <Zitronenpueree>
+          <inhalt>Beiseitegestellte Zitronenschalen in eine Pfanne geben, mit Wasser bedecken, 3-mal aufkochen. Beim dritten Mal ca. 20 Min. koecheln, bis die Schalen weich sind. Schalen abtropfen, etwas abkuehlen, mit der Butter, dem Puderzucker und dem Zitronensirup in ein hohes Gefaess geben und mit dem Stabmixer puerieren. Die Masse durch ein Sieb streichen, beiseite stellen.</inhalt>
+      </Zitronenpueree>
+      <Fuellung_  >
+          <inhalt>Granatapfel halbieren, Kerne herausloesen. Die heissen Suesskartoffeln in der Mitte auseinanderbrechen, mit dem Frischkaese fuellen. Mit Granatapfelkernen, Aprikosenwuerfeli, Schnittlauch, Koriander, Haselnuessen und Zitronencreme anrichten. </inhalt>
+      </Fuellung_  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

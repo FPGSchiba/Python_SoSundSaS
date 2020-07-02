@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>63 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale und Saft</zutat>
+          <quant>6 EL</quant>
+          <zutat>Sweet Chili Sauce</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Erdnussbutter mit allen Zutaten bis und mit Chili verruehren. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

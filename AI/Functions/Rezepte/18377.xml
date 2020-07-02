@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>272 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Muellerbrot Backmischung </zutat>
+          <quant>1 Bund</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>3 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehlmischung, Kraeuter und Knoblauch mischen, Wassser dazugiessen, zu einem weichen Teig kneten, zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen. Teig in die vorbereitete Form geben, mit Olivenoel bestreichen, Fleur de Sel darueberstreuen, kreuzweise einschneiden. </inhalt>
+      </Teig      >
+      <Backen_   >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

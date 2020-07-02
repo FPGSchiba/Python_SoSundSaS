@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>36 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Fruchtsirup>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Pfirsiche, in Schnitzen</zutat>
+      </Fruchtsirup>
+      <Limonade  >
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>1 1/2 Liter</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant>200 g</quant>
+          <zutat>Kirschen, entsteint, halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Limonade  >
+   </einkaufliste>
+   <rezept>
+      <Fruchtsirup>
+          <inhalt>Wasser und Zucker in einer Pfanne aufkochen, ca. 3 Min. koecheln. Pfirsiche in einen grossen Krug geben, Sirup dazugiessen, auskuehlen, zugedeckt ca. 2 Std. kuehl stellen. </inhalt>
+      </Fruchtsirup>
+      <Limonade  >
+          <inhalt>Zitronensaft und Mineralwasser zum Fruchtsirup giessen. Kirschen, Himbeeren und Eiswuerfel beigeben. </inhalt>
+      </Limonade  >
+   </rezept>
+</Rezept>

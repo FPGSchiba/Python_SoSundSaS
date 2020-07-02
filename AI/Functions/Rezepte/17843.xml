@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>482 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargelrollen>
+          <quant>1 kg</quant>
+          <zutat>gruene Spargel, unteres Drittel geschaelt</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Rohschinken</zutat>
+          <quant>1/2 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 60 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+      </Spargelrollen>
+      <Pesto     >
+          <quant>100 g</quant>
+          <zutat>getrocknete Tomaten in Oel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Oel, von den Tomaten im Glas</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Basilikumblatt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Pesto     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spargelrollen                 </inhalt>
+      </How_To    >
+      <Spargelrollen>
+          <inhalt>Backen:                       </inhalt>
+      </Spargelrollen>
+      <Backen:   >
+          <inhalt>Lauwarm servieren.            </inhalt>
+      </Backen:   >
+      <Pesto     >
+          <inhalt>Tomaten mit Oel, Aceto, Wasser und Basilikum im Mixglas oder mit dem Stabmixer puerieren. Pesto wuerzen. Zu den Spargelrollen servieren.</inhalt>
+      </Pesto     >
+   </rezept>
+</Rezept>

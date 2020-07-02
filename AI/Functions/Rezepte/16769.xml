@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>285 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Bauernmehl</zutat>
+          <quant>60 g</quant>
+          <zutat>Kernenmix (z.B. Campiuns)</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Kernenmix und Salz in einer Schuessel mischen. Hefe, Zucker und Wasser beigeben, mit dem Knethaken der Kuechenmaschine ca. 5 Min. zu einem weichen, glatten Teig kneten. Zugedeckt ca. 11/2 Std. ums Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl flach druecken, ringsum zur Mitte falten, wenden, zu einer glatten Kugel formen. Teig auf ein mit Backpapier belegtes Blech legen, mit wenig Mehl bestreuen, flach druecken. Zugedeckt nochmals ca. 30 Min. aufgehen lassen. Teig flach druecken, mit einem Teighorn oder Messer zuerst senkrecht, dann waagrecht ca. alle 2 cm tief eindruecken. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

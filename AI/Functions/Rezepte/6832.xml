@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>759 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>500 g</quant>
+          <zutat>tiefgekuehlter gehackter Spinat, aufgetaut, abgetropft</zutat>
+          <quant>800 g</quant>
+          <zutat>Kuerbis (z. B. Delica), grob gerieben (ergibt ca. 600 g)</zutat>
+          <quant>180 g</quant>
+          <zutat>Feta, grob gerieben</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gemuese    >
+      <Sauce     >
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>6 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>60 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>9 </quant>
+          <zutat>weisse Lasagneblaetter</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kuerbiskerne</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemuese                        </inhalt>
+      </How_To    >
+      <Gemuese    >
+          <inhalt>Sauce                         </inhalt>
+      </Gemuese    >
+      <Sauce     >
+          <inhalt>Einschichten                  </inhalt>
+      </Sauce     >
+      <Einschichten>
+          <inhalt>Gratinieren: Ca. 35 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Einschichten>
+   </rezept>
+</Rezept>

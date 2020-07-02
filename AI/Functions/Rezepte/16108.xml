@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>327 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_schmelzen>
+          <quant>400 g</quant>
+          <zutat>weisse Schokolade, fein gehackt</zutat>
+          <quant>120 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+      </Schokolade_schmelzen>
+      <Teig      >
+          <quant>5 </quant>
+          <zutat>Eier</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Macadamia-Nuesse, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>weisse Schokolade, grob gehackt</zutat>
+          <quant>120 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Schokolade_schmelzen>
+          <inhalt>Schokolade und Butter in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf dabei das Wasser nicht beruehren. Pfanne von der Platte nehmen, Schokolade und Butter schmelzen, glatt ruehren, etwas abkuehlen.  </inhalt>
+      </Schokolade_schmelzen>
+      <Teig      >
+          <inhalt>Eier, Zucker, Vanillezucker und Salz mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Schokolade-Butter-Mischung darunterruehren. Nuesse, Schokolade, Mehl und Backpulver mischen, daruntermischen. Teig in die vorbereitete Form fuellen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Die Blondies sollten innen noch leicht feucht sein. Herausnehmen, etwas abkuehlen, aus der Form nehmen, in Stuecke schneiden, Blondies auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

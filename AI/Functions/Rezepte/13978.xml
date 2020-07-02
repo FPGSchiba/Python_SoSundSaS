@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>736 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Fuellung_  >
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Landjaeger, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Salsiz, fein gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+      </Fuellung_  >
+      <Mangoldblaetter_>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>20 </quant>
+          <zutat>Mangoldblaetter </zutat>
+      </Mangoldblaetter_>
+      <Capuns_   >
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>100 g</quant>
+          <zutat>Buendner Bergkaese, grob gerieben</zutat>
+      </Capuns_   >
+      <Speckkruemel>
+          <quant>40 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>40 g</quant>
+          <zutat>Buendnerfleisch, in feinen Streifen</zutat>
+      </Speckkruemel>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Fuellung                       </inhalt>
+      </Teig      >
+      <Fuellung_  >
+          <inhalt>Mangoldblaetter                </inhalt>
+      </Fuellung_  >
+      <Mangoldblaetter_>
+          <inhalt>Capuns                        </inhalt>
+      </Mangoldblaetter_>
+      <Capuns_   >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens backen. </inhalt>
+      </Capuns_   >
+      <Speckkruemel>
+          <inhalt>Speck und Buendnerfleisch in einer Bratpfanne ohne Fett knusprig braten, ueber die Capuns streuen. </inhalt>
+      </Speckkruemel>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+</Rezept>

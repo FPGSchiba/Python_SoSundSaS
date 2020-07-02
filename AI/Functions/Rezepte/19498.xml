@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>256 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>Orangen</zutat>
+          <quant>500 g</quant>
+          <zutat>Chicoree</zutat>
+          <quant>7 </quant>
+          <zutat>Doerrfeigen, in Vierteln</zutat>
+          <quant>60 g</quant>
+          <zutat>Baumnusskerne, geroestet</zutat>
+      </Salat     >
+      <Dressing  >
+          <quant>2 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>1 1/5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>milder Curry</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Dressing  >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Von den Orangen Boden und Deckel, dann Schale ringsum bis auf das Fruchtfleisch wegschneiden. Fruchtfilets (Schnitze) mit einem scharfen Messer zwischen den weissen Haeutchen herausschneiden. Chicoree-Blaetter in einer grossen Schuessel anrichten, Orangen, Feigen und Nuesse darauf verteilen.</inhalt>
+      </Salat     >
+      <Dressing  >
+          <inhalt>Tahina und alle Zutaten bis und mit Salz im Mixglas puerieren, ueber den Salat traeufeln.</inhalt>
+      </Dressing  >
+   </rezept>
+</Rezept>

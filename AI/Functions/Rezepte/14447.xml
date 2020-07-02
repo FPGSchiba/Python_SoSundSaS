@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>425 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet_   >
+          <quant>20 g</quant>
+          <zutat>getrocknete Morcheln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in Schnitzchen</zutat>
+          <quant>5 dl</quant>
+          <zutat>Weisswein (z.B. Bourgogne AOC Chardonnay Louis Jadot 2015)</zutat>
+          <quant>4 </quant>
+          <zutat>Pouletbruestli (je ca. 160 g)</zutat>
+      </Poulet_   >
+      <Morchelsauce_>
+          <quant>1/2 EL</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Morchelsauce_>
+      <Gemuese_   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>200 g</quant>
+          <zutat>Pak Choi, in Vierteln</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, halbiert</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in ca. 5 mm breiten Streifen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gemuese_   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Poulet                        </inhalt>
+      </How_To    >
+      <Poulet_   >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Schalotte und Morcheln ca. 2 Min. andaempfen, herausnehmen, beiseite stellen. Wein in die Pfanne giessen, aufkochen, Hitze reduzieren. Pouletbruestli beigeben, ca. 10 Min. ziehen lassen, ab und zu wenden, herausnehmen, zugedeckt warm stellen. Fluessigkeit auf ca. 2 dl einkochen.</inhalt>
+      </Poulet_   >
+      <Morchelsauce_>
+          <inhalt>Butter und Mehl mit einer Gabel mischen, unter Ruehren zur Fluessigkeit geben. Rahm und die beiseite gestellten Morcheln beigeben, ca. 10 Min. koecheln, bis die Sauce leicht saemig ist, wuerzen.</inhalt>
+      </Morchelsauce_>
+      <Gemuese_   >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Pak-Choi kurz andaempfen. Radiesli beigeben, zugedeckt bei kleiner Hitze ca. 3 Min. knapp weich koecheln. Bundzwiebeln daruntermischen, wuerzen, mit dem Poulet und der Morchelsauce anrichten.</inhalt>
+      </Gemuese_   >
+   </rezept>
+</Rezept>

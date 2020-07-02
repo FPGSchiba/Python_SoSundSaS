@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>241 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Pouletschenkel, ohne Haut, quer halbiert</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in Ringen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1 EL Saft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Buttermilch, Rosmarin, Zitronenschale und Pfeffer in einer Schuessel  verruehren. Pouletstuecke beigeben, mischen. Zugedeckt im Kuehlschrank ca. 12 Std. marinieren. Dabei die Pouletstuecke 1-2-mal wenden. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Poulet herausnehmen, abtropfen, salzen.Bratbutter in einer Bratpfanne heiss werden lassen. Hitze etwas reduzieren, Pouletstuecke portionenweise je ca. 5 Min. anbraten, herausnehmen. Bratfett auftupfen, evtl. wenig Bratbutter beigeben. Schalotte ca. 5 Min. andaempfen. Wein dazugiessen, auf ca. die Haelfte einkochen. Bouillon dazugiessen, aufkochen, Hitze reduzieren. Pouletstuecke wieder beigeben. Rosmarin beigeben, zugedeckt bei kleiner Hitze ca. 30 Min. schmoren. Zitronenschale und -saft daruntermischen, wuerzen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

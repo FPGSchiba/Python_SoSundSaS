@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>149 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>220 g</quant>
+          <zutat>tiefgekuehltes Marronipueree, aufgetaut</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Teig_     >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Butter mit Zucker, Ei und Salz mit den Schwingbesen des Handruehrgeraets schaumig ruehren. Marronipueree darunterruehren. Mehl und Nuesse daruntermischen, rasch zu einem Teig zusammenfuegen. Ca. 20 Kugeln formen, auf ein mit Backpapier belegtes Blech legen, etwas flach druecken. </inhalt>
+      </Teig_     >
+      <Backen_   >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

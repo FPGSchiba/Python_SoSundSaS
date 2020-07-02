@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>375 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>180 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Frosting  >
+          <quant>125 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>70 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker (ca. 8 g)</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+      </Frosting  >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Eier darunterruehren, weiterruehren, bis die Masse heller ist, Zitronenschale und Milch darunterruehren. Mehl und Backpulver mischen, unter die Masse mischen, in das vorbereitete Blech verteilen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, ca. 10 Min. etwas abkuehlen, aus dem Blech nehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Frosting  >
+          <inhalt>Butter, Puderzucker und Vanillezucker mit den Schwingbesen des Handruehrgeraets ca. 2 Min. schaumig ruehren. Frischkaese darunterruehren, glatt ruehren. Frosting in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø) geben, auf die Cupcakes spritzen. </inhalt>
+      </Frosting  >
+   </rezept>
+</Rezept>

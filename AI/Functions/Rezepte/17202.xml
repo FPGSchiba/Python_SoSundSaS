@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>474 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>59 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Orecchioni_kochen>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Orecchioni_kochen>
+      <Poulet_   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Pouletschenkel (je ca. 200 g)</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>5 dl</quant>
+          <zutat>roter Portwein</zutat>
+          <quant>250 g</quant>
+          <zutat>Cicorino rosso, in feinen Streifen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Ricotta</zutat>
+      </Poulet_   >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehle und Salz in eine Schuessel geben, Wasser dazugiessen, zu einem glatten geschmeidigen Teig kneten. Zugedeckt ca. 30 Min. ruhen lassen. Teig portionenweise zu Rollen (je 2 cm ø) formen, in ca. 2 cm lange Stuecke schneiden. Teigstuecke portionenweise mit einem Messer der Arbeitsflaeche entlang ziehen, raue Seite nach aussen umstuelpen. Wichtig: die unverarbeiteten Teigstuecke immer zugedeckt halten, damit sie nicht austrocknen. </inhalt>
+      </Teig      >
+      <Orecchioni_kochen>
+          <inhalt>Pasta im Salzwasser ca. 4 Min. al dente kochen, abtropfen, dabei ca. 1 dl Kochwasser auffangen.</inhalt>
+      </Orecchioni_kochen>
+      <Poulet_   >
+          <inhalt>Oel in einem Brattopf erhitzen, Poulet beigeben, rundum ca. 3 Min. anbraten. Hitze reduzieren, Zwiebel, Tomatenpueree und Thymian beigeben, kurz andaempfen. Portwein dazugiessen, zugedeckt ca. 45 Min. koecheln.  Poulet herausnehmen, mit zwei Gabeln zerzupfen. Kochfluessigkeit unter gelegentlichem Ruehren ca. 10 Min. einkoecheln, beiseite gestelltes Kochwasser beigeben. Cicorino rosso und Poulet dazugeben, salzen. Orecchioni beigeben, nur noch warm werden lassen. Ricotta dazu servieren. </inhalt>
+      </Poulet_   >
+   </rezept>
+</Rezept>

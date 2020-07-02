@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>652 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hackfleisch>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>400 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Hackfleisch>
+      <Sauce     >
+          <quant>1 </quant>
+          <zutat>rote Peperoni</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>30 g</quant>
+          <zutat>eingelegte Jalapeños in Scheiben</zutat>
+          <quant>500 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>1 Dose</quant>
+          <zutat>rote Indianerbohnen (ca. 215 g)</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 150 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Sauce     >
+      <Hoernli    >
+          <quant>250 g</quant>
+          <zutat>Hoernli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Hoernli    >
+      <Fertigstellen>
+          <quant>30 g</quant>
+          <zutat>Tortilla-Chips (z.B. Blue Corn &amp; Meersalz)</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Koriander</zutat>
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hackfleisch                   </inhalt>
+      </How_To    >
+      <Hackfleisch>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Fleisch portionenweise ca. 2 Min. braten, herausnehmen und wuerzen. </inhalt>
+      </Hackfleisch>
+      <How_To1   >
+          <inhalt>Peperoni in Wuerfeli, Zwiebel in Streifen schneiden und Knoblauch fein hacken. Jalapeños abtropfen, grob hacken.</inhalt>
+      </How_To1   >
+      <Sauce     >
+          <inhalt>Wenig Oel in derselben Pfanne erwaermen. Peperoni, Zwiebel und Knoblauch ca. 5 Min. andaempfen. Mais abtropfen, mit den Jalapeños beigeben, kurz mitdaempfen, wuerzen. Fleisch, Tomaten und Bohnen mit der Bouillon beigeben, zugedeckt ca. 15 Min. koecheln. </inhalt>
+      </Sauce     >
+      <Hoernli    >
+          <inhalt>Hoernli im Salzwasser al dente kochen, abtropfen.</inhalt>
+      </Hoernli    >
+      <Fertigstellen>
+          <inhalt>Hoernli mit dem Hackfleisch anrichten, Tortilla Chips zerbroeckeln, Korianderblaettchen abzupfen, beides darueberstreuen. Limette in Schnitze schneiden, dazu servieren. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

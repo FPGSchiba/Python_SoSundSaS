@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>408 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marroni-Burger>
+          <quant>300 g</quant>
+          <zutat>Tofu nature</zutat>
+          <quant>250 g</quant>
+          <zutat>tiefgekuehlte geschaelte Marroni, aufgetaut</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>3 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Marroni-Burger>
+      <Braten    >
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Braten    >
+      <Rotkraut  >
+          <quant>600 g</quant>
+          <zutat>Rotkabis, fix-fertig (z.B. Betty Bossi)</zutat>
+      </Rotkraut  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Marroni-Burger                </inhalt>
+      </How_To    >
+      <Marroni-Burger>
+          <inhalt>Tofu grob reiben, Marroni grob hacken, Petersilie fein schneiden, Ei verklopfen. Alles mit dem Paniermehl</inhalt>
+      </Marroni-Burger>
+      <How_To1   >
+          <inhalt>Braten                        </inhalt>
+      </How_To1   >
+      <Braten    >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen, Burger bei mittlerer Hitze beidseitig je ca. 5 Min. braten, herausnehmen, warm stellen.</inhalt>
+      </Braten    >
+      <Rotkraut  >
+          <inhalt>Rotkraut nach Verpackungsanleitung erhitzen, zu den Burgern servieren.</inhalt>
+      </Rotkraut  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=8svkCG_1r1s"/>
+</Rezept>

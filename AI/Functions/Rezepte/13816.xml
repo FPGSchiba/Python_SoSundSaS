@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>533 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Randen-Nudeln>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>800 g</quant>
+          <zutat>rohe Randen, mit dem Gemuese Twister in Spaghetti geschnitten oder in feinen Streifen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Randen-Nudeln>
+      <Sauce     >
+          <quant>2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>125 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), in Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in feinen Schnitzen</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Randen-Nudeln>
+          <inhalt>Oel in einer Bratpfanne warm werden lassen, Randen ca. 5 Min. ruehrbraten, wuerzen, herausnehmen, warm stellen.</inhalt>
+      </Randen-Nudeln>
+      <Sauce     >
+          <inhalt>Rahm in derselben Pfanne aufkochen. Gorgonzola und Kaese beigeben, glatt ruehren, wuerzen. Randen-Nudeln beigeben, mit der Sauce mischen. Birne und Nuesse darauf verteilen.  </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

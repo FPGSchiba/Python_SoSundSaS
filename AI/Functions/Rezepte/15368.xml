@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>393 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti, in Wuerfeln</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Gewuerzzubereitung fuer Fleisch (z.B. Coop Fleisch Gewuerzzubereitung scharf)</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Gemuese    >
+      <Fajitas   >
+          <quant>4 </quant>
+          <zutat>Flour Tortillas</zutat>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Stuecken</zutat>
+      </Fajitas   >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Peperoni, Zwiebel und Zucchetti beigeben, ca. 3 Min. ruehrbraten. Gemuese wuerzen. Pfanne von der Platte nehmen</inhalt>
+      </Gemuese    >
+      <Fajitas   >
+          <inhalt>Tortillas nach Angabe auf der Verpackung zubereiten, Tortillas mit Creme fraiche bestreichen, Gemuese und Avocado darauf verteilen. Tortillas einrollen.</inhalt>
+      </Fajitas   >
+   </rezept>
+</Rezept>

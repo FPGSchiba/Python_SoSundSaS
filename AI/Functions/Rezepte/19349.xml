@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>458 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>3 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Schokoladenaufstrich (z.B. Nutella)</zutat>
+      </Fuellung   >
+      <Torte     >
+          <quant>2 </quant>
+          <zutat>Bananen</zutat>
+          <quant>250 g</quant>
+          <zutat>Soft Waffeln</zutat>
+      </Torte     >
+      <Dekoration>
+          <quant>1/2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 60 g)</zutat>
+          <quant>einige </quant>
+          <zutat>Smarties</zutat>
+          <quant>einige </quant>
+          <zutat>Nonpareilles</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Schokoladenaufstrich (z.B. Nutella)</zutat>
+          <quant>2 </quant>
+          <zutat>Bananen</zutat>
+          <quant>250 g</quant>
+          <zutat>Soft Waffeln</zutat>
+          <quant>1/2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 60 g)</zutat>
+          <quant>einige </quant>
+          <zutat>Smarties</zutat>
+          <quant>einige </quant>
+          <zutat>Nonpareilles</zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Rahm knapp steif schlagen.    </inhalt>
+      </Fuellung   >
+      <Torte     >
+          <inhalt>Bananen in ca. 1 cm dicke Scheiben schneiden. </inhalt>
+      </Torte     >
+      <Dekoration>
+          <inhalt>Kuchenglasur schmelzen,       </inhalt>
+      </Dekoration>
+   </rezept>
+</Rezept>

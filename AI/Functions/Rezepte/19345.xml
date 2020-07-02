@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>225 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bananen-Masse>
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 </quant>
+          <zutat>reife Bananen, zerdrueckt</zutat>
+          <quant>2 </quant>
+          <zutat>Kiwis (reif), zerdrueckt</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+      </Bananen-Masse>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>3 </quant>
+          <zutat>Kiwis, in Stuecken</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Bananen-Masse>
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Eier beigeben, mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Bananen, Kiwi und Buttermilch daruntermischen. </inhalt>
+      </Bananen-Masse>
+      <Teig      >
+          <inhalt>Mehl, Baumnuesse, Backpulver und Natron mischen, mit den Kiwis unter die Bananenmasse mischen. Teig in die vorbereitete Form fuellen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Bananenbrot aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

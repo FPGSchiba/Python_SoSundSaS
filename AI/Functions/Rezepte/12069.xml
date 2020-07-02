@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>620 kcal</NaehrwertProPerson>
+       <Fett>51 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nuesse_caramelisieren>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Nuesse_caramelisieren>
+      <Schokolademousse>
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade (64 % Kakao, Cailler), fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>starke Espressi, ausgekuehlt</zutat>
+          <quant>2 dl</quant>
+          <zutat>lactosefreier Vollrahm, steif geschlagen</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Schokolademousse>
+      <Dekorieren>
+          <quant>1 dl</quant>
+          <zutat>lactosefreier Vollrahm</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <Nuesse_caramelisieren>
+          <inhalt>Nuesse und Zucker in einer Pfanne mischen, unter Ruehren bei mittlerer Hitze ca. 5 Min. goldbraun roesten.</inhalt>
+      </Nuesse_caramelisieren>
+      <Schokolademousse>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Eigelbe und Zucker mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse schaumig ist. Eimasse zur Schokolade geben, Espresso dazugiessen, gut verruehren. Schlagrahm mit dem Schwingbesen sorgfaeltig unter die Masse ziehen. Eiweisse mit dem Salz steif schlagen, Zucker beigeben, kurz weiterschlagen. Eischnee sorgfaeltig unter die Schokolademasse ziehen. Mousse in die Glaeser fuellen, zugedeckt im Kuehlschrank ca. 1 Std. fest werden lassen. </inhalt>
+      </Schokolademousse>
+      <Dekorieren>
+          <inhalt>Rahm flaumig schlagen, mit den Nuesse auf dem Mousse verteilen.</inhalt>
+      </Dekorieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>106 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Guetzli   >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Guetzli   >
+      <Verzierung>
+          <quant>1 1/2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>weisse Kuchenglasur , geschmolzen</zutat>
+          <quant> </quant>
+          <zutat>Dekomaterial zum Verzieren</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Guetzli                       </inhalt>
+      </How_To    >
+      <Guetzli   >
+          <inhalt>Butter, Puderzucker, Vanillezucker und Salz schaumig ruehren. Ei beigeben, kurz weiterruehren. Mehl zur Buttermasse geben und rasch zu einem geschmeidigen Teig zusammenfuegen. Zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Guetzli   >
+      <How_To1   >
+          <inhalt>Backen: ca. 13 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </How_To1   >
+      <Verzierung>
+          <inhalt>Puderzucker und Vanillezucker mischen, Guetzli damit bestaeuben. Eine kleine Ecke des Beutels wegschneiden. Glasur im Zickzack schnell und grosszuegig ueber die Taennli ziehen, sofort mit dem Streudekor verzieren, trocknen.</inhalt>
+      </Verzierung>
+   </rezept>
+</Rezept>

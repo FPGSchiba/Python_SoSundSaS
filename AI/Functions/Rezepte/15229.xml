@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>383 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>800 g</quant>
+          <zutat>Baby-Kartoffeln, in Schnitzen</zutat>
+      </Kartoffeln>
+      <Pouletfluegeli>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>12 </quant>
+          <zutat>Pouletfluegeli (ca. 800 g)</zutat>
+      </Pouletfluegeli>
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln>
+          <inhalt>Salz, Oel, Rosmarin und Kartoffeln in eine grosse Schuessel geben, mischen, auf das vorbereitete Blech geben. </inhalt>
+      </Kartoffeln>
+      <Pouletfluegeli>
+          <inhalt>Honig und alle Zutaten bis und mit Salz in dieselbe Schuessel geben, gut verruehren, Pouletfluegeli beigeben, gut mischen, zu den Kartoffeln aufs Blech legen.  </inhalt>
+      </Pouletfluegeli>
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

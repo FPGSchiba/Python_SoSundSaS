@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>615 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizzoccheri>
+          <quant>300 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Pizzoccheri>
+      <Pilz-Gemuese_>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>200 g</quant>
+          <zutat>Krautstiel, in feinen Streifen</zutat>
+          <quant>350 g</quant>
+          <zutat>Eierschwaemme, halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>trockener weisser Vermouth (z.B. Noilly Prat)</zutat>
+      </Pilz-Gemuese_>
+      <Servieren >
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>100 g</quant>
+          <zutat>Buendnerfleisch in Tranchen, in feinen Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Salbeiblaetter, fein geschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>Bergkaese, fein gerieben</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Pizzoccheri>
+          <inhalt>Mehle und Salz in einer Schuessel mischen. Quark und Wasser beigeben, mit der Kelle mischen, bis der Teig zusammenhaelt. Teig auf wenig Mehl ca. 10 Min. kneten, bis der Teig elastisch ist, zugedeckt bei Raumtemperatur ca. 30 Min. ruhen lassen. Teig vierteln, portionenweise auf wenig Mehl ca. 2 mm dick rechteckig auswallen, in Streifen (ca. 1x6 cm) schneiden, auf einem leicht bemehlten Kuechentuch oder Blech etwas antrocknen lassen.</inhalt>
+      </Pizzoccheri>
+      <Pilz-Gemuese_>
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel andaempfen, Krautstiel und Pilze ca. 5 Min. mitdaempfen, salzen. Vermouth dazugiessen, vollstaendig einkochen, beiseite stellen. </inhalt>
+      </Pilz-Gemuese_>
+      <Servieren >
+          <inhalt>Pizzoccheri ca. 3 Min. im knapp siedenden Salzwasser kochen, abgiessen, dabei ca. 1 dl Kochwasser beiseite stellen. Pizzoccheri, beiseite gestelltes Kochwasser, Buendnerfleisch und Salbei zum Pilz-Gemuese geben, mischen. Kaese dazu servieren. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

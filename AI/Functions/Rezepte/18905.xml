@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>403 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, weich, in Stuecken</zutat>
+          <quant>60 g</quant>
+          <zutat>Schokoladenwuerfel</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Mandel</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Hagelzucker</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter, Schokolade und Milch beigeben, zu einem weichen , glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 1/2 Std. aufs Doppelte aufgehen lassen. </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Vom Teig 8 Portionen von je ca. 90 g abwaegen, Kugeln formen, dabei die Mandel (Koenig) in eine der Kugeln stecken. Aus dem restlichen Teig eine grosse Kugel formen, auf ein mit Backpapier belegtes Blech legen, die kleinen Kugeln gleichmaessig rundum verteilen, zugedeckt nochmals ca. 30 Min. aufgehen lassen. Mit Ei bestreichen, mit Mandelblaettchen und Hagelzucker bestreuen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Kuchen auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>276 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Smoothie  >
+          <quant>2 </quant>
+          <zutat>Bananen, in Stuecken, tiefgekuehlt</zutat>
+          <quant>2 </quant>
+          <zutat>Granataepfel, halbiert, Kerne herausgeloest, 1 EL fuer Topping beiseite gelegt</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen, in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>gekochte Randen, in Stuecken</zutat>
+          <quant>5 dl</quant>
+          <zutat>Haferdrink</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>4 TL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Smoothie  >
+      <Topping   >
+          <quant>5 g</quant>
+          <zutat>dunkle Schokolade, fein gerieben</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Smoothie  >
+          <inhalt>Bananen mit allen Zutaten bis und mit Kakao im Mixglas puerieren, in Glaeser verteilen.</inhalt>
+      </Smoothie  >
+      <Topping   >
+          <inhalt>Smoothies mit beiseite gelegten Granatapfelkernen und geriebener Schokolade verzieren.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

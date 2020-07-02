@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>446 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Garen_der_Schwarte_>
+          <quant>2 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>2 kg</quant>
+          <zutat>Schweinsbraten (z.B. Schwein Krustenbraten mit Schwarte)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Oel, zum Braten</zutat>
+      </Garen_der_Schwarte_>
+      <Braten_im_Ofen>
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel, entkernt, in Schnitzen</zutat>
+      </Braten_im_Ofen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Garen der Schwarte            </inhalt>
+      </How_To    >
+      <Garen_der_Schwarte_>
+          <inhalt>Schwarte rhombenfoermig einschneiden. Braten wuerzen. Oel in einer Bratpfanne heiss werden lassen, Fleisch rundum ca. 10 Min. anbraten. </inhalt>
+      </Garen_der_Schwarte_>
+      <Braten_im_Ofen>
+          <inhalt>Braten mit der Schwarte nach oben auf ein mit Backpapier belegtes Blech legen, im auf 120 Grad vorgehizten Ofen ca. 2 3/4 Std. garen, Apfelschnitze beigeben, ca. 15 Min. fertiggaren.   </inhalt>
+      </Braten_im_Ofen>
+   </rezept>
+</Rezept>

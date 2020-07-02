@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>782 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>126 g </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren >
+          <quant>300 g</quant>
+          <zutat>Frischteigwaren (z.B. Tagliatelle)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren >
+      <Broesel    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>4 EL</quant>
+          <zutat>Panko oder Paniermehl</zutat>
+      </Broesel    >
+      <Fenchel_  >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Fenchel, in duennen Scheiben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und ganzer Saft</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fenchel_  >
+   </einkaufliste>
+   <rezept>
+      <Teigwaren >
+          <inhalt>Teigwaren im siedenden Salzwasser knapp al dente kochen. 1 dl Kochwasser beiseite stellen, Teigwaren abtropfen.</inhalt>
+      </Teigwaren >
+      <Broesel    >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Knoblauch beigeben, kurz andaempfen. Panko beigeben, ca. 3 Min. roesten, herausnehmen, beiseite stellen. </inhalt>
+      </Broesel    >
+      <Fenchel_  >
+          <inhalt>Oel in derselben Bratpfanne erwaermen, Fenchel beigeben, ca. 10 Min. ruehrbraten. Zitronenschale und -saft beigeben, wuerzen, ca. 1 Min. koecheln. Teigwaren und beiseite gestelltes Kochwasser beigeben, mischen, nur noch heiss werden lassen. Beiseite gestellte Broesel daruntermischen. </inhalt>
+      </Fenchel_  >
+   </rezept>
+</Rezept>

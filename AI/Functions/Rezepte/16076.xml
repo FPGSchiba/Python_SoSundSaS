@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>296 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Sonnenblumenoel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mehl, Salz und Hefe in eine Schuessel geben, mischen. Wasser und Oel beigeben, mit dem Teighoernchen rasch zu einem weichen Teig zusammenfuegen, kurz kneten, zugedeckt ca. 10 Min. ruhen lassen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>565 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorfrittieren>
+          <quant>1 1/2 kg</quant>
+          <zutat>mehlig kochende Kartoffeln, in ca. 7 cm langen, ca. 1 cm dicken Staengelchen,</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Vorfrittieren>
+      <Frittieren>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Frittieren>
+   </einkaufliste>
+   <rezept>
+      <Ofen_vorheizen>
+          <inhalt>Ofen auf 60 Grad vorheizen, Schuessel und Teller vorwaermen.</inhalt>
+      </Ofen_vorheizen>
+      <Vorfrittieren>
+          <inhalt>Kartoffelstaengelchen kalt abspuelen, auf einem Tuch sehr gut trockentupfen. Oel zum Frittieren im Brattopf bis zu 1/2 Hoehe fuellen, auf 160 Grad erhitzen. Kartoffeln portionenweise je ca. 3 Min. vorfrittieren, sie duerfen keine Farbe annehmen. Mit einer Schaumkelle herausnehmen, auf einem mit Haushaltpapier belegten Gitter abtropfen, auskuehlen.</inhalt>
+      </Vorfrittieren>
+      <Frittieren>
+          <inhalt>Oel auf 175 Grad erhitzen, vorfrittierte Pommes frites portionenweise je ca. 3 Min. knusprig und goldgelb backen. Mit der Schaumkelle herausnehmen, auf dem mit frischem Haushaltspapier belegten Gitter abtropfen, warm stellen. Dabei Ofentuer mit einem Kellenstiel einen Spalt breit offen halten, salzen.</inhalt>
+      </Frittieren>
+   </rezept>
+</Rezept>

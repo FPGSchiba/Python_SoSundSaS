@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>488 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Biskuit   >
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>70 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rum</zutat>
+          <quant>70 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Biskuit   >
+      <Glasur_&amp;_Verzierung>
+          <quant>75 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter</zutat>
+          <quant>75 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosraspel</zutat>
+      </Glasur_&amp;_Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Biskuit   >
+          <inhalt>Eine Cakeform (ca. 26 cm) mit Backpapier auslegen. Eier und Zucker mit den Schwingbesen des Handruehrgeraetes ca. 5 Min. ruehren. Butter schmelzen, mit Rum und Mehl daruntermischen, in die Form geben.</inhalt>
+      </Biskuit   >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Auf einem Gitter etwas abkuehlen, quer in 5 ca. 4 cm breite Schnitten schneiden.</inhalt>
+      </Backen    >
+      <Glasur_&amp;_Verzierung>
+          <inhalt>Fuer die Glasur Schokolade grob hacken, mit Butter und Puderzucker bei kleiner Hitze schmelzen, ueber die Schnitten giessen. Kokosrapel darueber streuen, trocknen lassen.</inhalt>
+      </Glasur_&amp;_Verzierung>
+   </rezept>
+</Rezept>

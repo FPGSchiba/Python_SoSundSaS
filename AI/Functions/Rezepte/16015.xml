@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>269 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dressing  >
+          <quant>1 1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>90 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Tahina  (Sesampaste)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dressing  >
+      <Kartoffeln>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>400 g</quant>
+          <zutat>Fruehkartoffeln, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Kartoffeln>
+      <Salat     >
+          <quant>1 </quant>
+          <zutat>Gurke, in feinen Scheiben</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in feinen Scheiben</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 400g), abgespuelt, abgetropft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Dressing  >
+          <inhalt>Zitronensaft, Oel, Jogurt und Tahina in einer Schuessel verruehren, wuerzen. </inhalt>
+      </Dressing  >
+      <Kartoffeln>
+          <inhalt>Oel in einer beschichteten Bratpfanne erwaermen, Kartoffeln unter gelegentlichem Wenden bei mittlerer Hitze ca. 15 Min. braten, salzen. Kartoffeln lauwarm in die Sauce geben, mischen. </inhalt>
+      </Kartoffeln>
+      <Salat     >
+          <inhalt>Gurke, Radiesli, Kichererbsen und Petersilie beigeben, mischen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>244 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Lillet-Sirup>
+          <quant>1 dl</quant>
+          <zutat>Lillet</zutat>
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>5 Zweiglein</quant>
+          <zutat>Zitronenmelisse, grob geschnitten</zutat>
+      </Lillet-Sirup>
+      <Cocktail_ >
+          <quant>einige </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>4 dl</quant>
+          <zutat>Lillet</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>4 dl</quant>
+          <zutat>Schaumwein (z.B. Rose-Schaumwein)</zutat>
+          <quant> </quant>
+          <zutat>Zitronenmelisse</zutat>
+      </Cocktail_ >
+   </einkaufliste>
+   <rezept>
+      <Lillet-Sirup>
+          <inhalt>Lillet und Zucker in einer kleinen Pfanne aufkochen. Hitze reduzieren, Zitronenmelisse beigeben, ca. 5 Min. koecheln, auskuehlen, absieben.</inhalt>
+      </Lillet-Sirup>
+      <Cocktail_ >
+          <inhalt>Eiswuerfel und je 1 EL Sirup in die Glaeser verteilen, Lillet, und Zitronensaft  dazugiessen, mit Schaumwein auffuellen. Glaeser mit Zitronenmelisse garnieren. </inhalt>
+      </Cocktail_ >
+   </rezept>
+</Rezept>

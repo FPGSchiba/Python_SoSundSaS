@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>626 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Banane    >
+          <quant>2 </quant>
+          <zutat>reife Bananen</zutat>
+          <quant>1 Becher</quant>
+          <zutat>saurer Halbrahm (200 g)</zutat>
+      </Banane    >
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Zucker (200 g)</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 Becher </quant>
+          <zutat>Weissmehl (250 g)</zutat>
+          <quant>2 1/2 Becher </quant>
+          <zutat>Kokosraspel (200 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Frosting  >
+          <quant>100 g</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>70 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>einige </quant>
+          <zutat>Zuckereili</zutat>
+          <quant>2 </quant>
+          <zutat>reife Bananen</zutat>
+          <quant>1 Becher</quant>
+          <zutat>saurer Halbrahm (200 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Zucker (200 g)</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 Becher </quant>
+          <zutat>Weissmehl (250 g)</zutat>
+          <quant>2 1/2 Becher </quant>
+          <zutat>Kokosraspel (200 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>100 g</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>70 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>einige </quant>
+          <zutat>Zuckereili</zutat>
+      </Frosting  >
+   </einkaufliste>
+   <rezept>
+      <Banane    >
+          <inhalt>                              </inhalt>
+      </Banane    >
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz mit den Schwingbesen des Mixers darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Frosting  >
+          <inhalt>Kokosnuss-Streifen in einer Bratpfanne ohne Fett goldbraun roesten, auskuehlen. Butter in eine Schuessel geben,  und Puderzucker beigeben, mit den Schwingbesen des Mixers ca. 2 Min. schaumig ruehren. Frischkaese darunterruehren. Frosting in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø) geben, auf die Cupcakes spritzen. </inhalt>
+      </Frosting  >
+   </rezept>
+</Rezept>

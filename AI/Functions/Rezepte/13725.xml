@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>734 kcal</NaehrwertProPerson>
+       <Fett>68 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>180 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>125 g</quant>
+          <zutat>Kokosoel, zimmerwarm (nicht fluessig)</zutat>
+          <quant>30 g</quant>
+          <zutat>Dinkelmehl (oder Kokosmehl)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, abgeriebene Schale</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Boden     >
+      <Fuellung_&amp;_Verzierung>
+          <quant>300 g</quant>
+          <zutat>Kokosnussmilch-Jogurt (z.B. KARMA Jocos Nature oder Vanille)</zutat>
+          <quant>200 g</quant>
+          <zutat>gemischte Beeren oder Sommerfruechte</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaettchen</zutat>
+      </Fuellung_&amp;_Verzierung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Boden                         </inhalt>
+      </How_To    >
+      <Boden     >
+          <inhalt>Kokosraspeln mit Kokosoel, Mehl, Agavensirup, Limettenschale und Salz vermischen. Die Masse mit einem Loeffel oder den Fingern in die Foermchen druecken.</inhalt>
+      </Boden     >
+      <How_To1   >
+          <inhalt>Boeden auskuehlen.              </inhalt>
+      </How_To1   >
+      <Fuellung_&amp;_Verzierung>
+          <inhalt>Das Jogurt auf den Boeden verteilen. Mit Beeren und Minze verzieren. Wer mag, kann die Toertchen jetzt noch mit Agavensirup versuessen.</inhalt>
+      </Fuellung_&amp;_Verzierung>
+   </rezept>
+</Rezept>

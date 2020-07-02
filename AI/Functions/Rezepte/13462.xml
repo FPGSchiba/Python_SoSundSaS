@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>240 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Drink     >
+          <quant>1/2 </quant>
+          <zutat>Charentais-Melone</zutat>
+          <quant>2 dl</quant>
+          <zutat>Tequila</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Zitronensirup</zutat>
+          <quant>12 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 dl</quant>
+          <zutat>kohlensaeurehaltiges Mineralwasser</zutat>
+          <quant>2 dl</quant>
+          <zutat>Grapefruitsaft</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, in Scheiben</zutat>
+      </Drink     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Drink                         </inhalt>
+      </How_To    >
+      <Drink     >
+          <inhalt>Je 1/4 in ein Glas giessen, mit Wasser und Grapefruitsaft auffuellen, mit Limette verzieren.</inhalt>
+      </Drink     >
+   </rezept>
+</Rezept>

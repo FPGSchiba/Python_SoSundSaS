@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>546 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rohschinken-Chips_>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, geviertelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kernenmix</zutat>
+          <quant>80 g</quant>
+          <zutat>Rohschinken in Tranchen</zutat>
+      </Rohschinken-Chips_>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>250 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>150 g</quant>
+          <zutat>Moenchsbart, geruestet</zutat>
+          <quant>100 g</quant>
+          <zutat>Erbsli</zutat>
+          <quant>150 g</quant>
+          <zutat>Frischkaese (z.B. Boursin)</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Risotto   >
+   </einkaufliste>
+   <rezept>
+      <Rohschinken-Chips_>
+          <inhalt>Oel, Aceto und Salz verruehren, Radiesli und Kernenmix daruntermischen, au auf ein mit Backpapier belegtes Blech geben, Rohschinken daneben legen. </inhalt>
+      </Rohschinken-Chips_>
+      <Backen    >
+          <inhalt>Ca. 10 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+      <Risotto   >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel und Knoblauch ca. 3 Min. andaempfen, Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 15 Min. koecheln, Moenchsbart und Erbsli portionenweise beigeben, ca. 5 Min. weiter koecheln bis der Reis cremig und al dente ist. Frischkaese unter den Risotto mischen, wuerzen, anrichten. Radiesli und Rohschinken-Chips darauf verteilen. </inhalt>
+      </Risotto   >
+   </rezept>
+</Rezept>

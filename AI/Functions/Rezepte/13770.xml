@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>308 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>100 g</quant>
+          <zutat>Blattspinat (ohne Stiele)</zutat>
+          <quant>100 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>30 g</quant>
+          <zutat>Pinienkerne (oder Wuerz-Hefeflocken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz, jodiert</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 TL</quant>
+          <zutat>Limettensaft, frisch gepresst</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Die Kuerbiskerne grob mahlen und auf einen flachen Teller geben. Die uebrigen Zutaten mit dem Puerierstab zu einer Masse puerieren. Aus der klebrigen Masse drei gleich groﬂe Kugeln formen und in den gemahlenen Kuerbiskernen wenden.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bis zum Verzehr mit Frischhaltefolie luftdicht abdecken, damit die Kaesekugeln nicht oxidieren und braun werden. Im Kuehlschrank sind sie mindestens 4-5 Tage haltbar. Mit Brot zu einem Salat oder zum Brunch servieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>425 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1/2 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>300 g</quant>
+          <zutat>Gnocchi</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Zucchetti unter gelegentlichem Wenden ca. 10 Min. anbraten, herausnehmen. Gnocchi in derselben Pfanne ca. 5 Min. anbraten, Spinat, Pinienkerne mit den Zucchetti beigeben, ca. 5 Min. mitbraten, auf Tellern anrichten. Butter in derselben Pfanne schmelzen und aufschaeumen, bis sie nussig schmeckt, ueber die Gnocchi verteilen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

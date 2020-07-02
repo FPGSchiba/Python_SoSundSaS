@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>178 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Konfituere >
+          <quant>1 kg</quant>
+          <zutat>Mirabellen (ergibt ca. 900 g), entsteint, in Vierteln</zutat>
+          <quant>400 g</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+      </Konfituere >
+   </einkaufliste>
+   <rezept>
+      <Konfituere >
+          <inhalt>Mirabellen, Zucker, Zitronensaft und Rosmarin in einer weiten Pfanne mischen, unter Ruehren aufkochen, unter Ruehren ca. 4 Min. sprudelnd kochen. Konfituere siedend heiss bis knapp unter den Rand in die sauberen, vorgewaermten Glaeser fuellen, sofort verschliessen. Glaeser mit Schraubdeckel kurz auf den Kopf stellen, auf isolierender Unterlage auskuehlen.</inhalt>
+      </Konfituere >
+   </rezept>
+</Rezept>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>343 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hacktaetschli>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Panko</zutat>
+          <quant>1 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, gerieben</zutat>
+      </Hacktaetschli>
+      <Chips     >
+          <quant>100 g</quant>
+          <zutat>ProSpecieRara Blaue St.Galler Kartoffeln, in feinen Scheiben</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Chips     >
+      <Kartoffelsalat>
+          <quant>300 g</quant>
+          <zutat>Blaue St. Galler Kartoffeln,  frisch gekocht, heiss geschaelt, in Wuerfeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Kartoffelsalat>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hacktaetschli                  </inhalt>
+      </How_To    >
+      <Hacktaetschli>
+          <inhalt>Fleisch und alle Zutaten bis und mit Ingwer mischen, von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden.</inhalt>
+      </Hacktaetschli>
+      <How_To1   >
+          <inhalt>Backen                        </inhalt>
+      </How_To1   >
+      <Backen    >
+          <inhalt>Chips                         </inhalt>
+      </Backen    >
+      <Chips     >
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf  220 Grad vorgeheizten Ofens, dabei die Ofentuer mit einem Kellenstiel einen Spaltbreit offen halten.</inhalt>
+      </Chips     >
+      <Kartoffelsalat>
+          <inhalt>Alle Zutaten in einer Schuessel sorgfaeltig mischen. Kartoffelsalat mit den Hacktaetschli und den Chips servieren.  </inhalt>
+      </Kartoffelsalat>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

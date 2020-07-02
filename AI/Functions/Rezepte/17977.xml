@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>174 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>580 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+      </Hefeteig  >
+      <Lauge     >
+          <quant>1 1/2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Natron</zutat>
+          <quant>wenig </quant>
+          <zutat>grobkoerniges Meersalz</zutat>
+      </Lauge     >
+      <Dip       >
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz  und Hefe in einer Schuessel mischen. Ahornsirup und Milch beigeben, mischen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Brezel_formen,_Step_1>
+          <inhalt>Den Teig in 12 gleich grosse Portionen teilen. Jedes Teigstueck zu einer ca. 60 cm langen Rolle formen.</inhalt>
+      </Brezel_formen,_Step_1>
+      <Brezel_formen,_Step_2>
+          <inhalt>Die Rollen in der Mitte falten.</inhalt>
+      </Brezel_formen,_Step_2>
+      <Brezel_formen,_Step_3>
+          <inhalt>Die Enden der Rollen mehrfach so verdrehen, dass oben ein Loch bleibt.</inhalt>
+      </Brezel_formen,_Step_3>
+      <Brezel_formen,_Step_4>
+          <inhalt>Den verdrehen Teil um den unteren Teil herumlegen und durch das Loch fuehren. </inhalt>
+      </Brezel_formen,_Step_4>
+      <Lauge     >
+          <inhalt>Das Wasser aufkochen, Natron beigeben. Die Brezeln einzeln mit einer Schaumkelle fuer ca. 30 Sek. ins siedende Wasser tauchen, abtropfen, auf ein mit Backpapier belegtes Blech legen, noch feucht mit Salz bestreuen.</inhalt>
+      </Lauge     >
+      <Backen:   >
+          <inhalt>ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen:   >
+      <Dip       >
+          <inhalt>Alle Zutaten verruehren, zu den Brezeln servieren.</inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

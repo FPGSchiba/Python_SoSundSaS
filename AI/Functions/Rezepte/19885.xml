@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>774 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>87 g  </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hackbaellchen>
+          <quant>1 </quant>
+          <zutat>Zucchetti (ca. 250 g)</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Poulet)</zutat>
+          <quant>6 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>4 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Hackbaellchen>
+      <Nudeln    >
+          <quant>400 g</quant>
+          <zutat>breite Nudeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Nudeln    >
+      <Sauce     >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>300 g</quant>
+          <zutat>tiefgekuehlter Blattspinat, aufgetaut</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti (ca. 250 g)</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Poulet)</zutat>
+          <quant>6 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>4 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>400 g</quant>
+          <zutat>breite Nudeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>300 g</quant>
+          <zutat>tiefgekuehlter Blattspinat, aufgetaut</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hackbaellchen                  </inhalt>
+      </How_To    >
+      <Hackbaellchen>
+          <inhalt>                              </inhalt>
+      </Hackbaellchen>
+      <Nudeln    >
+          <inhalt>Nudeln im siedenden Salzwasser knapp al dente kochen, abtropfen, dabei ca. 1 dl Kochwasser auffangen, beiseitestellen.</inhalt>
+      </Nudeln    >
+      <Sauce     >
+          <inhalt>Zwiebel schaelen, fein hacken. Oel in einer Bratpfanne erhitzen. Hackbaellchen portionenweise rundum ca. 6 Min. anbraten. Herausnehmen, </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

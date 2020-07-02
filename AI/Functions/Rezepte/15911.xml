@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>244 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Smoothie  >
+          <quant>150 g</quant>
+          <zutat>Erdbeeren, halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>2 </quant>
+          <zutat>Pfirsiche, in Stuecken</zutat>
+          <quant>360 g</quant>
+          <zutat>Jogurt nature</zutat>
+      </Smoothie  >
+      <Topping   >
+          <quant>50 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren, in Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>1 </quant>
+          <zutat>Pfirsich, in Wuerfeli</zutat>
+          <quant>30 g</quant>
+          <zutat>Paranuesse, grob gehackt</zutat>
+          <quant>4 EL</quant>
+          <zutat>Hirseflocken</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Smoothie  >
+          <inhalt>Erdbeeren, Himbeeren und Pfirsiche in einem Messbecher puerieren. Jogurt daruntermischen, Smoothie in die Bowls anrichten. </inhalt>
+      </Smoothie  >
+      <Topping   >
+          <inhalt>Johannisbeeren, Erdbeeren, Himbeeren, Pfirsich, Paranuesse und Hirseflocken darauf verteilen. </inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

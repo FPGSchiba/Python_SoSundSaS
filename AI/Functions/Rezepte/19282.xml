@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>546 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Streusel  >
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>3 EL</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+      </Streusel  >
+      <Rhabarber >
+          <quant>300 g</quant>
+          <zutat>roter Rhabarber, schraeg in ca. 2 cm grossen Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Rhabarber >
+   </einkaufliste>
+   <rezept>
+      <Streusel  >
+          <inhalt>Butter, Nuesse, Zucker, Haferflocken und Mehl mit einer Gabel zu einer kruemeligen Masse mischen. </inhalt>
+      </Streusel  >
+      <Rhabarber >
+          <inhalt>Rhabarber und Zucker mischen, in die vorbereitete Form geben. Streusel darauf verteilen. </inhalt>
+      </Rhabarber >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>36 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 </quant>
+          <zutat>Kraeutertee-Beutel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>80 g</quant>
+          <zutat>Himbeeren, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi, halbiert, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Pfirsich, entsteint, geviertelt, in Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>6 Zweiglein</quant>
+          <zutat>Zitronenmelisse</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wasser aufkochen, die Teebeutel darin ca. 10 Min. ziehen lassen. Teebeutel entfernen, Agavendicksaft im heissen Tee aufloesen. Tee auskuehlen. Fruechte mit dem Zitronensaft mischen. Fruechte und Melissen-Blaetter abwechslungsweise in die Glacebehaelter fuellen und mit Tee auffuellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Mindestens 4-5 Std. gefrieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

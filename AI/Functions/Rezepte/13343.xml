@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>267 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig  >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Jogurt nature</zutat>
+      </Ruehrteig  >
+      <Fuellen    >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>250 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Fuellen    >
+      <Verzieren >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ruehrteig                      </inhalt>
+      </How_To    >
+      <Ruehrteig  >
+          <inhalt>Ein Ei nach dem andern darunterruehren, Jogurt daruntermischen.</inhalt>
+      </Ruehrteig  >
+      <Fuellen    >
+          <inhalt>Mehl, Mandeln und Backpulver mischen, darunterruehren. Teig in die vorbereitete Form geben, Beeren darauf verteilen, leicht andruecken.</inhalt>
+      </Fuellen    >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Verzieren >
+          <inhalt>Cake mit Puderzucker bestaeuben.</inhalt>
+      </Verzieren >
+   </rezept>
+</Rezept>

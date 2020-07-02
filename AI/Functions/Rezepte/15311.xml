@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>487 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kokosnuss-Creme>
+          <quant>100 g</quant>
+          <zutat>Cashew-Nuesse, ueber Nacht in Wasser eingelegt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Kokosmilch, Raumtemperatur</zutat>
+          <quant>50 g</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs halbiert, ausgekratzte Samen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Kokosnuss-Creme>
+      <Matcha-Kiwi-Creme>
+          <quant>1 </quant>
+          <zutat>Kiwi, geschaelt, in Stuecken</zutat>
+          <quant>1/2 </quant>
+          <zutat>Avocado, geschaelt, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>2 EL</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Matcha-Kiwi-Creme>
+      <Anrichten >
+          <quant>100 g</quant>
+          <zutat>Loeffelbiskuits, zerbroeckelt</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi, geschaelt, in Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Matchapulver </zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kokosnuss-Creme               </inhalt>
+      </How_To    >
+      <Kokosnuss-Creme>
+          <inhalt>Matcha-Kiwi-Creme             </inhalt>
+      </Kokosnuss-Creme>
+      <Matcha-Kiwi-Creme>
+          <inhalt>Anrichten                     </inhalt>
+      </Matcha-Kiwi-Creme>
+      <Anrichten >
+          <inhalt>Vor dem Servieren mit den Kiwischeiben verzieren und mit Matchapulver bestaeuben.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>674 kcal</NaehrwertProPerson>
+       <Fett>56 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>5 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , laengs halbiert</zutat>
+          <quant>3 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Karma Bio Tofu nature, in Wuerfel</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in feinen Ringen</zutat>
+          <quant>einige </quant>
+          <zutat>Basilikumblaetter</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kokosmilch, Wasser, Ingwer, Zitronengras und Kaffirlimetten Blaetter in einer Pfanne aufkochen, zugedeckt unter gelegentlichem Ruehren ca. 5 Min. koecheln. Mit Limettensaft, Zucker und wenig Salz wuerzen. Kaffirlimetten-Blaetter und Zitronengras entfernen, Hitze reduzieren. Tofu beigeben, ca. 5 Min. ziehen lassen, Suppe in Schalen verteilen, mit Chili garnieren, servieren.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>484 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Baked_potatoes>
+          <quant>8 </quant>
+          <zutat>mehlig kochende Kartoffeln (je ca. 120 g)</zutat>
+          <quant>8 Stueck</quant>
+          <zutat>Alufolie</zutat>
+      </Baked_potatoes>
+      <Fuellung   >
+          <quant>200 g</quant>
+          <zutat>Creme fraiche mit Kraeutern</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherte Forellenfilets (Bio), in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Avocados, in Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Baked_potatoes>
+          <inhalt>Kartoffeln gut waschen und einzeln in je ein Stueck Folie einpacken. Mit dem Verschluss nach oben auf ein Backblech legen. </inhalt>
+      </Baked_potatoes>
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, Kartoffeln mit einem Messer einschneiden, leicht zusammendruecken, damit sich die Kartoffeln oeffnen, Folie entfernen. </inhalt>
+      </Backen    >
+      <Fuellung   >
+          <inhalt>Creme fraiche, Forelle und Avocado in die Kartoffeln fuellen, Zitronensaft darueber traeufeln, wuerzen. </inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

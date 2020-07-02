@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>156 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Granola_backen>
+          <quant>100 g</quant>
+          <zutat>Buchweizen</zutat>
+          <quant>50 g</quant>
+          <zutat>Leinsamen, geschrotet</zutat>
+          <quant>100 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>50 g</quant>
+          <zutat>Apfelmus</zutat>
+      </Granola_backen>
+      <Fruechte   >
+          <quant>70 g</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Apfelringe</zutat>
+          <quant>5 </quant>
+          <zutat>Doerrfeigen</zutat>
+      </Fruechte   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Granola backen                </inhalt>
+      </How_To    >
+      <Granola_backen>
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 150 Grad vorgeheizten Ofens, dabei nach der Haelfte der Backzeit umruehren. Herausnehmen, auskuehlen.</inhalt>
+      </Granola_backen>
+      <Fruechte   >
+          <inhalt>Alle Fruechte im Food Prozessor zerkleinern, zur ausgekuehlten Mischung geben, alles gut mischen.</inhalt>
+      </Fruechte   >
+   </rezept>
+</Rezept>

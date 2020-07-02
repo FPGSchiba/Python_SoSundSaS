@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>442 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant>2 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Pouletschenkel, halbiert</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Kokosnuss-Stuecke (ca. 80 g), gehackt</zutat>
+      </Poulet    >
+      <Salat     >
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Papaya, laengs geviertelt, quer in ca. 1 cm dicken Scheiben</zutat>
+          <quant>200 g</quant>
+          <zutat>Chinakohl, in Streifen</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Poulet                        </inhalt>
+      </How_To    >
+      <Poulet    >
+          <inhalt>Backen: ca. 40 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Poulet    >
+      <Salat     >
+          <inhalt>Fuer die Sauce Limettensaft und alle Zutaten bis und mit Peperoncino in einer Schuessel gut verruehren. Papaya beigeben, ca. 15 Min. ziehen lassen. Chinakohl und Koriander sorgfaeltig daruntermischen. Poulet mit Kokoskruste und Papaya-Salat zusammen servieren.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

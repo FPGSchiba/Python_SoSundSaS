@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>503 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lattich_  >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Mini-Lattiche, laengs geviertelt</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Streifen</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Suessmaiskoerner (ca. 150 g),  abgespuelt, abgetropft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Lattich_  >
+      <Falafel_  >
+          <quant>200 g</quant>
+          <zutat>Karma Falafel</zutat>
+      </Falafel_  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lattich                       </inhalt>
+      </How_To    >
+      <Lattich_  >
+          <inhalt>braten, herausnehmen. Zwiebel und alle Zutaten bis und mit Mais, in dieselbe Pfanne geben, ca. 2 Min. ruehrbraten, Bouillon dazugiessen. Lattich wieder beigeben, zugedeckt ca. 5 Min. koecheln.</inhalt>
+      </Lattich_  >
+      <Falafel_  >
+          <inhalt>Falafel nach Angaben auf der  Verpackung zubereiten, mit Mini-Lattich servieren.</inhalt>
+      </Falafel_  >
+   </rezept>
+</Rezept>

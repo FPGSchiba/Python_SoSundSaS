@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>903 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>83 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>300 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>250 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>4 </quant>
+          <zutat>Cervelats</zutat>
+      </Gemuese    >
+      <One_pot   >
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Hoernli)</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten</zutat>
+          <quant>7 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </One_pot   >
+      <Anrichten >
+          <quant>2 Zweiglein</quant>
+          <zutat>Petersilie</zutat>
+          <quant>2 dl</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>300 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>250 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>4 </quant>
+          <zutat>Cervelats</zutat>
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Hoernli)</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten</zutat>
+          <quant>7 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Petersilie</zutat>
+          <quant>2 dl</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>                              </inhalt>
+      </Gemuese    >
+      <One_pot   >
+          <inhalt>                              </inhalt>
+      </One_pot   >
+      <Anrichten >
+          <inhalt>Petersilie fein schneiden,    </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

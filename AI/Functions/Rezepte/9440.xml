@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>256 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Chips     >
+          <quant>100 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Wasabi Coated Peanuts, gehackt</zutat>
+          <quant>wenig </quant>
+          <zutat>Fine Food Tasmanian Pepper</zutat>
+      </Chips     >
+      <Suppe     >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>500 g</quant>
+          <zutat>tiefgekuehlte Erbsli</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rahm, flaumig geschlagen</zutat>
+          <quant>wenig </quant>
+          <zutat>Zwiebelsprossen</zutat>
+      </Suppe     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Chips                         </inhalt>
+      </How_To    >
+      <Chips     >
+          <inhalt>Backen: ca. 3 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, die restlichen Chips mit Pfeffer bestreuen. Kaese-Chips sorgfaeltig loesen, auf einem Gitter auskuehlen. </inhalt>
+      </Chips     >
+      <Suppe     >
+          <inhalt>Butter warm werden lassen, Schalotten andaempfen. Erbsli kurz mitdaempfen. Bouillon dazugiessen, aufkochen. Hitze reduzieren, ca. 15 Min. koecheln. Die Haelfte der Erbsli herausnehmen, Suppe puerieren, Erbsli wieder beigeben, wuerzen. Suppe anrichten, mit dem Rahm und den Sprossen garnieren. Kaese-Chips dazu servieren.</inhalt>
+      </Suppe     >
+   </rezept>
+</Rezept>

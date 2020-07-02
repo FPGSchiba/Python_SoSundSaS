@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>59 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Zimt</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zwiebel fein hacken, Knoblauch pressen, Ingwer fein reiben. Im Olivenoel ca. 5 Min. daempfen. Apfelsaft dazugiessen, aufkochen, auf ca. die Haelfte einkochen. Tomaten, Essig und Zucker beigeben, aufkochen, Hitze reduzieren, bei kleiner Hitze ca. 30 Min. koecheln. Wuerzen, puerieren, auskuehlen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>665 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Kuchenteig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln</zutat>
+          <quant>150 g</quant>
+          <zutat>Mortadella</zutat>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>3 EL</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Rosmarin zum Garnieren</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig mitsamt dem Backpapier in ein Waehenblech (ca. 28 cm Durchmesser) geben, dicht einstechen, Paniermehl daraufstreuen. Knoblauch pressen, Rosmarin fein schneiden. Mortadella hacken, die Haelfte davon mit Hackfleisch, Knoblauch, Rosmarin, Eiern und Mascarpone vermischen, wuerzen. Auf dem Teigboden verteilen, glatt streichen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: 20 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Restlichen Mortadella darueber streuen, ca. 15 Min. fertig backen. Mit Rosmarin garnieren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Dazu passt: Salat.            </inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>797 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>73 g  </Kohlenhydrate>
+       <Eiweiss>49 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffelschnitze>
+          <quant>400 g</quant>
+          <zutat>vorwiegend festkochende Kartoffeln, in Schnitzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+      </Kartoffelschnitze>
+      <Pouletknusperli>
+          <quant>1 1/2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>100 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>2 </quant>
+          <zutat>Pouletbruestli (je ca. 150 g), in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Pouletknusperli>
+      <Sauce     >
+          <quant>50 g</quant>
+          <zutat>Ketchup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sambal Oelek</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kartoffelschnitze             </inhalt>
+      </How_To    >
+      <Kartoffelschnitze>
+          <inhalt>Pouletknusperli               </inhalt>
+      </Kartoffelschnitze>
+      <Pouletknusperli>
+          <inhalt>Ei in einem tiefen Teller verklopfen, Paniermehl in einen flachen Teller geben. Poulet im Mehl wenden, ueberschuessiges Mehl abschuetteln, im Ei, dann im Paniermehl wenden, Panade gut andruecken. Poulet auf die Kartoffeln verteilen, mit wenig Oel bestreichen. </inhalt>
+      </Pouletknusperli>
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.  Im Choerbli servieren.</inhalt>
+      </Backen    >
+      <Sauce     >
+          <inhalt>Ketchup mit Sambal Oelek gut verruehren, zum Poulet im Choerbli servieren</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

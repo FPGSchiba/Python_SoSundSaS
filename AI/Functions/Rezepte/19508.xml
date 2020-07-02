@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>173 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>40 g</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3 dl</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>5 EL</quant>
+          <zutat>Reissirup</zutat>
+          <quant>3 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Mineralwasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Teig      >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Maizena und Backpulver in eine Schuessel geben, mischen, in der Mitte eine Mulde eindruecken. Sojadrink und alle Zutaten bis und mit Vanillepaste verruehren, nach und nach unter Ruehren in die Mulde giessen, weiterruehren, bis der Teig glatt ist. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Eine beschichtete Bratpfanne erhitzen. Teig portionenweise in die Pfanne geben, dass Pancakes von ca. 10 cm Ø entstehen. Hitze reduzieren. Ist die Unterseite gebacken und loest sich von selbst, Pancake wenden, fertig backen, zugedeckt beiseite stellen. Restliche Pancakes gleich zubereiten. Pancakes anrichten, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

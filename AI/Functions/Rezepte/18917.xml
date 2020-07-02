@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>368 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaese      >
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>2 </quant>
+          <zutat>Tommes (je ca. 100 g)</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Kaese      >
+      <Salat     >
+          <quant>1 TL</quant>
+          <zutat>Senf (z.B. mit Meerrettich)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>200 g</quant>
+          <zutat>Blattsalat</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Kaese      >
+          <inhalt>Ei in einem tiefen Teller verklopfen. Mehl und Haferflocken je auf einen flachen Teller geben. Kaese zuerst im Mehl, dann im Ei und in den Haferflocken wenden, gut andruecken. Oel in einer beschichteten Bratpfanne erhitzen. Kaese beidseitig je ca. 5 Min. goldbraun braten. </inhalt>
+      </Kaese      >
+      <Salat     >
+          <inhalt>Senf, Aceto und Oel verruehren, wuerzen. Salat beigeben, mischen, mit den Kaese servieren. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

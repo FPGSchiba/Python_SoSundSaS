@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>680 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>74 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Federkohl-Pesto>
+          <quant>100 g</quant>
+          <zutat>Federkohl, in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, in Stuecken</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Limette, abgeriebene Schale, ganzer Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+      </Federkohl-Pesto>
+      <Teigwaren_>
+          <quant>100 g</quant>
+          <zutat>Federkohl in Stuecken</zutat>
+          <quant>400 g</quant>
+          <zutat>Teigwaren (z.B. Spaghettini)</zutat>
+      </Teigwaren_>
+      <Pochiertes_Ei>
+          <quant>1 1/2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Essig</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Pochiertes_Ei>
+   </einkaufliste>
+   <rezept>
+      <Federkohl-Pesto>
+          <inhalt>Federkohl, Knoblauch, Oel und Wasser mit Limettenschale und -saft puerieren, salzen, Kaese darunterruehren.</inhalt>
+      </Federkohl-Pesto>
+      <Teigwaren_>
+          <inhalt>Federkohl im siedenden Salzwasser ca. 10 Min. kochen, Spaghettini beigeben, knapp al dente kochen, ca. 11/2 dl Kochwasser beiseite stellen, Spaghettini abtropfen. Beiseite gestelltes Kochwasser mit dem Pesto verruehren, mit den Spaghettini zurueck in die Pfanne geben, mischen. </inhalt>
+      </Teigwaren_>
+      <Pochiertes_Ei>
+          <inhalt>Wasser und Essig aufkochen, Hitze reduzieren. Eier einzeln aufschlagen, sorgfaeltig ins leicht siedende Wasser gleiten lassen, ca. 4 Min. ziehen lassen. Herausnehmen, abtropfen, mit den Spaghettini anrichten, wuerzen.</inhalt>
+      </Pochiertes_Ei>
+   </rezept>
+</Rezept>

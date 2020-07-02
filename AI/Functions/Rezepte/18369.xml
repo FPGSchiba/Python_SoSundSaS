@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>299 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dessert   >
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>125 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>150 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Butterguetzli (z.B. Petit Beurre, zerdrueckt)</zutat>
+      </Dessert   >
+   </einkaufliste>
+   <rezept>
+      <Dessert   >
+          <inhalt>Jogurt, Quark und Zucker verruehren, mit Himbeeren und Guetzli lagenweise in Glaeser fuellen. </inhalt>
+      </Dessert   >
+   </rezept>
+</Rezept>

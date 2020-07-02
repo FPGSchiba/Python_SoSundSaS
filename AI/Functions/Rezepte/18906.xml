@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>312 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pueree     >
+          <quant>200 g</quant>
+          <zutat>Kuerbiswuerfel, nochmals halbiert</zutat>
+          <quant>200 g</quant>
+          <zutat>gekochte Kartoffeln, in Wuerfeli</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 TL</quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Pueree     >
+      <Topping_  >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Kuerbiswuerfel, geviertelt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>200 g</quant>
+          <zutat>gekochte Kartoffeln, in Wuerfel</zutat>
+          <quant>3 TL</quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Topping_  >
+   </einkaufliste>
+   <rezept>
+      <Pueree     >
+          <inhalt>Kuerbis, Kartoffeln, Wasser und Thymian in eine Pfanne geben, wuerzen, ca. 20 Min. sehr weich kochen, Thymian entfernen, Gemuese puerieren, wuerzen. </inhalt>
+      </Pueree     >
+      <Topping_  >
+          <inhalt>Oel in einer Pfanne erhitzen, Kuerbis beigeben, Wasser dazugiessen, zugedeckt ca. 5 Min. koecheln. Kartoffel beigeben, wuerzen, ca. 5 Min. ruehrbraten. Topping auf dem Pueree verteilen. </inhalt>
+      </Topping_  >
+   </rezept>
+</Rezept>

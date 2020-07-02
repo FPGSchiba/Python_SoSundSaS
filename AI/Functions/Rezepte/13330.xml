@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>636 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>250 g</quant>
+          <zutat>mittelfeiner Maisgriess (4 Min.)</zutat>
+      </Boden     >
+      <Belag     >
+          <quant>80 g</quant>
+          <zutat>Pesto rosso</zutat>
+          <quant>4 </quant>
+          <zutat>Tomaten, in Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Mozzarella-Kugeln (je ca. 150 g), zerzupft</zutat>
+      </Belag     >
+      <Garnitur  >
+          <quant>50 g</quant>
+          <zutat>schwarze Oliven</zutat>
+          <quant>20 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Oel in einer Pfanne warm werden lassen. Zwiebel und Knoblauch andaempfen. Bouillon dazugiessen, aufkochen. Mais einruehren, Hitze reduzieren, unter Ruehren bei kleiner Hitze ca. 4 Min. zu einem dicken Brei koecheln. Polenta im vorbereiteten Blech verteilen.</inhalt>
+      </Boden     >
+      <Belag     >
+          <inhalt>Pesto, Tomaten und Mozzarella auf der Polenta verteilen.</inhalt>
+      </Belag     >
+      <Backen:   >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen.</inhalt>
+      </Backen:   >
+      <Garnitur  >
+          <inhalt>Oliven und Rucola auf der Pizza verteilen, Oel daruebertraeufeln.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

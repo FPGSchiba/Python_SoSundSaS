@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>76 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bierteig  >
+          <quant>80 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 dl</quant>
+          <zutat>helles Bier oder Mineralwasser</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+      </Bierteig  >
+      <Zwetschgen>
+          <quant>25 </quant>
+          <zutat>Zwetschgen</zutat>
+          <quant>5 EL</quant>
+          <zutat>Backmasse mit Mandeln</zutat>
+      </Zwetschgen>
+      <Frittieren>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Frittieren>
+   </einkaufliste>
+   <rezept>
+      <Bierteig  >
+          <inhalt>Mehl, Salz, Zucker und Backpulver in einer Schuessel mischen. Bier und Eigelb verruehren, mit einem Schwingbesen unter das Mehl ruehren, zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </Bierteig  >
+      <Zwetschgen>
+          <inhalt>Zwetschgen vorsichtig entsteinen, so dass sie noch zusammenhalten. Je ca.1 TL Mandelmasse in die Oeffnung geben, leicht zusammendruecken. </inhalt>
+      </Zwetschgen>
+      <Frittieren>
+          <inhalt>Kurz vor dem Backen Eiweiss mit dem Salz steif schlagen. Zucker beigeben, kurz weiterschlagen, Eischnee sorgfaeltig unter den Bierteig ziehen. Oel auf ca. 180 Grad erhitzen. Zwetschgen portionenweise in den Teig tauchen, abtropfen und unter Wenden je ca. 3 Min. goldbraun backen. Mit einer Schaumkelle herausnehmen, auf Haushaltpapier abtropfen, warm servieren.</inhalt>
+      </Frittieren>
+   </rezept>
+</Rezept>

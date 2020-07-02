@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>843 kcal</NaehrwertProPerson>
+       <Fett>67 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>130 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>70 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>Gruyere, gerieben</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+      </Teig      >
+      <Guss_     >
+          <quant>200 g</quant>
+          <zutat>Ziegenkaese, gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>Gruyere, gerieben</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>200 g</quant>
+          <zutat>Rhabarber, laengs halbiert, in ca. 8 cm langen Stuecken</zutat>
+      </Guss_     >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Mandeln, Kaese, Thymian und Salz mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen,  rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 1 Std. kuehl stellen. Teig auf wenig Mehl (ca. 32 cm Ø) auswallen, in das vorbereitete Blech legen. Boden mit einer Gabel einstechen, Mandeln darueberstreuen.</inhalt>
+      </Teig      >
+      <Guss_     >
+          <inhalt>Kaese und alle Zutaten bis und mit Muskat mischen. Guss auf dem Teigboden verteilen. Rhabarber darauflegen.</inhalt>
+      </Guss_     >
+      <Backen    >
+          <inhalt>Ca. 30 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech nehmen, warm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

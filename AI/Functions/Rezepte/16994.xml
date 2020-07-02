@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>299 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Oliven-Tapenade>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>150 g</quant>
+          <zutat>entsteinte schwarze Oliven, grob gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>getrocknete Feigen, grob gehackt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Oliven-Tapenade>
+      <Crostini  >
+          <quant>8 Scheiben</quant>
+          <zutat>Pagnolbrot (ca. 190 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Crostini  >
+   </einkaufliste>
+   <rezept>
+      <Oliven-Tapenade>
+          <inhalt>Oel in einer Pfanne erhitzen. Knoblauch, Oliven und Feigen beigeben, ca. 5 Min. andaempfen. Aceto dazugiessen, vollstaendig einkoecheln lassen. Masse etwas abkuehlen, im Cutter fein hacken, wuerzen. </inhalt>
+      </Oliven-Tapenade>
+      <Crostini  >
+          <inhalt>Brotscheiben mit Oel bestreichen, in einer beschichteten Bratpfanne beidseitig je ca. 1 Min. anroesten. Brotscheiben mit Tapenade bestreichen. </inhalt>
+      </Crostini  >
+   </rezept>
+</Rezept>

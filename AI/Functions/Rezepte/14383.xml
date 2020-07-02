@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>634 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>68 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Braten    >
+          <quant>50 g</quant>
+          <zutat>Rohschinken in Tranchen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale, 1/2 Saft beiseite gestellt</zutat>
+      </Braten    >
+      <Kochen    >
+          <quant>200 g</quant>
+          <zutat>Spaghettini</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Kochen    >
+   </einkaufliste>
+   <rezept>
+      <Braten    >
+          <inhalt>Rohschinken in einer beschichteten Bratpfanne knustprig braten, auf Haushaltspapier abtropfen und in Stuecke brechen, beiseite stellen. Oel in derselben Bratpfanne warm werden lassen. Knoblauch und Zitronenschale beigeben, ca. 5 Min. ziehen lassen.</inhalt>
+      </Braten    >
+      <Kochen    >
+          <inhalt>Spaghettini in Salzwasser knapp al dente kochen. 3 EL Kochwasser beiseite stellen. Spaghettini abtropfen, mit dem beiseite gestellten Kochwasser zum Oel geben. Zitronensaft beigeben, unter staendigem Ruehren ca. 2 Min. fertigkoecheln. Mit Rohschinken bestreuen, wuerzen.</inhalt>
+      </Kochen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>300 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g)</zutat>
+      </Teig      >
+      <Fuellung_  >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>200 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Gruyere oder Cheddar</zutat>
+      </Fuellung_  >
+      <Tex-Mex-Fladenbrot>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+      </Tex-Mex-Fladenbrot>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Butter in einer Pfanne erhitzen, abkuehlen lassen. Mehl und alle Zutaten bis und mit Hefe in einer Schuessel mischen. Wasser und Butter dazugiessen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 1/2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Knoblauch und Schalotte fein hacken.</inhalt>
+      </How_To2   >
+      <Fuellung_  >
+          <inhalt>Butter in einer weiten Bratpfanne erhitzen, Knoblauch und Schalotten und Fleisch ca. 3 Min. anbraten, Mais abspuelen, abtropfen, beigeben, Bouillon dazugiessen, ca. 2 Min. koecheln, wuerzen. Etwas abkuehlen.</inhalt>
+      </Fuellung_  >
+      <How_To3   >
+          <inhalt>Tex-Mex-Fladenbrot            </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Teigkugeln flachdruecken.      </inhalt>
+      </How_To4   >
+      <Tex-Mex-Fladenbrot>
+          <inhalt>Butter in einer beschichteten Bratpfanne erhitzen, Hitze reduzieren, beidseitig je ca. 3 Min. braten.</inhalt>
+      </Tex-Mex-Fladenbrot>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

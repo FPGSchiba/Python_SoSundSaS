@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>515 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fenchel   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Fenchel (je ca. 200 g), fein gehobelt</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Sardinen (MSC) (ca. 90 g), abgetropft, Graeten entfernt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, 1/2 abgeriebene Schale und Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fenchel   >
+      <Spaghetti >
+          <quant>150 g</quant>
+          <zutat>Spaghetti</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Spaghetti >
+   </einkaufliste>
+   <rezept>
+      <Fenchel   >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Fenchel beigeben, ca. 4 Min. ruehrbraten. Sardinen, Wasser, Zitronenschale und -saft beigeben, mischen, wuerzen und ca. 4 Min. koecheln. </inhalt>
+      </Fenchel   >
+      <Spaghetti >
+          <inhalt>Spaghetti im siedenden Salzwasser knapp al dente kochen, abtropfen, dabei ca. 1 dl Kochwasser auffangen. Spaghetti, aufgefangenes Kochwasser und Oel zum Fenchel  geben, mischen, servieren. </inhalt>
+      </Spaghetti >
+   </rezept>
+</Rezept>

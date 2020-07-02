@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>77 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Smoothie  >
+          <quant>2 </quant>
+          <zutat>Kiwis, geschaelt, in Stuecken</zutat>
+          <quant>4 dl</quant>
+          <zutat>Ananassaft</zutat>
+          <quant>1/2 </quant>
+          <zutat>Gurke, in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>2 TL</quant>
+          <zutat>Spirulina</zutat>
+      </Smoothie  >
+   </einkaufliste>
+   <rezept>
+      <Smoothie  >
+          <inhalt>Kiwis mit allen restlichen Zutaten in einen Mixbecher geben, fein puerieren, zugedeckt mind. 30 Min. kuehl stellen. Smoothie in die Glaeser oder Flaschen giessen.  </inhalt>
+      </Smoothie  >
+   </rezept>
+</Rezept>

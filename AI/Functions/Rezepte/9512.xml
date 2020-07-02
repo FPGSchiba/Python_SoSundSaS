@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>231 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>ausgewallter Muerbeteig </zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>300 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Fuellen    >
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (64% Kakao), grob zerbroeckelt</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Fuellung                       </inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Fuellen                        </inhalt>
+      </Fuellung   >
+      <Fuellen    >
+          <inhalt>Backen: ca. 55 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Anschliessend im ausgeschalteten Ofen ca. 15 Min. stehen lassen, dabei die Ofentuer mit einem Kellenstiel einen Spalt breit offen halten. Herausnehmen, auskuehlen, aus der Form nehmen.</inhalt>
+      </Fuellen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

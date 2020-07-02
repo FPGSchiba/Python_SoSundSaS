@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>274 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Getrocknete_Pilze>
+          <quant>20 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser, heiss</zutat>
+      </Getrocknete_Pilze>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Risottoreis (z.B. Arborio)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+      </Risotto   >
+      <Frische_Pilze>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>250 g</quant>
+          <zutat>gemischte  Pilze, in Scheibchen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Frische_Pilze>
+   </einkaufliste>
+   <rezept>
+      <Getrocknete_Pilze>
+          <inhalt>Pilze ca. 15 Min. im heissen Wasser einweichen. Pilze herausnehmen, in Stuecke schneiden und beiseite stellen. Einweichwasser durch ein Kaffeefilterpapier giessen, auffangen, beiseite stellen.</inhalt>
+      </Getrocknete_Pilze>
+      <Risotto   >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel und Knoblauch andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, fast vollstaendig einkochen. Pilze, beigeben, Bouillon und beiseite gestelltes Einweichwasser unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Ca. 20 Min. koecheln bis der Reis cremig und al dente ist. </inhalt>
+      </Risotto   >
+      <Frische_Pilze>
+          <inhalt>Oel in einer Bratpfanne erhitzen. Pilze ca. 5 Min. ruehrbraten, wuerzen. Gebratene und beiseitegestellte Pilze unter den Risotto mischen, Petersilie darueberstreuen.</inhalt>
+      </Frische_Pilze>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

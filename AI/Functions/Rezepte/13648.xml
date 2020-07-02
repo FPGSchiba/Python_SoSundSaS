@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>333 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokoladenboden_>
+          <quant>100 g</quant>
+          <zutat>weisse Schokolade, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+      </Schokoladenboden_>
+      <Matcha-Latte>
+          <quant>6 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+      </Matcha-Latte>
+      <Milchschaum>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>20 g</quant>
+          <zutat>weisse Schokolade</zutat>
+      </Milchschaum>
+   </einkaufliste>
+   <rezept>
+      <Schokoladenboden_>
+          <inhalt>Schokolade und Milch in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren, auf die Glaeser verteilen.</inhalt>
+      </Schokoladenboden_>
+      <Matcha-Latte>
+          <inhalt>Milch auf ca. 80 Grad erwaermen (nicht aufkochen), Matcha und Zucker beigeben, gut verruehren, ueber einen Loeffelruecken vorsichtig in die Glaeser fuellen.</inhalt>
+      </Matcha-Latte>
+      <Milchschaum>
+          <inhalt>Milch auf ca. 50 Grad erwaermen, in ein hohes Gefaess fuellen, leicht schraeg halten, mit dem Mixstab aufschaeumen. Waehrend des Aufschaeumens den Mixstab immer wieder an die Oberflaeche der Milch ziehen. Milchschaum in die Glaeser verteilen. Schokolade darueber reiben, mit Matchapulver verzieren.</inhalt>
+      </Milchschaum>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

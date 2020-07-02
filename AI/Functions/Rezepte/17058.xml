@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>413 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nussmasse >
+          <quant>100 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>4 EL</quant>
+          <zutat>Edelhefe</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ajvar (Peperoni-Creme)</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Zwiebelpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 dl</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>4 TL</quant>
+          <zutat>Agar-Agar (Morga) (Morga, ca. 8 g)</zutat>
+      </Nussmasse >
+   </einkaufliste>
+   <rezept>
+      <Nussmasse >
+          <inhalt>Nuesse und alle Zutaten bis und mit Pfeffer im Cutter zu einer feinen, homogenen Masse puerieren. Sojadrink und Agar-Agar in einer kleinen Pfanne verruehren, unter Ruehren aufkochen, unter Ruehren ca. 1 Min. sprudelnd kochen. Sojadrink zur Nussmasse geben, kurz mitpuerieren. Masse sofort in die vorbereitete Form fuellen, auskuehlen. Zugedeckt ca. 4 Std. im Kuehlschrank fest werden lassen. </inhalt>
+      </Nussmasse >
+   </rezept>
+</Rezept>

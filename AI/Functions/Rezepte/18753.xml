@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>56 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel (z.B. Fine Food Olio extra vergine di oliva)</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel (z.B. Fine Food Murray River Salt Flakes)</zutat>
+          <quant>16 </quant>
+          <zutat>Blini (ca. 135 g)</zutat>
+          <quant>20 g</quant>
+          <zutat>Kaviar vom weissen Stoer (z.B. Fine Food Swiss Caviar)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Creme fraiche, Oel, Zitronenschale und Salz verruehren. Blinis mit der Masse bestreichen, Kaviar darauf verteilen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

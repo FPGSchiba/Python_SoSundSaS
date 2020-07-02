@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>561 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet_marinieren>
+          <quant>1 EL</quant>
+          <zutat>Honigsenf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>4 </quant>
+          <zutat>Pouletschenkel, in Ober - und Unterschenkel zerlegt</zutat>
+      </Poulet_marinieren>
+      <Fenchel   >
+          <quant>800 g</quant>
+          <zutat>Fenchel, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Fenchel   >
+      <Holzkohle-/Gas-/Elektrogrill>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Holzkohle-/Gas-/Elektrogrill>
+      <Salsa     >
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trockengetupft, abgeriebene Schale und Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>80 g</quant>
+          <zutat>Kapernaepfel, halbiert</zutat>
+          <quant>3 EL</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>25 g</quant>
+          <zutat>Kresse</zutat>
+      </Salsa     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Poulet marinieren             </inhalt>
+      </How_To    >
+      <Poulet_marinieren>
+          <inhalt>Fenchel                       </inhalt>
+      </Poulet_marinieren>
+      <Fenchel   >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill  </inhalt>
+      </Fenchel   >
+      <Holzkohle-/Gas-/Elektrogrill>
+          <inhalt>Fenchel beidseitig je ca. 4 Min. grillieren, zugedeckt beiseite stellen.</inhalt>
+      </Holzkohle-/Gas-/Elektrogrill>
+      <Salsa     >
+          <inhalt>Limettenschale, -saft mit dem Oel verruehren. Kapern und Pinienkerne daruntermischen, salzen. Poulet und Fenchel auf Tellern anrichten, Salsa mit der Kresse darauf verteilen.</inhalt>
+      </Salsa     >
+   </rezept>
+</Rezept>

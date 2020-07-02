@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>29 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Chinakohl_einlegen>
+          <quant>1 kg</quant>
+          <zutat>Chinakohl, laengs halbiert, in breiten Streifen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Salz</zutat>
+      </Chinakohl_einlegen>
+      <Chinakohl_fermentieren>
+          <quant>2 </quant>
+          <zutat>rote Chilis</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fischsauce</zutat>
+      </Chinakohl_fermentieren>
+   </einkaufliste>
+   <rezept>
+      <Chinakohl_einlegen>
+          <inhalt>Chinakohl und Salz in einer Schuessel gut mischen, mit einem Teller beschweren. Zugedeckt bei Raumtemperatur ca. 48 Std. ziehen lassen. Chinakohl kalt abspuelen, gut abtropfen.</inhalt>
+      </Chinakohl_einlegen>
+      <Chinakohl_fermentieren>
+          <inhalt>Chilis mit allen restlichen Zutaten im Cutter fein puerieren. Paste mit dem Chinakohl gut mischen, in das saubere, vorgewaermte Einmachglas bis zum Rand fuellen, gut andruecken, gut verschliessen. Bei Raumtemperatur ca. 24 Std. ziehen lassen. </inhalt>
+      </Chinakohl_fermentieren>
+   </rezept>
+</Rezept>

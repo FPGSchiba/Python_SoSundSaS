@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>692 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pilz-Pastateig>
+          <quant>20 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Pilz-Pastateig>
+      <Fuellung   >
+          <quant>90 g</quant>
+          <zutat>Mortadella in Tranchen, grob geschnitten</zutat>
+          <quant>90 g</quant>
+          <zutat>Parmaschinken in Tranchen, grob geschnitten</zutat>
+          <quant>20 g</quant>
+          <zutat>getrocknete Steinpilze, ca. 5 Min. in heissem Wasser eingeweicht, abgetropft</zutat>
+          <quant>50 g</quant>
+          <zutat>Parmesan, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salbei, grob geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss, verklopft</zutat>
+      </Formen    >
+      <Tortellini_sieden_>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>3 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Salbei, Blaetter abgezupft</zutat>
+      </Tortellini_sieden_>
+   </einkaufliste>
+   <rezept>
+      <Pilz-Pastateig>
+          <inhalt>Pilze im Cutter mahlen. Pilzpulver, Mehl und Salz in einer Schuessel mischen. Eier, Eigelb und Oel beigeben, mit einer Kelle zusammenfuegen, auf wenig Mehl ca. 15 Min. zu einem glatten, geschmeidigen Teig kneten. Zu einer Kugel formen, zugedeckt bei Raumtemperatur ca. 30 Min. ruhen lassen.</inhalt>
+      </Pilz-Pastateig>
+      <Fuellung   >
+          <inhalt>Mortadella, Parmaschinken und Pilze im Cutter puerieren, in eine Schuessel geben. Parmesan und Salbei daruntermischen, wuerzen. Fuellung von Hand zu einer kompakten Masse kneten, zugedeckt kuehl stellen. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig vierteln, 1 Stueck auf genuegend Mehl rechteckig auswallen, bis der Teig durchscheinend ist. Teig dabei immer wieder von der Arbeitsflaeche loesen, in ca. 5 cm grosse Quadrate schneiden. Quadrate mit wenig Eiweiss bestreichen. 1/4  der Fuellung in haselnussgrossen Portionen auf die Mitte der Quadrate verteilen, Teigraender bestreichen. Teig diagonal ueber die Fuellung legen, sodass Dreiecke entstehen, Raender zusammendruecken, dabei eingeschlossene Luft herausdruecken. Die zwei Enden der langen Dreieck-Kante umbiegen, gut zusammendruecken. Tortellini auf ein bemehltes Tuch legen. Mit dem restlichen Teig und der restlichen Fuellung gleich verfahren. </inhalt>
+      </Formen    >
+      <Tortellini_sieden_>
+          <inhalt>Tortellini portionenweise im knapp siedenden Salzwasser ca. 5 Min. ziehen lassen. Tortellini abtropfen, in eine Schuessel geben, Butter und Salbei beigeben, mischen. </inhalt>
+      </Tortellini_sieden_>
+   </rezept>
+</Rezept>

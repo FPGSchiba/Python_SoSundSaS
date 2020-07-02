@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>692 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>56 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cordon_bleu_fuellen>
+          <quant>4 </quant>
+          <zutat>Kalbsplaetzli (z.B. Nuss, Unterspaelte, je ca. 150 g), vom Metzger zum Fuellen aufschneiden lassen</zutat>
+          <quant>160 g</quant>
+          <zutat>Gruyere</zutat>
+          <quant>4 Tranchen</quant>
+          <zutat>Hinterschinken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Cordon_bleu_fuellen>
+      <Braten    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Braten    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Cordon bleu fuellen            </inhalt>
+      </How_To    >
+      <Cordon_bleu_fuellen>
+          <inhalt>Plaetzli aufklappen, zwischen einen aufgeschnittenen Plastikbeutel legen, mit einem Pfannenboden oder einem Fleischklopfer sorgfaeltig flach klopfen, bis sie ca. 2 mm duenn sind.</inhalt>
+      </Cordon_bleu_fuellen>
+      <How_To1   >
+          <inhalt>Kaese in 4 Scheiben schneiden. Je ein Stueck Kaese in eine Tranche Schinken einpacken, so laeuft der Kaese beim Braten weniger schnell aus. Die Paeckli auf je eine Fleischhaelfte legen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Mehl und Paniermehl je in einen flachen Teller geben, Ei in einem tiefen Teller verklopfen. Plaetzli im Mehl wenden, ueberschuessiges Mehl abschuetteln, im Ei, dann im Paniermehl wenden, Panade gut andruecken. </inhalt>
+      </How_To2   >
+      <Braten    >
+          <inhalt>Wenig Bratbutter in einer Bratpfanne heiss werden lassen. Hitze reduzieren, 2 Cordon bleus bei mittlerer Hitze beidseitig je ca. 4 Min. braten. Herausnehmen, auf Haushaltpapier abtropfen, warm stellen. Dabei Ofentuer mit einem Kellenstiel einen Spalt breit offen halten, damit die Panade knusprig bleibt. Restliche Cordon bleus gleich braten.</inhalt>
+      </Braten    >
+   </rezept>
+</Rezept>

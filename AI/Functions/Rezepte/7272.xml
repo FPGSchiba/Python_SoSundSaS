@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>359 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Kaffee-Masse>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kaffee, heiss</zutat>
+          <quant>200 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>4 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Kaffee-Masse>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>200 g</quant>
+          <zutat>gemahlene Mandeln, geroestet</zutat>
+          <quant>175 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>1/2 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>150 g</quant>
+          <zutat>3/4-fett-Quark</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Kaffee-Masse>
+          <inhalt>Kaffee in einen Messbecher giessen, Butter beigeben, schmelzen, auskuehlen. Eier darunterruehren.</inhalt>
+      </Kaffee-Masse>
+      <Teig      >
+          <inhalt>Mehl und alle restlichen Zutaten in einer Schuessel mischen. Kaffee-Masse nach und nach unter Ruehren daruntermischen. Teig in die vorbereitete Form fuellen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 55 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Fuellung   >
+          <inhalt>Quark und Puderzucker verruehren. Den Cake mit einem spitzen Messer rundum ca. 1 cm vom Rand entfernt schraeg zur Cakemitte hin einschneiden. «Innenteil» herausnehmen. Cakeschnittflaechen mit der Quarkfuellung bestreichen, «Innenteil» wieder hineinlegen, leicht andruecken. Oberflaeche mit Puderzucker bestaeuben.</inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

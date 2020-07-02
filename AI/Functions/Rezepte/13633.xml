@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>471 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sesam     >
+          <quant>5 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras </zutat>
+      </Sesam     >
+      <Glace     >
+          <quant>5 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Rohzucker</zutat>
+      </Glace     >
+   </einkaufliste>
+   <rezept>
+      <Sesam     >
+          <inhalt>Sesam in einer beschichteten Bratpfanne ohne Fett ca. 2 Min. roesten. Sesam und Zitronengras mit dem Cutter fein mahlen. </inhalt>
+      </Sesam     >
+      <Glace     >
+          <inhalt>Rahm, Rohzucker, Sesam, und Zitronengras aufkochen, ca. 5 Min. koecheln. Pfanne von der Platte nehmen, ca. 1.5 Stunden ziehen lassen. Masse durch ein Sieb in eine Chromstahlschuessel streichen, ca. 10 Stunden gefrieren, dabei 2 - 3-mal durchruehren. </inhalt>
+      </Glace     >
+   </rezept>
+</Rezept>

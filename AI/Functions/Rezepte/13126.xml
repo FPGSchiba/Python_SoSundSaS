@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>429 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant>600 g</quant>
+          <zutat>Pouletbruestli, in ca. 3 cm grossen Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Austernsauce</zutat>
+      </Poulet    >
+      <Curry-Sauce>
+          <quant>4 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>rote Currypaste</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Austernsauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rohzucker</zutat>
+      </Curry-Sauce>
+      <Gemuese    >
+          <quant>150 g</quant>
+          <zutat>Kefen, laengs in feinen Streifen</zutat>
+          <quant>1 Pack</quant>
+          <zutat>Mini-Maiskoelbchen, laengs geviertelt</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Streifen</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Poulet    >
+          <inhalt>Pouletwuerfel in eine Schuessel geben,  Sauce beigeben, zugedeckt ca. 10 Min. marinieren.</inhalt>
+      </Poulet    >
+      <Curry-Sauce>
+          <inhalt>Kokosmilch in einer weiten Pfanne aufkochen, Hitze reduzieren. Currypaste und alle Zutaten bis und mit Rohzucker beigeben, gut verruehren.</inhalt>
+      </Curry-Sauce>
+      <Gemuese    >
+          <inhalt>Gemuese und Pouletwuerfel zur Currysauce geben, aufkochen. Hitze reduzieren ca. 5 Min. koecheln, salzen. Mit Koriander servieren.</inhalt>
+      </Gemuese    >
+   </rezept>
+</Rezept>

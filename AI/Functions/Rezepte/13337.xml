@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>606 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fruechte   >
+          <quant>400 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+      </Fruechte   >
+      <Anbraten  >
+          <quant>2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>300 g</quant>
+          <zutat>Toastbrot in Scheiben, geviertelt</zutat>
+          <quant>40 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Anbraten  >
+      <Guss      >
+          <quant>1 1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Fruechte   >
+          <inhalt>Brombeeren und Vanillezucker mischen.</inhalt>
+      </Fruechte   >
+      <Anbraten  >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Brot und Nuesse ca. 5 Min. goldbraun roesten, Brombeeren daruntermischen.</inhalt>
+      </Anbraten  >
+      <Guss      >
+          <inhalt>Rahm, Eier und Zucker verruehren, in die Pfanne giessen. Hitze reduzieren, unter Hin-und-her-Bewegen mit der Bratschaufel ca. 5 Min. backen, bis die Eimasse gestockt ist. Vogelheu mit Puderzucker bestaeuben.</inhalt>
+      </Guss      >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>277 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knusper   >
+          <quant>25 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>25 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Knusper   >
+      <Creme     >
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>6 EL</quant>
+          <zutat>Schokoladenpulver (z. B. Ovomaltine)</zutat>
+          <quant>25 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>25 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>6 EL</quant>
+          <zutat>Schokoladenpulver (z. B. Ovomaltine)</zutat>
+      </Creme     >
+   </einkaufliste>
+   <rezept>
+      <Knusper   >
+          <inhalt>Nuesse fein hacken,            </inhalt>
+      </Knusper   >
+      <Backen    >
+          <inhalt>Ca. 8 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auskuehlen.</inhalt>
+      </Backen    >
+      <Creme     >
+          <inhalt>                              </inhalt>
+      </Creme     >
+   </rezept>
+</Rezept>

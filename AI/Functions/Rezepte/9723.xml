@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>359 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln>
+          <quant>600 g</quant>
+          <zutat>fest kochende Kartoffeln in ca. 3 mm dicken Scheiben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Backpapiere (je ca. 38 x 50 cm)</zutat>
+      </Kartoffeln>
+      <Forellen_vorbereiten>
+          <quant>4 </quant>
+          <zutat>Forellen (Bio) (je ca. 200 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>8 Zweiglein</quant>
+          <zutat>Kerbel</zutat>
+          <quant>8 Zweiglein</quant>
+          <zutat>Dill</zutat>
+          <quant>8 Zweiglein</quant>
+          <zutat>Majoran</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Forellen_vorbereiten>
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln>
+          <inhalt>Kartoffeln in ca. 3 mm dicke Scheiben hobeln, mit dem Salz mischen, auf die Mitte der Backpapiere verteilen.</inhalt>
+      </Kartoffeln>
+      <Forellen_vorbereiten>
+          <inhalt>Forellen innen und aussen kalt abspuelen, trocken tupfen, innen und aussen wuerzen. Forellen mit je einem Zweiglein der drei Kraeuter und der Haelfte der Butter fuellen, auf die Kartoffeln legen, restliche Kraeuter und Butter darauf verteilen. Wein darueber traeufeln.</inhalt>
+      </Forellen_vorbereiten>
+      <Backpapier_verschliessen>
+          <inhalt>Vorderen und hinteren Papierrand ueber dem Fisch ca. 1 cm einschlagen, 2-mal umschlagen. Enden links und rechts, nicht zu nahe am Fisch, mit Kuechenschnur gut zusammenbinden. </inhalt>
+      </Backpapier_verschliessen>
+      <Garen_im_Ofen>
+          <inhalt>Garen im Ofen: ca. 30 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens.</inhalt>
+      </Garen_im_Ofen>
+      <Servieren >
+          <inhalt>Paeckli auf Teller legen, Papier kurz vor dem Essen oeffnen.</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

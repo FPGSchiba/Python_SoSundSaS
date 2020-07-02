@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>745 kcal</NaehrwertProPerson>
+       <Fett>54 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Curry_vorbereiten>
+          <quant>500 g</quant>
+          <zutat>Baby-Kartoffeln</zutat>
+          <quant>350 g</quant>
+          <zutat>gruene Bohnen</zutat>
+          <quant>4 </quant>
+          <zutat>Zitronengras , gequetscht</zutat>
+          <quant>2 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>8 </quant>
+          <zutat>Poulet-Oberschenkel (ohne Knochen)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Curry_vorbereiten>
+      <Curry     >
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>2 EL</quant>
+          <zutat>rote Currypaste</zutat>
+      </Curry     >
+      <Schmoren_im_Ofen>
+          <quant>1/2 Bund</quant>
+          <zutat>Thai-Basilikum, zerzupft</zutat>
+      </Schmoren_im_Ofen>
+   </einkaufliste>
+   <rezept>
+      <Curry_vorbereiten>
+          <inhalt>Kartoffeln und alle Zutaten bis und mit Ingwer in der Form verteilen. Poulet mit Oel bestreichen, salzen, mit der Hautseite nach oben darauflegen. </inhalt>
+      </Curry_vorbereiten>
+      <Curry     >
+          <inhalt>Kokosmilch, Bouillon und Currypaste in einer Pfanne verruehren, aufkochen. Heisse Fluessigkeit in die Form und ueber das Poulet giessen. </inhalt>
+      </Curry     >
+      <Schmoren_im_Ofen>
+          <inhalt>Ca. 45 Min. in der Mitte des auf  200 Grad vorgeheizten Ofens. Curry ca. 5 Min. in der oberen Haelfte des Ofens fertig schmoren. Thai-Basilikum darueberstreuen. </inhalt>
+      </Schmoren_im_Ofen>
+   </rezept>
+</Rezept>

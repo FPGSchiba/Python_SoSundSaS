@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>83 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bruehteig  >
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Orange, nur abgeriebene Schale</zutat>
+          <quant>180 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Bruehteig  >
+      <Orangen-Caramel-Fuellung>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser, heiss</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, abgeriebene Schale und Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Orangenlikoer (z.B. Grand Marnier)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Orangen-Caramel-Fuellung>
+   </einkaufliste>
+   <rezept>
+      <Bruehteig  >
+          <inhalt>Wasser mit allen Zutaten bis und mit Orangenschale aufkochen, Hitze reduzieren. Mehl auf einmal beigeben, mit der Kelle ca. 2 Min. ruehren, bis sich ein geschmeidiger Teigkloss bildet, der sich vom Pfannenboden loest. Pfanne von der Platte nehmen. Eier portionenweise mit den Knethaken des Handruehrgeraets darunterruehren, der Teig soll weich sein, aber nicht zerfliessen. Teig in einen Spritzsack mit runder Tuelle (ca. 14 mm Durchmesser) fuellen. Ca. 40 baumnussgrosse Tupfen mit genuegend Abstand auf ein mit Backpapier belegtes Blech spritzen. </inhalt>
+      </Bruehteig  >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad (Umluft) vorgeheizten Ofens. Ofen nie oeffnen! Anschliessend im ausgeschalteten, leicht geoeffneten Ofen ca. 15 Min. trocknen, herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Orangen-Caramel-Fuellung>
+          <inhalt>Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein brauner Caramel entsteht. Pfanne von der Platte nehmen, Orangenschale und -saft mit dem Likoer beigeben, sirupartig einkoecheln. Pfanne von der Platte nehmen, auskuehlen. 1/3 des Caramels beiseite stellen. Rahm steif schlagen, Caramel darunterruehren. Fuellung in einen Spritzsack mit glatter Tuelle (ca. 6 mm Ø) geben. In die untere Haelfte der Profiteroles mit einem Holzspiesschen je ein kleines Loch stechen. Profiteroles fuellen. </inhalt>
+      </Orangen-Caramel-Fuellung>
+      <Glasur    >
+          <inhalt>Beiseite gestellten Caramel in einer kleinen Pfanne nur kurz warm werden lassen, ueber die Profiteroles traeufeln.  </inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

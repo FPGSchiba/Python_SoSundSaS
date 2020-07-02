@@ -27,8 +27,9 @@
       </Liste     >
    </einkaufliste>
    <rezept>
-      <Rezept    >
+      <How_To    >
           <inhalt>Zitronensaft, Knoblauch, Peperoncino und Minze verruehren, wuerzen. Tomaten beigeben, sorgfaeltig mischen.Zugedeckt ca. 30 Min. ziehen lassen. Tomatensalat mit Creme fraiche und Chips anrichten.</inhalt>
-      </Rezept    >
+      </How_To    >
+      <How_To    >
    </rezept>
 </Rezept>

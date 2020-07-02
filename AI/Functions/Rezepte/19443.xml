@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g)</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig      >
+      <Schneckenkoerper>
+          <quant>4 </quant>
+          <zutat>Wienerli</zutat>
+      </Schneckenkoerper>
+      <Backen    >
+          <quant>3 EL</quant>
+          <zutat>Ketchup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>milder Curry</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g)</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Wienerli</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ketchup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>milder Curry</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>                              </inhalt>
+      </Teig      >
+      <Schneckenkoerper>
+          <inhalt>                              </inhalt>
+      </Schneckenkoerper>
+      <Schneckenhaeuschen>
+          <inhalt>                              </inhalt>
+      </Schneckenhaeuschen>
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter etwas abkuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>697 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>47 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaetzli   >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaetzli   >
+      <Steaks    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinsniersteaks (z.B. Nierstueck, je ca. 130 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Steaks    >
+      <Sauce     >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>20 g</quant>
+          <zutat>getrocknete Morcheln, eingeweicht, gut gewaschen, abgetropft, halbiert</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Spaetzli   >
+          <inhalt>Mehle, Safran und Salz mischen, in der Mitte eine Mulde eindruecken. Milchwasser mit den Eiern verruehren, nach und nach unter Ruehren in die Mulde giessen, mischen. Teig so lange klopfen, bis der Teig glaenzt und Blasen wirft. Zugedeckt ca. 30 Min. quellen lassen. Teig portionenweise mit einem Teighorn auf einem nassen Stielbrettchen ausstreichen. Mit dem Teighorn schmale Teigstreifen vom Brettchen direkt ins leicht siedende Wasser schneiden. Dabei Teighorn immer wieder ins siedende Wasser tauchen, damit kein Teig daran kleben bleibt. Spaetzli ziehen lassen, bis sie an die Oberflaeche steigen. Spaetzli mit einer Schaumkelle herausnehmen, abtropfen. Wasser beiseitestellen.</inhalt>
+      </Spaetzli   >
+      <Steaks    >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen, Steaks auf beiden Seiten bei mittlerer Hitze je ca. 4 Min. braten, herausnehmen, wuerzen, warm stellen. Bratfett auftupfen.</inhalt>
+      </Steaks    >
+      <Sauce     >
+          <inhalt>Butter in derselben Pfanne erwaermen, Schalotte andaempfen. Morcheln mitdaempfen, Wein und Bouillon dazugiessen, etwas einkoecheln. Rahm beigeben, aufkochen, wuerzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

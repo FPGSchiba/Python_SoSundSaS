@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>336 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>150 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Reis      >
+      <Dressing  >
+          <quant>6 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>milder Curry</zutat>
+      </Dressing  >
+      <Anrichten >
+          <quant>2 </quant>
+          <zutat>Rueebli, in feine Scheiben gehobelt</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 240 g), abgespuelt, abgetropft</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in Wuerfeli</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Reis      >
+          <inhalt>Reis ins siedende Salzwasser geben, aufkochen, Hitze reduzieren, offen bei mittlerer Hitze ca. 15 Min. koecheln. Reis abtropfen und auskuehlen.</inhalt>
+      </Reis      >
+      <Dressing  >
+          <inhalt>Essig, Oel und Jogurt in einer grossen Schuessel verruehren, wuerzen. </inhalt>
+      </Dressing  >
+      <Anrichten >
+          <inhalt>Reis, Rueebli, Kichererbsen und Aepfel zum Dressing geben, mischen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

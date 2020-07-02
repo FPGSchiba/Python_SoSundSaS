@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>364 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, grob gehackt</zutat>
+          <quant>500 g</quant>
+          <zutat>Kuerbis, in Wuerfeln (ergibt ca. 350 g)</zutat>
+          <quant>60 g</quant>
+          <zutat>rote Linsen</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kernenmix</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel ca. 5 Min. andaempfen, Kuerbis beigeben, ca. 5 Min. mitdaempfen. Linsen beigeben, Gemuesebouillon dazugiessen, aufkochen, zugedeckt ca. 10 Min. koecheln. Suppe puerieren, wuerzen, mit Kernenmix anrichten. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

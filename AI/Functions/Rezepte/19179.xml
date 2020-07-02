@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>468 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramelisieren_>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>600 g</quant>
+          <zutat>Rueebli, laengs in ca. 4 mm dicken Scheiben</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Caramelisieren_>
+      <Tarte-Tatin>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>30 g</quant>
+          <zutat>Rauchmandeln, fein gehackt</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+      </Tarte-Tatin>
+   </einkaufliste>
+   <rezept>
+      <Caramelisieren_>
+          <inhalt>Zucker im vorbereiteten Blech verteilen. Ca. 5 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens caramelisieren, bis er hellbraun ist, herausnehmen. Rueebli und Butter auf dem Caramel verteilen, salzen.</inhalt>
+      </Caramelisieren_>
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des Ofens. Herausnehmen.</inhalt>
+      </Backen    >
+      <Tarte-Tatin>
+          <inhalt>Petersilie, Mandeln und Chiliflocken mischen, ueber die Rueebli streuen. Teig entrollen, mit einer Gabel dicht einstechen, locker auf die Rueebli legen. Teigrand zwischen Rueebli und Formenrand druecken. </inhalt>
+      </Tarte-Tatin>
+      <Fertig_backen>
+          <inhalt>Ca. 15 Min. Herausnehmen, ca. 2 Min. stehen lassen, sorgfaeltig auf eine Platte stuerzen, Backpapier entfernen.</inhalt>
+      </Fertig_backen>
+   </rezept>
+</Rezept>

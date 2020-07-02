@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>130 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Roastbeef >
+          <quant>1 </quant>
+          <zutat>Entrecote double (ca. 400 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Roastbeef >
+      <Kresse-Gremolata>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>20 g</quant>
+          <zutat>Gartenkresse, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, nur abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Kresse-Gremolata>
+      <Crostini_belegen>
+          <quant>1 </quant>
+          <zutat>Baguette, schraeg in 16 Scheiben</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche mit Kraeutern</zutat>
+          <quant>wenig </quant>
+          <zutat>Gartenkresse</zutat>
+      </Crostini_belegen>
+   </einkaufliste>
+   <rezept>
+      <Roastbeef >
+          <inhalt>Fleisch ca. 30 Min. vor dem Anbraten  aus dem Kuehlschrank nehmen. Bratgeschirr in der Mitte des Ofens einschieben, Ofen auf 80 Grad vorheizen. Butter in einer Bratpfanne heiss werden lassen. Fleisch wuerzen, beidseitig je ca. 3 Min. anbraten, erst wenden, wenn sich eine Kruste gebildet hat, herausnehmen. Fleischthermometer an der dicksten Stelle ins Fleisch stecken. Fleisch ins Bratgeschirr legen, ca. 45 Min. niedergaren. Die Kerntemperatur soll ca. 55 Grad (a point) betragen. Herausnehmen, ca. 10 Min. ruhen lassen, schraeg zur Faser in 3mm feine Scheiben schneiden. </inhalt>
+      </Roastbeef >
+      <Kresse-Gremolata>
+          <inhalt>Petersilie und alle Zutaten bis und mit Fleur de Sel mischen. </inhalt>
+      </Kresse-Gremolata>
+      <Crostini_belegen>
+          <inhalt>Baguettescheiben mit Creme fraiche bestreichen, Roastbeef und Gremolata darauf verteilen, mit Gartenkresse bestreuen.  </inhalt>
+      </Crostini_belegen>
+   </rezept>
+</Rezept>

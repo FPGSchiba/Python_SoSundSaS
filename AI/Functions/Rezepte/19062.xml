@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>500 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Holundercreme>
+          <quant>2 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>3 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+      </Holundercreme>
+      <Teigblaetter>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 25 x 42 cm)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haferflocken</zutat>
+      </Teigblaetter>
+      <Rhabarber >
+          <quant>200 g</quant>
+          <zutat>Rhabarber, in Scheibchen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Rhabarber >
+      <Cremeschnitten>
+          <quant>40 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Cremeschnitten>
+   </einkaufliste>
+   <rezept>
+      <Holundercreme>
+          <inhalt>Milch und alle Zutaten bis und mit Maizena mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen, unter staendigem Ruehren bei kleiner Hitze ca. 2 Min. weiterkoecheln, bis die Masse bindet. Pfanne von der Platte nehmen, ca. 2 Min, weiterruehren. Butter, Jogurt und Sirup darunterruehren. Creme zugedeckt ca. 2 Std. kuehl stellen, glatt ruehren. Creme in einen Spritzsack mit glatter Tuelle (ca. 12 mm Ø) fuellen, nochmals ca. 1 Std. kuehl stellen.</inhalt>
+      </Holundercreme>
+      <Teigblaetter>
+          <inhalt>Teig mit einer Gabel mehrmals einstechen, Zucker und Haferflocken auf den Teig streuen. Teig laengs halbieren, dann quer in je ca. 9 Streifen schneiden. Mit dem Backpapier auf ein Blech ziehen, Teig mit einem zweiten Backpapier belegen und mit einem zweiten Blech beschweren.</inhalt>
+      </Teigblaetter>
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Rhabarber >
+          <inhalt>Rhabarber mit dem Sirup und Wasser in einer Pfanne mischen, aufkochen. Zugedeckt ca. 2 Min. koecheln, auskuehlen. Rhabarber abtropfen, dabei 1 EL Fluessigkeit auffangen. </inhalt>
+      </Rhabarber >
+      <Cremeschnitten>
+          <inhalt>Puderzucker mit der Rhabarberfluessigkeit verruehren, 6 Blaetterteigstuecke damit bestreichen. Creme und Rhabarberstuecke auf 12 Blaetterteigstuecke verteilen, je 2 Stuecke aufeinandersetzen. Mit den glasierten Blaetterteigstuecken bedecken. </inhalt>
+      </Cremeschnitten>
+   </rezept>
+</Rezept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>348 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramelisierte_Zwiebeln>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in feinen Schnitzen</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Caramelisierte_Zwiebeln>
+      <Sandwiches>
+          <quant>8 </quant>
+          <zutat>duenne Scheiben Roggenbrot, halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola)</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in feinen Scheiben</zutat>
+          <quant>40 g</quant>
+          <zutat>Rucola</zutat>
+      </Sandwiches>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Caramelisierte Zwiebeln       </inhalt>
+      </How_To    >
+      <Caramelisierte_Zwiebeln>
+          <inhalt>Sandwiches                    </inhalt>
+      </Caramelisierte_Zwiebeln>
+      <Sandwiches>
+          <inhalt>Holzkohle-/ Gas-/ Elektrogrill: Sandwiches zugedeckt ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) ca. 6 Min. grillieren. Dabei 1-2 Mal wenden. </inhalt>
+      </Sandwiches>
+   </rezept>
+</Rezept>

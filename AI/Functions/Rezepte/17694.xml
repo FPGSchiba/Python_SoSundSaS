@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>705 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren_>
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Gnocchi)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren_>
+      <Pesto_    >
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, grob geschnitten</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3 EL</quant>
+          <zutat>Pinienkerne, geroestet, 1 EL beiseite gestellt</zutat>
+          <quant>5 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Pesto_    >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>200 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten</zutat>
+          <quant>2 </quant>
+          <zutat>lange Holzspiesschen</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine, in ca. 2 cm dicken Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, geviertelt</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln, laengs geviertelt</zutat>
+          <quant>2 </quant>
+          <zutat>Grillkaese nature (je ca. 80 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+      <Pastasalat_>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, Blaetter abgezupft</zutat>
+      </Pastasalat_>
+   </einkaufliste>
+   <rezept>
+      <Teigwaren_>
+          <inhalt>Teigwaren im siedenden Salzwasser al dente kochen, abtropfen, dabei ca. 1 dl Kochwasser auffangen. Teigwaren kalt abspuelen, abtropfen.</inhalt>
+      </Teigwaren_>
+      <Pesto_    >
+          <inhalt>Basilikum, Parmesan, Pinienkerne, Oel, Salz und aufgefangenes Kochwasser puerieren, mit den Teigwaren mischen. </inhalt>
+      </Pesto_    >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Tomaten an die Spiesschen stecken. Gemuese und Grillkaese mit dem Oel bestreichen, Gemuese salzen. Gemuese und Grillkaese ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 5 Min. grillieren. Gemuese und Grillkaese in mundgerechte Stuecke schneiden, Tomaten von den Spiesschen schieben. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+      <Pastasalat_>
+          <inhalt>Gemuese, Grillkaese und Basilikum mit den Teigwaren mischen. </inhalt>
+      </Pastasalat_>
+   </rezept>
+</Rezept>

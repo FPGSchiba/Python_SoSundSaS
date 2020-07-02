@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1011 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>101 g </Kohlenhydrate>
+       <Eiweiss>46 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Holzkohle-/Gas-/Elektrogrill>
+          <quant>1 </quant>
+          <zutat>Tessiner Grillwurst (Salsiccia ca. 500 g, rund)</zutat>
+          <quant>800 g</quant>
+          <zutat>Pizzateig</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, zerzupft</zutat>
+          <quant>300 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten, halbiert</zutat>
+          <quant>50 g</quant>
+          <zutat>entsteinte gruene Oliven, grob gehackt</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Oregano, grob geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Holzkohle-/Gas-/Elektrogrill>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill  </inhalt>
+      </How_To    >
+      <Holzkohle-/Gas-/Elektrogrill>
+          <inhalt>Salsiccia ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 5 Min. grillieren. </inhalt>
+      </Holzkohle-/Gas-/Elektrogrill>
+      <How_To1   >
+          <inhalt>Teig auf wenig Mehl flach druecken, ausziehen oder auswallen (ca.30 cm Ø). Mozzarella auf dem Teig verteilen, Salciccia darauf legen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Cherry Tomaten und alle Zutaten bis und mit Olivenoel mischen, auf der Pizza verteilen, salzen.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

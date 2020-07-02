@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>108 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>2 1/2 Blaetter</quant>
+          <zutat>Gelatine</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Fuellung   >
+      <Milchschnitte_>
+          <quant>1 </quant>
+          <zutat>Schokolade-Tortenboden (ca. 340 g)</zutat>
+          <quant>2 1/2 Blaetter</quant>
+          <zutat>Gelatine</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Schokolade-Tortenboden (ca. 340 g)</zutat>
+      </Milchschnitte_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>                              </inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Milch, Zucker und Honig in einer Pfanne erwaermen, ruehren bis sich der Zucker aufgeloest hat. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>                              </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Milchschnitte                 </inhalt>
+      </How_To3   >
+      <Milchschnitte_>
+          <inhalt>In ca. 20 Stuecke schneiden.   </inhalt>
+      </Milchschnitte_>
+   </rezept>
+</Rezept>

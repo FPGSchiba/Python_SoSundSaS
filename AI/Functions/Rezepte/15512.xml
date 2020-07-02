@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>313 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Currysauce_>
+          <quant>250 g</quant>
+          <zutat>passierte Tomaten</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, grob gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Curry</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+      </Currysauce_>
+      <Currywurst_>
+          <quant>4 </quant>
+          <zutat>Kalbsbratwuerste</zutat>
+          <quant>wenig </quant>
+          <zutat>Curry</zutat>
+      </Currywurst_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Currysauce                    </inhalt>
+      </How_To    >
+      <Currysauce_>
+          <inhalt>Sauce halbieren, Sambal Oelek unter eine Haelfte mischen, sodass zwei Saucen entstehen.  </inhalt>
+      </Currysauce_>
+      <Currywurst_>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Wuerste ueber mittelstarker Glut / auf mittlerer Stufe (ca. 180 Grad) rundum ca. 10 Min. grillieren. Wuerste in Rugeli schneiden, mit den Saucen anrichten, Curry darueberstreuen. </inhalt>
+      </Currywurst_>
+   </rezept>
+</Rezept>

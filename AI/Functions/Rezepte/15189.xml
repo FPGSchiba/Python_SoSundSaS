@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>126 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 Dose</quant>
+          <zutat>schwarze Bohnen (netto ca. 290 g), abgespuelt und abgetropft</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 EL</quant>
+          <zutat>BBQ-Sauce (Sriracha)</zutat>
+          <quant>25 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zwiebelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser, kalt</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Abgetropfte Bohnen, Zwiebel, Peperoni und Knoblauch in den Cutter/Standmixer geben. Einige Male den Mixknopf druecken, bis alles zerkleinert, aber noch grobkoernig ist. Die Masse in eine Schuessel geben, Saucen, Paniermehl und Gewuerze darunterruehren. Maizena mit dem Wasser anruehren, unter die Masse mischen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Aus der Masse mit nassen Haenden 6 Burger formen. Im heissen Oel beidseitig je ca. 1 1/2 Min. goldbraun braten. </inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

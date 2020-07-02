@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>770 kcal</NaehrwertProPerson>
+       <Fett>49 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Belag     >
+          <quant>2 </quant>
+          <zutat>Aepfel</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>4 EL</quant>
+          <zutat>Birnel (Birnendicksaft)</zutat>
+      </Belag     >
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>ausgewallter Muerbeteig  (ca. 32 cm Ø)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+      </Teig      >
+      <Anrichten >
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Belag     >
+          <inhalt>Aepfel und Birnen halbieren, Kerngehaeuse entfernen, ungeschaelt in Schnitzchen schneiden, Nuesse grob hacken, mit Zitronensaft und Birnel mischen, ca. 10 Min. ziehen lassen. Fruechte und Nuesse abtropfen, Saft auffangen, beiseite stellen.</inhalt>
+      </Belag     >
+      <Teig      >
+          <inhalt>Teig mit Zimt bestreuen, mit dem Wallholz darueberwallen, mit einer Gabel dicht einstechen, auf ein Backblech (ca. 30 cm Ø) ziehen. Fruechte ziegelartig darauf verteilen, Nuesse darueberstreuen. Teigrand etwas darueberlegen, wellenfoermig formen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 35 Min. auf der untersten Rille des auf 200 Grad vorgeheizten Ofens. Rahm mit dem beiseite gestellten Saft (2-3 EL) und dem Quark steif schlagen, kuehl stellen.</inhalt>
+      </Backen    >
+      <Anrichten >
+          <inhalt>Rahm mit dem beiseite gestellten Saft (2-3 EL) und dem Quark steif schlagen, kuehl stellen.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=VGLb0Jarz94"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>253 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mandeldrink oder Soja-Drink</zutat>
+          <quant>5 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>80 g</quant>
+          <zutat>Hanfpesto</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Hanfsamen</zutat>
+      </Formen    >
+      <Backen    >
+          <quant>1 EL</quant>
+          <zutat>Hanfsamen</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in eine  Schuessel geben, mischen. Wasser, Mandeldrink und Oel dazugiessen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen. </inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>Den Teig auf wenig Mehl rechteckig (ca. 40 x 30 cm) duenn auswallen. Die Haelfte der Laengsseite mit Pesto bestreichen, andere Haelfte darueberlegen, etwas andruecken. Teig laengs in 10 Streifen schneiden. Streifen eindrehen, zu Knoten formen, dabei die Enden gut zusammendruecken. Knoten auf ein mit Backpapier belegtes Blech legen, zugedeckt nochmals ca. 20 Min. aufgehen lassen. Knoten mit wenig Oel bestreichen, Hanfsamen darueberstreuen. </inhalt>
+      </How_To1   >
+      <Formen    >
+          <inhalt>Backen                        </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>HIER KOMMT: Hanfpesto         </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

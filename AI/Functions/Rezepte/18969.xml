@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>46 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gelierte_Bouillon>
+          <quant>3 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein geschnitten</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>Sulzpulver</zutat>
+      </Gelierte_Bouillon>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser, heiss</zutat>
+          <quant>2 TL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>2 TL</quant>
+          <zutat>Ingwer, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, grob geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sherry</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Schwein)</zutat>
+      </Fuellung   >
+      <Daempfen   >
+          <quant>1/2 dl</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, in feinen Streifen</zutat>
+      </Daempfen   >
+   </einkaufliste>
+   <rezept>
+      <Gelierte_Bouillon>
+          <inhalt>Bouillon mit Ingwer und Bundzwiebel in einer Pfanne aufkochen, auf ca. 2 dl einkochen. Sulzpulver beigeben, koecheln, bis sich das Pulver aufgeloest hat, durch ein Sieb in eine weite Form (ca. 2 Liter) giessen, auskuehlen, zugedeckt ca. 1 Std. kuehl stellen. Gelierte Bouillon aus der Form nehmen, fein hacken. </inhalt>
+      </Gelierte_Bouillon>
+      <Teig      >
+          <inhalt>Mehl in eine Schuessel geben, Wasser und Oel dazugiessen, mischen, ca. 10 Min. zu einem glatten, geschmeidigen Teig kneten. Teig zu einer Kugel formen, zugedeckt bei Raumtemperatur ca. 1 Std. ruhen lassen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Ingwer und Bundzwiebel mit allen Zutaten bis und mit Salz im Cutter zu einer groben Paste puerieren. Fleisch daruntermischen, gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden. Gelierte Bouillon daruntermischen. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig halbieren, zu je einer Rolle von ca. 32 cm Laenge formen. Rollen in je 16 gleich grosse Stuecke schneiden. Teigstuecke mit dem Wallholz auf wenig Mehl zu Rondellen von je ca. 8 cm Ø auswallen, dabei in der Mitte den Teig etwas dicker lassen. Die Teigstuecke immer gut zugedeckt halten, damit sie nicht austrocknen. Je 2 TL Fuellung in die Mitte der Rondellen geben, immer leicht drehend den Teigrand regelmaessig ueber die Fuellung einfalten, die Oeffnung soll am Ende geschlossen sein. Dumplings portionenweise in die vorbereiteten Bambuskoerbchen geben. </inhalt>
+      </Formen    >
+      <Daempfen   >
+          <inhalt>Bambuskoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen, aufkochen. Zweites Koerbchen darauf stellen, zugedeckt bei mittlerer Hitze ca. 4 Min. daempfen. Position der Koerbchen wechseln, ca. 4 Min. fertig daempfen, restliche Dumplings gleich daempfen. Aceto und Ingwer mischen, dazu servieren.</inhalt>
+      </Daempfen   >
+   </rezept>
+</Rezept>

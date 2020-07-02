@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>643 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese_braten>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>150 g</quant>
+          <zutat>Auberginen, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucchetti, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>1/2 </quant>
+          <zutat>gelbe Peperoni, in Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+      </Gemuese_braten>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+      </Teig      >
+      <Belegen   >
+          <quant>120 g</quant>
+          <zutat>Mozzarella di bufala (z.B. Fine Food), halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+          <quant>einige </quant>
+          <zutat>Basilikumblaetter</zutat>
+      </Belegen   >
+   </einkaufliste>
+   <rezept>
+      <Gemuese_braten>
+          <inhalt>Oel in einer weiten beschichteten Bratpfanne heiss werden lassen. Aubergine, Zucchetti und Peperoni portionenweise ca. 4 Min. anbraten, herausnehmen, wuerzen. Tomaten, Bundzwiebel und Knoblauch daruntermischen. Gemuese auf das vorbereitete Blech verteilen.</inhalt>
+      </Gemuese_braten>
+      <Teig      >
+          <inhalt>Teig mit einer Gabel dicht einstechen, locker ueber das Gemuese legen. Teigrand zwischen Gemuese und Blechrand schieben.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Tarte herausnehmen.</inhalt>
+      </Backen    >
+      <Belegen   >
+          <inhalt>Tarte sorgfaeltig auf eine Platte stuerzen. Backpapier entfernen. Mozzarella, Pinienkerne und Basilikum auf der Gemuesetarte verteilen.</inhalt>
+      </Belegen   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>276 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig</zutat>
+      </Boden     >
+      <Spinat-Guss>
+          <quant>600 g</quant>
+          <zutat>tiefgekuehlter Rahmspinat (z.B. Findus Rahmspinat, aufgetaut)</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>120 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+      </Spinat-Guss>
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Aus dem Teig 8 Rondellen von je ca. 10 cm Ø ausstechen, die vorbereiteten Foermchen damit auslegen. Boeden mit einer Gabel dicht einstechen, kurz kuehl stellen.</inhalt>
+      </Boden     >
+      <Spinat-Guss>
+          <inhalt>Spinat und alle Zutaten bis und mit Zwiebel verruehren, in die Foermchen verteilen.</inhalt>
+      </Spinat-Guss>
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>67 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>50 g</quant>
+          <zutat>Schokoladen-Wuerfeli</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>gezuckerte Kondensmilch</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Kokosflocken, Nuesse, Schokoladen-Wuerfeli und Salz mischen, Kondensmilch darunterruehren. Mit nassen Haenden ca. 30 Baellchen formen, auf ein mit Backpapier belegtes Blech setzen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

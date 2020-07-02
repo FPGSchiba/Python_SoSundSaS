@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>312 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Zitronenwodka>
+          <quant>5 </quant>
+          <zutat>Zitronen, heiss abgespuelt, trocken getupft</zutat>
+          <quant>7 dl</quant>
+          <zutat>Wodka</zutat>
+      </Zitronenwodka>
+      <Limoncello>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>350 g</quant>
+          <zutat>Zucker</zutat>
+      </Limoncello>
+   </einkaufliste>
+   <rezept>
+      <Zitronenwodka>
+          <inhalt>Schale von den Zitronen duenn abschaelen, dabei moegliche weisse Resten abschneiden. Zitronenschalen in eine Flasche geben, mit dem Wodka auffuellen. Zugedeckt mind. 10 Tage an einem dunklen, kuehlen Ort ziehen lassen. </inhalt>
+      </Zitronenwodka>
+      <Limoncello>
+          <inhalt>Wasser und Zucker in einer Pfanne aufkochen, auskuehlen. Zitronenwodka absieben, mit dem Zuckersirup verruehren. Flasche ausspuelen, Limoncello in die Flasche fuellen. </inhalt>
+      </Limoncello>
+   </rezept>
+</Rezept>

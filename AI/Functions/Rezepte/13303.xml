@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>416 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lachs     >
+          <quant>1/2 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>400 g</quant>
+          <zutat>Lachsfilets ohne Haut , in ca. 2 cm dicken Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Lachs     >
+      <Wrap      >
+          <quant>4 </quant>
+          <zutat>Weizen-Tortillas</zutat>
+          <quant>170 g</quant>
+          <zutat>Karma Guacamole</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Wrap      >
+   </einkaufliste>
+   <rezept>
+      <Lachs     >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Lachs rundum ca. 4 Min. braten, herausnehmen, wuerzen. </inhalt>
+      </Lachs     >
+      <Wrap      >
+          <inhalt>Tortillas nach Angabe auf der Verpackung zubereiten. Guacamole auf die Tortillas streichen, Lachs und Spinat darauflegen, einschlagen, aufrollen. </inhalt>
+      </Wrap      >
+   </rezept>
+</Rezept>

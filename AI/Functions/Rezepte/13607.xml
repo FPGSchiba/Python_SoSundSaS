@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>214 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Geroesteter_Knoblauch>
+          <quant>1 </quant>
+          <zutat>ganzer Knoblauch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Geroesteter_Knoblauch>
+      <Tomatensuppe>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Lauch, in Ringen</zutat>
+          <quant>250 g</quant>
+          <zutat>Suesskartoffeln, in Wuerfeln</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (400 g)</zutat>
+          <quant>100 ml</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>wenig </quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>wenig </quant>
+          <zutat>Kresse</zutat>
+      </Tomatensuppe>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Geroesteter Knoblauch          </inhalt>
+      </How_To    >
+      <Geroesteter_Knoblauch>
+          <inhalt>Vom Knoblauch das obere Drittel diagonal abschneiden, die Knolle mit der Schnittflaeche nach oben auf ein Blech oder in eine ofenfeste Form setzen, mit Oel betraeufeln, wuerzen.</inhalt>
+      </Geroesteter_Knoblauch>
+      <How_To1   >
+          <inhalt>Knoblauch etwas abkuehlen. Die weichen Zehen mit einem Messer herausloesen, beiseite stellen.</inhalt>
+      </How_To1   >
+      <Tomatensuppe>
+          <inhalt>Oel in einer weiten Pfanne erhitzen, Lauch 2-3 Min. andaempfen, Suesskartoffeln beigeben, kurz mitdaempfen, wuerzen. Bouillon und Tomaten beigeben, bei kleiner Hitze ca. 30 Min. koecheln. 5 Min. vor Ablauf der Kochzeit den geroesteten Knoblauch beigeben. Suppe puerieren, in Bowls oder Teller anrichten. Kokosmilch daruebertraeufeln, mit Chiliflocken und Kresse garnieren.</inhalt>
+      </Tomatensuppe>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

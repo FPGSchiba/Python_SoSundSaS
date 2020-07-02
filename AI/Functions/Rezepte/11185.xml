@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>63 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Johannisbeergelee</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zwiebel, grob gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein gehack</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Essig und alle Zutaten bis und mit Rosmarin mischen, puerieren. Ailerons oder Pouletfluegeli marinieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

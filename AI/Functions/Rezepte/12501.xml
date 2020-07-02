@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>467 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuesecurry>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln, in feinen Streifen</zutat>
+          <quant>3 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>scharfer Curry</zutat>
+          <quant>600 g</quant>
+          <zutat>Suesskartoffeln, in ca. 1 cm grossen Wuerfeln</zutat>
+      </Gemuesecurry>
+      <Currysauce>
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 410 g), abgespuelt, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Currysauce>
+      <Gebratene_Bananen>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bananen, geviertelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Cashew-Nuesse, geroestet, grob gehackt</zutat>
+      </Gebratene_Bananen>
+   </einkaufliste>
+   <rezept>
+      <Gemuesecurry>
+          <inhalt>Oel in einer Pfanne warm werden lassen. Zwiebeln und Ingwer andaempfen, Curry mitdaempfen. Suesskartoffeln beigeben ca. 2 Min. weiterdaempfen.</inhalt>
+      </Gemuesecurry>
+      <Currysauce>
+          <inhalt>Bouillon und Kokosmilch dazugiessen, aufkochen, Hitze reduzieren. Zugedeckt unter gelegentlichem Ruehren bei kleiner Hitze ca. 15 Min. koecheln. Kichererbsen beigeben, mischen, ca. 2 Min. mitkochen. Koriander darueberstreuen.</inhalt>
+      </Currysauce>
+      <Gebratene_Bananen>
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Bananen bei mittlerer Hitze beidseitig je ca. 2 Min. braten. Bananen und Nuesse auf dem Curry verteilen.</inhalt>
+      </Gebratene_Bananen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

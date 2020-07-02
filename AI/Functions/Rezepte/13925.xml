@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1258 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>173 g </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Masala    >
+          <quant>340 g</quant>
+          <zutat>Karma Bio Tikka Masala Sauce</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, Stiele fein gehackt, Gruen beiseite gestellt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Masala    >
+      <Gemuese    >
+          <quant>2 </quant>
+          <zutat>Suesskartoffeln (ca. 800 g), geschaellt, in Wuerfeln</zutat>
+          <quant>260 g</quant>
+          <zutat>Erbsli</zutat>
+          <quant>130 g</quant>
+          <zutat>Karma Bio schwarze Bohnen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 </quant>
+          <zutat>Naan-Brote (z.B. Patak`s)</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Masala    >
+          <inhalt>Masala Sauce, Zitronengras und Korianderstiele in einer Pfanne unter Ruehren aufkochen, Bouillon dazugiessen.</inhalt>
+      </Masala    >
+      <Gemuese    >
+          <inhalt>Suesskartoffeln zur Sauce geben, ca. 8 Min. bei kleiner Hitze koecheln. Erbsli und Bohnen beigeben, unter Ruehren ca. 2 Min. koecheln, wuerzen. Beiseite gestellte Korianderblaettchen zerzupfen, darueberstreuen, mit Naan-Brot servieren. </inhalt>
+      </Gemuese    >
+   </rezept>
+</Rezept>

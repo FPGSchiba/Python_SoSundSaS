@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>137 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke, halbiert, evtl. entkernt, in Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Essig und Oel verruehren, Joghurt darunterruehren, wuerzen. Gurke und Dill daruntermischen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

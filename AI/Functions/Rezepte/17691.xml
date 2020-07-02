@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>572 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade_ >
+          <quant>1 dl</quant>
+          <zutat>Zitronenlikoer (z.B. Limoncello)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Basilikum-Pesto</zutat>
+          <quant>40 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>12 Stueck</quant>
+          <zutat>Lammkoteletts (je ca. 70 g)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Marinade_ >
+      <Sauce_    >
+          <quant>10 g</quant>
+          <zutat>Gartenkresse</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <Marinade_ >
+          <inhalt>Zitronenlikoer und alle Zutaten bis und mit Pesto verruehren. Pistazien, Knoblauch und Schalotte daruntermischen. Lammkoteletts mit 4 EL der Marinade bestreichen, zugedeckt im Kuehlschrank mind. 3 Std. marinieren. Restliche Marinade zugedeckt beiseite stellen. Marinade abstreifen, Fleisch salzen.   </inhalt>
+      </Marinade_ >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Koteletts ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 2 Min. grillieren. Zugedeckt ca. 5 Min. ruhen lassen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+      <Sauce_    >
+          <inhalt>Beiseite gestellte Marinade, Kresse und Minze mischen, wuerzen, ueber die Lammkoteletts traeufeln.  </inhalt>
+      </Sauce_    >
+   </rezept>
+</Rezept>

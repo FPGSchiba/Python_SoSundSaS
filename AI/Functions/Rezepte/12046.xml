@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>261 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>59 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <ergibt_2_Glaeser_zu_je_ca._2_1/2_dl>
+          <quant>600 g</quant>
+          <zutat>Birnen</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili</zutat>
+          <quant>1 Zweig</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1/2 cm</quant>
+          <zutat>Ingwer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Dijon-Senf</zutat>
+          <quant>75 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Rotweinessig</zutat>
+      </ergibt_2_Glaeser_zu_je_ca._2_1/2_dl>
+   </einkaufliste>
+   <rezept>
+      <ergibt_2_Glaeser_zu_je_ca._2_1/2_dl>
+          <inhalt>Birnen vierteln, Kerngehaeuse entfernen, in ca. 5 mm dicke Scheiben, Zwiebel in feine Streifen schneiden, Chili entkernen, fein hacken, Rosmarin fein schneiden, Ingwer reiben. Alles mit dem Salz, den Gewuerzen, dem Zucker und dem Essig in einer Pfanne aufkochen, bei kleiner Hitze ca. 30 Min. koecheln. Noch heiss in saubere Glaeser fuellen, sofort verschliessen.</inhalt>
+      </ergibt_2_Glaeser_zu_je_ca._2_1/2_dl>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

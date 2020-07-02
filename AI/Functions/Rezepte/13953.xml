@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>144 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Carpaccio >
+          <quant>2 </quant>
+          <zutat>Chioggia-Randen (je ca. 150 g), fein gehobelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Meersalz</zutat>
+      </Carpaccio >
+      <Chutney   >
+          <quant>250 g</quant>
+          <zutat>Zwetschgen, in Schnitzen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Birnel (Birnendicksaft)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Gartenkresse</zutat>
+      </Chutney   >
+   </einkaufliste>
+   <rezept>
+      <Carpaccio >
+          <inhalt>Randenscheiben auf Tellern anrichten, Oel daruebertraeufeln, salzen. </inhalt>
+      </Carpaccio >
+      <Chutney   >
+          <inhalt>Zwetschgen mit allen Zutaten bis und mit Birnel in einer Pfanne mischen, aufkochen, bei kleiner Hitze ca. 20 Min. koecheln, salzen, auskuehlen, Chutney auf dem Carpaccio verteilen. Kresse darueberstreuen. </inhalt>
+      </Chutney   >
+   </rezept>
+</Rezept>

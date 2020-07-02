@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>751 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kurkuma-Tofu>
+          <quant>200 g</quant>
+          <zutat>Tofu, in Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Soja Dessert nature</zutat>
+          <quant>1 Stueck</quant>
+          <zutat>Kurkuma (frisch), gerieben</zutat>
+          <quant>wenig </quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1/4 </quant>
+          <zutat>Gurke, fein gerieben</zutat>
+      </Kurkuma-Tofu>
+      <Raita     >
+          <quant>1 TL</quant>
+          <zutat>Ingwer, gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Soja Dessert nature</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli (klein), fein gerieben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Raita     >
+      <Garam-Masala-Blumenkohl>
+          <quant>1 </quant>
+          <zutat>Blumenkohl (klein), in Roeschen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 EL</quant>
+          <zutat>Garam Masala</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+      </Garam-Masala-Blumenkohl>
+      <Curry-Linsen>
+          <quant>1 TL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>150 g</quant>
+          <zutat>schwarze Linsen (Beluga)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Curry</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+      </Curry-Linsen>
+      <Anrichten_&amp;_Garnieren>
+          <quant>2 </quant>
+          <zutat>Mini-Lattiche</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Kresse</zutat>
+          <quant>1/2 </quant>
+          <zutat>Mango, in Wuerfeln</zutat>
+          <quant>1/2 </quant>
+          <zutat>rohe Rande, fein gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Cashew-Nuesse, geroestet</zutat>
+      </Anrichten_&amp;_Garnieren>
+   </einkaufliste>
+   <rezept>
+      <Kurkuma-Tofu>
+          <inhalt>Den Tofu mit den restlichen Zutaten mischen, ca. 30 Min. marinieren.</inhalt>
+      </Kurkuma-Tofu>
+      <Raita     >
+          <inhalt>Alle Zutaten in einer Schuessel gut verruehren.</inhalt>
+      </Raita     >
+      <Garam-Masala-Blumenkohl>
+          <inhalt>Blumenkohl mit den restlichen Zutaten mischen, ca. 20 Min. marinieren.</inhalt>
+      </Garam-Masala-Blumenkohl>
+      <Backen    >
+          <inhalt>Tofu und Blumenkohl auf einem mit Backpapier belegten Blech verteilen. Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens backen.</inhalt>
+      </Backen    >
+      <Curry-Linsen>
+          <inhalt>Kokosoel erwaermen, Zwiebel und Kokosflocken andaempfen, bis die Zwiebeln glasig sind. Linsen und Curry beigeben, ca. 2 Min. mitdaempfen. Wasser dazugiessen, aufkochen, Hitze reduzieren, bei kleinster Hitze zugedeckt ca. 30 Min. koecheln. Linsen salzen.</inhalt>
+      </Curry-Linsen>
+      <Anrichten_&amp;_Garnieren>
+          <inhalt>Linsen auf 2 Bowls verteilen, Lattich, Kresse, Tofu, Blumenkohl und Raita darauf verteilen. Mit Mango-Wuerfeln, Randen und Cashews garnieren.</inhalt>
+      </Anrichten_&amp;_Garnieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

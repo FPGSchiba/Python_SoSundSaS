@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>217 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Eiermischung>
+          <quant>6 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rahm</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>6 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Eiermischung>
+      <Omelette  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>150 g</quant>
+          <zutat>gruene Spargeln, mit dem Sparschaeler laengs in duenne Streifen abgeschaelt</zutat>
+          <quant>50 g</quant>
+          <zutat>Parmesan, fein gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+      </Omelette  >
+   </einkaufliste>
+   <rezept>
+      <Eiermischung>
+          <inhalt>Eigelbe und Rahm gut verruehren, wuerzen. Eiweisse mit dem Salz steif schlagen, sorgfaeltig unter die Eigelbmasse ziehen. </inhalt>
+      </Eiermischung>
+      <Omelette  >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Die Haelfte der Spargeln in die Pfanne geben, ca. 1 Min. braten.  Die Haelfte der Eimasse ueber die Spargeln giessen. Omelette zugedeckt bei mittlerer Hitze ca. 5 Min. backen. Die Haelfte des Kaeses und des Basilikums darauf geben, in der Mitte falten. Mit den restlichen Zutaten den Vorgang wiederholen.</inhalt>
+      </Omelette  >
+   </rezept>
+</Rezept>

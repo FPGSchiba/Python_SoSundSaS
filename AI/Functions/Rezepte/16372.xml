@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>614 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>72 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nudeln    >
+          <quant>350 g</quant>
+          <zutat>chinesische Nuedeli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Nudeln    >
+      <Curry-Topf>
+          <quant>1 EL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>300 g</quant>
+          <zutat>Pouletwuerfel</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , gequetscht</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+          <quant>150 g</quant>
+          <zutat>Shiitake-Pilze, in Streifen</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>gelbe Currypaste</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>400 g</quant>
+          <zutat>Chinakohl, in feinen Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+      </Curry-Topf>
+      <Anrichten_&amp;_Garnieren>
+          <quant>3 EL</quant>
+          <zutat>Wasabi-Nuesse, grob gehackt</zutat>
+      </Anrichten_&amp;_Garnieren>
+   </einkaufliste>
+   <rezept>
+      <Nudeln    >
+          <inhalt>Die Nudeln im Salzwasser nach Verpackungsanleitung al dente kochen, abtropfen, kalt abspuelen.</inhalt>
+      </Nudeln    >
+      <Curry-Topf>
+          <inhalt>Das Oel in einem Wok oder einer weiten Bratpfanne erhitzen, Poulet und Zitronengras ca. 3 Min. ruehrbraten. Peperoncini und Pilze beigeben, ca. 2 Min. mitruehrbraten. Ingwer, Currypaste und Kokosmilch beigeben, aufkochen, ca. 2 Min. koecheln. Chinakohl, Nudeln und Sojasauce beigeben, alles gut mischen, nur heiss werden lassen.</inhalt>
+      </Curry-Topf>
+      <Anrichten_&amp;_Garnieren>
+          <inhalt>Thai-Curry-Topf anrichten, mit den Wasabi-Nuessen bestreuen.</inhalt>
+      </Anrichten_&amp;_Garnieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=qaDaRQedbIk"/>
+</Rezept>

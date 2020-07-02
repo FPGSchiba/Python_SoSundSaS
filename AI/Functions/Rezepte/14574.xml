@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>409 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>4 </quant>
+          <zutat>Birnen (klein und reif), halbiert, Kerngehaeuse entfernt</zutat>
+          <quant>2 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade, zerbroeckelt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kokosbluetenzucker, Vanillesamen, Ahornsirup und Kokosoel zu einer Paste verruehren. Schnittflaechen der Birnen mit der Paste bestreichen, Birnen in eine ofenfeste Form legen, ausgekratzte Vanilleschote dazulegen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Schokolade in eine kleine Schuessel geben und ueber dem heissen Wasserbad schmelzen. Birnen mit der fluessigen Schokolade verzieren.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

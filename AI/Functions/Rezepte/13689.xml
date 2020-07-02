@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>303 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_(fuer_12_Stueck)>
+          <quant>500 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>4 1/2 dl</quant>
+          <zutat>Wasser, lauwarm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig_(fuer_12_Stueck)>
+      <Belags-Variante_1_(fuer_2_Stueck)>
+          <quant>50 g</quant>
+          <zutat>Kartoffeln, fein gehobelt</zutat>
+          <quant>30 g</quant>
+          <zutat>Ziegenkaese (z.B. Chavroux), in Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+      </Belags-Variante_1_(fuer_2_Stueck)>
+      <Belags-Variante_2_(fuer_2_Stueck)>
+          <quant>1 EL</quant>
+          <zutat>Pesto verde (Bio)</zutat>
+          <quant>50 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>20 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Pinienkerne</zutat>
+      </Belags-Variante_2_(fuer_2_Stueck)>
+      <Belags-Variante_3_(fuer_2_Stueck)>
+          <quant>2 EL</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>2 Tranchen</quant>
+          <zutat>Rohschinken, zerzupft</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Rucola</zutat>
+      </Belags-Variante_3_(fuer_2_Stueck)>
+      <Belags-Variante_4_(fuer_2_Stueck)>
+          <quant>20 g</quant>
+          <zutat>getrocknete Tomaten (z.B. Fine Food), in Streifen</zutat>
+          <quant>15 g</quant>
+          <zutat>schwarze Oliven (z.B. Olive Taggiasche Fine Food)</zutat>
+          <quant>wenig </quant>
+          <zutat>orientalische Gewuerzmischung (z.B. Zatar Fine Food)</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Belags-Variante_4_(fuer_2_Stueck)>
+      <Belags-Variante_5_(fuer_2_Stueck)>
+          <quant>50 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>wenig </quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+      </Belags-Variante_5_(fuer_2_Stueck)>
+      <Belags-Variante_6_(fuer_2_Stueck)>
+          <quant>50 g</quant>
+          <zutat>Zucchetti, fein gehobelt</zutat>
+          <quant>20 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Granatapfelkerne</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+      </Belags-Variante_6_(fuer_2_Stueck)>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig (fuer 12 Stueck)           </inhalt>
+      </How_To    >
+      <Teig_(fuer_12_Stueck)>
+          <inhalt>Mehl mit Salz und Hefe mischen. Wasser und Oel dazugiessen, alles mit einem Handruehrgeraet zu einem homogenen Teig verkneten. Mit 2 bemehlten Essloeffeln 12 Portionen herausnehmen, auf ein mit Backpapier belegtes Blech geben mit der bemehlten Seite des Loeffels flach druecken. Bei Zimmertemperatur ca. 30 Min. aufgehen lassen.</inhalt>
+      </Teig_(fuer_12_Stueck)>
+      <How_To1   >
+          <inhalt>Backen: ca. 25 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </How_To1   >
+      <Belags-Variante_1_(fuer_2_Stueck)>
+          <inhalt>Focaccias mit Kartoffeln, Kaese und Rosmarin belegen, wuerzen. Nach dem Backen mit Olivenoel betraeufeln.</inhalt>
+      </Belags-Variante_1_(fuer_2_Stueck)>
+      <Belags-Variante_2_(fuer_2_Stueck)>
+          <inhalt>Focaccias mit Pesto bestreichen, mit Tomaten, Feta und Pinienkerne belegen, backen.</inhalt>
+      </Belags-Variante_2_(fuer_2_Stueck)>
+      <Belags-Variante_3_(fuer_2_Stueck)>
+          <inhalt>Focaccias mit Mascarpone bestreichen, backen. Nach dem Backen mit Rohschinken und Rucola belegen.</inhalt>
+      </Belags-Variante_3_(fuer_2_Stueck)>
+      <Belags-Variante_4_(fuer_2_Stueck)>
+          <inhalt>Tomaten und Oliven tief in die rohen Focaccias druecken, wuerzen. Nach dem Backen mit Olivenoel betraeufeln.</inhalt>
+      </Belags-Variante_4_(fuer_2_Stueck)>
+      <Belags-Variante_5_(fuer_2_Stueck)>
+          <inhalt>Tomaten tief in die rohen Focaccias druecken, mit Thymian bestreuen, wuerzen. Nach dem Backen mit Olivenoel betraeufeln.</inhalt>
+      </Belags-Variante_5_(fuer_2_Stueck)>
+      <Belags-Variante_6_(fuer_2_Stueck)>
+          <inhalt>Focaccias mit Zucchetti belegen, backen. Nach dem Backen mit Feta und Granatapfelkernen belegen und mit Olivenoel betraeufeln.</inhalt>
+      </Belags-Variante_6_(fuer_2_Stueck)>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

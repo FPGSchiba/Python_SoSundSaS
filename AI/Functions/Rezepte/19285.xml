@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>53 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tee-Sud   >
+          <quant>5 </quant>
+          <zutat>Kraeutertee-Beutel</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+      </Tee-Sud   >
+      <Fruechte   >
+          <quant>2 </quant>
+          <zutat>Pfirsiche</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>125 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>20 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>5 </quant>
+          <zutat>Kraeutertee-Beutel</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>2 </quant>
+          <zutat>Pfirsiche</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>125 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>20 </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Fruechte   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tee-Sud                       </inhalt>
+      </How_To    >
+      <Tee-Sud   >
+          <inhalt>Fruechte                       </inhalt>
+      </Tee-Sud   >
+      <Fruechte   >
+          <inhalt>                              </inhalt>
+      </Fruechte   >
+   </rezept>
+</Rezept>

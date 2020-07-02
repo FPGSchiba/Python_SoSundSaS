@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>740 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>47 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pasta_    >
+          <quant>300 g</quant>
+          <zutat>Teigwaren (z.B. Risoni)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Erbsli</zutat>
+      </Pasta_    >
+      <Baerlauch_ >
+          <quant>3/4 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>30 g</quant>
+          <zutat>Baerlauch</zutat>
+          <quant>4 </quant>
+          <zutat>Kalbsplaetzli (z.B. Nuss, je ca. 140 g), in Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>150 g</quant>
+          <zutat>Burratas</zutat>
+      </Baerlauch_ >
+   </einkaufliste>
+   <rezept>
+      <Pasta_    >
+          <inhalt>Pasta im Salzwasser al dente kochen, in den letzten 2 Min. Erbsli beigeben, mitkochen, abgiessen. </inhalt>
+      </Pasta_    >
+      <Baerlauch_ >
+          <inhalt>Oel in einer weiten Bratpfanne erhitzen. Baerlauch portionenweise beigeben, ca. 1 Min. braten, herausnehmen, auf Haushaltspapier abtropften, beiseite stellen. Fleisch wuerzen, in derselben Pfanne portionenweise, beidseitig je ca. 11/2 Min. braten. Pasta und Baerlauch beigeben, Burrata zerzupfen, beigeben, mischen, anrichten. </inhalt>
+      </Baerlauch_ >
+   </rezept>
+</Rezept>

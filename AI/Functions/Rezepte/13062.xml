@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>157 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mandelmilchreis>
+          <quant>5 1/2 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>50 g</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>150 g</quant>
+          <zutat>Rundkornreis  (z. B. Camolino)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Mandelmilchreis>
+      <Heidelbeerkompott>
+          <quant>2 dl</quant>
+          <zutat>Prosecco (z.B.Coop Naturaplan Bio Prosecco Valdobbiadene Superiore DOCG Perlage Extra Dry )</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>250 g</quant>
+          <zutat>Heidelbeeren</zutat>
+      </Heidelbeerkompott>
+   </einkaufliste>
+   <rezept>
+      <Mandelmilchreis>
+          <inhalt>Mandelmilch mit allen Zutaten bis und mit Salz aufkochen, Hitze reduzieren. Unter gelegentlichem Ruehren bei kleiner Hitze ca. 20 Min. zu einem dicken, aber noch feuchten Brei koecheln. In Glaeser oder Schuesselchen verteilen.</inhalt>
+      </Mandelmilchreis>
+      <Heidelbeerkompott>
+          <inhalt>Prosecco mit dem Sirup und der Zimtstange aufkochen, auf die Haelfte einkoecheln. Heidelbeeren beigeben, zugedeckt bei mittlerer Hitze ca. 5 Min. fertig koecheln. Auf dem Mandelmilchreis servieren.</inhalt>
+      </Heidelbeerkompott>
+   </rezept>
+</Rezept>

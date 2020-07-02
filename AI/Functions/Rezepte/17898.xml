@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rhabarber >
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>250 g</quant>
+          <zutat>Rhabarber</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+      </Rhabarber >
+      <Fisch     >
+          <quant>2 </quant>
+          <zutat>Lachsforellenfilets   (Bio oder ASC, je ca. 250 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fisch     >
+      <Krautstiel>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>500 g</quant>
+          <zutat>Krautstiel</zutat>
+      </Krautstiel>
+      <Krautstiel-Reis>
+          <quant>150 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Krautstiel-Reis>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rhabarber                     </inhalt>
+      </How_To    >
+      <Rhabarber >
+          <inhalt>Schalotten in feine Streifen schneiden, Rhabarber in ca. 5 cm lange Staengeli schneiden. </inhalt>
+      </Rhabarber >
+      <How_To1   >
+          <inhalt>Oel in einer beschichteten Bratpfanne erwaermen. Schalotten ca. 5 Min. andaempfen, Rhabarber beigeben, kurz mitdaempfen, wuerzen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fisch                         </inhalt>
+      </How_To2   >
+      <Fisch     >
+          <inhalt>Backen: Ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Fisch     >
+      <Krautstiel>
+          <inhalt>Knoblauchzehen in Scheibchen schneiden, Krautstiel in Streifen schneiden. </inhalt>
+      </Krautstiel>
+      <Krautstiel-Reis>
+          <inhalt>Reis im Salzwasser weich kochen, abtropfen. Oel in derselben Bratpfanne erwaermen. Knoblauch beigeben, kurz andaempfen. Krautstiel beigeben, unter gelegentlichem Ruehren ca. 10 Min. mitdaempfen, wuerzen. Reis daruntermischen, mit dem Fisch und Rhabarber anrichten.</inhalt>
+      </Krautstiel-Reis>
+   </rezept>
+</Rezept>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>183 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Labneh    >
+          <quant>400 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Labneh    >
+      <Tomaten   >
+          <quant>400 g</quant>
+          <zutat>Cherry-Tomaten, die Haelfte davon halbiert</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tomaten   >
+      <Pita-Chips>
+          <quant>3 </quant>
+          <zutat>Pitabrote</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Pita-Chips>
+      <Backen    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Labneh    >
+          <inhalt>Jogurt salzen, in ein mit einem feinen Tuch ausgelegtes Sieb geben. Sieb auf eine Schuessel stellen, zugedeckt  im Kuehlschrank ca. 8 Std. oder ueber Nacht abtropfen lassen. </inhalt>
+      </Labneh    >
+      <Tomaten   >
+          <inhalt>Tomaten mit den Zutaten bis und mit Pfeffer mischen, auf einem mit Backpapier belegten Blech verteilen. </inhalt>
+      </Tomaten   >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens roesten. Herausnehmen, etwas abkuehlen.  </inhalt>
+      </Backen    >
+      <Pita-Chips>
+          <inhalt>Pitabrote in ca. 4 cm grosse Stuecke zupfen, mit Oel, Chiliflocken und Fleur de Sel mischen. Piitastuecke auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Pita-Chips>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der oberen Haelfte des auf 180 Grad vorgeheizten Ofens knusprig backen, herausnehmen. Labneh glatt ruehren, mit Tomaten und Pita-Chips anrichten. Oel daruebertraeufeln.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

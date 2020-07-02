@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>812 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>84 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Amraranth-Crunch>
+          <quant>50 g</quant>
+          <zutat>Amaranth-Pops</zutat>
+          <quant>50 g</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>50 g</quant>
+          <zutat>ungesalzene Erdnuesse, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>20 g</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+      </Amraranth-Crunch>
+      <Bananeneis>
+          <quant>400 g</quant>
+          <zutat>Bananen, in Scheiben, gefroren</zutat>
+          <quant>100 ml</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>1 TL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+      </Bananeneis>
+      <Anrichten >
+          <quant>1 EL</quant>
+          <zutat>Granatapfelkerne</zutat>
+          <quant>1 EL</quant>
+          <zutat>Himbeeren oder andere Beeren</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Amraranth-Crunch              </inhalt>
+      </How_To    >
+      <Amraranth-Crunch>
+          <inhalt>Backen: Ca. 10 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens.</inhalt>
+      </Amraranth-Crunch>
+      <Bananeneis>
+          <inhalt>Bananen ca. 7 Min. vor Verwendung aus dem Tiefkuehler nehmen. Bananen mit den restlichen Zutaten ins Glas des Standmixers geben, cremig puerieren.</inhalt>
+      </Bananeneis>
+      <Anrichten >
+          <inhalt>Crunch in 2 Glaesli fuellen (wenig Crunch fuer die Verzierung beiseite stellen), mit Bananeneis auffuellen. Mit beiseite gestelltem Crunch bestreuen und mit Granatapfelkernen und Beeren verzieren. Sofort servieren.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>459 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>72 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tofu_&amp;_Reisnudeln>
+          <quant>250 g</quant>
+          <zutat>Tofu nature, in Stuecke gebrochen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>250 g</quant>
+          <zutat>Reisnudeln</zutat>
+          <quant> </quant>
+          <zutat>Wasser, kochend</zutat>
+      </Tofu_&amp;_Reisnudeln>
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Streifen</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen, Gruen beiseite gestellt</zutat>
+      </Gemuese    >
+      <Sauce     >
+          <quant>1 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Hot Chili Sauce  (z.B. Sriracha)</zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser, kalt</zutat>
+      </Sauce     >
+      <Anrichten >
+          <quant>1/2 </quant>
+          <zutat>Limette, in Schnitzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>gesalzene, geroestete Erdnuss, grob gehackt</zutat>
+          <quant>wenig </quant>
+          <zutat>Koriander, zerzupft</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Tofu_&amp;_Reisnudeln>
+          <inhalt>Tofu im Wok oder in einer Bratpfanne im heissen Oel anbraten, in eine Schuessel geben, beiseite stellen. Reisnudeln in einer Schuessel mit kochendem Wasser uebergiessen, zugedeckt ca. 10 Min. quellen lassen, abtropfen, beiseite stellen.</inhalt>
+      </Tofu_&amp;_Reisnudeln>
+      <Gemuese    >
+          <inhalt>Oel im Wok oder in einer Bratpfanne erhitzen, Bundzwiebeln ca. 1 Min. ruehrbraten, Knoblauch beigeben, 1 Min. mitbraten, Peperoni und Rueebli beigeben, ca. 2 Min. fertigbraten.</inhalt>
+      </Gemuese    >
+      <Sauce     >
+          <inhalt>Bouillon und alle Zutaten bis und mit Limettensaft zum Gemuese geben, aufkochen. Maizena mit dem Wasser anruehren, beigeben, aufkochen, einige Min. koecheln. Beiseite gestellten Tofu, Reisnudeln und die Haelfte des Bundzwiebelgruens beigeben.</inhalt>
+      </Sauce     >
+      <Anrichten >
+          <inhalt>Pad Chai in Schalen anrichten, mit dem restlichen Bundzwiebelgruen, Limettenschnitzen, Erdnuessen und Koriander bestreuen.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

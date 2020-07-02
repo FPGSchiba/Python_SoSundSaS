@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>547 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salatsauce>
+          <quant>1 1/2 EL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>5 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Salatsauce>
+      <Buchweizen>
+          <quant>200 g</quant>
+          <zutat>Buchweizen</zutat>
+          <quant>4 dl</quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Buchweizen>
+      <Topping   >
+          <quant>2 </quant>
+          <zutat>Landjaeger</zutat>
+          <quant>50 g</quant>
+          <zutat>Kuerbiskerne</zutat>
+      </Topping   >
+      <Salat     >
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 340 g)</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli</zutat>
+          <quant>5 Staengel</quant>
+          <zutat>Stangensellerie</zutat>
+          <quant>50 g</quant>
+          <zutat>Rucola</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Salatsauce                    </inhalt>
+      </How_To    >
+      <Salatsauce>
+          <inhalt>Senf, Essig, Ahornsirup, Oel und Wasser verruehren. Von der Zitrone wenig Schale dazureiben, Saft auspressen, beigeben,  wuerzen. </inhalt>
+      </Salatsauce>
+      <How_To1   >
+          <inhalt>Buchweizen im Salzwasser ca. 3 Min. kochen. Pfanne von der Platte nehmen, zugedeckt ca. 15 Min. quellen lassen. </inhalt>
+      </How_To1   >
+      <Buchweizen>
+          <inhalt>Topping                       </inhalt>
+      </Buchweizen>
+      <Topping   >
+          <inhalt>Kerne beigeben, ca. 5 Min. mitbraten. Topping auf Haushaltpapier abtropfen.</inhalt>
+      </Topping   >
+      <Salat     >
+          <inhalt>Mais abspuelen und abtropfen. Radiesli in Schnitzchen und Sellerie in Wuerfeli schneiden. Rucola grob schneiden. Alles mit dem Buchweizen mischen, restliche Sauce und Topping kurz vor dem Servieren darauf verteilen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

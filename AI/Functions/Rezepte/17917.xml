@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>160 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blumenkohl>
+          <quant>600 g</quant>
+          <zutat>Blumenkohl, in kleinen Roeschen</zutat>
+          <quant>3 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Blumenkohl>
+   </einkaufliste>
+   <rezept>
+      <Blumenkohl>
+          <inhalt>Blumenkohl mit Kaese, Oel und Maizena mischen, wuerzen. Auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Blumenkohl>
+      <Backen    >
+          <inhalt>Ca. 25 Min. im auf 200 Grad (Heissluft) vorgeheizten Ofen.  </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

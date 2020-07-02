@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>149 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe,(ca. 10 g), zerbroeckelt</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig      >
+      <Kaesebrot  >
+          <quant>100 g</quant>
+          <zutat>Doppelrahm</zutat>
+          <quant>120 g</quant>
+          <zutat>Appenzeller, grob gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel dazu servieren</zutat>
+      </Kaesebrot  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Wasser und Oel beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen. </inhalt>
+      </Teig      >
+      <Kaesebrot  >
+          <inhalt>Teig auf wenig Mehl zu einem Rechteck von ca. 30 x 40 cm auswallen. Teig mit Doppelrahm bestreichen, quer in 5, laengs in 4 Streifen schneiden, so dass es Rechtecke ergibt. Kaese, Petersilie und Fleur de Sel darueberstreuen. Teigstreifen zusammenfalten, in die vorbereitete Form schichten. Zugedeckt bei Raumtemperatur nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Kaesebrot  >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus der Form nehmen, sofort servieren</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

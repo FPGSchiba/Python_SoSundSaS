@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>231 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Hartweizengriess</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Paeckli</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>125 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Pesto verde</zutat>
+          <quant>140 g</quant>
+          <zutat>Luganighe, Wurstfleisch aus der Haut gedrueckt, zerzupft</zutat>
+      </Belag     >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>1 </quant>
+          <zutat>Mozzarella di bufala (ca. 150 g), zerzupft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, zerzupft</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Belag                         </inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Grillieren (Holzkohle-, Gas-, Elektrogrill)</inhalt>
+      </Belag     >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Mozzarella und Basilikum auf den Pizzette verteilen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

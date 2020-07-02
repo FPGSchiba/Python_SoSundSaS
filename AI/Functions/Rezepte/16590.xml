@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>897 kcal</NaehrwertProPerson>
+       <Fett>61 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>51 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spinatcrepes>
+          <quant>150 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter</zutat>
+      </Spinatcrepes>
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>500 g</quant>
+          <zutat>Hackfleisch (Poulet)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Blattspinat, grob gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>80 g</quant>
+          <zutat>Appenzellerkaese, fein gerieben</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Spinatcrepes>
+          <inhalt>Ofen auf 60 Grad vorheizen, Platte und Teller vorwaermen. Spinat im siedenden Salzwasser ca. 1 Min. blanchieren, ca. 1 Min. in Eiswasser abschrecken, abtropfen und gut ausdruecken. Mehl und Salz in einer Schuessel mischen, in der Mitte eine Mulde eindruecken. Milchwasser, Ei und Spinat puerieren, nach und nach unter Ruehren mit dem Schwingbesen in die Mulde giessen, weiterruehren, bis der Teig glatt ist. Zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen. Wenig Butter in einer beschichteten Bratpfanne heiss werden lassen. 1/8 des Teiges in die Pfanne geben, Hitze reduzieren. Ist die Unterseite gebacken und loest sie sich von selbst, Crepe wenden, fertig backen, im Ofen warm stellen. Mit dem restlichen Teig gleich verfahren.</inhalt>
+      </Spinatcrepes>
+      <Fuellung   >
+          <inhalt>Oel in derselben Pfanne heiss werden lassen. Fleisch portionenweise anbraten, herausnehmen, wuerzen. Hitze reduzieren, evtl. wenig Oel beigeben, Schalotte andaempfen. Spinat portionenweise beigeben, zusammenfallen lassen. Ricotta darunterruehren, wuerzen. Fleisch und Nuesse wieder beigeben, mischen. Je 1/8 der Fuellung in die Mitte einer Crepe geben, aufrollen, mit der restlichen Fuellung und den Crepes gleich verfahren. Rahm und Kaese verruehren, wuerzen, 1/2 davon in die vorbereitete Form giessen. Rollen in den Rahm legen, restlichen Guss daruebergiessen.</inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

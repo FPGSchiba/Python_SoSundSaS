@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>456 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolademasse>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Milchschokolade (mit Kaffeegeschmack), fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kaffeelikoer (z.B. Kahlua)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+      </Schokolademasse>
+      <Einschichten>
+          <quant>160 g</quant>
+          <zutat>Butterguetzli (z.B. Petit-Beurres)</zutat>
+          <quant> </quant>
+          <zutat>Kakaopulver zum Bestaeuben</zutat>
+      </Einschichten>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schokolademasse               </inhalt>
+      </How_To    >
+      <Schokolademasse>
+          <inhalt>Einschichten                  </inhalt>
+      </Schokolademasse>
+      <Einschichten>
+          <inhalt>Petits-Beurres aufgebraucht sind, mit Schokolademasse abschliessen. Zugedeckt ca. 2 Std. kuehl stellen. Cake aus der Form heben, mit der beiseite gestellten Schokolademasse bestreichen, nochmals ca. 30 Min. kuehl stellen. Mit Kakaopulver bestaeuben.</inhalt>
+      </Einschichten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

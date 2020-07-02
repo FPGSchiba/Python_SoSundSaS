@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>229 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kokos-Masse>
+          <quant>200 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>200 g</quant>
+          <zutat>gezuckerte Kondensmilch</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Butter</zutat>
+      </Kokos-Masse>
+      <Schokoladenglasur_>
+          <quant>2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 125 g)</zutat>
+      </Schokoladenglasur_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kokos-Masse                   </inhalt>
+      </How_To    >
+      <Kokos-Masse>
+          <inhalt>In Staengel (ca. 2 x 9 cm) schneiden. </inhalt>
+      </Kokos-Masse>
+      <Schokoladenglasur_>
+          <inhalt>Beutel 10 Min. in heisses, nicht kochendes Wasser legen. Herausnehmen, gut durchkneten, in eine Schuessel geben. Kokos-Staengel mithilfe von zwei Gabeln in die Glasur tauchen, herausnehmen, auf einem Gitter abtropfen, auf einem mit Backpapier belegten Blech ca. 15 Min. kuehl stellen. </inhalt>
+      </Schokoladenglasur_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>233 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden_    >
+          <quant>120 g</quant>
+          <zutat>Butterguetzli (z.B. Digestive Weizen-Bisquits Original)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Boden_    >
+      <Frischkaesemasse>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>130 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+      </Frischkaesemasse>
+      <Backen    >
+          <quant>einige </quant>
+          <zutat>Smarties</zutat>
+          <quant>2 EL</quant>
+          <zutat>Nonpareilles</zutat>
+          <quant>120 g</quant>
+          <zutat>Butterguetzli (z.B. Digestive Weizen-Bisquits Original)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>130 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>einige </quant>
+          <zutat>Smarties</zutat>
+          <quant>2 EL</quant>
+          <zutat>Nonpareilles</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Boden_    >
+          <inhalt>                              </inhalt>
+      </Boden_    >
+      <Frischkaesemasse>
+          <inhalt>Von der Zitrone Schale abreiben, </inhalt>
+      </Frischkaesemasse>
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. Formenrand entfernen, auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

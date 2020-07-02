@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>496 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kirsch oder Zitronensaft</zutat>
+          <quant>500 g</quant>
+          <zutat>Aprikosen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>360 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Fill_Header>
+      <Einfuellen >
+          <quant>150 g</quant>
+          <zutat>harte Guetzli (z.B. Laeckerli, Nussstaengeli oder Amaretti), wenige beiseitegestellt, Rest in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Pfefferminze zum Verzieren</zutat>
+      </Einfuellen >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wasser mit Zucker aufkochen. Ruehren, bis sich der Zucker vollstaendig aufgeloest hat. Fluessigkeit in einen kleinen Messbecher giessen, auskuehlen. Kirsch oder Zitronensaft darunterruehren. Aprikosen, Zucker und Wasser in derselben Pfanne mischen, aufkochen. Hitze reduzieren, Aprikosen zugedeckt ca. 10 Min. weich koecheln, puerieren. Evtl. Aprikosenpueree durch ein Sieb streichen, auskuehlen. Zitronensaft daruntermischen. Sauren Halbrahm mit Puderzucker mischen.</inhalt>
+      </How_To    >
+      <Einfuellen >
+          <inhalt>Die Haelfte der Guetzli in 4 Glaeser verteilen, mit der Haelfte Fluessigkeit betraeufeln. Die Haelfte des Aprikosenpuerees und des sauren Halbrahms daraufgeben. Vorgang wiederholen. Dessert zugedeckt ca. 30 Min. kuehl stellen. Beiseitegestellte Guetzli grob hacken, auf dem Dessert verteilen. Swiss Kiss mit Pfefferminze verzieren.</inhalt>
+      </Einfuellen >
+   </rezept>
+</Rezept>

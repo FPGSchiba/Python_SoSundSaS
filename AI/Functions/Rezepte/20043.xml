@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>792 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>80 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce_    >
+          <quant>2 1/2 dl</quant>
+          <zutat>Soja-Rahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>4 EL</quant>
+          <zutat>Nussmesan Classic</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer, nach Bedarf</zutat>
+      </Sauce_    >
+      <Spaghetti >
+          <quant>400 g</quant>
+          <zutat>Spaghetti</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaghetti >
+      <Salbei_und_Tofu>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>12 </quant>
+          <zutat>Salbeiblaetter</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherter Tofu, in Wuerfeli</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Salbei_und_Tofu>
+   </einkaufliste>
+   <rezept>
+      <Sauce_    >
+          <inhalt>Soja-Rahm mit Tahina und Nussmesan verruehren, wuerzen. </inhalt>
+      </Sauce_    >
+      <Spaghetti >
+          <inhalt>Spaghetti im Salzwasser al dente kochen, ca. 1 dl Kochwasser beiseite stellen. Teigwaren abtropfen, zugedeckt beiseitestellen.</inhalt>
+      </Spaghetti >
+      <Salbei_und_Tofu>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Salbei knusprig braten, herausnehmen, auf einem Haushaltspapier abtropfen, beiseitestellen. Tofu und Knoblauch in derselben Pfanne ca. 3 Min. anbraten. Spaghetti, beiseitegestelltes Kochwasser und Sauce beigeben, mischen, bis eine saemige Sauce entsteht. Beiseite gestellte Salbeiblaetter und Pfeffer darueberstreuen. </inhalt>
+      </Salbei_und_Tofu>
+   </rezept>
+</Rezept>

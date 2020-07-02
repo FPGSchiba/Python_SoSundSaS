@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>401 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Carpaccio >
+          <quant>250 g</quant>
+          <zutat>weisse Champignons, fein gehobelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Carpaccio >
+      <Knusper-Streusel>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>5 EL</quant>
+          <zutat>Panko oder Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Knusper-Streusel>
+   </einkaufliste>
+   <rezept>
+      <Carpaccio >
+          <inhalt>Pilze auf Teller verteilen. Zitronensaft und Oel verruehren, wuerzen und ueber die Pilze traeufeln. </inhalt>
+      </Carpaccio >
+      <Knusper-Streusel>
+          <inhalt>Oel in einer Bratpfanne erhitzen, Panko, Knoblauch und Petersilie ca. 3 Min. braten, auf den Pilzen verteilen. </inhalt>
+      </Knusper-Streusel>
+   </rezept>
+</Rezept>

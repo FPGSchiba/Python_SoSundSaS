@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>74 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>75 g</quant>
+          <zutat>Datteln, fein gehackt</zutat>
+          <quant>75 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Haferflocken mit den restlichen Zutaten in einer Schuessel mischen. Mit nassen Haenden ca. 18 Kugeln formen, auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </How_To    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

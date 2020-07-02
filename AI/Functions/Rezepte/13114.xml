@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>686 kcal</NaehrwertProPerson>
+       <Fett>54 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lammgigot >
+          <quant>1 </quant>
+          <zutat>Lammgigot (ca. 3 kg)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>160 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Baerlauch, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Lammgigot >
+      <Baerlauch-Aioli>
+          <quant>100 g</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Baerlauch, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Baerlauch-Aioli>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lammgigot                     </inhalt>
+      </How_To    >
+      <Lammgigot >
+          <inhalt>Oel im Bratgeschirr in der unteren Haelfte des auf 240 Grad vorgeheizten Ofens heiss werden lassen. Gigot darin beidseitig je ca. 7 Min. anbraten. Hitze auf 180 Grad reduzieren. Speck-Baerlauchpanade auf dem Fleisch gleichmaessig verteilen, Fleischthermometer an der dicksten Stelle so einstecken, dass es den Knochen nicht beruehrt. Ca. 90 Min. fertig braten. Die Kerntemperatur des Fleisches soll ca. 55 Grad betragen. Fleisch herausnehmen, zugedeckt ca. 15 Min. ruhen lassen.</inhalt>
+      </Lammgigot >
+      <Baerlauch-Aioli>
+          <inhalt>Mayonnaise mit den restlichen Zutaten vermischen. Aioli zum Lammgigot servieren.</inhalt>
+      </Baerlauch-Aioli>
+   </rezept>
+</Rezept>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>479 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aprikosen >
+          <quant>1 TL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>4 </quant>
+          <zutat>Aprikosen, halbiert</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronenthymian</zutat>
+      </Aprikosen >
+      <Porridge  >
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 1/4 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>100 g</quant>
+          <zutat>grobe Vollkorn-Haferflocken</zutat>
+          <quant>40 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Cashewmus</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>3 TL</quant>
+          <zutat>Honig oder Ahornsirup</zutat>
+      </Porridge  >
+      <Anrichten_&amp;_Toppings>
+          <quant>1 EL</quant>
+          <zutat>Nussmischung, geroestet, grob gehackt</zutat>
+          <quant>wenig </quant>
+          <zutat>Honig oder Ahornsirup</zutat>
+          <quant>wenig </quant>
+          <zutat>Zitronenthymian</zutat>
+      </Anrichten_&amp;_Toppings>
+   </einkaufliste>
+   <rezept>
+      <Aprikosen >
+          <inhalt>Kokosoel und Ahornsirup in einer Bratpfanne erhitzen. Aprikosen mit den Schnittflaechen nach unten in die Pfanne legen, Thymian darauf verteilen. Aprikosen ca. 3 Min. erhitzen und caramelisieren. Aprikosen wenden, 1 Min. fertigbraten. Pfanne von der Herdplatte nehmen.</inhalt>
+      </Aprikosen >
+      <Porridge  >
+          <inhalt>Wasser mit 2 dl Mandel-Drink und Salz aufkochen. Haferflocken beigeben, aufkochen, Hitze reduzieren, bei mittlerer Hitze unter gelegentlichem Ruehren ca. 5 Min. kochen. Cashewmus, Vanille und Honig unter den Porridge ruehren. Pfanne von der Herplatte nehmen, restliche 1 1/4 dl Mandel-Drink darunterruehren. Porridge in Schalen verteilen.</inhalt>
+      </Porridge  >
+      <Anrichten_&amp;_Toppings>
+          <inhalt>Aprikosen auf dem Porridge verteilen, mit Nuessen, Honig und Thymian verzieren.</inhalt>
+      </Anrichten_&amp;_Toppings>
+   </rezept>
+</Rezept>

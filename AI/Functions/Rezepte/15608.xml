@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>428 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bouillon  >
+          <quant>2 Liter</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , laengs halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+          <quant>30 g</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+      </Bouillon  >
+      <Wachsei   >
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Wachsei   >
+      <Suppe     >
+          <quant>200 g</quant>
+          <zutat>Reisnudeln</zutat>
+          <quant>200 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>300 g</quant>
+          <zutat>Rindshuft, in feinen Tranchen</zutat>
+      </Suppe     >
+      <Garnieren >
+          <quant>30 g</quant>
+          <zutat>Micro Greens </zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, in Schnitzen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Pfefferminze, Blaetter abgezupft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, Blaetter abgezupft</zutat>
+      </Garnieren >
+   </einkaufliste>
+   <rezept>
+      <Bouillon  >
+          <inhalt>Bouillon mit allen Zutaten bis und mit Ingwer in einer Pfanne aufkochen. </inhalt>
+      </Bouillon  >
+      <Wachsei   >
+          <inhalt>Eier im siedenden Wasser ca. 7 Min. wachsweich kochen, in kaltem Wasser abschrecken.</inhalt>
+      </Wachsei   >
+      <Suppe     >
+          <inhalt>Nudeln, Sprossen und Bundzwiebel in die Bouillon geben, ca. 8 Min. koecheln. Fleisch beigeben, sofort in Suppenschalen anrichten. </inhalt>
+      </Suppe     >
+      <Garnieren >
+          <inhalt>Eier schaelen, halbieren, in die Suppe geben. Micro Greens darauf verteilen. Limette, Minze und Koriander dazu servieren. </inhalt>
+      </Garnieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

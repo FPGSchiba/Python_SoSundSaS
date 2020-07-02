@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>180 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Masse     >
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>65 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>150 g</quant>
+          <zutat>entsteinte Datteln</zutat>
+          <quant>55 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Cashewmus</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 2 EL Saft</zutat>
+          <quant>20 g</quant>
+          <zutat>Quinoapops</zutat>
+      </Masse     >
+      <Glasur    >
+          <quant>50 g</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosfett</zutat>
+          <quant>3 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, Saft fuer die Glasur, abgeriebene Schale zum Verzieren</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Masse                         </inhalt>
+      </How_To    >
+      <Masse     >
+          <inhalt>Glasur                        </inhalt>
+      </Masse     >
+      <Glasur    >
+          <inhalt>Zugedeckt mind. 3 Std. kuehl stellen. Vor dem Servieren mit Zitronenschale verzieren, in 16 Quadrate schneiden.</inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>570 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>30 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>80 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>7 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>1 EL</quant>
+          <zutat>sofort loesliches Kaffeepulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Boden     >
+      <Schokoladen-Schicht>
+          <quant>200 g</quant>
+          <zutat>Cashew-Nuesse, ueber Nacht in Wasser eingelegt</zutat>
+          <quant>100 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>40 g</quant>
+          <zutat>dunkle Schokolade, geschmolzen</zutat>
+          <quant>50 ml</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>175 ml</quant>
+          <zutat>Mandeldrink, warm</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kakaobutter, geschmolzen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>2 TL</quant>
+          <zutat>sofort loesliches Kaffeepulver</zutat>
+      </Schokoladen-Schicht>
+      <Creme-Schicht>
+          <quant>60 g</quant>
+          <zutat>Cashew-Nuesse, ueber nacht in Wasser eingeweicht</zutat>
+          <quant>150 ml</quant>
+          <zutat>Kokosmilch oder Kokoscreme*</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Creme-Schicht>
+      <Verzieren >
+          <quant>wenig </quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Cocoa Nibs</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Boden                         </inhalt>
+      </How_To    >
+      <Boden     >
+          <inhalt>Schokoladen-Schicht           </inhalt>
+      </Boden     >
+      <Schokoladen-Schicht>
+          <inhalt>Creme-Schicht                 </inhalt>
+      </Schokoladen-Schicht>
+      <Creme-Schicht>
+          <inhalt>* Kokoscreme ist der hart gewordene Teil von Kokosmilch in der Dose, wenn man sie ueber Nacht in den Kuehlschrank stellt.</inhalt>
+      </Creme-Schicht>
+      <Verzieren >
+          <inhalt>Vor dem Servieren mit Kakaopulver bestaeuben und mit Cocoa Nibs verzieren.</inhalt>
+      </Verzieren >
+   </rezept>
+</Rezept>

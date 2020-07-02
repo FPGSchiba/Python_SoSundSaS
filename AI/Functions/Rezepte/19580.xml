@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>520 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mischung  >
+          <quant>100 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>80 g</quant>
+          <zutat>weiche Doerraprikosen</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+          <quant>250 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandelblaettchen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>3 EL</quant>
+          <zutat>Aprikosenkonfituere</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>80 g</quant>
+          <zutat>weiche Doerraprikosen</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+          <quant>250 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandelblaettchen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>3 EL</quant>
+          <zutat>Aprikosenkonfituere</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+      </Mischung  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mischung                      </inhalt>
+      </How_To    >
+      <Mischung  >
+          <inhalt>                              </inhalt>
+      </Mischung  >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens, dabei 3 bis 4 Mal wenden. Herausnehmen, auskuehlen lassen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

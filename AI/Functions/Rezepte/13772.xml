@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>341 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kirschen-Marmorierung>
+          <quant>50 g</quant>
+          <zutat>Kirschen</zutat>
+          <quant>20 g</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Kirschen-Marmorierung>
+      <Sauerrahm-Glace>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>400 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+      </Sauerrahm-Glace>
+      <Grillierte_Nektarinen>
+          <quant>4 </quant>
+          <zutat>Nektarinen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Grillierte_Nektarinen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kirschen-Marmorierung         </inhalt>
+      </How_To    >
+      <Kirschen-Marmorierung>
+          <inhalt>Kirschen entsteinen, mit Gelierzucker und Wasser in einer Pfanne mischen, aufkochen, ca. 2 Min. koecheln. </inhalt>
+      </Kirschen-Marmorierung>
+      <How_To1   >
+          <inhalt>Kirschen puerieren, durch ein Sieb in einen Messbecher streichen, auskuehlen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Sauerrahm-Glace               </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Rahm steif schlagen, mit dem Gummischaber sorgfaeltig unter die Masse ziehen.</inhalt>
+      </How_To3   >
+      <Sauerrahm-Glace>
+          <inhalt>Kirschenmasse mit einer Gabel sorgfaeltig darunterziehen, zugedeckt ca. 3 Std. fertig gefrieren. </inhalt>
+      </Sauerrahm-Glace>
+      <Grillierte_Nektarinen>
+          <inhalt>Nektarinen halbieren, Schnittflaechen mit Zucker bestreuen. In einer Grillpfanne beidseitig je ca. 3 Min. grillieren. </inhalt>
+      </Grillierte_Nektarinen>
+      <Servieren >
+          <inhalt>Glace ca. 15 Min. vor dem Servieren aus dem Tiefkuehler nehmen. Kugeln formen, auf den Nektarinen servieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

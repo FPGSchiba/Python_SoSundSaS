@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>466 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramelisierte_Nuesse>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>30 g</quant>
+          <zutat>Pekannuesse, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Caramelisierte_Nuesse>
+      <Sud       >
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>trockener weisser Vermouth (z. B. Nolly Prat) oder Orangensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Fenchel, fein gehobelt</zutat>
+          <quant>600 g</quant>
+          <zutat>Lachsrueckenfilet, in 4 gleich grossen Tranchen</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Sud       >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Caramelisierte Nuesse          </inhalt>
+      </How_To    >
+      <Caramelisierte_Nuesse>
+          <inhalt>Sud                           </inhalt>
+      </Caramelisierte_Nuesse>
+      <Sud       >
+          <inhalt>Lachs und Fenchel in den Sud geben, ca. 5 Min. knapp unter dem Siedepunkt ziehen lassen, salzen. Fisch mit dem Fenchel und wenig Sud  in tiefen Tellern anrichten, Pekannuesse darueberstreuen.</inhalt>
+      </Sud       >
+   </rezept>
+</Rezept>

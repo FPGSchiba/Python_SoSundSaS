@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>256 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Speck_braten>
+          <quant>150 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>75 g</quant>
+          <zutat>Jungspinat, grob gehackt</zutat>
+      </Speck_braten>
+      <Muffins   >
+          <quant>300 g</quant>
+          <zutat>glutenfreies Mehl (Schaer)</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>glutenfreies Backpulver (Dr. Oetker)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>lactosefreie Milch</zutat>
+          <quant>100 g</quant>
+          <zutat>Baumnusskerne, geroestet, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>lactosefreier Feta, in Wuerfeli</zutat>
+      </Muffins   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Speck braten                  </inhalt>
+      </How_To    >
+      <Speck_braten>
+          <inhalt>Muffins                       </inhalt>
+      </Speck_braten>
+      <Muffins   >
+          <inhalt>Feta darauflegen, etwas andruecken. </inhalt>
+      </Muffins   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Muffins aus dem Blech nehmen, lauwarm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

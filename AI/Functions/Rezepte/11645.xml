@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>356 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>600 g</quant>
+          <zutat>geschnetzeltes Schweinefleisch</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino</zutat>
+          <quant>200 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>20 g</quant>
+          <zutat>Sesam</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel im Wok oder einer weiten Bratpfanne erhitzen. Fleisch portionenweise je ca. 4 Min. anbraten, herausnehmen, wuerzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bundzwiebeln fein hacken, Gruen in Ringe schneiden, beiseite stellen. Peperoncino entkernen, in Ringe schneiden. Wenig Oel in derselben erhitzen, Bundzwiebeln, Peperoncino ca. 2 Min. ruehrbraten. Sojasauce und Wasser beigeben, zugedeckt ca. 2 Min. koecheln.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Sesam roesten, mit beiseite gestelltem Zwiebelgruen, Mungbohnensprossen und Fleisch beigeben, mischen, nur noch heiss werden lassen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Dazu passt: Basmati- oder Parfumreis.</inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+</Rezept>

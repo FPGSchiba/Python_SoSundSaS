@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>572 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Couscous  >
+          <quant>5 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>400 g</quant>
+          <zutat>Bundrueebli, laengs und evtl. quer halbiert</zutat>
+          <quant>300 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Pfeffer</zutat>
+      </Couscous  >
+      <Lammfilets>
+          <quant>2 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>8 </quant>
+          <zutat>Lammfilets (ca. 550 g)</zutat>
+      </Lammfilets>
+   </einkaufliste>
+   <rezept>
+      <Couscous  >
+          <inhalt>Bouillon in einer grossen Pfanne aufkochen, Rueebli beigeben, Hitze reduzieren, ca. 5 Min. koecheln, von der Platte nehmen. Couscous und Spinat beigeben, mit einer Gabel mischen, zugedeckt ca. 5 Min. quellen lassen. Minze beigeben, mit einer Gabel mischen, wuerzen.</inhalt>
+      </Couscous  >
+      <Lammfilets>
+          <inhalt>Oel mit dem Knoblauch verruehren, wuerzen. Filets beigeben, mischen. Eine weite beschichtete Bratpfanne erhitzen, Filets beidseitig je ca. 2 Min. braten, herausnehmen, auf dem Fruehlings-Couscous anrichten.</inhalt>
+      </Lammfilets>
+   </rezept>
+</Rezept>

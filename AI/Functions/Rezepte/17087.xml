@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>590 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>57 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 </quant>
+          <zutat>Zwiebel, halbiert</zutat>
+          <quant>2 </quant>
+          <zutat>Nelken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli, in Staengeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Knollensellerie, in ca. 3 cm grossen Wuerfeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Lauch, in ca. 3 cm grossen Stuecken</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, mit den Stielen grob gehackt</zutat>
+          <quant>8 </quant>
+          <zutat>Pfefferkoerner</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>5 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 kg</quant>
+          <zutat>Rindfleisch zum Sieden (z.B. Huftdeckel)</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, halbiert, entkernt</zutat>
+      </Fleisch   >
+      <Meerrettich-Sauce_>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Meerrettich, fein gerieben</zutat>
+      </Meerrettich-Sauce_>
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Zwiebel mit Nelken bespicken. Oel in einem Brattopf erhitzen. Zwiebel und alle Zutaten bis und mit Pfefferkoerner unter gelegentlichem Ruehren ca. 5 Min. anbraten. Wasser dazugiessen, Lorbeerblaetter und Thymian beigeben, aufkochen. Hitze reduzieren, ca. 10 Min. koecheln, Sojasauce beigeben, salzen. Fleisch beigeben, nochmals aufkochen. Zugedeckt  knapp unter dem Siedepunkt ca. 3 Std. ziehen lassen. Chili ca. 30 Min. vor Ende der Garzeit beigeben. </inhalt>
+      </Fleisch   >
+      <Meerrettich-Sauce_>
+          <inhalt>Butter in einer Pfanne erwaermen. Mehl unter Ruehren mit dem Schwingbesen bei mittlerer Hitze in der warmen Butter duensten. Das Mehl darf dabei keine Farbe annehmen. Pfanne von der Platte nehmen. 1 dl Sud und Rahm auf einmal zum Mehl giessen, unter Ruehren aufkochen, Hitze reduzieren. Sauce salzen, Meerrettich beigeben, bei mittlerer Hitze unter gelegentlichem Ruehren ca. 10 Min. koecheln, bis die Sauce saemig ist. </inhalt>
+      </Meerrettich-Sauce_>
+      <Anrichten >
+          <inhalt>Tafelspitz aus dem Sud nehmen, in Tranchen schneiden, auf einer Platte anrichten, etwas Sud daruebergiessen und Sauce dazu servieren. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

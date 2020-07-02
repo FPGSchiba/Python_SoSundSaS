@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>290 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>3 EL</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Chicoree, in Blaettern</zutat>
+          <quant>140 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+          <quant>100 g</quant>
+          <zutat>Pecorino romano, in Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, geroestet, grob gehackt</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Dill, grob geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mayonnaise, Jogurt und Zitronensaft verruehren, wuerzen. Sauce in die Vertiefungen der Chicoree-Blaetter verteilen. Granatapfelkerne, Kaese, Nuesse und Dill mischen, darueberstreuen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

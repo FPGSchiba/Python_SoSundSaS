@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>945 kcal</NaehrwertProPerson>
+       <Fett>67 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>54 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>20 g</quant>
+          <zutat>getrocknete Morcheln</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>800 g</quant>
+          <zutat>Fondue Kaesemischung  (z.B. "moitie-moitie")</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>4 dl</quant>
+          <zutat>Champagner</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Cognac</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Morcheln in Wasser einweichen, gut abspuelen, abtropfen. Schalotten fein hacken, Knoblauch pressen, Thymian fein schneiden. Butter im Caquelon erwaermen, Schalotten, Knoblauch und Thymian andaempfen. Grosse Morcheln grob hacken, kleine ganz beigeben, mitdaempfen, Caquelon von der Platte nehmen, auskuehlen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Fonduemischung beigeben, Maizena daruntermischen. Champagner und Zitronensaft dazugiessen, unter Ruehren aufkochen, Hitze reduzieren, unter Ruehren weiterkoecheln, bis der Kaese geschmolzen ist. Cognac beigeben, wuerzen. </inhalt>
+      </How_To1   >
+      <Servieren:>
+          <inhalt>Fondue am Tisch auf einem Rechaud bei kleiner Hitze koecheln.</inhalt>
+      </Servieren:>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

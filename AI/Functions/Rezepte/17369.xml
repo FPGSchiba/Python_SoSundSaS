@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>284 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Heller_Teig>
+          <quant>250 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>3 TL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>50 g</quant>
+          <zutat>Margarine, fluessig, abgekuehlt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>80 g</quant>
+          <zutat>Apfelmus</zutat>
+          <quant>1 dl</quant>
+          <zutat>Haferdrink</zutat>
+      </Heller_Teig>
+      <Marmorierung>
+          <quant>1 1/4 dl</quant>
+          <zutat>Haferdrink</zutat>
+          <quant>40 g</quant>
+          <zutat>Kakaopulver</zutat>
+      </Marmorierung>
+      <Gebrannte_Mandeln_&amp;_Glasur>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>40 g</quant>
+          <zutat>dunkle Schokolade (50% Kakao)</zutat>
+          <quant>40 g</quant>
+          <zutat>Margarine</zutat>
+      </Gebrannte_Mandeln_&amp;_Glasur>
+   </einkaufliste>
+   <rezept>
+      <Heller_Teig>
+          <inhalt>Mehl mit Backpulver, Natron und Salz in einer Schuessel mischen. Zucker und alle Zutaten bis und mit Haferdrink beigeben, rasch zu einem glatten Teig vermischen. Die Haelfte des Teiges in die vorbereitete Form fuellen. </inhalt>
+      </Heller_Teig>
+      <Marmorierung>
+          <inhalt>Haferdrink und Kakao gut verruehren, unter die zweite Teighaelfte mischen, in die Form fuellen. Mit einer Gabel spiralfoermig ruehren und die beiden Teighaelften marmorieren.</inhalt>
+      </Marmorierung>
+      <Backen    >
+          <inhalt>ca. 50 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Mit einem Holzstaebchen pruefen, ob der Kuchen durchgebacken ist. Herausnehmen, etwas abkuehlen, auf ein Gitter stuerzen, auskuehlen.</inhalt>
+      </Backen    >
+      <Gebrannte_Mandeln_&amp;_Glasur>
+          <inhalt>Wasser, Vanillezucker, Lebkuchengewuerz und Zucker in einer Gusseisen- oder Chromstahlpfanne aufkochen. Mandeln zugeben, Fluessigkeit unter staendigem Ruehren bei mittlerer Hitze einkochen, bis der Zucker trocken wird. Weiterruehren, bis dieser wieder leicht zu schmelzen beginnt und die Mandeln glaenzend ueberzieht. Masse sofort auf ein Backblech verteilen, auskuehlen lassen. Fuer die Glasur Schokolade und Margarine im Wasserbad schmelzen. Glasur auf dem Gugelhopf verteilen, gebrannte Mandeln darauf verteilen, fest werden lassen.</inhalt>
+      </Gebrannte_Mandeln_&amp;_Glasur>
+   </rezept>
+</Rezept>

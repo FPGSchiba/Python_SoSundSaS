@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>371 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mousse    >
+          <quant>5 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm, davon 2 EL beiseitegestellt</zutat>
+      </Mousse    >
+      <Sauce     >
+          <quant>4 EL</quant>
+          <zutat>Dulce de leche</zutat>
+      </Sauce     >
+      <Servieren >
+          <quant>250 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Mousse    >
+          <inhalt>Milch mit Zucker und Salz unter Ruehren in einer Pfanne aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren ca. 30 Min. auf ca. 3 dl einkochen. Gelatine unter die heisse Milch ruehren. Masse durch ein Sieb in eine Schuessel giessen. Auskuehlen, kuehl stellen, bis die Creme am Rand leicht fest ist. Rahm steif schlagen, unter die Masse ziehen, zugedeckt ca. 3 Std. kuehl stellen. </inhalt>
+      </Mousse    >
+      <Sauce     >
+          <inhalt>Dulce de leche mit beiseitegestelltem Rahm glatt ruehren. </inhalt>
+      </Sauce     >
+      <Servieren >
+          <inhalt>Erdbeeren mit Zucker und Zitronensaft mischen, ca. 10 Min. ziehen lassen. Mousse mit 2 Essloeffeln zu ovalen Kloesschen formen. Auf Tellern anrichten und mit Dulce de leche Sauce und Erdbeeren verzieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>370 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaese-Schinken-Paeckli>
+          <quant>50 g</quant>
+          <zutat>Schinkenwuerfeli</zutat>
+          <quant>80 g</quant>
+          <zutat>Appenzeller (extra wuerzig), in Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>Maiskoerner, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Rolle Pastateig (ca. 16 x 56 cm, ca. 125 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Kaese-Schinken-Paeckli>
+      <Salat     >
+          <quant>1 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>200 g</quant>
+          <zutat>gemischter Blattsalat</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kaese-Schinken-Paeckli          </inhalt>
+      </How_To    >
+      <Kaese-Schinken-Paeckli>
+          <inhalt>Fuer die Fuellung Schinken, Kaese, Maiskoerner und Petersilie in einer Schuessel mischen, wuerzen. Pastateig entrollen, laengs halbieren, je in 8 gleich grosse Stuecke schneiden, mit Wasser bestreichen.</inhalt>
+      </Kaese-Schinken-Paeckli>
+      <How_To1   >
+          <inhalt>Backen: ca. 8 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, warm servieren.</inhalt>
+      </How_To1   >
+      <Salat     >
+          <inhalt>Fuer die Salatsauce Senf mit Essig und Oel verruehren, wuerzen. Kurz vor dem Servieren mit dem Salat mischen. Zu den Kaese-Schinken-Paeckli servieren.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

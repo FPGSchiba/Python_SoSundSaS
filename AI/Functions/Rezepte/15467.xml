@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>236 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sirup     >
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>120 g</quant>
+          <zutat>Fenchelstaengel (Abschnitte von ca. 3 Fencheln), in ca. 1/2 cm dicken Scheiben</zutat>
+      </Sirup     >
+      <Trocknen  >
+          <quant>wenig </quant>
+          <zutat>Zucker</zutat>
+      </Trocknen  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sirup                         </inhalt>
+      </How_To    >
+      <Sirup     >
+          <inhalt>Das Wasser mit dem Zucker aukochen, ruehren, bis sich der Zucker geloest hat. Den Fenchel beigeben und einige Minuten mitkoecheln (er sollte noch etwas knackig sein). Pfanne von der Herdplatte nehmen, alles zugedeckt ca. 6 Std. ziehen lassen. Fenchel absieben, die Fluessigkeit auffangen (ergibt ca. 1 dl) und als Sirup verwenden.</inhalt>
+      </Sirup     >
+      <How_To1   >
+          <inhalt>Die Fenchel-Scheiben auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </How_To1   >
+      <Trocknen  >
+          <inhalt>Wenn der Fenchel noch leicht klebrig ist, mit Zucker bestreuen. trocknen lassen.</inhalt>
+      </Trocknen  >
+   </rezept>
+</Rezept>

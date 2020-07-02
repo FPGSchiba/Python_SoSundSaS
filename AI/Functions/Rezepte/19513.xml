@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>332 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Teig_     >
+      <Rhabarberkonfi_>
+          <quant>100 g</quant>
+          <zutat>Rhabarber, in Stueckchen</zutat>
+          <quant>40 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>80 g</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+      </Rhabarberkonfi_>
+      <Frittieren>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Frittieren>
+      <Fuellen_   >
+          <quant>2 EL</quant>
+          <zutat>Puderzucker, zum Bestaeuben</zutat>
+      </Fuellen_   >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl, Zucker, Salz und Hefe in einer Schuessel mischen. Ei, Milch und Butter mischen, beigeben, ca. 10 Min. zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std.  aufs Doppelte aufgehen lassen. Teig in 8 Portionen teilen, zu Kugeln formen, auf ein Backpapier setzen, zugedeckt bei Raumtemperatur ca. 30 Min. aufgehen lassen.</inhalt>
+      </Teig_     >
+      <Rhabarberkonfi_>
+          <inhalt>Rhabarber mit den Himbeeren und dem Zucker in einer weiten Pfanne mischen, aufkochen, unter Ruehren ca. 4 Min. kochen. Rhabarbermasse etwas abkuehlen, puerieren, auskuehlen. </inhalt>
+      </Rhabarberkonfi_>
+      <Frittieren>
+          <inhalt>Brattopf bis 1/3 Hoehe mit Oel fuellen, auf ca. 160 Grad erhitzen. Teigkugeln vor dem Frittieren mit der Hand flachdruecken, portionenweise mit einer Schaumkelle, so in die Pfanne legen, dass die Unterseite nach oben zeigt, beidseitig je ca. 4 Min. frittieren. Herausnehmen, auf Haushaltpapier abtropfen.</inhalt>
+      </Frittieren>
+      <Fuellen_   >
+          <inhalt>Berliner mit einem Trinkhalm bis zu 2/3 einstechen, einige Male hin- und herfahren, bis die Oeffnung ca. 5 mm breit ist. Konfituere in einen Spritzsack mit glatter Tuelle (ca. 5 mm Ø) geben, in die Berliner spritzen. Berliner mit Puderzucker bestaeuben.</inhalt>
+      </Fuellen_   >
+   </rezept>
+</Rezept>

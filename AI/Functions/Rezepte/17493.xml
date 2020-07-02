@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>366 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>76 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Backpulver_backen_(siehe_Hinweis)>
+          <quant>3 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+      </Backpulver_backen_(siehe_Hinweis)>
+      <Nudelteig >
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Nudelteig >
+      <Formen    >
+          <quant>3 EL</quant>
+          <zutat>Weizenstaerke (Epifin)</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Backpulver_backen_(siehe_Hinweis)>
+          <inhalt>Backpulver auf einem mit Backpapier belegtes Blech geben, ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens backen. Herausnehmen, auskuehlen, gut verschliessen.</inhalt>
+      </Backpulver_backen_(siehe_Hinweis)>
+      <Nudelteig >
+          <inhalt>Wasser und 11/2 TL vom gebackenen Backpulver verruehren. Mehl und Salz in einer Schuessel mischen. Wasser beigeben, mit dem Knethacken der Kuechenmaschine ca. 5 Min. auf niedriger Stufe zu einer kruemeligen Masse mischen. Schuessel zugedeckt ca. 30 Min. ruhen lassen. Nochmals ca. 5 Min. kneten, aus der Schuessel nehmen und von Hand nochmals ca. 5 Min. zu einem geschmeidigen Teig kneten. Teig zu gedeckt ca. 30 Min. ruhen lassen. </inhalt>
+      </Nudelteig >
+      <Formen    >
+          <inhalt>Teig halbieren, mehrmals durch die Walze mit dem groessten Walzenabstand drehen, dabei immer wieder zusammen falten, zugedeckt ca. 30 Min. ruhen lassen. Teig mit der Nudelmaschine immer duenner auswallen (bis ca. 3. duennster Walzenabstand). Teigblaetter durch den Spaghettiaufsatz der Nudelmaschine drehen oder ausgewallten Teig mit Epifin bestreuen, ausrollen und duenne Nudeln schneiden. Ramennudeln mit Epifin mischen, trocknen lassen. </inhalt>
+      </Formen    >
+   </rezept>
+</Rezept>

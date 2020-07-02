@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>662 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Romanesco_und_Kartoffeln>
+          <quant>500 g</quant>
+          <zutat>Romanesco, in Roeschen</zutat>
+          <quant>500 g</quant>
+          <zutat>Fruehkartoffeln, laengs geviertelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Romanesco_und_Kartoffeln>
+      <Fuellung_  >
+          <quant>150 g</quant>
+          <zutat>Frischkaese (z.B.Tartare Frischkaese Fleur de Sel)</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Baerlauch (ca. 10 g), fein geschnitten</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Apfelringe (weich), fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+      </Fuellung_  >
+      <Involtini_>
+          <quant>8 </quant>
+          <zutat>duenne Kalbsplaetzli (je ca. 60 g) flach geklopft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>70 g</quant>
+          <zutat>Mostbroeckli</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Baerlauch, fein geschnitten</zutat>
+      </Involtini_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Romanesco und Kartoffeln      </inhalt>
+      </How_To    >
+      <Romanesco_und_Kartoffeln>
+          <inhalt>Backen: ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Romanesco_und_Kartoffeln>
+      <Fuellung_  >
+          <inhalt>Frischkaese, Baerlauch, Aepfel und Pfeffer verruehren. </inhalt>
+      </Fuellung_  >
+      <Involtini_>
+          <inhalt>Kalbsplaetzli wuerzen, Mostbroeckli darauf legen, Fuellung darauf verteilen, Plaetzli aufrollen, mit je einem Zahnstocher fixieren. Oel in einer Bratpfanne erhitzen, Involtini rundum ca. 4 Min. braten. Herausnehmen, warmstellen. Rahm, Bouillon und Ahornsirup dazugiessen, ca. 10 Min. einkoecheln.  Fleisch wieder beigeben, nur noch warm werden lassen. Baerlauch beigeben. Involtini mit dem Romanesco und Kartoffeln servieren.</inhalt>
+      </Involtini_>
+   </rezept>
+</Rezept>

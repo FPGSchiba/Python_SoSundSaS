@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>286 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig  >
+          <quant>150 g</quant>
+          <zutat>lactosefreie Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>250 g</quant>
+          <zutat>glutenfreies Mehl (Schaer)</zutat>
+          <quant>1 TL</quant>
+          <zutat>glutenfreies Backpulver (Dr. Oetker)</zutat>
+          <quant>600 g</quant>
+          <zutat>Kirschen, entsteint (ergibt ca. 500 g)</zutat>
+      </Ruehrteig  >
+      <Mandelstreusel>
+          <quant>100 g</quant>
+          <zutat>Mandelstifte</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>lactosefreie Butter</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Mandelstreusel>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ruehrteig                      </inhalt>
+      </How_To    >
+      <Ruehrteig  >
+          <inhalt>Mandelstreusel                </inhalt>
+      </Ruehrteig  >
+      <Mandelstreusel>
+          <inhalt>Backen: ca. 40 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, in der Form auf einem Gitter auskuehlen. Mit Puderzucker bestaeuben.</inhalt>
+      </Mandelstreusel>
+   </rezept>
+</Rezept>

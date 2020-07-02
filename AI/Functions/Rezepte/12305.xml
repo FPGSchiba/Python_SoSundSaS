@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>240 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorteig   >
+          <quant>150 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>2 Paeckli</quant>
+          <zutat>Sauerteigpulver (je ca. 10 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rahmquark oder Creme fraiche</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+      </Vorteig   >
+      <Sauerteigbrot_>
+          <quant>275 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe  (ca. 7 g)</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Mohn</zutat>
+      </Sauerteigbrot_>
+   </einkaufliste>
+   <rezept>
+      <Vorteig   >
+          <inhalt>Mehl, Sauerteigpulver, Quark und Wasser verruehren, zugedeckt bei Zimmertemperatur ca. 12 Std. ruhen lassen.</inhalt>
+      </Vorteig   >
+      <Sauerteigbrot_>
+          <inhalt>Mehl, Salz, Wasser, Hefe und Vorteig mit den Knethaken des Handruehrgeraets auf der niedrigsten Stufe zu einem weichen Teig kneten. Nach Bedarf wenig Wasser oder Mehl beigeben, zugedeckt bei Raumtemperatur ca. 3 Std. ruhen lassen. Teig nochmals kneten, rund formen, mit wenig Wasser bestreichen, mit Mohn bestreuen und zugedeckt  ca. 1 Std. aufgehen lassen. </inhalt>
+      </Sauerteigbrot_>
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

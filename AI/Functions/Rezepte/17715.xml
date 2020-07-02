@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>440 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dip       >
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>2 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dip       >
+      <Spiessli_ >
+          <quant>1 </quant>
+          <zutat>Zucchetti, in duennen Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, laengs gedrittelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Kalbsbratwuerste</zutat>
+          <quant>8 </quant>
+          <zutat>Salbeiblaetter</zutat>
+          <quant>4 </quant>
+          <zutat>Holzspiesschen</zutat>
+      </Spiessli_ >
+   </einkaufliste>
+   <rezept>
+      <Dip       >
+          <inhalt>Senf, Creme fraiche und Salbei mischen, wuerzen.</inhalt>
+      </Dip       >
+      <Spiessli_ >
+          <inhalt>Zucchetti und Bundzwiebeln mit Oel bestreichen, salzen, mit den Wuersten und Salbeiblaettern abwechslungsweise an die Spiesschen stecken. </inhalt>
+      </Spiessli_ >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+          <inhalt>Spiessli ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 12 Min. grillieren, in 4 Spiesse schneiden, mit dem Dip servieren. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+   </rezept>
+</Rezept>

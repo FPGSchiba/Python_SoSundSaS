@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>413 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kichererbsen_einweichen>
+          <quant>300 g</quant>
+          <zutat>getrocknete Kichererbsen</zutat>
+      </Kichererbsen_einweichen>
+      <Falafel   >
+          <quant>1 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>2 </quant>
+          <zutat>rote Chilis</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Falafel   >
+      <Backen    >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Backen    >
+      <Kraeutersalat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>30 g</quant>
+          <zutat>Micro Greens </zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+      </Kraeutersalat>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kichererbsen einweichen       </inhalt>
+      </How_To    >
+      <Kichererbsen_einweichen>
+          <inhalt>Kichererbsen ca. 12 Std. in Wasser einweichen, abtropfen.</inhalt>
+      </Kichererbsen_einweichen>
+      <How_To1   >
+          <inhalt>Falafel                       </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Kichererbsen, Koriander, Knoblauch, Chili und alle Zutaten bis und mit Salz mischen, von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden.  </inhalt>
+      </How_To2   >
+      <Falafel   >
+          <inhalt>Backen                        </inhalt>
+      </Falafel   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens backen. </inhalt>
+      </Backen    >
+      <Kraeutersalat>
+          <inhalt>Von der Petersilie und Koriander die Blaettchen abzupfen. Zitronensaft und Oel verruehren, salzen. Micro Greens, Petersilie und Koriander beigeben, mischen. Jogurt mit dem Kreuzkuemmel verruehren, salzen. Falafel-Pizzette mit dem Jogurt bestreichen, Kraeutersalat darauf verteilen. Granatapfelkerne darueberstreuen.</inhalt>
+      </Kraeutersalat>
+   </rezept>
+</Rezept>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>556 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gnocchi   >
+          <quant>750 g</quant>
+          <zutat>Gschwellti (mehlig kochende Sorte), heiss gekocht</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+      </Gnocchi   >
+      <Lachssauce>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>5 </quant>
+          <zutat>weisse Pfefferkoerner</zutat>
+          <quant>3 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Estragon</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Rauchlachs</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Lachssauce>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gnocchi                       </inhalt>
+      </How_To    >
+      <Gnocchi   >
+          <inhalt>Gschwellti heiss schaelen. Heisse Kartoffelstuecke durchs Passe-Vite in eine Schuessel treiben, etwas abkuehlen. Ei verklopfen.</inhalt>
+      </Gnocchi   >
+      <How_To1   >
+          <inhalt>Mehl, Kaese, Ei, Salz und Muskat mit dem Kartoffelschnee mischen, evtl. noch etwas Mehl beigeben. Die Masse sollte noch feucht sein, aber nicht mehr an den Haenden kleben.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Formen: Gnocchi-Masse auf wenig Mehl zu 4 Rollen von ca. 1 1/4 cm Ø formen. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Rollen in ca. 2 cm lange Stuecke schneiden.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Die Teigstuecke in Kugeln formen, diese ueber die Zinken einer Gabel rollen, sodass ein Rillenmuster entsteht. Gnocchi in 4 Portionen im knapp siedenden Salzwasser je ca. 5 Min. ziehen lassen. Mit einer Schaumkelle herausnehmen, abtropfen, zugedeckt warm stellen.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Schalotte fein hacken. Pfefferkoerner zerdruecken. Wein mit Schalotte, Estragon und Pfefferkoernern aufkochen, ca. 5 Min. auf die Haelfte einkochen. Absieben, zurueck in die Pfanne giessen.</inhalt>
+      </How_To5   >
+      <Lachssauce>
+          <inhalt> Lachs in ca. 2 cm breite Streifen schneiden, beigeben, nur noch warm werden lassen, wuerzen. Lachssauce zu den Gnocchi servieren.</inhalt>
+      </Lachssauce>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=4M9aCltvKo4"/>
+</Rezept>

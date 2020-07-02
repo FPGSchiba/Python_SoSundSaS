@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>509 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>600 g</quant>
+          <zutat>Rindsvoressen, in Wuerfeln</zutat>
+          <quant>30 g</quant>
+          <zutat>mexikanische Gewuerzmischung (z.B. old el Paso)</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Rueebli, grob gerieben</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>8 </quant>
+          <zutat>Weizen-Tortillas (z. B. Old el Paso)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wenig Oel im Brattopf erhitzen. Fleisch wuerzen, portionenweise je ca. 5 Min. anbraten, herausnehmen, Hitze reduzieren.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Zwiebel und Rueebli kurz andaempfen. Wein dazugiessen, zur Haelfte einkochen. Wasser beigeben, aufkochen, Hitze reduzieren. Fleisch wieder beigeben, zugedeckt bei kleiner Hitze ca. 2 Std. schmoren. Fleisch mit einer Gabel zerzupfen, offen ca. 20 Min. fertigkoecheln.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Tortillas nach Angabe auf der Verpackung zubereiten, mit der Fleischfuellung servieren. </inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

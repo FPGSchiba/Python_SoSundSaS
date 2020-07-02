@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>296 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vanillerisotto>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>250 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>7 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Vanillerisotto>
+      <Portweinjus>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+      </Portweinjus>
+      <Rehschnitzel>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>8 </quant>
+          <zutat>Rehschnitzel (je ca. 70 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>roter Portwein</zutat>
+          <quant>4 </quant>
+          <zutat>Feigen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wildfond</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Rehschnitzel>
+      <Portweinjus>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+      </Portweinjus>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vanillerisotto                </inhalt>
+      </How_To    >
+      <Vanillerisotto>
+          <inhalt>Zwiebel fein hacken. Butter warm werden lassen. Zwiebel andaempfen, Knoblauch dazupressen.</inhalt>
+      </Vanillerisotto>
+      <How_To1   >
+          <inhalt>Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Vanilleschote laengs halbieren, Samen auskratzen, beides beigeben. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Wasser salzen, unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 20 Min. koecheln, bis der Reis cremig und al dente ist.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Ofen auf 60 Grad vorheizen. Platte und Teller vorwaermen. Butter in Wuerfeli schneiden, kuehl stellen.</inhalt>
+      </How_To4   >
+      <Portweinjus>
+          <inhalt>Bratbutter in beschichteter Pfanne heiss werden lassen. Fleisch beidseitig je ca. 1 Min. anbraten, herausnehmen, wuerzen, auf der vorgewaermten Platte warm stellen.</inhalt>
+      </Portweinjus>
+      <Rehschnitzel>
+          <inhalt>Portwein in dieselbe Pfanne giessen, Bratsatz loesen, Fluessigkeit auf die Haelfte einkoecheln. Feigen in Vierteln schneiden.</inhalt>
+      </Rehschnitzel>
+      <Portweinjus>
+          <inhalt>Kalte Butter portionenweise unter Ruehren mit dem Schwingbesen in die Sauce geben. Dabei die Pfanne hin und wieder kurz auf die Platte stellen, um die Sauce nur leicht zu erwaermen, sie darf nicht kochen. Ruehren, bis die Sauce cremig ist, wuerzen.</inhalt>
+      </Portweinjus>
+      <Vanillerisotto_fertigstellen>
+          <inhalt>Vanilleschote aus dem Risotto entfernen. Creme fraiche darunterruehren, heiss werden lassen.</inhalt>
+      </Vanillerisotto_fertigstellen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

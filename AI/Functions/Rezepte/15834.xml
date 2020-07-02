@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>391 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>87 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teeaufguss_>
+          <quant>3 Beutel</quant>
+          <zutat>Earl Grey-Tee</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Teeaufguss_>
+      <Konfituere >
+          <quant>700 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>300 g</quant>
+          <zutat>Zucker</zutat>
+      </Konfituere >
+   </einkaufliste>
+   <rezept>
+      <Teeaufguss_>
+          <inhalt>Teebeutel mit dem Wasser uebergiessen, ca. 5 Min. ziehen lassen. </inhalt>
+      </Teeaufguss_>
+      <Konfituere >
+          <inhalt>Teeaufguss mit den Himbeeren puerieren, in eine Pfanne geben. Zucker beigeben, unter Ruehren aufkochen, Hitze reduzieren, unter staendigem Ruehren ca. 20 Min. sprudelnd kochen. Evtl. Schaum abschoepfen. Gelierprobe nehmen ( siehe Hinweis). Konfituere siedend heiss bis knapp unter den Rand in die sauberen, vorgewaermten Glaeser fuellen, sofort verschliessen. Glaeser mit Schraubdeckel kurz auf den Kopf stellen, auf isolierender Unterlage auskuehlen.</inhalt>
+      </Konfituere >
+   </rezept>
+</Rezept>

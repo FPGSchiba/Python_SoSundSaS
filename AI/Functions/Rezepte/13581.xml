@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>754 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>48 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizzateig >
+          <quant>500 g</quant>
+          <zutat>Pizzateig</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Backen</zutat>
+      </Pizzateig >
+      <Fleisch_braten>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinsplaetzli  (z.B. Nierstueck, je ca. 120 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Fleisch_braten>
+      <Broetli_fuellen>
+          <quant>250 g</quant>
+          <zutat>gelbe und rote Cherry-Tomaten, halbiert</zutat>
+          <quant>200 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>80 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, in feinen Streifen</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1/2 EL Saft</zutat>
+      </Broetli_fuellen>
+   </einkaufliste>
+   <rezept>
+      <Pizzateig >
+          <inhalt>Teig in 4 gleich grosse Stuecke schneiden, auf wenig Mehl flach druecken (je ca. 10 cm Ø). Wenig Oel in einer beschichteten Bratpfanne heiss werden lassen. Teigfladen portionenweise bei mittlerer Hitze beidseitig je ca. 4 Min. backen, herausnehmen, zugedeckt beiseite stellen.</inhalt>
+      </Pizzateig >
+      <Fleisch_braten>
+          <inhalt>Oel in derselben Pfanne heiss werden lassen. Plaetzli beidseitig je ca. 3 Min. braten, herausnehmen, salzen. Plaetzli in Streifen schneiden.</inhalt>
+      </Fleisch_braten>
+      <Broetli_fuellen>
+          <inhalt>Pizza-Broetli aufschneiden, mit Plaetzlistreifen, Tomaten, Feta und Spinat fuellen. Pfefferminze, Zitroneschale und -saft mit dem Joghurt verruehren, dazu servieren.</inhalt>
+      </Broetli_fuellen>
+   </rezept>
+</Rezept>

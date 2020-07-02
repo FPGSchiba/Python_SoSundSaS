@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>663 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>99 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Hirseflocken</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>2 dl</quant>
+          <zutat>Haferdrink</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 EL</quant>
+          <zutat>Birnel (Birnendicksaft)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel (ca. 200 g), grob gerieben</zutat>
+      </Teig      >
+      <Cassis-Kompott>
+          <quant>40 g</quant>
+          <zutat>getrocknete Cassisbeeren</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, halbiert, in Scheibchen</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, halbiert, in Scheibchen</zutat>
+      </Cassis-Kompott>
+      <Birnel-Rahm>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Birnel (Birnendicksaft)</zutat>
+      </Birnel-Rahm>
+      <Pancakes  >
+          <quant> </quant>
+          <zutat>Bratbutter</zutat>
+      </Pancakes  >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Flocken und alle Zutaten bis und mit Vanille in eine Schuessel geben, mischen, in der Mitte eine Mulde eindruecken. Haferdrink, Eier, Birnel und Zitronensaft verruehren, nach und nach unter Ruehren in die Mulde giessen, weiterruehren, bis der Teig glatt ist. Apfel darunterruehren. Zugedeckt ca. 30 Min. ruhen lassen.</inhalt>
+      </Teig      >
+      <Cassis-Kompott>
+          <inhalt>Cassisbeeren in eine kleine Schuessel geben, mit Wasser uebergiessen und ca. 30 Min. ziehen lassen, absieben und dabei das Wasser auffangen. Zucker und Aufweich-Wasser in einer weiten Pfanne ohne Ruehren aufkochen, Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Apfel, Birne und Cassisbeeren beigeben, zugedeckt ca. 2 Min. koecheln, offen ca. 3 Min. fertigkoecheln, etwas abkuehlen. </inhalt>
+      </Cassis-Kompott>
+      <Birnel-Rahm>
+          <inhalt>Rahm mit Birnel steif schlagen, kuehl stellen.</inhalt>
+      </Birnel-Rahm>
+      <Pancakes  >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen. Teig portionenweise in die Pfanne giessen so, dass Pancakes von ca. 7 cm Ø entstehen. Hitze reduzieren. Ca. 11/2 Min. backen, bis sich die Unterseite von selbst loest, Pancake wenden, ca. 1 Min. fertig backen, zugedeckt warm stellen. Restliche Pancakes gleich zubereiten. Pancakes mit den Cassis-Kompott und Birnel-Rahm anrichten.</inhalt>
+      </Pancakes  >
+   </rezept>
+</Rezept>

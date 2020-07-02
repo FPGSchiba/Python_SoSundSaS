@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>254 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spiessli_ >
+          <quant>12 </quant>
+          <zutat>Cipollatas</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti, laengs halbiert, in ca. 2 cm grossen Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, halbiert, geviertelt</zutat>
+          <quant>100 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>4 </quant>
+          <zutat>Holzspiesschen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>italienische Kraeutermischung</zutat>
+      </Spiessli_ >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spiessli                      </inhalt>
+      </How_To    >
+      <Spiessli_ >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 5 Min. grillieren. </inhalt>
+      </Spiessli_ >
+   </rezept>
+</Rezept>

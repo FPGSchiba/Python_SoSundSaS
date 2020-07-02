@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>297 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tomaten_  >
+          <quant>1 kg</quant>
+          <zutat>Tomate (z.B. ProSpecieRara Coeur de Boeuf / Ochsenherz), in Scheiben</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten (z.B. ProSpecieRara Baselbieter Roeteli), halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, in feinen Scheiben</zutat>
+          <quant>5 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tomaten_  >
+      <Backen    >
+          <quant>80 g</quant>
+          <zutat>geschaelte Mandeln</zutat>
+      </Backen    >
+      <Suppe_    >
+          <quant>2 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Suppe_    >
+      <Basilikum-Oel_>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Basilikum-Oel_>
+   </einkaufliste>
+   <rezept>
+      <Tomaten_  >
+          <inhalt>Tomaten, Schalotte, Knoblauch und Thymian auf einem mit Backpapier belegten Blech verteilen, Oel daruebertraeufeln, wuerzen.</inhalt>
+      </Tomaten_  >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens. Mandeln darauf verteilen, ca. 10 Min. fertig roesten. Herausnehmen, von den Mandeln ca. 30 g grob hacken, mit der Haelfte der Cherry-Tomaten beiseite stellen. </inhalt>
+      </Backen    >
+      <Suppe_    >
+          <inhalt>Restliche Mandeln und Tomaten mit dem entstandenen Saft und der Bouillon im Mixglas fein puerieren, auskuehlen und zugedeckt mind. 1 Std. kuehl stellen.</inhalt>
+      </Suppe_    >
+      <Basilikum-Oel_>
+          <inhalt>Basilikum und Oel verruehren. Tomatensuppe anrichten, Oel und beiseite gestellte Cherry-Tomaten darauf verteilen. Mandeln und Fleur de Sel darueberstreuen. </inhalt>
+      </Basilikum-Oel_>
+   </rezept>
+</Rezept>

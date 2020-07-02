@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>211 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>350 g</quant>
+          <zutat>Kirschen, entsteint, grob gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Vollkornguetzli (z. B. Bio Vierkorn), zerdrueckt</zutat>
+      </Fuellung   >
+      <Glasur    >
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>5 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und alle Zutaten bis und mit Butter mit dem Knethaken der Kuechenmaschine zu einem weichen Teig kneten. Teig zugedeckt ca. 3 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Kirschen und Guetzli mischen. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig zu einem Rechteck von ca. 30 x 40 cm auswallen. Fuellung darauf verteilen, von beiden Seiten zur Mitte hin aufrollen. In ca. 2,5 cm breite Stuecke schneiden, auf zwei mit Backpapier belegte Bleche legen. Nochmals ca. 20 Min. aufgehen lassen.</inhalt>
+      </Formen    >
+      <Backen:   >
+          <inhalt>Ca. 20 Min. im auf 180 Grad vorgeheizten Ofen (Heissluft).</inhalt>
+      </Backen:   >
+      <Glasur    >
+          <inhalt>Zitronensaft und Puderzucker verruehren. Die noch heissen Schmetterlinge damit bestreichen, auf einem Gitter auskuehlen.</inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

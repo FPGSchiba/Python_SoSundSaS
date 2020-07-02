@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>435 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Buttermasse>
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>180 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 dl</quant>
+          <zutat>Buttermilch</zutat>
+      </Buttermasse>
+      <Teig      >
+          <quant>350 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3 EL</quant>
+          <zutat>Mohn</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Natron</zutat>
+      </Teig      >
+      <Streusel_ >
+          <quant>5 EL</quant>
+          <zutat>5-Korn-Flocken</zutat>
+          <quant>5 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>5 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>350 g</quant>
+          <zutat>Kirschen, entsteint, halbiert</zutat>
+      </Streusel_ >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Buttermasse>
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist. Buttermilch darunterruehren. </inhalt>
+      </Buttermasse>
+      <Teig      >
+          <inhalt>Mehl, Mohn, Backpulver und Natron mischen, unter die Buttermasse ruehren. Masse in die vorbereitete Form fuellen.</inhalt>
+      </Teig      >
+      <Streusel_ >
+          <inhalt>Flocken, Mehl und Zucker in einer Schuessel mischen. Butter beigeben, von Hand zu einer kruemeligen Masse verreiben. Kirschen auf dem Kuchen verteilen, Streusel darueberstreuen.  </inhalt>
+      </Streusel_ >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Kuchen auf ein Gitter schieben, auskuehlen, mit Puderzucker bestaeuben. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

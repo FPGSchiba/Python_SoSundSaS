@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>669 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>48 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Insalata_di_tonno>
+          <quant>100 g</quant>
+          <zutat>gemischter Blattsalat</zutat>
+          <quant>1 Dose</quant>
+          <zutat>rote Indianerbohnen (ca. 290 g), abgespuelt, abgetropft</zutat>
+          <quant>200 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1 Dose</quant>
+          <zutat>rosa Thon in Oel (ca. 155 g), zerzupft</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in feinen Streifen</zutat>
+          <quant>50 g</quant>
+          <zutat>Oliven (z.B. Kalamata, halbiert, entsteint)</zutat>
+      </Insalata_di_tonno>
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Aceto, Oel, Knoblauch, Salz und Pfeffer in einer Schuessel verruehren. </inhalt>
+      </Sauce     >
+      <Insalata_di_tonno>
+          <inhalt>Salat und alle Zutaten bis und mit Oliven zur Sauce geben, mischen. </inhalt>
+      </Insalata_di_tonno>
+   </rezept>
+</Rezept>

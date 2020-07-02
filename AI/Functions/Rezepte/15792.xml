@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>212 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Papaya_grillieren>
+          <quant>2 </quant>
+          <zutat>Papayas, halbiert</zutat>
+      </Papaya_grillieren>
+      <Anrichten >
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>wenig </quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+          <quant>4 Kugeln</quant>
+          <zutat>Glace Fior di Latte</zutat>
+          <quant>4 EL</quant>
+          <zutat>Granola</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Papaya_grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Papaya mit der Schnittflaeche nach unten auf den Grill legen, ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad)  ca. 5 Min. grillieren. </inhalt>
+      </Papaya_grillieren>
+      <Anrichten >
+          <inhalt>Papayas mit Ahornsirup betraeufeln, wenig Pfeffer darueberstreuen. Glace in die Papayas fuellen, Granola darueberstreuen. </inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

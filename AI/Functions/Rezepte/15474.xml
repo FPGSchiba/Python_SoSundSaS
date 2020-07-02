@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>307 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargeln  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, laengs geviertelt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Spargeln  >
+      <Ei-Remoulade>
+          <quant>2 </quant>
+          <zutat>hart gekochte Eier</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein geschnitten, Gruen beiseite gestellt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Ei-Remoulade>
+   </einkaufliste>
+   <rezept>
+      <Spargeln  >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen, Spargeln beigeben, wuerzen, ca. 2 Min. ruehrbraten. Wasser beigeben, ca. 3 Min. fertig daempfen. Auf Tellern anrichten. </inhalt>
+      </Spargeln  >
+      <Ei-Remoulade>
+          <inhalt>Eier halbieren, Eigelbe herausloesen, in eine Schuessel geben, Eiweisse hacken. Eigelbe mit einer Gabel zerdruecken, Senf, Oel und Essig darunterruehren. Eiweisse und Bundzwiebel beigeben, wuerzen. Remoulade ueber die Spargeln geben, beiseitegestelltes Gruen darauf verteilen.  </inhalt>
+      </Ei-Remoulade>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>455 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hackfleisch>
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>400 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>300 g</quant>
+          <zutat>Betty Bossi Bolognese Mix</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Hackfleisch>
+      <Kartoffelstock>
+          <quant>450 g</quant>
+          <zutat>Betty Bossi Kartoffelstock</zutat>
+          <quant>2 EL</quant>
+          <zutat>Milch, nach Bedarf</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+      </Kartoffelstock>
+   </einkaufliste>
+   <rezept>
+      <Hackfleisch>
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Fleisch ca. 3 Min. ruehrbraten. Gemuese beigeben, ca. 4 Min. mitruehrbraten. Wasser dazugiessen, aufkochen, wuerzen. </inhalt>
+      </Hackfleisch>
+      <Kartoffelstock>
+          <inhalt>Fleisch in der vorbereiteten Form verteilen. Kartoffelstock nach Angabe auf der Verpackung zubereiten, auf dem Fleisch verteilen, Kaese darueberstreuen. </inhalt>
+      </Kartoffelstock>
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der oberen Haelfte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>217 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Grapefruit-Curd>
+          <quant>2 </quant>
+          <zutat>rosa Grapefruits, heiss abgespuelt, trocken getupft, wenig abgeriebene Schale und ganzer Saft (ca. 2 dl)</zutat>
+          <quant>120 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+      </Grapefruit-Curd>
+      <Mini-Meringues>
+          <quant>2 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>feinster Zucker</zutat>
+      </Mini-Meringues>
+      <Tartelettes>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>12 </quant>
+          <zutat>Muerbeteigboedeli (ca. 175 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>ungesalzene gehackte Pistazien</zutat>
+      </Tartelettes>
+   </einkaufliste>
+   <rezept>
+      <Grapefruit-Curd>
+          <inhalt>Grapefruitschale und -saft, Zucker, Maizena, Salz und Eigelbe mit dem Schwingbesen in einer Pfanne verruehren. Unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Sobald die Masse bindet, die Pfanne sofort von der Platte nehmen, Butter darunterruehren, ca. 2 Min. weiterruehren. Creme durch ein Sieb in eine Schuessel streichen, auskuehlen, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Grapefruit-Curd>
+      <Mini-Meringues>
+          <inhalt>Eiweisse mit dem Salz steif schlagen. Die Haelfte des Zuckers beigeben, weiterschlagen, bis der Eischnee sehr steif ist und glaenzt. Restlichen Zucker beigeben, kurz weiterschlagen. Masse in einen Spritzsack mit gezackter Tuelle (ca. 9 mm Durchmesser) geben, als kleine Tupfen auf ein mit Backpapier belegtes Blech spritzen.</inhalt>
+      </Mini-Meringues>
+      <Backen/_Trocknen>
+          <inhalt>Mini-Meringues in die untere Haelfte des auf 120 Grad vorgeheizten Ofens schieben, Hitze auf 100 Grad reduzieren, ca. 30 Min. backen. Meringues im ausgeschalteten, geoeffneten Ofen auskuehlen.</inhalt>
+      </Backen/_Trocknen>
+      <Tartelettes>
+          <inhalt>Rahm mit dem Zimt steif schlagen, in einen Spritzsack mit gezackter Tuelle (ca. 9 mm Durchmesser) geben. Quark in die Tartelttes-Boedeli verteilen, Curd daraufgeben, glatt streichen. Meringues darauf verteilen, Rahm daraufspritzen. Pistazien darueberstreuen. </inhalt>
+      </Tartelettes>
+   </rezept>
+</Rezept>

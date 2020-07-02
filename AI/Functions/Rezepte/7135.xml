@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>497 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>3/4 dl</quant>
+          <zutat>dunkle Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>4 </quant>
+          <zutat>Makrelen MSC (je ca. 250 g)</zutat>
+          <quant>4 </quant>
+          <zutat>Maiskolben, in Vierteln</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, laengs halbiert, in Stuecken</zutat>
+          <quant>1 TL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in feinen Scheiben</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuer die Marinade Sojasauce, Sesamoel, Knoblauch und Ingwer gut verruehren. Makrelen innen und aussen kalt abspuelen, trocken tupfen, innen und aussen mit Marinade bestreichen. Maiskolben mit wenig Marinade bestreichen. Fische zugedeckt im Kuehlschrank ca. 1 Std. marinieren. Mais und restliche Marinade zugedeckt beiseitestellen. Fische ca. 30 Min. vor dem Grillieren aus dem Kuehlschrank nehmen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bundzwiebeln mit Sesamoel mischen, in die Fische verteilen. Fische in gefettete Wendekoerbe legen, mit Zitronenscheiben belegen, Wendekoerbe verschliessen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Gas-/Elektrogrill: Fische und Maiskolben ca. 20 Min. bei mittlerer Stufe grillieren. Von Zeit zu Zeit mit der beiseitegestellten Marinade bestreichen, dabei Fisch einmal, Maiskolben mehrmals wenden.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

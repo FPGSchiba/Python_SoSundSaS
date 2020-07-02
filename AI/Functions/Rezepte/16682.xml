@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>486 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Steinpilz-Rahm>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 TL</quant>
+          <zutat>getrocknete Steinpilze, fein gehackt</zutat>
+      </Steinpilz-Rahm>
+      <Mousse    >
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>220 g</quant>
+          <zutat>tiefgekuehltes Marronipueree, aufgetaut</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Kirsch</zutat>
+      </Mousse    >
+      <Topping   >
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>blaue Trauben, halbiert</zutat>
+          <quant>50 g</quant>
+          <zutat>Meringue-Schalen, grob gehackt</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Steinpilz-Rahm>
+          <inhalt>Rahm mit den Steinpilzen mischen, zugedeckt ca. 2 Std. kuehl stellen. Rahm absieben, Steinpilze beiseite stellen. Schlagrahm steif schlagen. </inhalt>
+      </Steinpilz-Rahm>
+      <Mousse    >
+          <inhalt>Schokolade und Rahm in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Marroni-Pueree und Kirsch verruehren. 2 EL der Schokoladesauce darunterruehren, Schlagrahm sorgfaeltig darunterziehen. Masse in einen Spritzsack mit glatter Tuelle geben (ca. 15 mm Ø). Mousse in die Glaeser spritzen.</inhalt>
+      </Mousse    >
+      <Topping   >
+          <inhalt>Zucker mit den beiseite gestellten Steinpilzen mischen, unter Ruehren in einer Bratpfanne caramelisieren. Trauben, Meringue und Steinpilze auf dem Mousse verteilen. Restliche Schokoladesauce daruebertraeufeln.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

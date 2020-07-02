@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>394 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Porridge  >
+          <quant>3 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+      </Porridge  >
+      <Feigen_&amp;_Toppings>
+          <quant>3 </quant>
+          <zutat>Feigen, in Vierteln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>4 EL</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pistazien</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pekannuesse</zutat>
+          <quant>2 TL</quant>
+          <zutat>Honig oder Ahornsirup</zutat>
+          <quant>wenig </quant>
+          <zutat>Zimt</zutat>
+      </Feigen_&amp;_Toppings>
+   </einkaufliste>
+   <rezept>
+      <Porridge  >
+          <inhalt>Alle Zutaten in einer Pfanne aufkochen, Hitze reduzieren, unter gelegentlichem Ruehren bei mittlerer Hitze 4-6 Min. kochen.</inhalt>
+      </Porridge  >
+      <Feigen_&amp;_Toppings>
+          <inhalt>Feigen mit dem Honig in einer Bratpfanne anbraten. Porridge in 2 Schalen verteilen, je 2 EL Jogurt darauf geben, Feigen darauf verteilen. Pistazien und Pekannuesse darauf geben, mit wenig Honig oder Ahornsirup betraeufeln, mit wenig Zimt bestreuen.</inhalt>
+      </Feigen_&amp;_Toppings>
+   </rezept>
+</Rezept>

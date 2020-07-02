@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>284 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>210 g </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>250 g</quant>
+          <zutat>Snack-Gurken</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli</zutat>
+      </Salat     >
+      <Sauce     >
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>250 g</quant>
+          <zutat>Snack-Gurken</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Salat                         </inhalt>
+      </How_To    >
+      <Salat     >
+          <inhalt>Sauce                         </inhalt>
+      </Salat     >
+      <Sauce     >
+          <inhalt>                              </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

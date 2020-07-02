@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>225 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>3 </quant>
+          <zutat>Aepfel (ca. 430 g), in Schnitzchen</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 2 EL Saft</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zucker und Zitronensaft verruehren, Apfelschnitze darin wenden, zugedeckt ca. 15 Min. ziehen lassen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Butter und Zucker mit den Schwingbesen des Handruehrgeraetes ca. 3 Min. ruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist, salzen. Zitronenschale und -saft darunterruehren. Mehl und Backpulver mischen, mit dem Rahm kurz daruntermischen. Teigmasse in die vorbereiteten Foermchen verteilen. Apfelscheiben darauflegen, leicht eindruecken.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Kurz vor dem Servieren die Thurgauer Apfeltoertli mit Puderzucker bestaeuben.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

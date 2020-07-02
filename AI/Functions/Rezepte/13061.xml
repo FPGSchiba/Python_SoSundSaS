@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>139 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Himbeersauce>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Himbeeren, aufgetaut</zutat>
+          <quant>40 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+      </Himbeersauce>
+      <Bruehteig  >
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>75 g</quant>
+          <zutat>lactosefreie Butter</zutat>
+          <quant>1/2 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, nur ausgekratzte Samen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>140 g</quant>
+          <zutat>glutenfreies Mehl (Schaer)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>glutenfreies Backpulver (Dr. Oetker)</zutat>
+      </Bruehteig  >
+      <Eier_darunter_mischen>
+          <quant>4 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Eier_darunter_mischen>
+      <Churros_frittieren>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+          <quant>5 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+      </Churros_frittieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Himbeersauce                  </inhalt>
+      </How_To    >
+      <Himbeersauce>
+          <inhalt>Himbeeren mit dem Puderzucker und Limettensaft puerieren, zugedeckt kuehl stellen.</inhalt>
+      </Himbeersauce>
+      <How_To1   >
+          <inhalt>Wasser mit Butter, Vanillesamen und Salz aufkochen, Hitze reduzieren. Mehl, Flohsamen und Backpulver mischen, auf einmal beigeben, mit einer Kelle ca. 11/2 Min. ruehren, bis sich ein geschmeidiger Teigkloss bildet, der sich vom Pfannenboden loest. Pfanne von der Platte nehmen.</inhalt>
+      </How_To1   >
+      <Bruehteig  >
+          <inhalt>Eier nach und nach mit den Schwingbesen des Handruehrgeraets darunterruehren, der Teig soll weich sein, aber nicht zerfliessen. Teig in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø)</inhalt>
+      </Bruehteig  >
+      <Eier_darunter_mischen>
+          <inhalt>Churros frittieren            </inhalt>
+      </Eier_darunter_mischen>
+      <Churros_frittieren>
+          <inhalt>Zimt mischen, darin wenden.   </inhalt>
+      </Churros_frittieren>
+   </rezept>
+</Rezept>

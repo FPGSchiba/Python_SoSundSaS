@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>495 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein geschnitten</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>2 dl</quant>
+          <zutat>Schaumwein (z.B. Prosecco)</zutat>
+          <quant>6 dl</quant>
+          <zutat>Fischbouillon, heiss</zutat>
+          <quant>2 dl</quant>
+          <zutat>Schaumwein (z.B. Prosecco)</zutat>
+          <quant>50 g</quant>
+          <zutat>Clotted cream</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Risotto   >
+      <Jakobsnuesse>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>8 </quant>
+          <zutat>Jakobsnuesse</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+      </Jakobsnuesse>
+   </einkaufliste>
+   <rezept>
+      <Risotto   >
+          <inhalt>Butter in einer Pfanne erwaermen. Schalotte andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Prosecco dazugiessen, fast vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Ca. 15 Min. koecheln, Prosecco dazugiessen, ca. 5 Min. weiterkoecheln bis der Reis cremig und al dente ist. Clotted cream darunter ruehren, wuerzen. </inhalt>
+      </Risotto   >
+      <Jakobsnuesse>
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen. Jakobsnuesse beidseitig je ca. 1 Min. braten, wuerzen, herausnehmen. Hitze reduzieren, Butter und Majoran beigeben. Jakobsnuesse und Majoran-Butter zum Prosecco-Risotto servieren. </inhalt>
+      </Jakobsnuesse>
+   </rezept>
+</Rezept>

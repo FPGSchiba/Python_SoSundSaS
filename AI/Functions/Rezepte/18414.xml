@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>740 kcal</NaehrwertProPerson>
+       <Fett>54 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>51 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Orangentopping>
+          <quant>1 </quant>
+          <zutat>Bio-Orange</zutat>
+          <quant>4 EL</quant>
+          <zutat>Bitterorangenkonfituere</zutat>
+      </Orangentopping>
+      <Raclette  >
+          <quant>800 g</quant>
+          <zutat>Raclettekaese in Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarinnadeln</zutat>
+      </Raclette  >
+   </einkaufliste>
+   <rezept>
+      <Orangentopping>
+          <inhalt> Von der Orange Boden und Deckel, dann Schale ringsum bis auf das Fruchtfleisch wegschneiden. Fruchtfilets (Schnitze) mit einem scharfen Messer zwischen den weissen Haeutchen herausschneiden, Saft auffangen (ca. 1 /4 dl), beiseite stellen. Konfituere mit den Orangenfilets mit dem aufgefangenen Saft in eine Pfanne geben, unter gelegentlichem Ruehren bei mittlerer Hitze aufkochen, ca. 2 Min. koecheln. </inhalt>
+      </Orangentopping>
+      <Raclette  >
+          <inhalt>Kaesescheiben in die Raclette-Pfaennchen legen, Orangentopping und Rosmarin darauf verteilen. Unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen.</inhalt>
+      </Raclette  >
+   </rezept>
+</Rezept>

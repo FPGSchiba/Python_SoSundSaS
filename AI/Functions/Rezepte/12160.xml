@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>467 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>800 g</quant>
+          <zutat>gekochte Randen</zutat>
+          <quant>300 g</quant>
+          <zutat>Raclettekaese in Scheiben mit Pfeffer</zutat>
+      </Fill_Header>
+      <Guss:     >
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 TL</quant>
+          <zutat>Estragonblaettchen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>dunkles Broetli (z.B. Nussbroetli, ca. 70 g)</zutat>
+      </Guss:     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Randen schaelen, laengs halbieren, quer in ca. 1 cm dicke Scheiben schneiden. Kaese-Scheiben quer dritteln. Beides ziegelartig in eine gefettete ofenfeste Form (ca. 2 Liter) schichten, sodass die Kaesescheiben die Randen leicht ueberragen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Guss:                         </inhalt>
+      </How_To1   >
+      <Guss:     >
+          <inhalt>Backen: ca. 20 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Guss:     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

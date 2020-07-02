@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>44 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Wurstmasse>
+          <quant>2 </quant>
+          <zutat>rohe Schweinsbratwuerste, Masse aus dem Darm geloest</zutat>
+          <quant>150 g</quant>
+          <zutat>Rueebli, grob gerieben</zutat>
+          <quant>20 g</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>6 </quant>
+          <zutat>Salbeiblaetter, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, wenig abgeriebene Schale und 2 EL Saft</zutat>
+      </Wurstmasse>
+      <Haeppchen  >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 40 x 25 cm)</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+      </Haeppchen  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wurstmasse                    </inhalt>
+      </How_To    >
+      <Wurstmasse>
+          <inhalt>Haeppchen                      </inhalt>
+      </Wurstmasse>
+      <Haeppchen  >
+          <inhalt> der Teigstuecke spritzen, Teigraender mit wenig Ei bestreichen, ueber die Wurstmasse legen. Teigrollen mit dem Verschluss nach unten auf ein Schneidebrett legen, Teig mit restlichem Ei bestreichen, Sesam darueberstreuen, mit einer Gabel dicht einstechen, zugedeckt ca. 30 Min. kuehl stellen. Teigrollen in je ca. 2 cm grosse Stuecke schneiden, auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Haeppchen  >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, warm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

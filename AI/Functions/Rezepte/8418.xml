@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>278 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+          <quant>12 Stueck</quant>
+          <zutat>Fine Food Tartufi Nocciolati neri del Piemonte</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Milch</zutat>
+          <quant>36 </quant>
+          <zutat>Zuckereili</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mehl und alle Zutaten bis und mit Hefe in einer Schuessel mischen. Butter und alle Zutaten bis und mit Milch beigeben, mischen, ca. 10 Min. zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 1/2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Formen: Teig in 12 Portionen teilen. Aus den Teigstuecken Kugeln formen, dabei je 1 Tartufo in jede Kugel stecken. Teigkugeln in gleichmaessigen Abstaenden auf dem vorbereiteten Blech verteilen. Zugedeckt bei Raumtemperatur nochmals ca. 30 Min. aufgehen lassen. Mit Ei bestreichen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 30 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. Puderzucker und Milch zu einer dicken Masse verruehren. Ca. 1 /4 TL Puderzuckerglasur auf ein Broetli geben, sofort 3 Zuckereili darauflegen. Restliche Broetli auf die gleiche Weise verzieren, trocknen lassen.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

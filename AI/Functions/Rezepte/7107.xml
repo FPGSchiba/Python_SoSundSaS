@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>330 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schnitten >
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>125 g</quant>
+          <zutat>gelbe Linsen</zutat>
+          <quant>125 g</quant>
+          <zutat>grobkoerniger Maisgriess (Bramata)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmel</zutat>
+          <quant>9 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Schnitten >
+      <Sauce     >
+          <quant>3 EL</quant>
+          <zutat>trockener Sherry</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkle Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pfefferminze, sehr fein geschnitten</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schnitten                     </inhalt>
+      </How_To    >
+      <Schnitten >
+          <inhalt>Oel erwaermen, Zwiebel und Knoblauch andaempfen. Linsen, Maisgriess und Kreuzkuemmel beigeben, Wasser dazugiessen, aufkochen, unter Ruehren bei kleinster Hitze ca. 35 Min. zu einem dicken Brei koecheln, wuerzen. Masse auf einem kalt abgespuelten Blechruecken ca. 1.5 cm dick rechteckig ausstreichen, auskuehlen. Linsen-Mais-Masse in Stuecke schneiden, beidseitig mit wenig Oel bestreichen. </inhalt>
+      </Schnitten >
+      <How_To1   >
+          <inhalt>Sauce                         </inhalt>
+      </How_To1   >
+      <Sauce     >
+          <inhalt>Linsen-Mais Schnitten mit Sauce anrichten.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

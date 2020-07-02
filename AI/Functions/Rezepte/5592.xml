@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>248 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>ProSpecieRara Rueebli Longue jaune du doubs, in Stuecken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Orangen, wenig abgeriebene Schale und ganzer Saft</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter erwaermen, Schalotte andaempfen, Rueebli mitdaempfen, wuerzen.</inhalt>
+      </How_To    >
+      <How_To    >
+          <inhalt>Orangenschale beifuegen, Orangensaft und Bouillon dazugiessen. Zugedeckt ca. 25 Minuten weich koecheln. Zucker beigeben, puerieren, wuerzen. Rueeblisuppe in vorgewaermten Suppentellern anrichten. Creme fraiche darauf verteilen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

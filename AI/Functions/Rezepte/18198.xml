@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>605 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>81 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Eier      >
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>3 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Eier      >
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>100 g</quant>
+          <zutat>Erbsli, frisch oder tiefgekuehlt</zutat>
+          <quant>120 g</quant>
+          <zutat>Edamame, ausgeloest</zutat>
+          <quant>200 g</quant>
+          <zutat>Pak Choi, in Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Gemuese    >
+      <Reis      >
+          <quant>350 g</quant>
+          <zutat>Basmatireis (oder Langkornreis)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mirin </zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+      </Reis      >
+      <Toppings_&amp;_Beilagen>
+          <quant>2 </quant>
+          <zutat>Nori-Blaetter</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>1 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>60 g</quant>
+          <zutat>eingelegter Ingwer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+      </Toppings_&amp;_Beilagen>
+   </einkaufliste>
+   <rezept>
+      <Eier      >
+          <inhalt>Oel in einer weiten Bratpfanne erwaermen. Eier dazugiessen, bei schwacher Hitze mit einer Kelle hin- und herschieben, bis die Eimasse gestockt ist. Eier aus der Pfanne nehmen, beiseite stellen.</inhalt>
+      </Eier      >
+      <Gemuese    >
+          <inhalt>Oel in derselben Bratpfanne erhitzen. Erbsen, Edamame und Pak Choi kurz andaempfen, Wasser dazugiessen, ca. 2 Min. fertigdaempfen, aus der Pfanne nehmen, beiseite stellen.</inhalt>
+      </Gemuese    >
+      <Reis      >
+          <inhalt>Reis nach Verpackungsanleitung zubereiten, beiseite stellen. Oel in derselben Bratpfanne oder einem Wok erhitzen. Reis beigeben, ca. 10 Min. ruehrbraten. Sojasauce, Mirin und Limettesaft dazugiessen. Beiseite gestelltes Gemuese und Eier beigeben, alles mischen.</inhalt>
+      </Reis      >
+      <Toppings_&amp;_Beilagen>
+          <inhalt>Nori-Blaetter mit einer Schere laengs dritteln, in feine Streifen schneiden. Gebratenen Reis anrichten, mit etwas Nori, Bundzwiebeln und Sesam bestreuen, Rest mit Ingwer und Sojasauce dazu servieren. </inhalt>
+      </Toppings_&amp;_Beilagen>
+   </rezept>
+</Rezept>

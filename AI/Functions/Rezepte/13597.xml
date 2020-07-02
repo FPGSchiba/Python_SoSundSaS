@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>224 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 dl</quant>
+          <zutat>lactosefreie Milch</zutat>
+          <quant>30 g</quant>
+          <zutat>lactosefreie Butter</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>80 g</quant>
+          <zutat>glutenfreies Mehl (Schaer Brot-Mix)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Teig      >
+      <Zwetschgenkompott>
+          <quant>300 g</quant>
+          <zutat>Zwetschgen, in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+      </Zwetschgenkompott>
+      <Fuellung   >
+          <quant>125 g</quant>
+          <zutat>lactosefreier Frischkaese</zutat>
+          <quant>25 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>lactosefreier Vollrahm, steif geschlagen</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Milch und alle Zutaten bis und mit Zucker aufkochen, Hitze reduzieren. Mehl und Kakao sieben, auf einmal zur Milch geben, mit einer Kelle ca. 11/2 Min. ruehren, bis sich ein geschmeidiger Teigkloss bildet, der sich vom Pfannen boden loest. Pfanne von der Platte nehmen. Eier portionenweise darunterruehren, bis der Teig weich ist, aber nicht zerfliesst.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig in einen Spritzsack mit glatter Tuelle (cq. 10 mm Ø) geben. 8 Eclairs mit genuegend Abstand auf ein mit Backpapier belegtes Blech spritzen.</inhalt>
+      </Formen    >
+      <Backen/Trocknen:>
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Ofen nie oeffnen! Anschliessend im ausgeschalteten, leicht geoeffneten Ofen ca. 15 Min. trocknen. Herausnehmen, auf einem Gitter auskuehlen, quer halbieren.</inhalt>
+      </Backen/Trocknen:>
+      <Zwetschgenkompott>
+          <inhalt>Zwetschgen und alle Zutaten bis und mit Zimt in einer Pfanne aufkochen, zugedeckt ca. 5 Min. knapp weich kochen, etwas abkuehlen.</inhalt>
+      </Zwetschgenkompott>
+      <Fuellung   >
+          <inhalt>Frischkaese und Zucker glatt ruehren, Rahm sorgfaeltig darunterziehen. Creme in einen Spritzsack mit gezackter Tuelle (ca. 10 mm) fuellen, auf die Boedeli spritzen, Kompott darauf verteilen. Deckel daraufsetzen.</inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>520 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>51 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>800 g</quant>
+          <zutat>Kalbshohruecken</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti (ca. 200 g), fein gerieben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 EL</quant>
+          <zutat>ungesalzene geschaelte Pistazien, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>2 Stueck</quant>
+          <zutat>Kuechenschnur (je ca. 50 cm)</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fill_Header>
+      <Vinaigrette>
+          <quant>150 g</quant>
+          <zutat>Himbeeren, etwas zerdrueckt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fine Food Sherry-Weinessig</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Vinaigrette>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch ca. 1 Std. vor dem Braten aus dem Kuehlschrank nehmen. Backblech in die Mitte des Ofens schieben, Ofen auf 240 Grad vorheizen. Zucchini und Salz mischen, in einem Sieb ca. 30 Min. ziehen lassen, gut ausdruecken.  Zucchetti, Knoblauch, Pistazien, Kaese und Petersilie mit einer Gabel mischen.  Hohruecken mit einem spitzen Messer seitlich einschneiden, damit fuellen, binden, wuerzen.</inhalt>
+      </How_To    >
+      <Braten_im_Ofen>
+          <inhalt>Ca. 10 Min. anbraten, Hitze auf 180 Grad reduzieren, ca. 25 Min. fertig braten. Die Kerntemperatur des Bratens soll ca. 60 Grad betragen.</inhalt>
+      </Braten_im_Ofen>
+      <Vinaigrette>
+          <inhalt>Himbeeren, Oel und Essig verruehren, mit dem Fleisch servieren. Fleur de Sel darueberstreuen.</inhalt>
+      </Vinaigrette>
+   </rezept>
+</Rezept>

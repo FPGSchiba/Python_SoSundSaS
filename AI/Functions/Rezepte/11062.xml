@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>678 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>81 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polenta   >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Maggi Polenta Ticinese (2 Beutel, 188 g)</zutat>
+      </Polenta   >
+      <Belag     >
+          <quant>2 EL</quant>
+          <zutat>Pesto alla genovese</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella</zutat>
+          <quant>150 g</quant>
+          <zutat>Chorizo</zutat>
+          <quant>30 g</quant>
+          <zutat>entsteinte schwarze Oliven</zutat>
+      </Belag     >
+      <Backen_&amp;_Garnieren>
+          <quant>einige </quant>
+          <zutat>Basilikumblaetter</zutat>
+      </Backen_&amp;_Garnieren>
+   </einkaufliste>
+   <rezept>
+      <Polenta   >
+          <inhalt>Zwiebel und Knoblauch fein hacken, im Olivenoel andaempfen. Wasser dazugiessen, aufkochen, Mais einruehren, unter Ruehren bei kleinster Hitze, ca. 2 Min. zu einem dicken Brei koecheln. Etwas auskuehlen in ein mit Backpapier belegtes Blech (ca. 30 cm Durchmesser) streichen, auskuehlen.</inhalt>
+      </Polenta   >
+      <Belag     >
+          <inhalt>Pesto auf die Polenta streichen. Tomaten, Mozzarella und Chorizo in Scheiben schneiden, mit den Oliven auf der Pizza verteilen, wuerzen.</inhalt>
+      </Belag     >
+      <Backen_&amp;_Garnieren>
+          <inhalt>ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Vor dem Servieren mit Basilikum garnieren.</inhalt>
+      </Backen_&amp;_Garnieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+</Rezept>

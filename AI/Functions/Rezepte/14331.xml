@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>606 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mascarponecreme>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, wenig abgeriebene Schale</zutat>
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Mascarponecreme>
+      <Fluessigkeit>
+          <quant>2 dl</quant>
+          <zutat>starker Kaffee (z.B. Espresso), heiss</zutat>
+          <quant>4 EL</quant>
+          <zutat>Amaretto</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Fluessigkeit>
+      <Einschichten>
+          <quant>150 g</quant>
+          <zutat>Loeffelbiskuits</zutat>
+          <quant> </quant>
+          <zutat>Kakaopulver zum Bestaeuben</zutat>
+      </Einschichten>
+   </einkaufliste>
+   <rezept>
+      <Mascarponecreme>
+          <inhalt>Zucker, Eigelbe und Orangenschale mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Mascarpone glatt ruehren, darunterruehren. Eiweisse mit dem Salz steif schlagen, Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Eischnee mit dem Gummischaber sorgfaeltig unter die Masse ziehen, kuehl stellen.</inhalt>
+      </Mascarponecreme>
+      <Fluessigkeit>
+          <inhalt>Kaffee, Amaretto und Zucker verruehren, bis sich der Zucker aufgeloest hat, auskuehlen.</inhalt>
+      </Fluessigkeit>
+      <Einschichten>
+          <inhalt>Die Haelfte der Loeffelbiskuits mit der gezuckerten Seite nach unten in die Form legen, mit der Haelfte der Fluessigkeit betraeufeln. Die Haelfte der Masse darauf verteilen. Restliche Biskuits in die Fluessigkeit tauchen, darauflegen. Mit der restlichen Masse bedecken. Zugedeckt ca. 2 Std. kuehl stellen. Mit Kakaopulver bestaeuben.</inhalt>
+      </Einschichten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

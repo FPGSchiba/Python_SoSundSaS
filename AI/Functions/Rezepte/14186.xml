@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>335 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuchenteig>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Kuchenteig>
+      <Belag     >
+          <quant>3 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>750 g</quant>
+          <zutat>Aprikosen, entsteint (ergibt ca. 600 g), in Vierteln</zutat>
+      </Belag     >
+      <Guss      >
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kuchenteig                    </inhalt>
+      </How_To    >
+      <Kuchenteig>
+          <inhalt>Teig auf wenig Mehl rund (ca. 35 cm Ø) auswallen, in das vorbereitete Blech legen. Teigboden mit einer Gabel dicht einstechen, ca. 15 Min. kuehl stellen.</inhalt>
+      </Kuchenteig>
+      <Belag     >
+          <inhalt>Mandeln auf dem Teig verteilen, Aprikosen ziegelartig darauflegen.</inhalt>
+      </Belag     >
+      <Guss      >
+          <inhalt>Rahm, Eier und Zucker gut verruehren, ueber die Aprikosen giessen.</inhalt>
+      </Guss      >
+      <Backen:   >
+          <inhalt>Ca. 45 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech nehmen, lauwarm oder kalt servieren.</inhalt>
+      </Backen:   >
+   </rezept>
+</Rezept>

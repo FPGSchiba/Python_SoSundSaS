@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>189 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>dunkle Sojasauce</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>12 </quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio) (ca. 450 g), Darm entfernt</zutat>
+          <quant>3/4 </quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuehlt trocken getupft, in Schnitzen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Limettensaft und alle Zutaten bis und mit Peperoncino gut verruehren. Marinade halbieren, unter die eine Haelfte den Zucker ruehren, als Sauce beiseitestellen. Crevetten mit der restlichen Wuerzmischung bestreichen, salzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Grillieren: ueber mittelstarker Glut/auf mittlerer Stufe (ca. 200 Grad) beidseitig ca. 2 Min. grillieren.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

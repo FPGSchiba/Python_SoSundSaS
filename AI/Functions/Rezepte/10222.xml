@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>319 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>4 cl</quant>
+          <zutat>Whiskey (z.B. Four Roses)</zutat>
+          <quant>wenig </quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>wenig </quant>
+          <zutat>Fine Food Tasmanian Pepper</zutat>
+          <quant>1 EL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Fine Food Tasmanian Pepper</zutat>
+          <quant>wenig </quant>
+          <zutat>Limettensaft</zutat>
+          <quant>3 1/3 dl</quant>
+          <zutat>thailaendisches Bier (z.B. Singha Beer)</zutat>
+          <quant>50 g</quant>
+          <zutat>Fine Food Thai Mix Miang Kham Style (Nussmischung)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rohzucker, Limettensaft, Whisky, Ingwer und Pfeffer verruehren, 15 Min. ziehen lassen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Meersalz, Zucker und Pfeffer mischen. Den Rand von den Whiskytumblern mit wenig Limettensaft benetzen und in die Salz Zuckermischung tauchen, trocknen lassen. Whisky-Mischung absieben, mit dem Bier auffuellen. </inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

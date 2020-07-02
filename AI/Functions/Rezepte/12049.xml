@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>288 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aepfel     >
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>1 kg</quant>
+          <zutat>Aepfel (z.B. Braeburn), geschaelt, gesechstelt</zutat>
+      </Aepfel     >
+      <Tarte_Tatin>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+      </Tarte_Tatin>
+   </einkaufliste>
+   <rezept>
+      <Aepfel     >
+          <inhalt>Zucker auf dem vorbereiteten Boden verteilen. Ca. 7 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens caramelisieren, bis er hellbraun ist. Herausnehmen, Butter auf dem Caramel verteilen. Aepfel mit den Schnittflaechen nach unten, leicht ueberlappend auf den Caramel legen.</inhalt>
+      </Aepfel     >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens, herausnehmen.</inhalt>
+      </Backen    >
+      <Tarte_Tatin>
+          <inhalt>Teig mit einer Gabel dicht einstechen, locker auf die Aepfel legen. Teigrand zwischen Aepfel und Formenrand schieben.</inhalt>
+      </Tarte_Tatin>
+      <Fertigbacken>
+          <inhalt>Ca. 15 Min. herausnehmen, ca. 2 Min. stehen lassen, sorgfaeltig auf eine Tortenplatte stuerzen, Backpapier entfernen, warm oder kalt servieren.</inhalt>
+      </Fertigbacken>
+   </rezept>
+</Rezept>

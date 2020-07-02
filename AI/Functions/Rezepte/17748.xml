@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>162 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Meringue_Nestli>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>feinster Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale und 1 TL Saft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kokosraspel</zutat>
+      </Meringue_Nestli>
+      <Creme     >
+          <quant>2 1/2 dl</quant>
+          <zutat>Orangen-Passionsfruchtsaft oder Multifruchtsaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>einige </quant>
+          <zutat>Zuckereili</zutat>
+      </Creme     >
+   </einkaufliste>
+   <rezept>
+      <Meringue_Nestli>
+          <inhalt>Eiweisse mit dem Salz steif schlagen. Die Haelfte des Zuckers beigeben, weiterschlagen, bis die Masse glaenzt. Restlichen Zucker, Zitronenschale und -saft beigeben, weiterschlagen, bis die Masse feinporig, glaenzend und sehr steif ist. Kokosraspel sorgfaeltig daruntermischen. Masse in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø) fuellen, 8 Nestli ( je ca. 6 cm Ø) auf ein mit Backpapier belegtes Blech spritzen.</inhalt>
+      </Meringue_Nestli>
+      <Backen_/_Trocknen>
+          <inhalt>Meringues in der unteren Haelfte des auf 120 Grad vorgeheizten Ofens einschieben, Hitze auf 100 Grad reduzieren, ca. 11/2 Std. trocknen. Meringues im ausgeschalteten, geoeffneten Ofen auskuehlen.</inhalt>
+      </Backen_/_Trocknen>
+      <Creme     >
+          <inhalt>Fruchtsaft mit allen Zutaten bis und mit Zucker in einer Pfanne mit dem Schwingbesen verruehren. Unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Sobald die Masse bindet, die Pfanne sofort von der Platte nehmen, Butter beigeben, ca. 2 Min. weiterruehren. Creme durch ein Sieb in eine Schuessel giessen, auskuehlen, zugedeckt ca. 45 Min. kuehl stellen. Creme glatt ruehren, in die Meringue-Nestli fuellen. Mit Zuckereili dekorieren. </inhalt>
+      </Creme     >
+   </rezept>
+</Rezept>

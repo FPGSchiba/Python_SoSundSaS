@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>450 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargeln  >
+          <quant>500 g</quant>
+          <zutat>weisse Spargeln</zutat>
+          <quant>2 TL</quant>
+          <zutat>Gemuesebouillonpulver</zutat>
+      </Spargeln  >
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Risotto   >
+      <Topping   >
+          <quant>100 g</quant>
+          <zutat>Feta, in Wuerfeln</zutat>
+          <quant>4 EL</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Spargeln  >
+          <inhalt>Spargeln schaelen, in Stuecke schneiden. Die Schalen mit 1 Liter Wasser aufkochen, ca. 10 Min. koecheln. Schalen abtropfen, Sud dabei auffangen. Bouillon zum Sud geben, aufkochen. Spargel-Stuecke beigeben, ca. 5 Min. koecheln. Spargeln abtropfen, Sud dabei auffangen.</inhalt>
+      </Spargeln  >
+      <Risotto   >
+          <inhalt>Oel in einer Pfanne warm werden lassen, Zwiebel andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen. Aufgefangenen Sud unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 15 Min. koecheln. Spargel-Stuecke daruntermischen, wuerzen.</inhalt>
+      </Risotto   >
+      <Topping   >
+          <inhalt>Risotto anrichten, mit Feta, Haselnuessen und Petersilie garnieren.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

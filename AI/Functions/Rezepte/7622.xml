@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>522 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Birnen    >
+          <quant>1 TL</quant>
+          <zutat>Butter</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zwiebel, halbiert, in feinen Streifen</zutat>
+          <quant>600 g</quant>
+          <zutat>Birnen, geschaelt, halbiert, in ca. 5 mm dicken Scheibchen</zutat>
+          <quant>100 g</quant>
+          <zutat>Stangensellerie, in ca. 5 mm breiten Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Birnen    >
+      <Fleisch_  >
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinskoteletts (je ca. 220 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Fleisch_  >
+   </einkaufliste>
+   <rezept>
+      <Birnen    >
+          <inhalt>Butter in einer Bratpfanne warm werden lassen. Zwiebel andaempfen, Birnen und Sellerie kurz mitdaempfen. Honig und die restlichen Zutaten beigeben, sorgfaeltig mischen, aufkochen. Hitze reduzieren, zugedeckt bei mittlerer Hitze ca. 15 Min. koecheln. Birnen etwas abkuehlen.</inhalt>
+      </Birnen    >
+      <Fleisch_  >
+          <inhalt>Fuer die Marinade Zitronensaft, Oel, Senf und Pfeffer verruehren. Koteletts beidseitig damit bestreichen, zugedeckt ca. 30 Min. marinieren. Fleisch salzen. Bratbutter in einer Bratpfanne erhitzen. Koteletts beidseitig je ca. 2 Min. anbraten, erst wenden wenn sich eine Kruste gebildet hat. Hitze reduzieren, beidseitig je ca. 4 Min. fertigbraten. Birnen dazu servieren.</inhalt>
+      </Fleisch_  >
+   </rezept>
+</Rezept>

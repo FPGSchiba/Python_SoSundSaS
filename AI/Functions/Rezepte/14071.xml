@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>427 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>gezuckerte Kondensmilch</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+      </Creme     >
+      <Belag     >
+          <quant>2 </quant>
+          <zutat>Bananen, schraeg in Scheiben</zutat>
+          <quant>4 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>25 g</quant>
+          <zutat>dunkle Schokolade (64 % Kakao), fein gerieben</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <Creme     >
+          <inhalt>Rahm und alle restlichen Zutaten in einer Pfanne mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen, unter Ruehren weiterkoecheln, bis die Masse cremig ist. Pfanne von der Platte nehmen, ca. 2 Min. weiterruehren. Creme durch ein Sieb in eine kleine Schuessel streichen, in die Foermchen verteilen, auskuehlen, zugedeckt im Kuehlschrank ca. 2 Std. fest werden lassen.</inhalt>
+      </Creme     >
+      <Belag     >
+          <inhalt>Bananenscheiben faecherartig auf der Creme verteilen. Je 1 Essloeffel Zucker gleichmaessig auf den Bananen verteilen. Mit dem Bunsenbrenner caramelisieren, Schokolade darueberstreuen.</inhalt>
+      </Belag     >
+   </rezept>
+</Rezept>

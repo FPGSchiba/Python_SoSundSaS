@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>618 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung_  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>weisse Spargeln, geschaelt, Spitzen beiseite gestellt, Rest in ca. 5 mm dicken Scheiben</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, Spitzen beiseite gestellt, Rest in ca. 5 mm dicken Scheiben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>250 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+      </Fuellung_  >
+      <Cannelloni>
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+      </Cannelloni>
+      <Sauce     >
+          <quant>1 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>70 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Garnieren >
+          <quant>1/2 Bund</quant>
+          <zutat>Zitronenmelisse, fein geschnitten</zutat>
+      </Garnieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung_  >
+          <inhalt>Ricotta und Parmesan beigeben, gut mischen.</inhalt>
+      </Fuellung_  >
+      <Cannelloni>
+          <inhalt>Pastateige quer halbieren, laengs in 4 gleich grosse Stuecke schneiden. Je ca. 2 1/2 EL Fuellung auf die Teigstuecke verteilen, je ca. 2 beiseite gestellte Spargelspitzen in die Mitte der Masse legen, aufrollen. In die vorbereitete Form legen, ca. 4 EL Fuellung beiseite stellen. </inhalt>
+      </Cannelloni>
+      <Sauce     >
+          <inhalt>Rahm, Kaese und beiseite gestellte Fuellung verruehren, wuerzen, ueber die Cannelloni giessen.</inhalt>
+      </Sauce     >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens, herausnehmen.</inhalt>
+      </Backen    >
+      <Garnieren >
+          <inhalt>Zitronenmelisse darueberstreuen. </inhalt>
+      </Garnieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

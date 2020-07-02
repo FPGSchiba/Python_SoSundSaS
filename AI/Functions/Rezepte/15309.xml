@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>317 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schoggicreme>
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse ueber Nacht in Wasser eingeweicht</zutat>
+          <quant>50 g</quant>
+          <zutat>entsteinte Datteln, ueber Nacht in Wasser eingeweicht</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>3 1/2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Schoggicreme>
+      <Birnen    >
+          <quant>4 </quant>
+          <zutat>Birnen, geschaelt, in duennen Schnitzen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Ahornsirup (oder Yaconsirup oder Honig)</zutat>
+      </Birnen    >
+      <Omeletten_(Grundteig)>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>3 3/4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>50 g</quant>
+          <zutat>Bratbutter</zutat>
+      </Omeletten_(Grundteig)>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schoggicreme                  </inhalt>
+      </How_To    >
+      <Schoggicreme>
+          <inhalt>Cashews und Datteln abtropfen, mit etwas Einweichwasser und dem Kokosoel in einem leistungsstarken Mixer fein puerieren. Kakao beigeben, alles gut verruehren.</inhalt>
+      </Schoggicreme>
+      <How_To1   >
+          <inhalt>Gut verschlossen, im Kuehlschrank, ist die Schoggicreme einige Tage haltbar.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Birnen                        </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Omeletten (Grundteig)         </inhalt>
+      </How_To3   >
+      <Birnen    >
+          <inhalt>Teig zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Birnen    >
+      <Omeletten_(Grundteig)>
+          <inhalt>Omeletten mit Birnen und Schoggicreme fuellen.</inhalt>
+      </Omeletten_(Grundteig)>
+   </rezept>
+</Rezept>

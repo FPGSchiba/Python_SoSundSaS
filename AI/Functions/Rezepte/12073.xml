@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>996 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>133 g </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pitabrot  >
+          <quant>500 g</quant>
+          <zutat>glutenfreies Mehl (Schaer Brot-Mix)</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 30 g), zerbroeckelt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Pitabrot  >
+      <Falafel_  >
+          <quant>2 Dosen</quant>
+          <zutat>Kichererbsen (je ca. 400 g), abgetropft, abgespuelt</zutat>
+          <quant>6 EL</quant>
+          <zutat>mittelfeiner Maisgriess (4 Min.)</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Falafel_  >
+      <Sauce     >
+          <quant>200 g</quant>
+          <zutat>lactosefreie Creme fraiche</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Streifen</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pitabrot                      </inhalt>
+      </How_To    >
+      <Pitabrot  >
+          <inhalt>Backen: ca. 12 Min. im auf 200 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, sofort ein Kuechentuch darueberlegen, auskuehlen. </inhalt>
+      </Pitabrot  >
+      <Falafel_  >
+          <inhalt>Kichererbsen portionenweise cuttern. Maisgriess und alle restlichen Zutaten bis und mit Salz daruntermischen, von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden. Masse zu 24 Taetschli formen. Grillpfanne heiss werden lassen, Taetschli portionenweise beidseitig je ca. 2 Min. grillieren. </inhalt>
+      </Falafel_  >
+      <Sauce     >
+          <inhalt>Creme fraiche und alle Zutaten bis und mit Pfeffer mischen. Pitabrote nach Belieben in der heissen Grillpfanne beidseitig je ca. 1 Min. grillieren. Brote aufschneiden, mit Falafel, Radiesli und Sauce fuellen. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

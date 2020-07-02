@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>120 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter, salzig, fluessig</zutat>
+      </Teig_     >
+      <Ausbacken >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>80 g</quant>
+          <zutat>Parmesan am Stueck, mit dem Sparschaeler duenne Spaene abgeschaelt, 20 g beiseite gestellt</zutat>
+      </Ausbacken >
+      <Fuellung_  >
+          <quant>2 EL</quant>
+          <zutat>Crema di Balsamico</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>250 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten, halbiert</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, Blaetter abgezupft</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Fuellung_  >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl und Salz in einer Schuessel mischen, in der Mitte eine Mulde eindruecken. Wasser, Ei und Butter verruehren. Fluessigkeit nach und nach unter Ruehren mit dem Schwingbesen in die Mulde giessen, weiterruehren, bis der Teig glatt ist. Zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </Teig_     >
+      <Ausbacken >
+          <inhalt>Wenig Bratbutter in einer beschichteten Bratpfanne erhitzen. So viel Teig in die Pfanne geben, dass der Boden sehr duenn ueberzogen ist. Hitze reduzieren. Ist die Unterseite gebacken und loest sich von selbst, Crepe wenden, ca. 15 g Kaese darauf verteilen, zu einem Paeckli falten, ca. 2 Min. fertig backen, zugedeckt warm stellen. Mit dem restlichen Teig und dem restlichen Kaese gleich verfahren.</inhalt>
+      </Ausbacken >
+      <Fuellung_  >
+          <inhalt>Crema di Balsamico und Oel verruehren. Tomaten beigeben, mischen, mit den Basilikumblaetter auf den Galettes verteilen, salzen.</inhalt>
+      </Fuellung_  >
+   </rezept>
+</Rezept>

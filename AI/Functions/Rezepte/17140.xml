@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>228 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zwiebeln_&amp;_Birnen>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln, in Streifen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen (z.B. Kaiser Alexander), in Scheibchen</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+      </Zwiebeln_&amp;_Birnen>
+      <Frischkaese>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>2 TL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>2 TL</quant>
+          <zutat>geriebener Meerrettich aus dem Glas</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Frischkaese>
+      <Schnecken_formen_&amp;_backen>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Pizzateig  (ca. 550 g)</zutat>
+          <quant>100 g</quant>
+          <zutat>Rohschinken in Tranchen</zutat>
+      </Schnecken_formen_&amp;_backen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zwiebeln &amp; Birnen         </inhalt>
+      </How_To    >
+      <Zwiebeln_&amp;_Birnen>
+          <inhalt>Oel erwaermen, Zwiebel ca. 3 Min. daempfen, wuerzen. Birnen und Kaese daruntermischen, auskuehlen, beiseite stellen.</inhalt>
+      </Zwiebeln_&amp;_Birnen>
+      <How_To1   >
+          <inhalt>Frischkaese mit Milch Thymian und Meerrettich verruehren, wuerzen. </inhalt>
+      </How_To1   >
+      <Frischkaese>
+          <inhalt>Teig entrollen, mit dem Frischkaese bestreichen, mit Rohschinken belegen. Zwiebel-Birnen-Mischung darauf verteilen. Teig satt aufrollen, in ca. 2 cm dicke Scheiben (ca. 12 Stueck) schneiden. Auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Frischkaese>
+      <Schnecken_formen_&amp;_backen>
+          <inhalt>Herausnehmen, lauwarm oder kalt servieren.</inhalt>
+      </Schnecken_formen_&amp;_backen>
+   </rezept>
+</Rezept>

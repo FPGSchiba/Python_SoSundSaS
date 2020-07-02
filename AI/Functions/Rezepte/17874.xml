@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>458 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Orecchiette>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Hartweizengriess</zutat>
+      </Orecchiette>
+      <Broccoli-Pesto>
+          <quant>300 g</quant>
+          <zutat>Broccoli, in Roeschen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, einige Blaetter beiseite gelegt</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Pfefferminze, einige Blaetter beiseite gelegt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Broccoli-Pesto>
+      <Orecchiette_kochen>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>250 g</quant>
+          <zutat>Kefen, in Streifen</zutat>
+      </Orecchiette_kochen>
+   </einkaufliste>
+   <rezept>
+      <Orecchiette>
+          <inhalt>Spinat in siedendem Salzwasser ca. 30 Sek. blanchieren. Ca. 1 dl Kochwasser beiseite stellen. Spinat, abtropfen, ausdruecken, mit beiseite gestelltem Kochwasser puerieren (ergibt ca. 180 g Spinatpueree). Mehl und Griess  in eine Schuessel geben, mischen. Spinatpueree beigeben, mischen, zu einem glatten geschmeidigen, weichen Teig kneten. Teig zu einer Kugel formen, unter einer heiss ausgespuelten Schuessel bei Raumtemperatur ca. 30 Min. ruhen lassen. Teig vierteln, zu fingerdicken Teigrollen formen, in ca. 1 cm grosse Stuecke schneiden. Teigstuecke mit einem Essmesser mit der flachen Messermitte ziehend flach druecken, die raue Teigseite nach aussen stuelpen, so dass das die Orecchiette-Form entsteht.</inhalt>
+      </Orecchiette>
+      <Broccoli-Pesto>
+          <inhalt>Ein Daempfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen, Broccoli beigeben, salzen, ca. 5 Min. garen. Broccoli mit Basilikum, Pfefferminze und Knoblauch im Cutter fein hacken, Kaese, Oel und Zitronensaft darunterruehren, wuerzen. </inhalt>
+      </Broccoli-Pesto>
+      <Orecchiette_kochen>
+          <inhalt>Orecchiette im siedenden Salzwasser ca. 5 Min. knapp al dente kochen, Kefen beigeben und zusammen ca. 2 Min. fertig kochen, abtropfen. Orecchiette und Kefen mit dem Broccoli-Pesto mischen, beiseite gelegte Kraeuter darueberstreuen.</inhalt>
+      </Orecchiette_kochen>
+   </rezept>
+</Rezept>

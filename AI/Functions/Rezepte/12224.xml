@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>261 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 </quant>
+          <zutat>Aepfel (z.B. Braeburn)</zutat>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Am Stielende der Aepfel je einen ca. 2 cm dicken Deckel abschneiden. Mit dem Kugelausstecher Kerngehaeuse entfernen. Nuesse, Honig und Zimt mischen, in die Aepfel fuellen, Deckel aufsetzen. Orangensaft mit Zimt und Sternanis aufkochen, Hitze reduzieren. Aepfel beigeben, mit wenig Fluessigkeit betraeufeln, zugedeckt bei kleiner Hitze ca. 15 Min. koecheln.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

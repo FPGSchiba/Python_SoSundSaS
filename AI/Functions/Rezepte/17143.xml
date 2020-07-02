@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>186 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Randen    >
+          <quant>3 </quant>
+          <zutat>rohe Randen (ca. 550 g), geschaelt, in ca. 5 cm langen Staengeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Randen    >
+      <Dip       >
+          <quant>60 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>70 g</quant>
+          <zutat>Ziegenfrischkaese</zutat>
+          <quant>1 TL</quant>
+          <zutat>Meerrettich, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Dill, grob geschnitten</zutat>
+          <quant>30 g</quant>
+          <zutat>Baumnusskerne, fein gehackt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Randen    >
+          <inhalt>Randenstaengeli mit Maizena, Cayennepfeffer und Salz in einen Plastikbeutel geben, gut schuetteln. Randen flach auf einem mit Backpapier belegten Blech verteilen, mit Oel betraeufeln. </inhalt>
+      </Randen    >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Nach der Haelfte der Backzeit die Randen wenden. </inhalt>
+      </Backen    >
+      <Dip       >
+          <inhalt>Quark mit dem Frischkaese glatt ruehren. Meerrettich, Dill und Baumnusskerne darunterruehren, wuerzen. Randen-Fries aus dem Ofen nehmen, Dip dazu servieren.</inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

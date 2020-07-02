@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>105 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Dekorieren>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>200 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Silberglimmer</zutat>
+          <quant> </quant>
+          <zutat>Zucker-Streudekor</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter, Zucker und Vanillepaste gut verruehren, Ei darunterruehren.  Mehl und Backpulver mischen, daruntermischen. Teig zu einer Kugel formen etwas flach druecken, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Teig      >
+      <Auswallen >
+          <inhalt>Teig zwischen zwei Backpapier ca. 2 mm duenn auswallen, Rondellen von ca. 6 cm Ø ausstechen. Rondellen auf 4 mit Backpapier belegte Bleche legen. </inhalt>
+      </Auswallen >
+      <Backen_pro_Blech>
+          <inhalt>Ca. 7 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen, mit den restlichen Blechen gleich verfahren. </inhalt>
+      </Backen_pro_Blech>
+      <Dekorieren>
+          <inhalt>Eiweiss mit soviel Puderzucker verruehren, bis eine dickfluessige Glasur entsteht. Silber Glimmer darunterruehren. Guetzli damit bestreichen, mit Zuckerdekor dekorieren. </inhalt>
+      </Dekorieren>
+   </rezept>
+</Rezept>

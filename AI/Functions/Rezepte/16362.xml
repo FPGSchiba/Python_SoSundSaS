@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>513 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dressing  >
+          <quant>2 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>6 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Honig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Dressing  >
+      <Reis      >
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>250 g</quant>
+          <zutat>Venere-Reis</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Reis      >
+      <Salat     >
+          <quant>200 g</quant>
+          <zutat>Stangensellerie</zutat>
+          <quant>250 g</quant>
+          <zutat>Kirschen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Dill</zutat>
+          <quant>125 g</quant>
+          <zutat>Forellenfilets, heiss geraeuchert</zutat>
+          <quant>125 g</quant>
+          <zutat>Mozzarella</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Dressing                      </inhalt>
+      </How_To    >
+      <Dressing  >
+          <inhalt>Senf, Aceto, Oel, Honig und Salz in einer grossen Schuessel verruehren. </inhalt>
+      </Dressing  >
+      <How_To1   >
+          <inhalt>Reis                          </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Wasser dazugiessen, Reis und Lorbeerblatt beigeben, wuerzen, aufkochen. Zugedeckt unter gelegentlichem Ruehren bei mittlerer Hitze ca. 40 Min. kochen. </inhalt>
+      </How_To2   >
+      <Reis      >
+          <inhalt>Salat                         </inhalt>
+      </Reis      >
+      <Salat     >
+          <inhalt>Salat anrichten. Forellenfilets und Mozzarella in Stuecke schneiden oder zupfen, darauf verteilen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

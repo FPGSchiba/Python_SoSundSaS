@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>468 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Fisch     >
+          <quant>50 g</quant>
+          <zutat>Rohschinken, in Streifchen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, in Scheibchen</zutat>
+          <quant>80 g</quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft, fein gehackt, 4 EL Oel beiseite gestellt</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Forellen (Bio) (je ca. 250 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fisch     >
+      <Kartoffeln>
+          <quant>800 g</quant>
+          <zutat>vorwiegend festkochende Kartoffeln, in ca. 2 cm breiten Schnitzen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, in Scheibchen</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kartoffeln>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fisch                         </inhalt>
+      </How_To    >
+      <Fisch     >
+          <inhalt>Kartoffeln                    </inhalt>
+      </Fisch     >
+      <Kartoffeln>
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Blech herausnehmen, Kartoffeln auf eine Blechseite schieben. Forellen auf die freie Blechseite legen. Fertig backen: ca. 20 Min.</inhalt>
+      </Kartoffeln>
+   </rezept>
+</Rezept>

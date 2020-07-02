@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>723 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1 1/5 kg</quant>
+          <zutat>Suesskartoffeln, in ca. 2 1/2 cm grossen Wuerfeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>4 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>4 EL</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>150 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>75 g</quant>
+          <zutat>ungesalzene Erdnuesse, grob gehackt</zutat>
+      </Suppe     >
+      <Topping   >
+          <quant>1 EL</quant>
+          <zutat>ungesalzene Erdnuesse, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, in Schnitzen</zutat>
+          <quant>wenig </quant>
+          <zutat>Koriander</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel erwaermen, Zwiebel ca. 3 Min. andaempfen. Knoblauch und Chili beigeben, ca. 1 Min. mitdaempfen. Suesskartoffeln, Curry, Kurkuma und Salz beigeben, ca. 1 Min. fertigdaempfen. Tomaten, Bouillon und Kokosmilch dazugiessen, aufkochen. Hitze reduzieren, Suppe bei kleiner Hitze ca. 20 Min. koecheln. Erdnussbutter, Spinat und Erdnuesse beigeben, kurz koecheln, bis der Spinat zusammengefallen ist.</inhalt>
+      </Suppe     >
+      <Topping   >
+          <inhalt>Suppe anrichten, mit Erdnuessen, Limettenschnitzen und Koriander garnieren.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

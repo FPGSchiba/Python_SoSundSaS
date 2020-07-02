@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>598 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>89 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linguine  >
+          <quant>500 g</quant>
+          <zutat>Teigwaren (Linguine)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Linguine  >
+      <Sauce     >
+          <quant>1 TL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>500 g</quant>
+          <zutat>gemischte  Pilze (z.B. Champignons, Kraeuterseitlinge, Eierschwaemme), in Scheiben</zutat>
+          <quant>2 1/4 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+          <quant>wenig </quant>
+          <zutat>Piment (Fine Food), nach Belieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+      <Anrichten >
+          <quant>1 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Linguine  >
+          <inhalt>Teigwaren im Salzwasser al dente kochen.</inhalt>
+      </Linguine  >
+      <Sauce     >
+          <inhalt>Kokosoel in einer Pfanne erhitzen, Pilze ca. 5 Min. daempfen. Kokosmilch und Limettensaft dazugiessen, aufkochen, wuerzen. </inhalt>
+      </Sauce     >
+      <Anrichten >
+          <inhalt>Linguine abtropfen, zu der Sauce geben, alles gut mischen. Koriander darueber streuen, sofort servieren.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

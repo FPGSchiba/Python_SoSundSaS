@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>294 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>4 </quant>
+          <zutat>Kalbsplaetzli (z. B. Nuss, je ca. 140 g), flach geklopft</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>1/2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, grob geschnitten</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone, in Scheiben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Ofen auf 60 Grad vorheizen, Platte und Teller vorwaer-men. Plaetzli etwas flach klopfen, mit Oel bestreichen. Plaetzli portionenweise in einer heissen Grillpfanne beidseitig je ca. 1 Min. grillieren, herausnehmen, wuerzen, Plaetzli warm stellen.</inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Bouillon in die Grillpfanne giessen, Braten-satz loesen, durch ein Sieb in eine kleine Pfanne giessen. Unter Ruehren aufkochen, Hitze reduzieren. Rahm mit den Kraeutern puerieren, mit der Zitrone zur Bouillon geben, aufkochen, ca. 2 Min. koecheln, wuerzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

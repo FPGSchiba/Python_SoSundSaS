@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>358 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereiten>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>200 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Vorbereiten>
+      <Anrichten >
+          <quant>150 g</quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+          <quant>360 g</quant>
+          <zutat>Jogurt nature</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten>
+          <inhalt>Erdbeeren mit Honig und Milch puerieren. Haferflocken und Salz in einer Schuessel mischen, Erdbeermilch dazugiessen, mischen, zugedeckt ca. 8 Std. oder ueber Nacht kuehl stellen.</inhalt>
+      </Vorbereiten>
+      <Anrichten >
+          <inhalt>Mueesli in 4 Glaeser verteilen, die Haelfte der Erdbeeren und den Jogurt darauf verteilen, mit den restlichen Erdbeeren garnieren. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

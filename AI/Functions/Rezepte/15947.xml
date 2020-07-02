@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>221 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung_  >
+          <quant>120 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale und 11/2 EL Saft beiseitegestellt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Tabasco</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>Tomate, in Wuerfeli</zutat>
+          <quant>20 g</quant>
+          <zutat>Cashew-Nuesse (z.B. mit Paprika, grob gehackt)</zutat>
+          <quant>20 g</quant>
+          <zutat>Datteln, grob gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Peperoni, halbiert</zutat>
+      </Fuellung_  >
+   </einkaufliste>
+   <rezept>
+      <Fuellung_  >
+          <inhalt>Couscous, Zitronenschale und -saft, Oel und Tabasco  in einer Schuessel  mischen, siedendes Wasser daruebergiessen, zugedeckt ca. 5 Min. quellen lassen. Tomate, Nuesse und Datteln beigeben, salzen. Couscous mit einer Gabel lockern, Peperoni damit fuellen.</inhalt>
+      </Fuellung_  >
+      <Holzkohle-/Gas-/Elektrogrill>
+          <inhalt>Gefuellte Peperoni ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) ca. 15 Min. grillieren.</inhalt>
+      </Holzkohle-/Gas-/Elektrogrill>
+   </rezept>
+</Rezept>

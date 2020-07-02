@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>245 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Eigelb, verklopft</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Rahm und Eier beigeben, mischen, mit dem Knethaken der Kuechenmaschine zu einem weichen, glatten Teig kneten. Butter beigeben, ca. 5 Min. weiterkneten. Zugedeckt bei Raumtemperatur ca. 3 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig in 12 Portionen teilen. Von jeder Portion ein baumnussgrosses Stueck wegnehmen und zu kleinen Kugeln formen. Restliche Teigportionen zu je einer groesseren Kugel formen, in die vorbereiteten Foermchen setzen, kleinere Kugeln daraufsetzen. Zugedeckt nochmals ca. 30 Min. aufgehen lassen. Brioches mit Eigelb bestreichen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, lauwarm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=NiGtOo7MB9A"/>
+</Rezept>

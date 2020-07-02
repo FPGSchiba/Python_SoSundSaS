@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>21 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Tee       >
+          <quant>3 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>600 g</quant>
+          <zutat>roter Rhabarber, in Stuecken</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Beutel</quant>
+          <zutat>Hagenbuttentee mit Hibiskus</zutat>
+      </Tee       >
+      <Eistee    >
+          <quant>4 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in Scheiben</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaettchen</zutat>
+      </Eistee    >
+   </einkaufliste>
+   <rezept>
+      <Tee       >
+          <inhalt>Wasser mit den Rhabarbern und Zucker aufkochen, ca. 15 Min. koecheln. Teebeutel beigeben, Pfanne von der Platte nehmen, auskuehlen. Fluessigkeit durch ein Sieb in einen Krug giessen, mind. 1 Std. kuehl stellen. </inhalt>
+      </Tee       >
+      <Eistee    >
+          <inhalt>Sirup, Eiswuerfel, Zitronenscheiben und Minze beigeben, geniessen. </inhalt>
+      </Eistee    >
+   </rezept>
+</Rezept>

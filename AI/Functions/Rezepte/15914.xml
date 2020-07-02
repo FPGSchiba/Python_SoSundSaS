@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>458 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kerne_roesten>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+      </Kerne_roesten>
+      <Dressing  >
+          <quant>100 g</quant>
+          <zutat>Aprikosen, entsteint, in Stuecken</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 TL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+      </Dressing  >
+   </einkaufliste>
+   <rezept>
+      <Kerne_roesten>
+          <inhalt>Sonnenblumenkerne in einer Bratpfanne goldbraun roesten, auskuehlen. </inhalt>
+      </Kerne_roesten>
+      <Dressing  >
+          <inhalt>Aprikosen mit Honig, Oel, Aceto und Salz puerieren. Senf und Thymian mit den Sonnenblumenkernen unter das Dressing ruehren. </inhalt>
+      </Dressing  >
+   </rezept>
+</Rezept>

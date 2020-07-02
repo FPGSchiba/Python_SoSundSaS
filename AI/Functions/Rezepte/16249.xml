@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>756 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>69 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knusper-Granola>
+          <quant>50 g</quant>
+          <zutat>geschaelte Mandeln, mittelfein gehackt</zutat>
+          <quant>60 g</quant>
+          <zutat>Paranuesse</zutat>
+          <quant>30 g</quant>
+          <zutat>Pekannuesse</zutat>
+          <quant>30 g</quant>
+          <zutat>Macadamia-Nuesse</zutat>
+          <quant>4 EL</quant>
+          <zutat>grobe Haferflocken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup oder brauner Reissirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Himalayasalz</zutat>
+      </Knusper-Granola>
+      <Pueree     >
+          <quant>200 g</quant>
+          <zutat>Tiefgekuehltes Bio Açai-Pueree, leicht angetaut</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Heidelbeeren oder Blaubeeren</zutat>
+          <quant>1 </quant>
+          <zutat>Banane, sehr reif, tiefgekuehlt, leicht angetaut</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Mandeldrink oder Kokosmilch</zutat>
+          <quant>4 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>1 EL</quant>
+          <zutat>Hanfsamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+      </Pueree     >
+      <Anrichten_&amp;_Toppings>
+          <quant>1 </quant>
+          <zutat>Banane, in Scheiben</zutat>
+          <quant>3 TL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>3 TL</quant>
+          <zutat>Honig oder Ahornsirup</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Beeren</zutat>
+      </Anrichten_&amp;_Toppings>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Knusper-Granola               </inhalt>
+      </How_To    >
+      <Knusper-Granola>
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 170 Grad vorgeheizten. Nach 10 Min. mit einer Gabel auflockern. Granola herausnehmen, auskuehlen.</inhalt>
+      </Knusper-Granola>
+      <Pueree     >
+          <inhalt>Alle Zutaten in einem leistungsstarken Mixer glatt und cremig puerieren. In 3 Schalen verteilen.</inhalt>
+      </Pueree     >
+      <Anrichten_&amp;_Toppings>
+          <inhalt>Das Pueree in 3 Schalen verteilen, mit Granola, Bananenscheiben, Mandelmus, Honig und Beeren verzieren. Sofort servieren.</inhalt>
+      </Anrichten_&amp;_Toppings>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=VGLb0Jarz94"/>
+</Rezept>

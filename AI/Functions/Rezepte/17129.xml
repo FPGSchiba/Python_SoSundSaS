@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>288 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Teig      >
+      <Einarbeiten_>
+          <quant>250 g</quant>
+          <zutat>Bauernspeck am Stueck</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haselnuesse</zutat>
+      </Einarbeiten_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Mehl, Salz und Hefe in eine Schuessel geben, mischen. </inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>Milch, Ei und Butter beigeben, zu einem weichen, glatten Teig kneten. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Einarbeiten                   </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Speck, Rosmarin und Nuesse unter den aufgegangenen Teig kneten. </inhalt>
+      </How_To4   >
+      <Einarbeiten_>
+          <inhalt>Backen: Ca. 45 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Einarbeiten_>
+   </rezept>
+</Rezept>

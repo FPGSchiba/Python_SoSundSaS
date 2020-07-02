@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>737 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schaum    >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein geschnitten</zutat>
+          <quant>3 </quant>
+          <zutat>schwarzer Pfeffer, zerdrueckt</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Estragon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Schaum    >
+      <Nudeln    >
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Tagliatelle)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>400 g</quant>
+          <zutat>Lauch, in ca. 10 cm langen Stuecken, laengs in feinen Streifen</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+      </Nudeln    >
+      <Fisch     >
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>600 g</quant>
+          <zutat>Lachsfilets mit Haut (Bio) (ca. 2 cm dick), in 4 Stuecken</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Schaum    >
+          <inhalt>Butter warm werden lassen. Schalotte andaempfen. Pfefferkoerner und Estragon beigeben. Wein dazugiessen, aufkochen. Hitze reduzieren, offen ca. 10 Min. auf ca. die Haelfte einkochen, Estragon entfernen. Kurz vor dem Servieren Senf beigeben, Rahm dazugiessen, unter Ruehren aufkochen, mit dem Mixstab aufschaeumen, wuerzen.</inhalt>
+      </Schaum    >
+      <Nudeln    >
+          <inhalt>Tagliatelle im siedenden Salzwasser knapp al dente kochen. Lauchstreifen ca. 3 Min. vor Ende der Kochzeit mitkoecheln, abtropfen, mit wenig Butter mischen.</inhalt>
+      </Nudeln    >
+      <Fisch     >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Lachsfilets ca. 3 Min. anbraten, Filets wenden, ca. 2 Min. fertig braten. Lachsfilets wuerzen.</inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

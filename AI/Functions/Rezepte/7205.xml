@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>539 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>77 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaghetti >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>500 g</quant>
+          <zutat>Fenchel, Fenchelkraut beiseitegestellt, Fenchel geviertelt, quer in 3 cm dicken Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Wuerfeli</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>350 g</quant>
+          <zutat>Spaghetti</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale, beiseitegestellt, 2 EL</zutat>
+      </Spaghetti >
+      <Streusel  >
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Streusel  >
+   </einkaufliste>
+   <rezept>
+      <Spaghetti >
+          <inhalt>Butter erwaermen, Fenchel und Apfel ca. 2 Min. andaempfen, wuerzen. Apfelsaft dazugiessen, zugedeckt ca. 5 Min. knackig daempfen. Spaghetti im siedenden Salzwasser al dente kochen, abgiessen, zurueck in die Pfanne geben. Gemuese, Huettenkaese, die Haelfte des beiseitegestellten Fenchelkrautes und Zitronensaft daruntermischen.</inhalt>
+      </Spaghetti >
+      <Streusel  >
+          <inhalt>Butter erwaermen, Paniermehl und Sesam unter Ruehren bei mittlerer Hitze ca. 3 Min. roesten, mit beiseitegestellter Zitronenschale, Salz und Pfeffer wuerzen. Spaghetti anrichten, Streussel darauf verteilen, mit restlichem Fenchelkraut garnieren.</inhalt>
+      </Streusel  >
+   </rezept>
+</Rezept>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>593 kcal</NaehrwertProPerson>
+       <Fett>50 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mandeln_roesten:>
+          <quant>400 g</quant>
+          <zutat>Mandeln</zutat>
+      </Mandeln_roesten:>
+      <Mandeln_puerieren>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Meersalz</zutat>
+      </Mandeln_puerieren>
+   </einkaufliste>
+   <rezept>
+      <Mandeln_roesten:>
+          <inhalt>Mandeln auf einem mit Backpapier belegten Blech verteilen. Ca. 15 Min. im auf 150 Grad vorgeheizten Ofen roesten. Herausnehmen, auskuehlen.</inhalt>
+      </Mandeln_roesten:>
+      <Mandeln_puerieren>
+          <inhalt>Mandeln, Zimt und Salz im Mixglas puerieren, bis eine glatte, cremige Masse entsteht. In das Glas geben.</inhalt>
+      </Mandeln_puerieren>
+   </rezept>
+</Rezept>

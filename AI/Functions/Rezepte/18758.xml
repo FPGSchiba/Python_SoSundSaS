@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>610 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>46 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereiten>
+          <quant>1 1/5 kg</quant>
+          <zutat>Kalbsrack, beim Metzger vorbestellt</zutat>
+      </Vorbereiten>
+      <Anbraten  >
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>300 g</quant>
+          <zutat>Pastinaken, in Schnitzchen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Birnensaft</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen, in Schnitzen</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+      </Anbraten  >
+      <Braten_im_Ofen>
+          <quant>4 EL</quant>
+          <zutat>Birnel (Birnendicksaft), leicht erwaermt</zutat>
+      </Braten_im_Ofen>
+      <Topinambur-Pueree>
+          <quant>500 g</quant>
+          <zutat>Topinambur, geschaelt, in Stuecken (ergibt ca. 430 g)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Salzwasser</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Topinambur-Pueree>
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten>
+          <inhalt>Fleisch ca.1 Std. vor der Zubereitung aus dem Kuehlschrank nehmen. Ofen auf 120 Grad vorheizen. Ein mit Backpapier belegtes Blech in die Mitte des Ofens schieben.</inhalt>
+      </Vorbereiten>
+      <Anbraten  >
+          <inhalt>Senf, Oel und Rosmarin mischen, wuerzen. Fleisch damit einreiben. Oel in einer Bratpfanne erhitzen. Fleisch rundum ca. 8 Min. anbraten, erst wenden, wenn sich eine Kruste gebildet hat. Fleisch herausnehmen. Pastinaken in derselben Pfanne kurz andaempfen. Birnensaft dazugiessen, kurz einkochen. Fleisch und Gemuese mit dem Saft, den Birnen und dem Rosmarin auf das vorgewaermte Blech verteilen. Fleischthermometer an der dicksten Stelle des Racks einstecken. </inhalt>
+      </Anbraten  >
+      <Braten_im_Ofen>
+          <inhalt>Ca. 40 Min. in der Mitte des vorgeheizten Ofens. Fleisch herausnehmen, mit Birnel bestreichen. Ca. 30 Min. fertig garen. Die Kerntemperatur soll ca. 63 Grad betragen. Fleisch herausnehmen, zugedeckt ca.10 Min. ruhen lassen. Fleisch zwischen den Knochen tranchieren. </inhalt>
+      </Braten_im_Ofen>
+      <Topinambur-Pueree>
+          <inhalt>Topinambur zugedeckt im Salzwasser ca. 20 Min. weich kochen. Sauren Halbrahm darunterruehren, fein puerieren, wuerzen. Pueree mit dem Fleisch und Gemuese servieren. </inhalt>
+      </Topinambur-Pueree>
+   </rezept>
+</Rezept>

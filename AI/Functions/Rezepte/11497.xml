@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>601 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zwetschgen>
+          <quant>1 kg</quant>
+          <zutat>Zwetschgen, halbiert, entsteint</zutat>
+          <quant>1 dl</quant>
+          <zutat>Suesswein (z.B. Moscato)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Zwetschgen>
+      <Streusel  >
+          <quant>100 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Streusel  >
+   </einkaufliste>
+   <rezept>
+      <Zwetschgen>
+          <inhalt>Zwetschgen, Wein und Zucker mischen, in der vorbereiteten Form verteilen. </inhalt>
+      </Zwetschgen>
+      <Streusel  >
+          <inhalt>Butter, Mandeln und Zucker mit einer Gabel mischen, bis die Masse kruemelig ist, auf den Zwetschgen verteilen.</inhalt>
+      </Streusel  >
+      <Backen    >
+          <inhalt>ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

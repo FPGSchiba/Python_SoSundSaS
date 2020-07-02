@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>378 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>95 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 1/2 dl</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Piment (z.B. Fine Food Jamaican Piment)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fenchelsamen</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer (z.B. Fine Food Tasmanian Pepper)</zutat>
+          <quant>300 g</quant>
+          <zutat>Rueebli (dunkelrote oder violette), Ersatz: Randen</zutat>
+          <quant>4 </quant>
+          <zutat>Feigen</zutat>
+          <quant>2 </quant>
+          <zutat>Burratas (z.B. Fine Food Burrata)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel mit Basilikum (z.B. Fine Food Olio extra vergine al Basilico)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Aceto balsamico mit Feigen (z.B. Fine Food Condimento ai fichi)</zutat>
+          <quant>wenig </quant>
+          <zutat>Meersalz</zutat>
+          <quant>einige </quant>
+          <zutat>Basilikumblaetter</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Essig, Wasser, Ahornsirup, Salz und Gewuerze in einer Pfanne aufkochen, kurz koecheln.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Rueebli schraeg in ca. 3/4 cm dicke Scheiben schneiden, in den Sud geben, aufkochen, ca. 5 Min. koecheln. Feigen in Schnitze schneiden, beigeben. Feigen und Gemuese abtropfen, etwas abkuehlen, auf Tellern anrichten.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Burratas zerzupfen, auf die Pickles anrichten, mit Basilikumoel, Balsamico, Meersalz und Basilikum garnieren.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+</Rezept>

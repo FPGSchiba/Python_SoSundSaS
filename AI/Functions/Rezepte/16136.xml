@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>214 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>750 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Falten                        </inhalt>
+      </Teig      >
+      <Falten    >
+          <inhalt>Teig zugedeckt ca. 10 Std. oder ueber Nacht im Kuehlschrank aufgehen lassen. </inhalt>
+      </Falten    >
+      <Formen    >
+          <inhalt>Teig nochmals bei Raumtemperatur ca. 1 Std. aufgehen lassen. Backblech in die Mitte des Ofens schieben. Ofen auf 240 Grad vorheizen. Teig auf eine gut bemehlte Arbeitsflaeche geben, Teig dritteln und je ein laengliches Baguette formen. Baguettes auf ein Backpapier legen, mit einem scharfen Messer ca. 5-mal schraeg einschneiden, auf das heisse Backblech ziehen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>15 Min. in der Mitte des auf 240 Grad vorgeheizten Ofens. Hitze auf 200 Grad reduzieren und ca.10 Min. fertig backen. Baguettes herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

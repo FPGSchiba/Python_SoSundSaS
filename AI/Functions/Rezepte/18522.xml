@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bohnen    >
+          <quant>150 g</quant>
+          <zutat>getrocknete Borlotti-Bohnen, ca. 12 Std. eingeweicht, abgetropft</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1 1/2 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Bohnen    >
+      <Suppe     >
+          <quant>150 g</quant>
+          <zutat>geraeucherter Speck</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, in Scheibchen</zutat>
+          <quant>8 </quant>
+          <zutat>Salbeiblaetter, fein geschnitten</zutat>
+          <quant>200 g</quant>
+          <zutat>Wirz, in ca. 1 cm breiten Streifen</zutat>
+          <quant>150 g</quant>
+          <zutat>Rueebli, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Lauch, in ca. 5 mm breiten Ringen</zutat>
+          <quant>100 g</quant>
+          <zutat>Stangensellerie, in ca. 1 cm langen Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 3/4 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Suppe     >
+      <Fertigstellen>
+          <quant>150 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>200 g</quant>
+          <zutat>Tomaten, in Wuerfeli</zutat>
+          <quant>150 g</quant>
+          <zutat>Risottoreis oder Suppenteigwaren</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 EL</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Bohnen    >
+          <inhalt>Bohnen mit den Lorbeerblaettern im siedenden Wasser ca. 30 Min. knapp weich kochen, Wasser abgiessen und Bohnen beiseite stellen. </inhalt>
+      </Bohnen    >
+      <Suppe     >
+          <inhalt>Vom Speck die Schwarte abschneiden und beiseite stellen. Speck in Staengeli schneiden, in einer grossen Pfanne kurz anbraten. Hitze reduzieren, Zwiebel, Knoblauch und Salbei beigeben, ca. 5 Min. mitdaempfen. Wirz, Rueebli, Lauch, Sellerie und Tomatenpueree beigeben, ca. 5 Min. weiterdaempfen. Schwarte beigeben, Bouillon dazugiessen, aufkochen. Hitze reduzieren, Suppe ca. 20 Min. koecheln. </inhalt>
+      </Suppe     >
+      <Fertigstellen>
+          <inhalt>Bohnen, Kartoffeln, Tomaten und Reis beigeben, Minestrone ca. 20 Min. fertig koecheln, wuerzen. Schwarte entfernen, Minestrone anrichten, Parmesan und Petersilie darueberstreuen. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

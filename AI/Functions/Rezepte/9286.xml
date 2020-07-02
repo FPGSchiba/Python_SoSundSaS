@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>198 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Parfait   >
+          <quant>400 g</quant>
+          <zutat>griechischer Jogurt nature nature</zutat>
+          <quant>5 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kirsch</zutat>
+          <quant>3 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>1 </quant>
+          <zutat>rundes Schokolade-Biskuit , 2-mal quer durchgeschnitten</zutat>
+      </Parfait   >
+      <Rahm      >
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Rahm      >
+      <Garnitur  >
+          <quant>25 g</quant>
+          <zutat>gehackte Pistazien</zutat>
+          <quant>10 </quant>
+          <zutat>Physalis</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Parfait   >
+          <inhalt>Jogurt und alle Zutaten bis und mit Kirsch in einer Schuessel glatt ruehren. Schlagrahm sorgfaeltig darunter ziehen. Biskuit und Zimtparfait lagenweise in die Springform schichten, mit Parfait abschliessen, ca. 3 Std. zugedeckt gefrieren.</inhalt>
+      </Parfait   >
+      <Rahm      >
+          <inhalt>Formenrand entfernen, Torte mit  Schlagrahm bestreichen, nochmals ca. 2 Std. gefrieren.</inhalt>
+      </Rahm      >
+      <Garnitur  >
+          <inhalt>Torte vor dem Servieren ca. 1 Std. in den Kuehlschrank stellen, Springformboden entfernen, Torte auf eine Platte schieben, mit Pistazien und Physalis verzieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

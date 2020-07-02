@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>212 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3 </quant>
+          <zutat>Aepfel (z.B. Gravensteiner, ca. 450 g), geschaelt, geviertelt, in ca. 2 mm dicke Scheibchen gehobelt</zutat>
+      </Teig      >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Zucker mit Eiern, Zitronenschale und Vanillesamen verruehren. Butter, Milch und Salz darunterruehren. Mehl mit Backpulver mischen, unter die Masse ruehren. Aepfel beigeben, mischen. Masse in die vorbereitete Form fuellen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen. Kuchen auf ein Gitter schieben, auskuehlen und mit Puderzucker bestaeuben. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

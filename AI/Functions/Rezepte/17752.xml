@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>650 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>84 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>5 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Basmati-Linsen-Quinoa-Mix (z.B. Karma)</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli (ca. 350 g)</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>200 g</quant>
+          <zutat>Feta</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>2 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Spirale   >
+          <quant>80 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 Paeckli</quant>
+          <zutat>Strudelteige  (je ca. 120 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+      </Spirale   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Wasser aufkochen, Salz und Reis-Mix beigeben, offen bei kleiner Hitze ca. 10 Min. koecheln, zugedeckt auf ausgeschalteter Platte ca. 5 Min. quellen lassen, Pfanne von der Platte nehmen.</inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Zwiebeln in feine Streifen schneiden, Rueebli grob reiben und Knoblauch pressen. Pfefferminze fein schneiden, Feta zerbroeckeln. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Kreuzkuemmel und Koriander in einer beschichteten Bratpfanne kurz ohne Fett roesten. Oel, Zwiebeln und Knoblauch beigeben, bei kleiner Hitze ca. 10 Min. daempfen. Rueebli und Spinat beigeben, ca. 5 Min. mitdaempfen, wuerzen. Reis-Mix, Pfefferminze und Feta daruntermischen. Fuellung auskuehlen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Spirale                       </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Butter schmelzen. Teigblaetter auseinanderfalten. 4 Blaetter nebeneinanderlegen, ca. 10 cm ueberlappend auf die Arbeitsflaeche legen. Teigblaetter mit Butter bestreichen. Restliche Teigblaetter darauflegen, mit Butter bestreichen.  </inhalt>
+      </How_To4   >
+      <Spirale   >
+          <inhalt>Teigenden einklappen, zu einem Strudel aufrollen, zu einer Spirale aufdrehen, auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Spirale   >
+      <How_To5   >
+          <inhalt>Backen: Ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, Boerek mit der Minz-Butter betraeufeln, heiss servieren. </inhalt>
+      </How_To5   >
+   </rezept>
+</Rezept>

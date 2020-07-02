@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>611 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Flammkuchenteig_>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe, zerbroeckelt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Flammkuchenteig_>
+      <Sauce_    >
+          <quant>50 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>150 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola)</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce_    >
+      <Belag_    >
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Streifen</zutat>
+          <quant>90 g</quant>
+          <zutat>Rohschinken in Tranchen</zutat>
+          <quant>200 g</quant>
+          <zutat>Feigen, in Scheiben</zutat>
+      </Belag_    >
+      <Backen    >
+          <quant>2 EL</quant>
+          <zutat>Petersilie, grob zerzupft</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Flammkuchenteig_>
+          <inhalt>Mehl, Hefe und Salz  in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser beigeben, mit dem Teighoernchen rasch zu einem weichen Teig zusammenfuegen, kurz kneten, zugedeckt ca. 10 Min. ruhen lassen. Teig halbieren, Teighaelften auf wenig Mehl rechteckig auswallen, auf zwei mit Backpapier belegte Bleche legen.  Teigboden mit einer Gabel dicht einstechen.</inhalt>
+      </Flammkuchenteig_>
+      <Sauce_    >
+          <inhalt>Creme fraiche und Gorgonzola mischen, wuerzen. Flammkuchen damit bestreichen. </inhalt>
+      </Sauce_    >
+      <Belag_    >
+          <inhalt>Flammkuchenboeden mit Zwiebel, Rohschinken und Feigen belegen. </inhalt>
+      </Belag_    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. auf der untersten Rille des auf 240 Grad vorgeheizten Ofens. Flammkuchen herausnehmen, zweiten Flammkuchen gleich backen. Petersilie darueberstreuen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

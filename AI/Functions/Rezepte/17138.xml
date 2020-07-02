@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>767 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>73 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>6 EL</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>3 EL</quant>
+          <zutat>Hartweizengriess</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Hartweizengriess zum Auswallen</zutat>
+      </Teig      >
+      <Bohnen-Belag>
+          <quant>1 Dose</quant>
+          <zutat>schwarze Bohnen (ca. 210 g), kalt abgespuelt, abgetropft</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, Blaetter abgezupft</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>2 1/2 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Bohnen-Belag>
+      <Mandel-Limetten-Sauce>
+          <quant>2 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 1/2 TL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Mandel-Limetten-Sauce>
+      <Gemuese    >
+          <quant>1 TL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti, in duennen Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>duenne gruene Spargeln, in Stuecken</zutat>
+      </Gemuese    >
+      <Pizzen_belegen>
+          <quant>wenig </quant>
+          <zutat>Korianderblaettchen</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in feinen Scheiben</zutat>
+      </Pizzen_belegen>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Griess, Salz und Zucker in einer Schuessel mischen. Wasser und Oel beigeben, zu einem glatten Teig kneten. Teig halbieren, 2 Kugeln formen, beide Teige etwas flach druecken, auf wenig Griess Teige duenn auswallen, auf ein mit Backpapier belegtes Blech legen, mit einer Gabel dicht einstechen.</inhalt>
+      </Teig      >
+      <Bohnen-Belag>
+          <inhalt>Bohnen mit allen Zutaten bis und mit Pfeffer im Mixglas fein puerieren. Belag auf den Teigboeden verteilen und glatt streichen.</inhalt>
+      </Bohnen-Belag>
+      <Backen    >
+          <inhalt>ca. 20 Min. auf der untersten Rille des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Mandel-Limetten-Sauce>
+          <inhalt>Mandelmus und alle Zutaten bis und mit Pfeffer gut verruehren, beiseite stellen.</inhalt>
+      </Mandel-Limetten-Sauce>
+      <Gemuese    >
+          <inhalt>Kokosoel in einer beschichteten Bratpfanne erhitzen, Zucchetti und Spargeln ca. 3 Min. ruehrbraten, aus der Pfanne nehmen, etwas abkuehlen. </inhalt>
+      </Gemuese    >
+      <Pizzen_belegen>
+          <inhalt>Pizzen aus dem Ofen nehmen. Gemuese und Avocado darauf verteilen, mit der beiseite gestellten Mandel-Limetten-Sauce betraeufeln, Koriander darueberstreuen, sofort geniessen.</inhalt>
+      </Pizzen_belegen>
+   </rezept>
+</Rezept>

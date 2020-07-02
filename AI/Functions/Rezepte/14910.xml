@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>605 kcal</NaehrwertProPerson>
+       <Fett>61 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>50 g</quant>
+          <zutat>Baerlauch</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, 1/2 abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, grob gehackt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Cashew-Nuesse in einer Pfanne ohne Fett roesten, abkuehlen. Cashew-Nuesse mit Baerlauch und allen Zutaten bis und mit Pfeffer puerieren, in das Einmachglas fuellen, gut verschliessen. </inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

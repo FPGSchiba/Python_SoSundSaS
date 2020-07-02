@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>219 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schwarzwurzeln>
+          <quant>450 g</quant>
+          <zutat>Schwarzwurzeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Schwarzwurzeln>
+      <Muffins-Teig>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>250 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Safran</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>Petersilie, geschnitten</zutat>
+      </Muffins-Teig>
+      <Backen    >
+          <quant>3 Tranchen</quant>
+          <zutat>Landrauchschinken in Tranchen</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Schwarzwurzeln>
+          <inhalt>Schwarzwurzeln unter fliessendem, kalten Wasser schaelen, in Wuerfeli schneiden, sofort mit Zitronensaft mischen. Butter in einer Bratpfanne warm werden lassen, Schwarzwurzeln ca. 5 Min. andaempfen, wuerzen.</inhalt>
+      </Schwarzwurzeln>
+      <Muffins-Teig>
+          <inhalt>Fuer den Teig Mehl und alle Zutaten bis und mit Pfeffer in einer Schuessel mischen. In einer zweiten Schuessel Eier und alle Zutaten bis und mit Olivenoel verruehren. Masse mit dem Gruyere, der Petersilie und den Schwarzwurzeln zur Mehlmischung geben, mischen. Masse bis knapp unter den Rand in die vorbereiteten Vertiefungen fuellen, so haben die Muffins nach dem Backen die perfekte Form.</inhalt>
+      </Muffins-Teig>
+      <Backen    >
+          <inhalt>Den Schinken in kleine Stuecke schneiden, ueber die Muffins streuen. Backen: ca. 25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

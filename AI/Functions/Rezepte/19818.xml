@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>269 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>2 EL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>2 TL</quant>
+          <zutat>Sesam</zutat>
+          <quant>8 </quant>
+          <zutat>Cipollatas</zutat>
+          <quant>8 </quant>
+          <zutat>kurze Holzspiesschen</zutat>
+      </Marinade  >
+      <Salatplatte>
+          <quant>3 </quant>
+          <zutat>Baby-Salate</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>250 g</quant>
+          <zutat>Snack-Gurken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>2 TL</quant>
+          <zutat>Sesam</zutat>
+          <quant>8 </quant>
+          <zutat>Cipollatas</zutat>
+          <quant>8 </quant>
+          <zutat>kurze Holzspiesschen</zutat>
+          <quant>3 </quant>
+          <zutat>Baby-Salate</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>250 g</quant>
+          <zutat>Snack-Gurken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Salatplatte>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Marinade                      </inhalt>
+      </How_To    >
+      <Marinade  >
+          <inhalt>Grillieren (Holzkohle-, Gas-, Elektrogrill)</inhalt>
+      </Marinade  >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Salatplatte                   </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+      <Salatplatte>
+          <inhalt> Wuerstli-Spiessli auf die Platte geben. </inhalt>
+      </Salatplatte>
+   </rezept>
+</Rezept>

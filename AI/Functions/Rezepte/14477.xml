@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>714 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>65 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Orecchiette)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>500 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherter Lachs, in Tranchen, in Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teigwaren im Salzwasser al dente kochen, ca. 2 dl Kochwasser beiseite stellen. Spinat in ein Abtropfsieb geben, Teigwaren darueber abgiessen, abtropfen. Mascarpone mit dem beiseitegestellten Kochwasser in dieselbe Pfanne geben, aufkochen, wuerzen. Teigwaren wieder beigeben, mit dem Lachs daruntermischen. Petersilie darueberstreuen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

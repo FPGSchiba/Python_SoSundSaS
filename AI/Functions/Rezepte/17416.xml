@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>409 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>80 g</quant>
+          <zutat>Guetzli (z.B. Petit beurre), zerstossen</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, fein gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Boden     >
+      <Jogurtmasse>
+          <quant>300 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1/2 EL Saft</zutat>
+          <quant>2 1/2 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Jogurtmasse>
+      <Rhabarbercurd>
+          <quant>500 g</quant>
+          <zutat>roter Rhabarber, in Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>1 1/2 Blaetter</quant>
+          <zutat>Gelatine ca. 5 Min. in kaltem Wasser eingeweicht, abgetropft</zutat>
+          <quant>wenig </quant>
+          <zutat>getrocknete Blueten </zutat>
+      </Rhabarbercurd>
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Guetzli und Baumnusskerne in eine Schuessel geben. Butter und Fleur de Sel daruntermischen, auf dem vorbereiteten Formenboden verteilen, mit einem nassen Loeffelruecken gut andruecken, kuehl stellen. </inhalt>
+      </Boden     >
+      <Jogurtmasse>
+          <inhalt>Jogurt, Zucker, Zitronenschale und -saft verruehren. Gelatine im heissen Wasser aufloesen, mit 2 EL Jogurtmasse verruehren, sofort gut unter die restliche Masse ruehren. Jogurtmasse auf dem Guetzliboden verteilen, zugedeckt ca. 4 Std. kuehl stellen. </inhalt>
+      </Jogurtmasse>
+      <Rhabarbercurd>
+          <inhalt>Rhabarber und Zucker in einer Pfanne mischen, ca. 30 Min. ziehen lassen. Wasser beigeben, aufkochen. Zugedeckt ca. 10 Min. weich koecheln, puerieren, etwas abkuehlen. Rhabarbermus, Zucker, Maizena, Eigelbe und Butter in einer Pfanne mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Die Haelfte der Creme heiss durch ein Sieb in das saubere, vorgewaermte Glas fuellen, sofort gut verschliessen. Gelatine unter die restliche heisse Creme ruehren, durch ein Sieb in eine Schuessel giessen, auskuehlen, glatt ruehren. Curd auf der Jogurtschicht verteilen, nochmals ca. 2 Std. kuehl stellen. Aus der Form nehmen, schraeg in 8 Schnitten schneiden. Blueten darueber streuen. </inhalt>
+      </Rhabarbercurd>
+   </rezept>
+</Rezept>

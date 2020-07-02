@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>396 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>150 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Paeckli</quant>
+          <zutat>Betty Bossi Pesto alla verdura  (ca. 75 ml)</zutat>
+          <quant>wenig </quant>
+          <zutat>Koriander oder Minze</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Couscous in eine Schuessel geben, Wasser daruebergiessen, salzen, zugedeckt ca. 15 Min. quellen lassen. Auf Teller anrichten, Pesto darauf verteilen. Koriander zerzupfen, darueberstreuen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

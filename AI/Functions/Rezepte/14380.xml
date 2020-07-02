@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>263 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Bohnensuppe>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, grob gehackt</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>weisse Bohnen (je ca. 200 g), abgespuelt, abgetropft</zutat>
+          <quant>7 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>2 dl</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Bohnensuppe>
+      <Federkohl-Chips>
+          <quant>100 g</quant>
+          <zutat>gewaschener, geruesteter Federkohl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+      </Federkohl-Chips>
+   </einkaufliste>
+   <rezept>
+      <Bohnensuppe>
+          <inhalt>Oel in einer Pfanne warm werden lassen. Schalotten andaempfen. Bohnen beigeben, kurz mitdaempfen. Wasser dazugiessen, aufkochen. Rosmarin beigeben, Hitze reduzieren, zugedeckt ca. 20 Min. koecheln. Rosmarin entfernen, Suppe puerieren. Sauren Halbrahm darunterruehren, wuerzen, nur noch heiss werden lassen. </inhalt>
+      </Bohnensuppe>
+      <Federkohl-Chips>
+          <inhalt>Federkohl mit Oel und Salz mischen, auf einem mit Backpapier belegten Blech verteilen. Backen: ca. 30 Min. im auf 130 Grad vorgeheizten Ofens (Heissluft). </inhalt>
+      </Federkohl-Chips>
+   </rezept>
+</Rezept>

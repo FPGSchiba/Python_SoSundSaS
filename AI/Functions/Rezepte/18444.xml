@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>309 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Leinsamen >
+          <quant>2 EL</quant>
+          <zutat> geschrotete Leinsamen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+      </Leinsamen >
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Vollkornreismehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Kartoffelstaerke</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>400 g</quant>
+          <zutat>gemischte  Pilze (z.B. Eierschwaemmli, Steinpilze, Champignons), in Stuecken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <Leinsamen >
+          <inhalt>Leinsamen und Wasser mischen, ca. 30 Min. quellen lassen.</inhalt>
+      </Leinsamen >
+      <Teig      >
+          <inhalt>Mehle, Staerke, Backpulver und Salz mischen. Butter beigeben, von Hand grob verreiben. Sauren Halbrahm mit den gequellten Leinsamen beigeben, zu einem Teig kneten. Teig zu einer Kugel formen, etwas flach druecken, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig zwischen zwei Backpapier ca. 4 mm duenn auswallen, ca. 15 Min. kuehl stellen. Rondellen von ca. 10 cm Ø ausschneiden, in die vorbereiteten Foermchen legen, mit einer Gabel dicht einstechen, nochmals ca. 15 Min. kuehl stellen. </inhalt>
+      </Formen    >
+      <Belag     >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Pilze portionenweise ca. 3 Min. goldbraun braten, wuerzen, etwas abkuehlen. Sauren Halbrahm, Huettenkaese und Ei verruehren. Petersilie darunterruehren, wuerzen. Fuellung auf die Teigboeden verteilen, Pilze darauf verteilen. </inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus den Foermchen nehmen, lauwarm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

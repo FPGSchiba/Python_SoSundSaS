@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>421 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Broetchen  >
+          <quant>300 g</quant>
+          <zutat>Dinkelvollkornmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt, geroestet</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (je ca. 20 g), zerbroeckelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Baumnussoel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+      </Broetchen  >
+      <Kraeutersauce>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>180 g</quant>
+          <zutat>Creme fraiche mit Kraeutern</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Kraeuterweinessig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kraeutersauce>
+      <Burger    >
+          <quant>70 </quant>
+          <zutat>Weissbrot vom Vortag, eingeweicht, gut ausgedrueckt, fein gehackt</zutat>
+          <quant>450 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>15 g</quant>
+          <zutat>Zwiebelsprossen</zutat>
+      </Burger    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Broetchen                      </inhalt>
+      </How_To    >
+      <Broetchen  >
+          <inhalt>Backen: Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Broetchen auf einem Gitter auskuehlen.</inhalt>
+      </Broetchen  >
+      <Kraeutersauce>
+          <inhalt>Alle Zutaten gut verruehren.   </inhalt>
+      </Kraeutersauce>
+      <Burger    >
+          <inhalt>Brot und alle Zutaten bis und mit Pfeffer von Hand sehr gut kneten. Masse in 8 Portionen teilen, mit nassen Haenden Hamburger formen. Bratbutter in einer beschichteten Bratpfanne heiss werden lassen, Hitze reduzieren. Hamburger beidseitig je ca. 3 Min. braten.</inhalt>
+      </Burger    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=8svkCG_1r1s"/>
+</Rezept>

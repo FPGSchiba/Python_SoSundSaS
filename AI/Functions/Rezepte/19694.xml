@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>479 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>49 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kalbsbraten>
+          <quant>600 g</quant>
+          <zutat>Kalbsbraten (z.B. Hohruecken)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Kalbsbraten>
+      <Sauce     >
+          <quant>2 </quant>
+          <zutat>hart gekochte Eier</zutat>
+          <quant>1 Dose</quant>
+          <zutat>weisser Thon in Salzwasser (ca. 160 g), abgetropft, zerzupft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 </quant>
+          <zutat>Sardellenfilets</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kapern</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+      <Salat     >
+          <quant>600 g</quant>
+          <zutat>Tomaten (z.B. Coeur de Boeuf und Cherry-Tomaten), in Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Basilikum, Blaetter abgezupft</zutat>
+          <quant>30 g</quant>
+          <zutat>Kapernaepfel, abgetropft</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Kalbsbraten>
+          <inhalt>Fleisch rundum wuerzen, mit Oel bestreichen.</inhalt>
+      </Kalbsbraten>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Fleisch mit geschlossenem Deckel ueber schwacher Glut/- auf niedriger Stufe (ca.150 Grad) ca. 45 Min. grillieren, von Zeit zu Zeit wenden. Zugedeckt ca. 15 Min. ruhen lassen.</inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+      <Sauce     >
+          <inhalt>Eier mit allen Zutaten bis und mit Kapern puerieren, wuerzen. </inhalt>
+      </Sauce     >
+      <Salat     >
+          <inhalt>Fleisch in duenne Tranchen schneiden, mit den Tomaten auf Teller verteilen. Oel und Aceto ueber die Tomaten traeufeln, Salz und Basilikum darauf verteilen. Sauce ueber das Fleisch traeufeln, Kapernaepfel darauf verteilen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

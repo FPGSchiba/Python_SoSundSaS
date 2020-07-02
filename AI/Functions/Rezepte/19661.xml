@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>148 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auberginen>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>2 </quant>
+          <zutat>Auberginen, in Wuerfeln</zutat>
+          <quant>500 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Auberginen>
+      <Anrichten_>
+          <quant>90 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Anrichten_>
+   </einkaufliste>
+   <rezept>
+      <Auberginen>
+          <inhalt>Oel in einer Bratpfanne erhitzen. Auberginen ca. 10 Min. anbraten, Tomaten beigeben, wuerzen, zugedeckt ca. 15 Min. koecheln. </inhalt>
+      </Auberginen>
+      <Anrichten_>
+          <inhalt>Jogurt und Dill mischen, wuerzen, zu den Auberginen servieren. </inhalt>
+      </Anrichten_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>106 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schnecken >
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>180 g</quant>
+          <zutat>Hinterschinken in Tranchen, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>ausgewallter Flammkuchenteig (ca. 24 x 30 cm)</zutat>
+      </Schnecken >
+   </einkaufliste>
+   <rezept>
+      <Schnecken >
+          <inhalt>Creme fraiche mit Schinken, Schalotte, Schnittlauch und Maizena verruehren, wuerzen. Flammkuchenteig entrollen, Fuellung darauf verteilen, dabei ringsum einen Rand von ca. 1 cm frei lassen. Teig von der Laengsseite her aufrollen. Rolle mit einem scharfen Messer ohne Druck in ca. 2 cm dicke Scheiben schneiden, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Schnecken >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter etwas abkuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

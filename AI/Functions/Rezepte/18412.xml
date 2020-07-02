@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>158 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuechlein  >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 25 x 40 cm)</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>6 </quant>
+          <zutat>Feigen, in Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+      </Kuechlein  >
+   </einkaufliste>
+   <rezept>
+      <Kuechlein  >
+          <inhalt>Teig entrollen, mit dem Backpapier auf ein Blech legen. Rondellen von ca. 10 cm Ø ausschneiden. Restlichen Teig entfernen. Creme fraiche auf den Rondellen verteilen, dabei einen Rand von ca. 1 cm lassen. Feigen darauf verteilen, Zucker darueberstreuen. </inhalt>
+      </Kuechlein  >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

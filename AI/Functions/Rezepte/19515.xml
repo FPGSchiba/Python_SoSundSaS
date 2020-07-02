@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>237 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mueesli    >
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone</zutat>
+          <quant>8 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>2 Becher </quant>
+          <zutat>Jogurt nature (360 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>250 g</quant>
+          <zutat>Beeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone</zutat>
+          <quant>8 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>2 Becher </quant>
+          <zutat>Jogurt nature (360 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>250 g</quant>
+          <zutat>Beeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+      </Mueesli    >
+   </einkaufliste>
+   <rezept>
+      <Mueesli    >
+          <inhalt>Aepfel an der Bircherraffel in eine Schuessel fein reiben, von der Zitrone den Saft auspressen, mischen. </inhalt>
+      </Mueesli    >
+   </rezept>
+</Rezept>

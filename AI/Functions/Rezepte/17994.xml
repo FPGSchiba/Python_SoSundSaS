@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>579 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brot      >
+          <quant>200 g</quant>
+          <zutat>Baguettes, laengs und quer halbiert</zutat>
+          <quant>60 g</quant>
+          <zutat>Basilikum-Pesto</zutat>
+      </Brot      >
+      <Backen_   >
+          <quant>125 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten, in Scheiben</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, zerzupft</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Brot      >
+          <inhalt>Schnittflaechen mit Pesto bestreichen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Brot      >
+      <Backen_   >
+          <inhalt>Ca. 5 Min. in der oberen Haelfte des auf 220 Grad vorgeheizten Ofens roesten, herausnehmen. Tomaten und Mozzarella darauf verteilen, ca. 15 Min. fertig backen.  </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

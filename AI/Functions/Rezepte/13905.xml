@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>70 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zwirbel_  >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Pizzateig  (25 x 38 cm), laengs halbiert</zutat>
+          <quant>350 g</quant>
+          <zutat>Raclettekaese in Scheiben, in ca. 10 cm langen Streifen</zutat>
+      </Zwirbel_  >
+      <Lauge_    >
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>5 g</quant>
+          <zutat>Natron</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rosmarinnadeln, fein gehackt</zutat>
+      </Lauge_    >
+   </einkaufliste>
+   <rezept>
+      <Zwirbel_  >
+          <inhalt>Pizzateig in ca. 21/2 cm breite Streifen schneiden. Die Kaesestreifen vollstaendig damit einwickeln, auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Zwirbel_  >
+      <Lauge_    >
+          <inhalt>Wasser mit Natron verruehren, Zwirbel damit bestreichen. Fleur de Sel und Rosmarin darueberstreuen. </inhalt>
+      </Lauge_    >
+      <Backen    >
+          <inhalt>Ca. 13 Min. in der Mitte des auf 240 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

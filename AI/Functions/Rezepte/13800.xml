@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>330 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs halbiert, Samen ausgekratzt</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Backen_   >
+          <quant>3 EL</quant>
+          <zutat>Butter</zutat>
+      </Backen_   >
+      <Anrichten_>
+          <quant>50 g</quant>
+          <zutat>Passionfruit Curd</zutat>
+          <quant>100 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Anrichten_>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Eier und Milch mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse schaumig ist. Mehl und Backpulver mischen, mit allen Zutaten bis und mit Salz daruntermischen, ca. 5 Min. weiterruehren. </inhalt>
+      </Teig      >
+      <Backen_   >
+          <inhalt>Ofen auf 220 Grad vorheizen. Butter in die Form geben, im Ofen schmelzen. Teig beigeben. Ca. 20 Min. in der unteren Haelfte des vorgeheizten Ofens backen.  </inhalt>
+      </Backen_   >
+      <Anrichten_>
+          <inhalt>Passionsfrucht Curd und Heidelbeeren darauf verteilen. Puderzucker darueberstreuen. </inhalt>
+      </Anrichten_>
+   </rezept>
+</Rezept>

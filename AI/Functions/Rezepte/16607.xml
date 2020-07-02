@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>283 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>250 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant>200 g</quant>
+          <zutat>Federkohl, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>trockener weisser Vermouth (z.B. Noilly Prat)</zutat>
+          <quant>1 1/5 Liter</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>15 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>120 g</quant>
+          <zutat>Blattspinat</zutat>
+      </Suppe     >
+      <Garnitur_ >
+          <quant>80 g</quant>
+          <zutat>Bratspeck, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>gemischte  Pilze, halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>30 g</quant>
+          <zutat>Micro Greens  (z.B. mild)</zutat>
+      </Garnitur_ >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel in einer weiten Pfanne erwaermen. Zwiebel und Salbei andaempfen, Kartoffeln und Federkohl beigeben, ca. 5 Min. mitdaempfen. Vermouth beigeben, fast vollstaendig einkochen. Bouillon dazugiessen, aufkochen, Steinpilze beigeben, zugedeckt bei kleiner Hitze ca. 25 Min koecheln. Spinat beigeben, zusammenfallen lassen, Suppe puerieren. </inhalt>
+      </Suppe     >
+      <Garnitur_ >
+          <inhalt>Speck in einer beschichteten Bratpfanne langsam knusprig braten, herausnehmen. Oel in derselben Pfanne erhitzen. Pilze beigeben, ca. 4 Min. braten, Salbei beigeben, kurz mitbraten, herausnehmen, salzen. Suppe in Schalen anrichten, saurer Halbrahm, Speck, Pilze und Micro Greens darauf verteilen. </inhalt>
+      </Garnitur_ >
+   </rezept>
+</Rezept>

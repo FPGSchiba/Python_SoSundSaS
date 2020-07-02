@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>245 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cocktail  >
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gin (z.B. Old Curiosity Apothecary Rose Gin)</zutat>
+          <quant>8 EL</quant>
+          <zutat>Rhabarbersirup</zutat>
+          <quant>8 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser (z.B. Coop Naturaplan Minzwasser)</zutat>
+          <quant>8 </quant>
+          <zutat>Kardamomkapseln, zerdrueckt</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+      </Cocktail  >
+   </einkaufliste>
+   <rezept>
+      <Cocktail  >
+          <inhalt>Eiswuerfel in die Glaeser verteilen. Gin, Sirup und Zitronensaft verruehren, dazugiessen. Cocktail mit Minzwasser auffuellen, mit Kardamom und Minze garnieren. </inhalt>
+      </Cocktail  >
+   </rezept>
+</Rezept>

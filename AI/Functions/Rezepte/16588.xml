@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>83 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Trockene_Zutaten>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Natron (ca. 5 g)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Piment</zutat>
+      </Trockene_Zutaten>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur wenig abgeriebene Schale</zutat>
+      </Teig      >
+      <Rentier   >
+          <quant> </quant>
+          <zutat>Zuckerdekor-Stift  (braun)</zutat>
+          <quant> </quant>
+          <zutat>Smarties (nur rote)</zutat>
+      </Rentier   >
+      <Schneemaenner>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>20 </quant>
+          <zutat>Marshmallows (kleine)</zutat>
+          <quant> </quant>
+          <zutat>Zuckerdekor-Stift  (rot und braun)</zutat>
+      </Schneemaenner>
+   </einkaufliste>
+   <rezept>
+      <Trockene_Zutaten>
+          <inhalt>Mehl, Natron, Salz und Gewuerze in einer Schuessel mischen. </inhalt>
+      </Trockene_Zutaten>
+      <Teig      >
+          <inhalt>Butter in einer Pfanne erwaermen. Zucker, Ahornsirup, Ingwer und Orangenschale beigeben, ruehren, bis sich der Zucker aufgeloest hat. Pfanne von der Platte nehmen, etwas abkuehlen. Buttermasse zu den trockenen Zutaten geben, rasch zu einem Teig zusammenfuegen, zugedeckt ca. 2 Std. kuehl stellen. </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig portionenweise zwischen zwei aufgeschnittenen Plastikbeutel ca. 3 mm duenn auswallen. Mit einem runden Foermchen (ca. 6 cm Ø) Rondellen ausstechen, auf zwei mit Backpapier belegte Bleche legen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Pro Blech ca. 6 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Rentier   >
+          <inhalt>Mit dem Dekor-Stift auf der Haelfte der Guetzli einen kleinen Punkt malen, ein rotes Smartie daraufkleben, mit dem Dekor-Stift Geweihe und Augen malen.</inhalt>
+      </Rentier   >
+      <Schneemaenner>
+          <inhalt>Eiweiss mit soviel Puderzucker verruehren, bis eine dickfluessige Glasur entsteht. Die restlichen Guetzli damit bestreichen. Je ein Marshmellow darauflegen, mit den Dekor-Stiften Arme, Augen, Nase und Knoepfe malen.  </inhalt>
+      </Schneemaenner>
+   </rezept>
+</Rezept>

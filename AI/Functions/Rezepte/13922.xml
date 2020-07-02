@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>672 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaeseschnitten_>
+          <quant>4 Scheiben</quant>
+          <zutat>Halbweissbrot</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in feinen Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Pro Montagna Berg-Gewuerz fuer Raclette und Fondue</zutat>
+          <quant>150 g</quant>
+          <zutat>Pro Montagna Bergkaese , in feinen Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kaeseschnitten_>
+   </einkaufliste>
+   <rezept>
+      <Kaeseschnitten_>
+          <inhalt>Brotscheiben auf beiden Seiten mit Oel bestreichen, auf ein mit Backpapier belegtes Blech legen. Birnenscheiben darauf verteilen, mit Bio-Berg-Gewuerz bestreuen und mit Kaese bedecken, wuerzen. </inhalt>
+      </Kaeseschnitten_>
+      <Backen    >
+          <inhalt>Ca. 15 Min. im auf 200 Grad vorgeheizten Ofen (Heissluft). </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

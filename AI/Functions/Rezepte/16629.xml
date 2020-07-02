@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>322 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Roesti-Muffins>
+          <quant>2 Paeckli</quant>
+          <zutat>Bratspeck in Tranchen (je ca. 130 g)</zutat>
+          <quant>400 g</quant>
+          <zutat>Gschwellti (fest kochende Sorte), vom Vortag, grob gerieben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>12 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Roesti-Muffins>
+      <Zwiebelsauce_>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>3 </quant>
+          <zutat>Zwiebeln, in feinen Ringen</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Rindsbouillon</zutat>
+          <quant>20 g</quant>
+          <zutat>Butterfloeckli</zutat>
+      </Zwiebelsauce_>
+      <Bratwuerste>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>4 </quant>
+          <zutat>Kalbsbratwuerste</zutat>
+      </Bratwuerste>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Roesti-Muffins                 </inhalt>
+      </How_To    >
+      <Roesti-Muffins>
+          <inhalt>Je 2 Specktranchen in die Vertiefungen legen. Kartoffeln salzen, auf dem Speck verteilen, mit einem Kaffeeloeffel eine Mulde formen. </inhalt>
+      </Roesti-Muffins>
+      <How_To1   >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Eier einzeln aufschlagen, je ein Ei in die Mulden geben, ca. 10 Min. fertig backen. Eier wuerzen. </inhalt>
+      </How_To1   >
+      <Zwiebelsauce_>
+          <inhalt>Butter in einer Pfanne erwaermen. Zwiebeln beigeben, zugedeckt ca. 15 Min. daempfen, ohne Deckel ca. 5 Min. fertig daempfen. Bouillon dazugiessen, ca. 5 Min. kochen. Pfanne von der Platte nehmen, Butter daruntermischen. </inhalt>
+      </Zwiebelsauce_>
+      <Bratwuerste>
+          <inhalt>Oel in einer Bratpfanne erhitzen. Bratwuerste rundum ca. 10 Min. braten. Herausnehmen, in Stuecke schneiden, nach Belieben auf Holzspiesschen stecken. Roesti-Muffins mit etwas Zwiebelsauce auf Tellern anrichten, Bratwuerste dazu servieren.</inhalt>
+      </Bratwuerste>
+   </rezept>
+</Rezept>

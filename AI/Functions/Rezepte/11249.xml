@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>450 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fisch     >
+          <quant>2 </quant>
+          <zutat>Wolfsbarsche (Bio) (je 600 - 800 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Halbweissbrot vom Vortag,  fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein geschnitten</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur Schale</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fisch     >
+      <Gemuese    >
+          <quant>300 g</quant>
+          <zutat>fest kochende Kartoffeln, fein gehobelt</zutat>
+          <quant>300 g</quant>
+          <zutat>Fenchel, fein gehobelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Fisch     >
+          <inhalt>Fische innen und aussen kalt abspuelen, trocken tupfen, salzen. Brot, Zwiebel, Tomaten, Zitronenschale und Oel mischen, wuerzen. Fische damit fuellen.</inhalt>
+      </Fisch     >
+      <Gemuese    >
+          <inhalt>Kartoffeln und Fenchel auf einem mit Backpapier belegten Blech verteilen. Oel und Safran verruehren, daruebertraeufeln, Fische darauflegen.</inhalt>
+      </Gemuese    >
+      <Backen    >
+          <inhalt>ca. 30 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, Fleur de Sel darueberstreuen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

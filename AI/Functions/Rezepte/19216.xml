@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>645 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>48 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kraeuterbutter>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kresse</zutat>
+          <quant>100 g</quant>
+          <zutat>gesalzene Butter, weich</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Entrecotes doubles (je ca. 400 g/ 4 cm dick)</zutat>
+      </Kraeuterbutter>
+      <Farbiges_Ofengemuese>
+          <quant>300 g</quant>
+          <zutat>mittelgrosse festkochende Kartoffeln</zutat>
+          <quant>300 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>300 g</quant>
+          <zutat>rohe Randen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Farbiges_Ofengemuese>
+      <Entrecote >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Entrecote >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kraeuterbutter                 </inhalt>
+      </How_To    >
+      <Kraeuterbutter>
+          <inhalt>Petersilie und Schnittlauch fein schneiden, Kresse grob schneiden. Butter mit den Schwingbesen des Handruehrgeraets ca. 2 Min. schaumig ruehren. Petersilie, Schnittlauch und Kresse darunterruehren, wuerzen, zugedeckt beiseite stellen.</inhalt>
+      </Kraeuterbutter>
+      <How_To1   >
+          <inhalt>Farbiges Ofengemuese           </inhalt>
+      </How_To1   >
+      <Farbiges_Ofengemuese>
+          <inhalt>Gemuese mit dem Oel und Salz in einer Schuessel mischen, auf einem mit Backpapier belegten Blech verteilen. </inhalt>
+      </Farbiges_Ofengemuese>
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Entrecote >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Fleisch wuerzen, beidseitig je ca. 4 Min. braten. </inhalt>
+      </Entrecote >
+      <Anrichten >
+          <inhalt>Fleisch herausnehmen, zugedeckt ca. 5 Min. ruhen lassen. Fleisch quer zur Faser tranchieren, mit dem Ofengemuese und Kraeuterbutter servieren. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>90 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 dl</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, wenig abgeriebene Schale</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille Bio</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>250 g</quant>
+          <zutat>Betty Bossi Backmehl</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>300 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in eine Schuessel geben, Ahornsirup, Salz, Orangenschale und Vanille- und Nelkenpulver darunterruehren. Ei und Eigelb darunterruehren, weiterruehren, bis die Masse heller ist. Mehl beigeben, zu einem Teig zusammenfuegen, etwas flach druecken, zugedeckt mind. 2 Std. kuehl stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Teig portionenweise auf wenig Mehl oder zwischen einem aufgeschnittenen Plastikbeutel ca. 7 mm dick auswallen. Verschieden grosse Sterne ausstechen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 12 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Eiweiss mit dem Zitronensaft leicht verklopfen, Puderzucker beigeben, mit den Schwingbesen des Handruehrgeraetes ca. 5 Min. ruehren. Glasur in einen Spritzsack fuellen,  Spitze wegschneiden, sodass nur eine kleine Oeffnung entsteht. Sterne verzieren.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

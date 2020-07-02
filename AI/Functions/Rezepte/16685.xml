@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>731 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>73 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizzateig >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Hartweizengriess</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Pizzateig >
+      <Pizza     >
+          <quant>wenig </quant>
+          <zutat>Hartweizengriess</zutat>
+          <quant>40 g</quant>
+          <zutat>Parmesan, gerieben</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, gerieben</zutat>
+          <quant>250 g</quant>
+          <zutat>Kuerbis, in feinen Scheiben (ergibt ca. 200 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>Kraeuterseitlinge, in feinen Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>rohe Schweinsbratwuerste</zutat>
+      </Pizza     >
+      <Backen    >
+          <quant>2 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Pizzateig >
+          <inhalt>Mehl, Griess und Salz in einer Schuessel mischen. Hefe, Wasser und Oel beigeben, mit einer Kelle mischen. Mit dem Knethaken der Kuechenmaschine ca. 10 Min. zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 11/2 Std. aufs Doppelte aufgehen lassen. </inhalt>
+      </Pizzateig >
+      <Pizza     >
+          <inhalt>Teig auf wenig Griess eckig (ca. 30 x 40 cm ) auswallen, auf ein mit Backpapier belegtes Blech legen. Parmesan und Mozzarella auf dem Teig verteilen. Kuerbis und Pilze mit Oel und Salz mischen. Wurstfleisch aus der Haut druecken und in ca. 2 cm lange Stuecke schneiden. Wurstkuegeli, Kuerbis und Pilze auf dem Kaese verteilen. </inhalt>
+      </Pizza     >
+      <Backen    >
+          <inhalt>Ca. 30 Min. auf der untersten Rille des auf 240 Grad vorgeheizten Ofens. Herausnehmen, Petersilie darueberstreuen, wuerzen.  </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

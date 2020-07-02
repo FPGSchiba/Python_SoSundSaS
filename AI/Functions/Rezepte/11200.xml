@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>267 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>600 g</quant>
+          <zutat>Aprikosen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein oder Apfelsaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Fill_Header>
+      <Souffle-Masse:>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>3 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+      </Souffle-Masse:>
+      <Backen:   >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen:   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Aprikosen halbieren, entsteinen, nebeneinander mit der Woelbung nach unten in 4 ofenfeste Portionenfoermchen legen. Wein mit Zucker verruehren, neben die Fruechte in die Foermchen giessen.</inhalt>
+      </How_To    >
+      <Souffle-Masse:>
+          <inhalt>Eigelbe und Honig ruehren, bis die Masse heller ist. Eiweisse und Salz zusammen steif schlagen. Zucker beigeben, weiterschlagen, bis die Masse glaenzt. Mandeln und Eigelbmasse sorgfaeltig darunterziehen. Masse in einen Spritzsack mit glatter Tuelle geben, Aprikosenhaelften damit fuellen.</inhalt>
+      </Souffle-Masse:>
+      <Backen:   >
+          <inhalt>ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Das Dessert vor dem Servieren mit Puderzucker bestaeuben.</inhalt>
+      </Backen:   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

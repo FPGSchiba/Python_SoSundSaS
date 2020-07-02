@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>685 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>1 Bund</quant>
+          <zutat>Radiesli</zutat>
+          <quant>4 </quant>
+          <zutat>Essiggurken</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Dill</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Reis      >
+          <quant>300 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon, siedend</zutat>
+      </Reis      >
+      <Forellenfilets>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Forellenfilets (Bio)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Zitronenpfeffer</zutat>
+          <quant>30 g</quant>
+          <zutat>Kresse</zutat>
+      </Forellenfilets>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sauce                         </inhalt>
+      </How_To    >
+      <Sauce     >
+          <inhalt>Radiesli und Essiggurken in Wuerfeli schneiden. </inhalt>
+      </Sauce     >
+      <How_To1   >
+          <inhalt>Dill und Schnittlauch fein schneiden. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Reis                          </inhalt>
+      </How_To2   >
+      <Reis      >
+          <inhalt>Restliche Kraeuter unter den Reis mischen. </inhalt>
+      </Reis      >
+      <Forellenfilets>
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen. Hitze reduzieren, Fischfilets wuerzen, beidseitig je ca. 2 Min. braten, mit dem Reis und der Radiesli-Sauce anrichten, Kresse darueberstreuen.</inhalt>
+      </Forellenfilets>
+   </rezept>
+</Rezept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>196 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine (ca. 450 g), in Wuerfeli</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 </quant>
+          <zutat>Sardellenfilets, trocken getupft, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+      </Gemuese    >
+      <Fisch     >
+          <quant>6 </quant>
+          <zutat>echte Rotzungenfilets (je ca. 70 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Aufstrich Tomaten und Oliven</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Oel in einer beschichteten Bratpfanne erwaermen, Aubergine und Knoblauch beigeben, wuerzen, ca. 8 Min. andaempfen. Wasser dazugiessen, aufkochen, Hitze reduzieren. Sardellen beigeben, ca. 2 Min. weiterdaempfen. Majoran daruntermischen.</inhalt>
+      </Gemuese    >
+      <Fisch     >
+          <inhalt>Fischfilets mit der silbrig schimmernden Seite nach unten auf die Arbeitsflaeche legen, salzen, laengs halbieren, wenden. Fischstreifen mit dem Tomaten- Oliven- Aufstrich bestreichen, aufrollen. Daempfkoerbchen mit wenig Oel bestreichen, in eine Pfanne stellen. Wasser knapp bis unter das Koerbchen einfuellen. Fischroellchen portionenweise darauf legen, zugedeckt aufkochen, bei mittlerer Hitze ca. 5 Min. garen, zugedeckt warm stellen. Fischroellchen mit dem Auberginengemuese anrichten.</inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

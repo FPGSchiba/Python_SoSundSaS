@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>395 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>300 g</quant>
+          <zutat>Blumenkohl, sehr fein gehackt</zutat>
+          <quant>1/2 </quant>
+          <zutat>Salatgurke, gewaschen, in Wuerfeli</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten (z.B. San Marzano), in Wuerfeli</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Blumenkohl mit Gurken- und Tomatenwuerfeli und Petersilie vermischen. Oel und Zitronensaft daruntermischen, salzen. Feta auf dem Taboule verteilen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

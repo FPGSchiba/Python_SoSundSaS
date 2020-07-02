@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>192 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, geviertelt</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>700 g</quant>
+          <zutat>Kalbsbraten (z.B. runder Mocken)</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>2 </quant>
+          <zutat>hart gekochte Eier, halbiert</zutat>
+          <quant>1 Dose</quant>
+          <zutat>weisser Thon in Salzwasser (ca. 160 g), abgetropft, zerzupft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Sardellenfilets</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kapern</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce     >
+      <Anrichten >
+          <quant>2 EL</quant>
+          <zutat>Kapernaepfel</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Wasser mit allen Zutaten bis und mit Lorbeerblatt in einer hohen Pfanne aufkochen, Hitze reduzieren. Fleisch beigeben, knapp unter dem Siedepunkt ca. 50 Min. ziehen lassen. Pfanne von der Platte nehmen, Fleisch im Sud auskuehlen. 1/2 dl Sud beiseitestellen. </inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Beiseite gestellten Sud mit Eiern und allen Zutaten bis und mit Kapern zu einer glatten Sauce puerieren, salzen. </inhalt>
+      </Sauce     >
+      <Anrichten >
+          <inhalt>Fleisch quer zur Faser sehr fein tranchieren, auf Tellern anrichten. Sauce darauf verteilen, mit Kapernaepfel garnieren. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

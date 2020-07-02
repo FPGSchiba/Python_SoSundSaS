@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>876 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>93 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>190 g</quant>
+          <zutat>rote Tapenade </zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca.10 g), zerbroeckelt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Belag     >
+          <quant>250 g</quant>
+          <zutat>Mozzarella, zerzupft</zutat>
+          <quant>120 g</quant>
+          <zutat>Champignons, in Stuecken</zutat>
+      </Belag     >
+      <Topping   >
+          <quant>100 g</quant>
+          <zutat>Cherry-Tomaten, geviertelt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Tomatentapenade, Hefe und Wasser beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufgehen lassen. Teig vierteln, auf wenig Mehl zu Kugeln formen, mit den Haenden flach druecken, zu ovalen Pizzen formen, auf zwei mit Backpapier belegte Bleche legen.</inhalt>
+      </Teig      >
+      <Belag     >
+          <inhalt>Die Haelfte des Mozzarella und Champignons auf den Pizzas verteilen.</inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Je ca. 30 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens, herausnehmen. </inhalt>
+      </Backen    >
+      <Topping   >
+          <inhalt>Restlichen Mozzarella und Tomaten darauf verteilen. Basilikum und Oel mischen, daruebertraeufeln. Wenig Fleur de Sel darauf verteilen.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

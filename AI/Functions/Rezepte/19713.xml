@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>110 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuesepuffer_>
+          <quant>1 </quant>
+          <zutat>Zucchetti, grob gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Peperoni, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gelbe Linsen (ca. 130 g), abgespuelt, abgetropft</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Gruyere, fein gerieben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gemuesepuffer_>
+      <Dip_      >
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1/2 </quant>
+          <zutat>Gurke, geschaelt, entkernt, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Dip_      >
+      <Braten_   >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Braten_   >
+   </einkaufliste>
+   <rezept>
+      <Gemuesepuffer_>
+          <inhalt>Zucchetti und alle Zutaten bis und mit Pfeffer in einer Schuessel mischen. Von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden. </inhalt>
+      </Gemuesepuffer_>
+      <Dip_      >
+          <inhalt>Jogurt, Gurke, Knoblauch und Zitronensaft verruehren, salzen.</inhalt>
+      </Dip_      >
+      <Braten_   >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Teig portionenweise in die Pfanne geben, sodass Puffer von ca. 7 cm Ø entstehen. Hitze reduzieren, ca. 4 Min. backen, bis sich die Unterseite von selbst loest. Puffer wenden, ca. 4 Min. fertig backen, zugedeckt warm stellen, mit dem restlichen Teig gleich verfahren. Dip zu den Gemuesepuffer servieren. </inhalt>
+      </Braten_   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

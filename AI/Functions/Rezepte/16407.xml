@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>680 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>100 g </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Porridge  >
+          <quant>150 g</quant>
+          <zutat>Goldhirse</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>3 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup oder Kokosbluetenzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Porridge  >
+      <Gebratene_Bananen>
+          <quant>40 g</quant>
+          <zutat>Pistazien, geroestet</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1/3 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>1 </quant>
+          <zutat>Banane (gross), in ca. 55 mm dicken Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Ahornsirup</zutat>
+      </Gebratene_Bananen>
+      <Toppings  >
+          <quant>1/2 </quant>
+          <zutat>Granatapfel, Kerne heraus geloest</zutat>
+          <quant>150 g</quant>
+          <zutat>Himbeeren (oder andere Beeren)</zutat>
+          <quant>2 TL</quant>
+          <zutat>weisses Mandelmus (oder Tahina)</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Porridge                      </inhalt>
+      </How_To    >
+      <Porridge  >
+          <inhalt>Hirse in einem Sieb mit kaltem Wasser gut spuelen. Wasser mit dem Salz aufkochen, Hirse beigeben, aufkochen, 2 Min. bei grosser Hitze kochen. Hitze stark reduzieren, ein</inhalt>
+      </Porridge  >
+      <How_To1   >
+          <inhalt>vermischen und auf bei mittlerer Hitze nochmals warm werden lassen, sofort in die Schalen geben.</inhalt>
+      </How_To1   >
+      <Gebratene_Bananen>
+          <inhalt>Pistazien und Kokosraspel im Cutter oder Food Prozessor sehr fein hacken, Kardamom beigeben. In einer Bratpfanne leicht roesten, auf einen Teller geben. Die Bratpfanne auf mittlerer Stufe erhitzen, Bananenscheiben nebeneinander in die Pfanne legen, mit wenig Ahornsirup betraeufeln und beidseitig je ca. 2 Minuten anbraten. Die Bananen in der Pistazien-Kokosmischung wenden.</inhalt>
+      </Gebratene_Bananen>
+      <Toppings  >
+          <inhalt>Porridge mit den Bananen, Beeren und dem Mandelmus verzieren, sofort servieren.</inhalt>
+      </Toppings  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

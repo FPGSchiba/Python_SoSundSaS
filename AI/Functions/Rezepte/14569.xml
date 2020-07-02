@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>53 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Power-Saft_>
+          <quant>1 </quant>
+          <zutat>Ananas, in Stuecken</zutat>
+          <quant>60 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>2 </quant>
+          <zutat>Mandarinen, ergbit ca. 1 1/2 dl</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, gerieben</zutat>
+      </Power-Saft_>
+   </einkaufliste>
+   <rezept>
+      <Power-Saft_>
+          <inhalt>Alle Zutaten im Mixglas puerieren.</inhalt>
+      </Power-Saft_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>505 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Auberginen, in Wuerfeli</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>100 g</quant>
+          <zutat>Salami, in Wuerfeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Fuellung   >
+      <Ravioli   >
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Ravioli   >
+      <Sauce     >
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Chicoree (z. B. Trevisano), in feinen Streifen</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Oel in einer Pfanne warm werden lassen, Zwiebel ca. 3 Min. andaempfen. Aubergine beigeben, ca. 5 Min. mitdaempfen, Bouillon dazugiessen, ca. 10 Min. unter gelegentlichem Ruehren koecheln bis die Bouillon vollstaendig aufgesogen ist. Auskuehlen, Ricotta und Salami daruntermischen, wuerzen.</inhalt>
+      </Fuellung   >
+      <Ravioli   >
+          <inhalt>Teige laengs halbieren. Eine Teighaelfte mit wenig Ei be-streichen. Auberginenmasse halbieren, jeweils 6 baumnussgrosse Portionen auf dem Teig verteilen. Die andere Teighaelfte darueberlegen, leicht andruecken, dabei eingeschlossene Luft herausdruecken, Ravioli mit einem Messer voneinander trennen. Mit dem anderen Teig gleich verfahren. Ravioli im knapp siedenden Salzwasser ca. 5 Min. ziehen lassen. Mit einer Schaumkelle herausnehmen, abtropfen.</inhalt>
+      </Ravioli   >
+      <Sauce     >
+          <inhalt>Butter in einer Pfanne warm werden lassen, bis die Butter schaeumt und leicht nussig riecht, salzen. Radicchio, mit den Ravioli auf Tellern anrichten. Nussbutter daruebertraeufeln.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

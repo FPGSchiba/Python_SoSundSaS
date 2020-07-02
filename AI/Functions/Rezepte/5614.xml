@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>766 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>91 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>grobe Vollkorn-Haferflocken</zutat>
+          <quant>400 g</quant>
+          <zutat>Bauernmehl</zutat>
+          <quant>1 3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser), lauwarm</zutat>
+          <quant>wenig </quant>
+          <zutat>grobe Vollkorn-Haferflocken zum Bestreuen</zutat>
+      </Teig      >
+      <Sauce     >
+          <quant>1/2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kraeuterweinessig</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+      <Salat     >
+          <quant>4 </quant>
+          <zutat>Cervelats, laengs halbiert, in ca. 7 mm dicken Scheiben</zutat>
+          <quant>4 </quant>
+          <zutat>Essiggurken, in feinen Scheiben</zutat>
+          <quant>75 g</quant>
+          <zutat>rezenter Gruyere, an der Roestiraffel gerieben</zutat>
+          <quant>3 </quant>
+          <zutat>hart gekochte Eier, in Vierteln</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Haferflocken in einer Bratpfanne roesten, in einer grossen Schuessel auskuehlen. Mehl, Salz, Zucker und Hefe beigeben, mischen. Milchwasser dazugiessen, zu einem weichen und geschmeidigen Teig kneten. Zugedeckt bei Raumtemperatur ca. 11/2 Std. aufs Doppelte aufgehen lassen. Teig in die vorbereitete Form geben, mit wenig Wasser bestreichen, mit Haferflocken bestreuen, nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Haferbrot aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Sauce     >
+          <inhalt>Senf und alle Zutaten bis und mit Schnittlauch in einer Schuessel gut verruehren, wuerzen.</inhalt>
+      </Sauce     >
+      <Salat     >
+          <inhalt>Cervelats und alle Zutaten bis und mit Gruyere mit der Sauce mischen. Salat anrichten, Eier darauf verteilen. Haferflockenbrot dazu servieren.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

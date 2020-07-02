@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>412 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knoblauch >
+          <quant>1 </quant>
+          <zutat>ganzer Knoblauch, quer halbiert</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Knoblauch >
+      <Backen    >
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Knoblauch >
+          <inhalt>Die Schnittflaechen des Knoblauchs mit Oel bestreichen. Knoblauch mit der Schnittflaeche nach oben auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Knoblauch >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens, auskuehlen. Weiche Knoblauchzehen herausloesen, mit Creme fraiche, Mayonnaise, Paprika und Salz puerieren. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

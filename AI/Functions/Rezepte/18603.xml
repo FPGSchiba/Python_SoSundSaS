@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>83 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mandelmasse>
+          <quant>100 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>120 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>40 Tropfen</quant>
+          <zutat>rote Lebensmittelfarbe</zutat>
+      </Mandelmasse>
+      <Himbeerfuellung>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeergelee</zutat>
+      </Himbeerfuellung>
+      <Dekorieren>
+          <quant> </quant>
+          <zutat>Zuckerdekor-Stifte (schwarz, gelb und weiss)</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <Mandelmasse>
+          <inhalt>Mandeln, Puderzucker und Backpulver im Cutter fein mahlen, sieben. Eiweisse mit dem Salz steif schlagen, Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Lebensmittelfarbe beigeben, Mandelmischung in mehreren Schritten sorgfaeltig daruntermischen.</inhalt>
+      </Mandelmasse>
+      <Formen    >
+          <inhalt>Masse in einen Spritzsack mit runder Tuelle (ca. 9 mm Ø) geben, ca. 60 kleine Haeufchen (je ca. 3 cm Ø) auf zwei mit Backpapier belegte Bleche spritzen, ca. 30 Min. antrocknen lassen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. im auf 130 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, etwas abkuehlen, Backpapier auf ein Gitter ziehen, auskuehlen. Macarons sorgfaeltig mit einem Spachtel loesen. </inhalt>
+      </Backen    >
+      <Himbeerfuellung>
+          <inhalt>Butter, Zucker und die Haelfte des Himbeergelees mit den Schwingbesen des Handruehrgeraets ca. 2 Min. ruehren. Buttercreme in einen Spritzsack mit glatter Tuelle (ca. 6 mm Ø) geben. Restlichen Himbeergelee glatt ruehren und in einen zweiten Spritzsack geben, Spitze abschneiden. Die Haelfte der Macarons wenden, etwas Butter-Fuellung kreisfoermig daraufspritzen. Etwas Himbeergelee in die Mitte spritzen. Restliche Macarons daraufsetzen, leicht andruecken, zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Himbeerfuellung>
+      <Dekorieren>
+          <inhalt>Gurt, Gurtschnalle und Knoepfe auf die Mitte der Macarons zeichnen, trocknen lassen. </inhalt>
+      </Dekorieren>
+   </rezept>
+</Rezept>

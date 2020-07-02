@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>99 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 1/5 kg</quant>
+          <zutat>Kuerbis (z.B. Muscade), in Stuecken (ergibt ca. 900 g)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>trockener weisser Vermouth (z.B. Noilly Prat)</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in einer Pfanne erwaermen. Schalotten und Ingwer kurz andaempfen, Kuerbis ca. 5 Min. mitdaempfen. Vermouth dazugiessen, auf ca. die Haelfte einkochen. Bouillon dazugiessen, aufkochen, Hitze reduzieren, zugedeckt ca. 20 Min. koecheln. Suppe puerieren, wuerzen. </inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

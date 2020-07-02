@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>845 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>50 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kaninchen >
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fenchelsamen, zerstossen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 1/5 kg</quant>
+          <zutat>Kaninchenragout</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Kaninchen >
+      <Schmoren  >
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Schalotten, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, zerdrueckt</zutat>
+          <quant>400 g</quant>
+          <zutat>Lauch, in Ringen</zutat>
+          <quant>4 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+      </Schmoren  >
+      <Glasierte_Rueebli>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Bundrueebli, laengs halbiert</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Glasierte_Rueebli>
+      <Kraeuterpolenta>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>200 g</quant>
+          <zutat>mittelfeiner Maisgriess</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Kraeuterpolenta>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kaninchen                     </inhalt>
+      </How_To    >
+      <Kaninchen >
+          <inhalt>Schmoren                      </inhalt>
+      </Kaninchen >
+      <Schmoren  >
+          <inhalt>Schmoren im Ofen: ca. 1 Std. zugedeckt in der unteren Haelfte des auf 160 Grad vorgeheizten Ofens. Deckel entfernen, Rahm dazugiessen, Senf beigeben, offen ca. 15 Min. fertig schmoren. </inhalt>
+      </Schmoren  >
+      <Glasierte_Rueebli>
+          <inhalt>Butter und Zucker in einer Pfanne erwaermen, Rueebli beigeben, kurz andaempfen. Wasser dazugiessen, salzen, zugedeckt ca. 5 Min. koecheln, Deckel entfernen ca. 5 Min. fertig koecheln, bis die gesamte Fluessigkeit verdampft ist. </inhalt>
+      </Glasierte_Rueebli>
+      <Kraeuterpolenta>
+          <inhalt>Bouillon aufkochen, Maisgriess einruehren, Hitze reduzieren, unter Ruehren bei kleiner Hitze ca. 4 Min. zu einem dicken Brei koecheln. Kaese und Rosmarin darunterruehren, wuerzen, mit den Rueebli zum Kaninchen servieren. </inhalt>
+      </Kraeuterpolenta>
+   </rezept>
+</Rezept>

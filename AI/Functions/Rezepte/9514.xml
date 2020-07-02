@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>648 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/3 Wuerfel</quant>
+          <zutat>Hefe (ca. 15 g)</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>2 </quant>
+          <zutat>gruene Peperoni, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, fein gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>mittelreifer Tilsiter, grob gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Mehl, Salz und Hefe in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Milch dazugiessen, rasch zu einem weichen Teig verarbeiten, nicht kneten. Teig auf wenig Mehl rund auswallen, aufs Blech legen, mit einer Gabel dicht einstechen.</inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>Oel in Bratpfanne erhitzen. Peperoni bei mittlerer Hitze ca. 10 Min. anbraten. Peperoncino daruntermischen, salzen, auskuehlen. </inhalt>
+      </How_To1   >
+      <Fuellung   >
+          <inhalt>Backen: ca. 40 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>470 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis_kochen>
+          <quant>300 g</quant>
+          <zutat>Langkornreis</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Reis_kochen>
+      <Poulet_braten>
+          <quant>600 g</quant>
+          <zutat>Pouletbruestli, in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Poulet_braten>
+      <Currysauce>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in Schnitzen</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>mittelscharfer Curry</zutat>
+          <quant>2 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+      </Currysauce>
+   </einkaufliste>
+   <rezept>
+      <Reis_kochen>
+          <inhalt>Reis in Salzwasser al dente kochen, abtropfen, zugedeckt beiseite stellen.</inhalt>
+      </Reis_kochen>
+      <Poulet_braten>
+          <inhalt>Poulet portionenweise in der heissen Bratbutter ca. 2 Min. anbraten. Herausnehmen, wuerzen.</inhalt>
+      </Poulet_braten>
+      <Currysauce>
+          <inhalt>Zwiebeln und Aepfel in wenig Bratbutter ca. 2 Min. andaempfen. Mehl und Curry beigeben, ca. 2 Min. duensten. Bouillon und Milch dazugiessen, aufkochen, Hitze reduzieren. Fleisch wieder in die Sauce geben, zugedeckt ca. 6 Min. koecheln. Schnittlauch darueber streuen.</inhalt>
+      </Currysauce>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

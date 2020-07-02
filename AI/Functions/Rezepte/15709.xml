@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>208 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pudding   >
+          <quant>30 g</quant>
+          <zutat>getrocknete Gojibeeren, ueber Nacht in Wasser eingeweicht</zutat>
+          <quant>100 ml</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>50 ml</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Chia-Samen</zutat>
+      </Pudding   >
+      <Toppings  >
+          <quant>2 EL</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>1/2 </quant>
+          <zutat>Blutorange, in hautlosen Schnitzen/Filets</zutat>
+          <quant>2 TL</quant>
+          <zutat>getrocknete Gojibeeren</zutat>
+          <quant>wenig </quant>
+          <zutat>Kokosraspel</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Pudding   >
+          <inhalt>Gojibeeren abtropfen, mit Mandelmilch, Kokosmilch, Ahornsirup, Vanille und Ingwer im Blender/Mixer fein puerieren. Chi-Samen darunterruehren, Masse in 2 Glaeser (je ca. 2 dl) fuellen. Zugedeckt mind. 2 Std. ziehen lassen.</inhalt>
+      </Pudding   >
+      <Toppings  >
+          <inhalt>Pudding mit Jogurt, Orangenfilets, Gojibeeren und Kokoraspel verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=yNIMAigQY0Y"/>
+</Rezept>

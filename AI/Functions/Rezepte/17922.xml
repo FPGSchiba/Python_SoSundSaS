@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>272 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Konfituere >
+          <quant>1 kg</quant>
+          <zutat>Stachelbeeren, Stempel entfernt, halbiert</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Holunderbluetensirup</zutat>
+          <quant>600 g</quant>
+          <zutat>Zucker</zutat>
+      </Konfituere >
+   </einkaufliste>
+   <rezept>
+      <Konfituere >
+          <inhalt>Stachelbeeren und Holunderbluetensirup in eine Pfanne geben, zugedeckt ca. 10 Min, koecheln. Zucker beigeben, unter Ruehren bei mittlerer Hitze aufkochen. Konfituere ca. 10 Min. sprudelnd kochen. Konfituere siedend heiss bis knapp unter den Rand in die sauberen, vorgewaermten Glaeser fuellen, sofort verschliessen. Glaeser mit Schraubdeckel kurz auf den Kopf stellen, auf isolierender Unterlage auskuehlen.</inhalt>
+      </Konfituere >
+   </rezept>
+</Rezept>

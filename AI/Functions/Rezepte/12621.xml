@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>541 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>230 g</quant>
+          <zutat>gekochte Randen, grob gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>5 dl</quant>
+          <zutat>Randensaft</zutat>
+          <quant>3 dl</quant>
+          <zutat>Salzwasser</zutat>
+          <quant>wenig </quant>
+          <zutat>Blattspinat</zutat>
+          <quant>150 g</quant>
+          <zutat>Ziegenfrischkaese</zutat>
+          <quant>2 </quant>
+          <zutat>Feigen, in Schnitzen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fine Food Piment d'Espelette AOC </zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Oel in einer Pfanne erwaermen, Zwiebel und Knoblauch ca. 3 Min. daempfen, Baumnusskerne und Rande mischen, etwas abkuehlen. Ei darunterruehren, salzen. Ofen auf 60 Grad vorheizen, Platte und Teller vorwaermen.</inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Fuellung in 4 Portionen teilen, mit gleichmaessigem Abstand auf die Mitte der Teigstreifen geben. 2. Teigrolle mit wenig Ei bestreichen, ueber die Fuellung legen, Kanten gut andruecken, dabei eingeschlossene Luft herausdruecken. Ravioli mit dem Teigraedli in gleichgrosse Stuecke schneiden.</inhalt>
+      </How_To1   >
+      <Formen    >
+          <inhalt>Spinat und Ravioli auf den vorgewaermten Tellern anrichten, alle restlichen Zutaten darauf verteilen.</inhalt>
+      </Formen    >
+   </rezept>
+</Rezept>

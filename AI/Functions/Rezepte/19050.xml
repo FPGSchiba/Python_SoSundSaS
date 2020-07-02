@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>323 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Guss      >
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Limette, nur abgeriebene Schale</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Guss      >
+      <Auflauf_  >
+          <quant>250 g</quant>
+          <zutat>tiefgekuehlte Beerenmischung</zutat>
+          <quant>6 </quant>
+          <zutat>Gipfeli, gedrittel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Auflauf_  >
+   </einkaufliste>
+   <rezept>
+      <Guss      >
+          <inhalt>Rahm und alle Zutaten bis und mit Salz verruehren. </inhalt>
+      </Guss      >
+      <Auflauf_  >
+          <inhalt>Beeren in die vorbereitete Form verteilen, Gipfeli hineinstecken, Guss darueber giessen. Zucker darueberstreuen, zugedeckt ca. 1 Std. ziehen lassen. </inhalt>
+      </Auflauf_  >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, ca. 5 Min. stehen lassen, warm servieren. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>394 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>500 g</quant>
+          <zutat>Betty Bossi Schupfnudeln</zutat>
+          <quant>500 g</quant>
+          <zutat>gekochtes Sauerkraut</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Speckwuerfeli in einer weiten Bratpfanne ohne Fett ca. 2 Min. ruehrbraten. Schupfnudeln beigeben, ca. 5 Min. mitruehrbraten. Sauerkraut beigeben, ca. 5 Min. mitkochen, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

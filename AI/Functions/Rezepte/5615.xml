@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>420 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ofentomate>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 EL</quant>
+          <zutat>Majoran</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>4 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>4 </quant>
+          <zutat>ProSpecieRara gezahnte Tomaten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Ofentomate>
+      <Trutenpiccata>
+          <quant>50 g</quant>
+          <zutat>rezenter Emmentaler</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>wenig </quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Trutenschnitzel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>12 </quant>
+          <zutat>Salbeiblaetter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+      </Trutenpiccata>
+   </einkaufliste>
+   <rezept>
+      <Ofentomate>
+          <inhalt>Schalotte fein hacken. Thymian und Majoran fein schneiden.</inhalt>
+      </Ofentomate>
+      <Trutenpiccata>
+          <inhalt>Schalotte und Kraeuter daruntermischen, Knoblauch dazupressen, wuerzen.</inhalt>
+      </Trutenpiccata>
+          <inhalt>Salz und Pfeffer mischen, Tomaten in den Einschnitten und aussen wuerzen. Paniermehlmischung in die Einschnitte verteilen. Pfanne ausreiben, beiseite stellen. </inhalt>
+          <inhalt>Trutenpiccata                 </inhalt>
+          <inhalt>Trutenschnitzel quer dritteln, salzen. Fleisch im Mehl wenden, ueberschuessiges Mehl abschuetteln. Fleischstuecke mit je 1 Salbeiblatt belegen,</inhalt>
+          <inhalt>Piccata bei mittlerer Hitze portionenweise beidseitig je nach Dicke 11/2–21/2 Min. braten, warm stellen. Ofentomaten dazu servieren.</inhalt>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

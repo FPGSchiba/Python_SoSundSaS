@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>178 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Granola   >
+          <quant>90 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>90 g</quant>
+          <zutat>Buchweizen</zutat>
+          <quant>50 g</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>50 g</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>20 g</quant>
+          <zutat>Kokosnuss-Stuecke</zutat>
+          <quant>40 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Matchapulver  (Gruentee-Pulver)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Granola   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Granola                       </inhalt>
+      </How_To    >
+      <Granola   >
+          <inhalt>Backen                        </inhalt>
+      </Granola   >
+      <Backen    >
+          <inhalt>Vollstaendig auskuehlen, dann in Stuecke/Clusters brechen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

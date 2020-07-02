@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>340 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, in Schnitzchen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Noilly Prat</zutat>
+          <quant>250 g</quant>
+          <zutat>Lachsfilet (Bio), evtl. graue Fettschicht entfernt, laengs halbiert, quer in 1 cm dicken Scheiben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fill_Header>
+      <Kerbeloel  >
+          <quant>1/2 Bund</quant>
+          <zutat>Kerbel, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale und 1 TL Saft</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kerbeloel  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lachs im Toepfchen: Butter warm werden lassen, Schalotten ca. 5 Min. andaempfen. Zucker darueberstreuen, kurz weiterdaempfen. Noilly Prat beigeben, etwas abkuehlen. Lachs daruntermischen, salzen, in die vorbereiteten Foermchen verteilen. Foermchen auf einen Lappen in eine ofenfeste Form stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Rahm und Eier gut verruehren, wuerzen. Guss in die Foermchen giessen, diese einzeln mit Alufolie zudecken.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Garen im Wasserbad: Siedendes Wasser bis 2 /3 Hoehe der Foermchen einfuellen. Lachs im Toepfchen ca. 45 Min. in der unteren Haelfte des auf 170 Grad vorgeheizten Ofens garen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Foermchen herausnehmen, ca. 10 Min. stehen lassen.</inhalt>
+      </How_To3   >
+      <Kerbeloel  >
+          <inhalt>Kerbel mit den restlichen Zutaten verruehren. Lachs im Toepfchen damit betraeufeln.</inhalt>
+      </Kerbeloel  >
+   </rezept>
+</Rezept>

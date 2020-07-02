@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>641 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>500 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 </quant>
+          <zutat>Lauch, in Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>Broccoli, (ca. 300 g), in Roeschen</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>180 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb, mit wenig Milch verduennt</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig </zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bratbutter erhitzen, Hackfleisch beigeben, ca. 3 Min. anbraten. Hitze reduzieren, Lauch und Broccoli beigeben, ca. 4 Min. mitbraten. Senf, Rahm und Bouillon daruntermischen, wuerzen. Fertige Masse in eine ofenfeste Form von ca. 2 Litern (ca. 28 cm Ø) verteilen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Formenrand mit wenig Eimilch bestreichen. Teig mit einer Gabel dicht einstechen, darauflegen, am Rand gut andruecken, mit Eimilch bestreichen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

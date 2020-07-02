@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>258 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Honigparfait>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>fluessiger Bluetenhonig</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Honigparfait>
+      <Aprikosensauce>
+          <quant>250 g</quant>
+          <zutat>Aprikosen, geviertelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Bluetenhonig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Aprikosensauce>
+      <Nusskrokant>
+          <quant>40 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Bluetenhonig</zutat>
+      </Nusskrokant>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Form vorbereiten              </inhalt>
+      </How_To    >
+      <Form_vorbereiten>
+          <inhalt>Eine Cakeform von ca. 25 cm mit wenig Oel bestreichen und mit Klarsichtfolie auslegen. </inhalt>
+      </Form_vorbereiten>
+      <How_To1   >
+          <inhalt>Honigparfait                  </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Creme durch ein Sieb in eine Schuessel giessen, auskuehlen. </inhalt>
+      </How_To2   >
+      <Honigparfait>
+          <inhalt>Aprikosensauce                </inhalt>
+      </Honigparfait>
+      <Aprikosensauce>
+          <inhalt>Nusskrokant                   </inhalt>
+      </Aprikosensauce>
+      <Nusskrokant>
+          <inhalt>Parfait auf ein Brett stuerzen, Folie entfernen. Parfait in ca. 2 cm dicke Scheiben schneiden, anrichten, Aprikosensauce und Nusskrokant darauf verteilen.</inhalt>
+      </Nusskrokant>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=VGLb0Jarz94"/>
+</Rezept>

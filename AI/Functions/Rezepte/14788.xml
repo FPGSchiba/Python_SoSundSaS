@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>460 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>72 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>100 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>1 </quant>
+          <zutat>Suesskartoffel (ca. 300 g), in Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 EL</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Couscous mit der Bouillon aufkochen, zugedeckt ca. 7 Minuten quellen lassen. Spinat in kochendem Wasser ca. 3 Min. blanchieren, gut abtropfen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Suesskartoffeln auf einem mit Backpapier belegten Blech verteilen, mit 1 EL Oel vermischen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: 15-20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Suesskartoffeln abkuehlen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Fuer die Sauce Zitronensaft mit 1 EL Oel verruehren, wuerzen. Alle Zutaten in einer Schuessel mischen, ca. 10 Min. ziehen lassen, nach Bedarf nochmals wuerzen.</inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+</Rezept>

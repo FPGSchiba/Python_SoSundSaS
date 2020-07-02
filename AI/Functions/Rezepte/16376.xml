@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>274 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant> </quant>
+          <zutat>Erdnussoel zum Ruehrbraten</zutat>
+          <quant>500 g</quant>
+          <zutat>Rindshuft, in feinen Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, in feinen Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>4 </quant>
+          <zutat>rote Chilis, entkernt, grob gehackt</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>4 EL</quant>
+          <zutat>Austernsauce</zutat>
+          <quant>4 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>4 EL</quant>
+          <zutat>Thai-Basilikum, in feinen Streifen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Schnittknoblauch, fein geschnitten</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Wenig Oel im Wok oder einer weiten Bratpfanne heiss werden lassen. Fleisch portionenweise je ca. 2 Min. ruehrbraten. Schalotten, Knoblauch und Chilis kurz mitruehrbraten, herausnehmen. </inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Austernsauce und alle restlichen Zutaten in dieselbe Pfanne geben, aufkochen. Fleisch beigeben, nur noch heiss werden lassen. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

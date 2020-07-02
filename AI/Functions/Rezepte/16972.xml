@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>420 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Birne     >
+          <quant>5 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>60 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>1 </quant>
+          <zutat>Nelke</zutat>
+          <quant>4 </quant>
+          <zutat>Birnen (z.B. Williams), geschaelt</zutat>
+      </Birne     >
+      <Anrichten >
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+          <quant>4 Kugeln</quant>
+          <zutat>Glace Fior di Latte</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Birne     >
+          <inhalt>Wein mit dem Zucker, Zitronenschale, Zimtstange, Sternanis und Nelke aufkochen. Birnen beigeben, bei kleiner Hitze zugedeckt ca. 20 Min. weich koecheln. Birnen ab und zu wenden, damit sie regelmaessig mit Sud bedeckt sind, im Sud auskuehlen. Gewuerze entfernen, Sud sirupartig einkochen, auskuehlen. </inhalt>
+      </Birne     >
+      <Anrichten >
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Birnen und Glace anrichten, Schokoladesauce und wenig Sirup daruebertraeufeln.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

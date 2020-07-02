@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>377 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Feigenconfit_>
+          <quant>3 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Feigen, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Feigenconfit_>
+      <Grillieren>
+          <quant>200 g</quant>
+          <zutat>Baguettes, schraeg in Scheiben</zutat>
+          <quant>120 g</quant>
+          <zutat>Ziegenkaese (z.B. President Crottin), in ca. 1/2 cm dicken Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Thymianblaettchen</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <Feigenconfit_>
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebeln beigeben, andaempfen, Feigen beigeben, ca. 3 Min. mitdaempfen. Wein dazugiessen, etwas einkoecheln. Wasser, Zucker und Thymian beigeben, salzen, unter gelegentlichem Ruehren bei mittlerer Hitze ca. 30 Min. koecheln, etwas abkuehlen, Thymian entfernen.</inhalt>
+      </Feigenconfit_>
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Brotscheiben ueber starker Glut / auf hoechster Stufe beidseitig je ca. 2 Min. grillieren. Ziegenkaese auf den Brotscheiben verteilen, ca. 1 Min. fertiggrillieren. Etwas Feigenconfit darauf verteilen, Thymian darueberstreuen. Restliches Confit dazu servieren.</inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

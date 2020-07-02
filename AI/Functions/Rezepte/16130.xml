@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>355 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polenta   >
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>250 g</quant>
+          <zutat>feiner Maisgriess (oder anderer Maisgries nach Wahl)</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter</zutat>
+      </Polenta   >
+      <Fries     >
+          <quant>3 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+      </Fries     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Polenta                       </inhalt>
+      </How_To    >
+      <Polenta   >
+          <inhalt>Polenta auskuehlen (evtl. ueber Nacht).</inhalt>
+      </Polenta   >
+      <Fries     >
+          <inhalt>Die Polenta in ca. 2 cm breite Streifen schneiden, auf einem mit Backpapier belegten Blech verteilen, mit Oel bestreichen, mit Fleur de Sel und Rosmarin bestreuen.</inhalt>
+      </Fries     >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens, bis die Fries knusprig sind. Evtl. das Blech die letzten Minuten ins obere Drittel schieben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

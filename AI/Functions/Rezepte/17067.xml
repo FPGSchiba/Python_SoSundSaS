@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>682 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Trockene_Zutaten>
+          <quant>150 g</quant>
+          <zutat>Quinoa, abgespuelt, abgetropft</zutat>
+          <quant>150 g</quant>
+          <zutat>feine Vollkorn-Haferflocken (glutenfrei)</zutat>
+          <quant>120 g</quant>
+          <zutat>Pekannuesse, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Leinsamen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Muskat</zutat>
+      </Trockene_Zutaten>
+      <Feuchte_Zutaten>
+          <quant>1 dl</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosoel</zutat>
+      </Feuchte_Zutaten>
+   </einkaufliste>
+   <rezept>
+      <Trockene_Zutaten>
+          <inhalt>Quinoa und alle Zutaten bis und mit Muskat in einer grossen Schuessel mischen.</inhalt>
+      </Trockene_Zutaten>
+      <Feuchte_Zutaten>
+          <inhalt>Ahornsirup und Kokosoel in einem Pfaennchen leicht erwaermen und unter die trockenen Zutaten mischen. Masse auf einem mit Backpapier belegten Blech verteilen. </inhalt>
+      </Feuchte_Zutaten>
+      <Backen    >
+          <inhalt>Ca. 60 Min. im auf 140 Grad (Heissluft) vorgeheizten Ofen, dabei von Zeit zu Zeit mit einer Gabel durchmischen. Granola aus dem Ofen nehmen, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

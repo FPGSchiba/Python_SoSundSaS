@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>239 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Crepes    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Crepes    >
+      <Schichten >
+          <quant>1 dl</quant>
+          <zutat>Vollrahm, knapp steif geschlagen</zutat>
+          <quant>150 g</quant>
+          <zutat>Himbeerkonfituere</zutat>
+          <quant>200 g</quant>
+          <zutat>Nutella </zutat>
+      </Schichten >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Mehl, Eier, Milch, Butter und Salz in einen Messbecher geben.</inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>lassen.                       </inhalt>
+      </How_To1   >
+      <Crepes    >
+          <inhalt>Wenig Oel in einer kleinen beschichteten Bratpfanne (ca. 20 cm Ø) erhitzen. So viel Teig in die Pfanne geben, dass der Boden duenn ueberzogen ist, Hitze reduzieren. Ist die Unterseite gebacken und loest sie sich von selbst, Crepe wenden, fertig backen, auskuehlen. Mit dem restlichen Teig 14 weitere Crepes backen.</inhalt>
+      </Crepes    >
+      <Schichten >
+          <inhalt>Schlagrahm und Konfiture verruehren. 1 Crepe auf eine Platte legen, mit wenig Himbeerrahm bestreichen. Wenig Nutella darauf verteilen, Vorgang mit den restlichen Zutaten wiederholen, mit einer Crepe abschliessen. Zugedeckt mind. 1 Std. kuehl stellen.</inhalt>
+      </Schichten >
+   </rezept>
+</Rezept>

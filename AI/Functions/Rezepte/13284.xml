@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>110 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rollen_formen>
+          <quant>12 </quant>
+          <zutat>Reisblaetter (ca. 22 cm Ø)</zutat>
+          <quant>24 </quant>
+          <zutat>Korianderblaettchen</zutat>
+          <quant>6 </quant>
+          <zutat>Erdbeeren, in Scheibchen</zutat>
+          <quant>1 Dose</quant>
+          <zutat>rosa Thon in Oel (ca. 370 g), abgetropft, zerzupft</zutat>
+          <quant>1/2 </quant>
+          <zutat>Gurke, in Staengelchen</zutat>
+          <quant>2 </quant>
+          <zutat>Mini-Lattiche, laengs halbiert</zutat>
+      </Rollen_formen>
+      <Sauce     >
+          <quant>3 EL</quant>
+          <zutat>Austernsauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale und 1/2 Saft</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in feinen Ringen</zutat>
+          <quant>3 EL</quant>
+          <zutat>gesalzene Erdnuesse, fein gehackt</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Rollen_formen>
+          <inhalt>Ein Reisblatt ca. 30 Sek. in warmes Wasser tauchen, auf ein feuchtes Tuch legen. Je 2 Korianderblaettchen, Erdbeerscheiben, Thon, Gurke und Lattich auf die Blattmitte legen. Seitliche Raender einschlagen, von unten her aufrollen, auf eine Platte legen, mit einem feuchten Tuch bedecken. Mit den restlichen Reisblaettern und Zutaten gleich verfahren.</inhalt>
+      </Rollen_formen>
+      <Sauce     >
+          <inhalt>Austernsauce und alle restlichen Zutaten bis und mit Erdnuesse verruehren.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

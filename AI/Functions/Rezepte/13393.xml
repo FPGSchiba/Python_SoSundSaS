@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>250 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spiessli  >
+          <quant>4 </quant>
+          <zutat>Holzspiesschen</zutat>
+          <quant>16 </quant>
+          <zutat>Betty Bossi Shrimp Dim Sum mit Crevetten</zutat>
+          <quant>300 g</quant>
+          <zutat>Betty Bossi Golden Sweet Ananas </zutat>
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Spiessli  >
+      <Dip-Sauce >
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+      </Dip-Sauce >
+   </einkaufliste>
+   <rezept>
+      <Spiessli  >
+          <inhalt>Dim Sum und 3/4 der Ananaswuerfel abwechslungsweise an die Spiesschen stecken. Restliche Ananaswuerfel und -saft beiseite stellen. Oel in einer beschichteten Bratpfanne heiss werden lassen, Spiessli beidseitig je ca. 2 Min. zugedeckt braten. Wasser dazugiessen, zugedeckt bei grosser Hitze verdampfen lassen. </inhalt>
+      </Spiessli  >
+      <Dip-Sauce >
+          <inhalt>Beiseite gestellte Ananas in feine Wuerfeli schneiden, mit Ananassaft, Zitronengras und Sojasauce mischen. Zu den Spiessli servieren. </inhalt>
+      </Dip-Sauce >
+   </rezept>
+</Rezept>

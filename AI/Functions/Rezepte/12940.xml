@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>106 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Masse_    >
+          <quant>40 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>40 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>8 </quant>
+          <zutat>Medjool-Datteln, entsteint, grob gehackt</zutat>
+          <quant>30 g</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Karma Mandelmus braun</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+      </Masse_    >
+   </einkaufliste>
+   <rezept>
+      <Masse_    >
+          <inhalt>Baumnusskerne und Mandeln im Cutter fein hacken. Datteln, Kokosflocken, Mandelmus und Kokosoel beigeben, solange weitermixen, bis eine kompakte, formbare Masse entsteht. Mit nassen Haenden ca. 16 Kugeln formen, auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Masse_    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>420 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Steinpilze>
+          <quant>25 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Steinpilze>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein geschnitten</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis (z.B. Carnaroli)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>9 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+      </Risotto   >
+      <Fertigstellen>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Steinpilze>
+          <inhalt>Pilze im Wasser einweichen. Pilze herausnehmen, beiseite stellen. Einweichwasser durch ein Kaffeefilterpapier giessen, auffangen, beiseite stellen. </inhalt>
+      </Steinpilze>
+      <Risotto   >
+          <inhalt>Butter in einer Pfanne erwaermen. Zwiebel andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Weisswein dazugiessen, fast vollstaendig einkochen. Pilze beigeben, Bouillon und Einweichwasser unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Ca. 20 Min. koecheln bis der Reis cremig und al dente ist. </inhalt>
+      </Risotto   >
+      <Fertigstellen>
+          <inhalt>Parmesan und Butter darunterruehren, Risotto wuerzen.</inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

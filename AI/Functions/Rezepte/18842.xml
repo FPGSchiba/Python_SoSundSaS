@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>57 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>3 Beutel</quant>
+          <zutat>Kamillentee, nur Inhalt</zutat>
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Teig      >
+      <Dekorieren>
+          <quant>1/2 Beutel</quant>
+          <zutat>weisse Kuchenglasur , geschmolzen</zutat>
+          <quant>2 Beutel</quant>
+          <zutat>Kamillentee, nur Inhalt</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Teebeutel aufschneiden, Inhalt in eine Schuessel geben. Butter beigeben, Zucker und Salz darunterruehren. </inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>Mehl beigeben, rasch zu einem weichen Teig zusammenfuegen, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Mit einem Holzspiesschen oder glatten Tuelle (ca. 3 mm Ø) ein Loch im Guetzli formen, Guetzli ca. 15 Min. kuehl stellen.  </inhalt>
+      </How_To2   >
+      <Backen    >
+          <inhalt>Ca. 8 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Dekorieren>
+          <inhalt>Guetzli schraeg bis zur Haelfte in die Glasur tauchen, abtropfen, mit Kamillen bestreuen, trocknen lassen. </inhalt>
+      </Dekorieren>
+   </rezept>
+</Rezept>

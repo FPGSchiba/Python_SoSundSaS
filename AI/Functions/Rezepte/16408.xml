@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>453 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nudeln_&amp;_Gemuese>
+          <quant>170 g</quant>
+          <zutat>getrocknete Soba-Nudeln</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>wenig </quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>400 g</quant>
+          <zutat>Pak Choi, laengs halbiert</zutat>
+          <quant>150 g</quant>
+          <zutat>Shiitake-Pilze</zutat>
+      </Nudeln_&amp;_Gemuese>
+      <Sauce     >
+          <quant>1 1/2 EL</quant>
+          <zutat>Tamari</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Mirin </zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>2 1/2 TL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+      </Sauce     >
+      <Anrichten_&amp;_Garnieren>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln, nur das Gruen, in feinen Ringen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Buchweizen, geroestet</zutat>
+      </Anrichten_&amp;_Garnieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nudeln &amp; Gemuese           </inhalt>
+      </How_To    >
+      <Nudeln_&amp;_Gemuese>
+          <inhalt>Die Nudeln nach Verpackungsanleitung kochen, kalt abspuelen, abtropfen.</inhalt>
+      </Nudeln_&amp;_Gemuese>
+      <How_To1   >
+          <inhalt>die Pilze in die Pfanne geben, zugedeckt ca. 5 Minuten daempfen. In einem Sieb kalt abspuelen, gut abtropfen.</inhalt>
+      </How_To1   >
+      <Sauce     >
+          <inhalt>Fuer die Sauce alle Zutaten gut verruehren.   </inhalt>
+      </Sauce     >
+      <Anrichten_&amp;_Garnieren>
+          <inhalt>Den Knoblauch in einer Bratpfanne kurz anbraten, 3 TL der Sauce beigeben, kurz weiterbraten. Shiitake beigeben, ca. 2 Min. weiterbraten. Hitze reduziere. Die Nudeln, den Rest der Sauce, den Pak Choi und das Zwiebelgruen beigeben, heiss werden lassen, in die Teller anrichten. Mit den geroesteten Buchweizen bestreuen, sofort servieren.</inhalt>
+      </Anrichten_&amp;_Garnieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+</Rezept>

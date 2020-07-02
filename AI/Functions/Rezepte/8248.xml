@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>736 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>einige </quant>
+          <zutat>schwarzer Pfeffer, zerdrueckt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>2 </quant>
+          <zutat>Lammracks (je ca. 400 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Fleisch   >
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Risottoreis (z.B. Carnaroli)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1 TL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Roquefort) (Blauschimmelkaese), in kleinen Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Risotto   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Braten im Ofen: ca. 10 Min. in der Mitte des auf 150 Grad vorgeheizten Ofens. Ofen ausschalten, Lammracks im Ofen ca. 10 Min. ruhen lassen.</inhalt>
+      </Fleisch   >
+      <Risotto   >
+          <inhalt>Oel erhitzen, Zwiebel andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 20 Min. koecheln, bis der Reis cremig und al dente ist. Parmesan und Thymian darunterruehren. Roquefort unter den Risotto mischen, wuerzen.</inhalt>
+      </Risotto   >
+   </rezept>
+</Rezept>

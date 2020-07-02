@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>226 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>rote Peperoni</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln, mit dem Gruen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Baguettes</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Peperoni in ca. 1 cm breite Streifen schneiden. Bundzwiebeln in Streifen schneiden. Bundzwiebelgruen in Ringe schneiden, beiseite stellen. Oel erwaermen, Zwiebel-Streifen andaempfen. Peperoni beigeben, ca. 3 Min. mitdaempfen. Aceto und Wasser dazugiessen, zugedeckt ca. 5 Min. koecheln, wuerzen, etwas abkuehlen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Baguette schraeg in ca. 1 cm dicke Scheiben schneiden, auf ein Backblech legen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Roesten: ca. 2 Min. im oberen Drittel des auf 240 Grad vorgeheizten Backofengrills. Knoblauchzehe halbieren, Brotscheiben auf der Oberseite damit einreiben. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Peperonata darauf verteilen, mit dem beiseite gestellten Bundzwiebelgruen garnieren.</inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

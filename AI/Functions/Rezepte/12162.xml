@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>684 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>400 g</quant>
+          <zutat>Gelbflossen­-Thunfisch-Steaks</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>4 EL</quant>
+          <zutat>trockener Sherry</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>300 g</quant>
+          <zutat>Langkornreis (z.B. Parboilded)</zutat>
+          <quant>7 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>300 g</quant>
+          <zutat>Chinakohl</zutat>
+          <quant>150 g</quant>
+          <zutat>braune Champignons</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Dill</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fisch in ca. 2 cm grosse Wuerfel schneiden. Knoblauch pressen, mit Sherry, Oel und Fischsauce verruehren, zum Fisch geben, alles gut mischen, zugedeckt ca. 30 Min. im Kuehlschrank marinieren.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Zwiebel hacken, in der Butter andaempfen. Reis beigeben, duensten, bis er glasig ist. Bouillon dazugiessen, aufkochen, Hitze reduzieren, zugedeckt bei mittlerer Hitze ca. 15 Min. koecheln.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Chinakohl in Streifen, Champignons in Stuecke schneiden, zum Reis geben, ca. 5 Min. fertig koecheln.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Marinade vom Fisch abstreifen. Fisch trockentupfen. Oel in einer Bratpfanne erhitzen, Fisch ca. 3 Min. anbraten, salzen. Dill fein schneiden, mit dem Fisch zum Reis geben, sorgfaeltig mischen, nur noch heiss werden lassen, wuerzen.</inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

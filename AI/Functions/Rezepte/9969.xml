@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>137 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Butter</zutat>
+          <quant>400 g</quant>
+          <zutat>dunkle Schokolade (64% Kakao), fein gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>sofort loesliches Kaffeepulver (z.B. Nescafe)</zutat>
+          <quant>1 EL</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>200 g</quant>
+          <zutat>Cashew-Nuesse, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Teig      >
+      <Glasur    >
+          <quant>250 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Espressi, kalt</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Backen: ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Die Brownies muessen innen noch leicht feucht sein. Brownies herausnehmen, etwas abkuehlen, noch warm in Wuerfel schneiden, mit dem Papier auf ein Gitter ziehen, auskuehlen. Brownies vom Backpapier loesen, auf das Gitter legen, Gitter auf ein Backpapier stellen.</inhalt>
+      </Teig      >
+      <Glasur    >
+          <inhalt>Puderzucker und Espresso gut verruehren, ueber die Brownies giessen.</inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

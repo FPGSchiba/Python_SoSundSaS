@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>646 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>50 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Filet_vorbereiten>
+          <quant>800 g</quant>
+          <zutat>Rindsfilet am Stueck (Mittelstueck)</zutat>
+      </Filet_vorbereiten>
+      <Fuellung   >
+          <quant>200 g</quant>
+          <zutat>gemischte  Pilze</zutat>
+          <quant>2 </quant>
+          <zutat>Saucenzwiebeln (ca. 50 g)</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Salbei</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Cognac</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Fleisch_anbraten>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch_anbraten>
+      <Sellerie-Birnen-Pueree>
+          <quant>400 g</quant>
+          <zutat>mehlig kochende Kartoffeln</zutat>
+          <quant>300 g</quant>
+          <zutat>Knollensellerie</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sellerie-Birnen-Pueree>
+      <Sauce     >
+          <quant>2 EL</quant>
+          <zutat>Cognac</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Filet vorbereiten             </inhalt>
+      </How_To    >
+      <Filet_vorbereiten>
+          <inhalt>Fleisch ca. 1 Std. vor dem Anbraten aus dem Kuehlschrank nehmen. Ofen auf 80 Grad vorheizen, Platte und Teller vorwaermen.</inhalt>
+      </Filet_vorbereiten>
+      <How_To1   >
+          <inhalt>Pilze grob schneiden, Zwiebeln in Schnitze schneiden. Knoblauchzehe fein hacken, Salbei fein schneiden. Oel in einer Bratpfanne erhitzen. Pilze ca. 10 Min. anbraten, bis alle Fluessigkeit verdampft ist. Hitze reduzieren. Zwiebeln, Knoblauch und Salbei zugedeckt ca. 10 Min. mitdaempfen. Cognac beigeben, vollstaendig einkochen, salzen. Fuellung auskuehlen. </inhalt>
+      </How_To1   >
+      <Fuellung   >
+          <inhalt>Fleisch anbraten              </inhalt>
+      </Fuellung   >
+      <Fleisch_anbraten>
+          <inhalt>Niedergaren                   </inhalt>
+      </Fleisch_anbraten>
+      <Niedergaren>
+          <inhalt>Sellerie-Birnen-Pueree         </inhalt>
+      </Niedergaren>
+      <Sellerie-Birnen-Pueree>
+          <inhalt>Daempfkoerbchen mit Gemuese und Birnen herausnehmen, Gemuese und Birnen durch ein Passevite zurueck in die Pfanne treiben. Butter darunterruehren, wuerzen. Zugedeckt warm halten.</inhalt>
+      </Sellerie-Birnen-Pueree>
+      <Sauce     >
+          <inhalt>Cognac in die beiseite gestellte Bratpfanne geben, Bratsatz loesen, fast vollstaendig einkochen. Saucen-Halbrahm dazugiessen, ca. 2 Min. koecheln. Fleisch quer zur Faser tranchieren, mit dem Sellerie-Birnen-Pueree und Rahmsauce servieren. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

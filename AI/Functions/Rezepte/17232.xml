@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>620 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant>8 </quant>
+          <zutat>Poulet-Unterschenkel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Poulet    >
+      <Eintopf   >
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in feinen Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>3 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>60 g</quant>
+          <zutat>gruene Oliven</zutat>
+          <quant>4 </quant>
+          <zutat>Medjool-Datteln, in Streifen</zutat>
+      </Eintopf   >
+      <Couscous  >
+          <quant>200 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>3 dl</quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>30 g</quant>
+          <zutat>Mandelstifte, geroestet</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+      </Couscous  >
+   </einkaufliste>
+   <rezept>
+      <Poulet    >
+          <inhalt>Poulet wuerzen. Wenig Oel im Brattopf erhitzen, Poulet portionenweise rundum ca. 8 Min. anbraten. Herausnehmen.  </inhalt>
+      </Poulet    >
+      <Eintopf   >
+          <inhalt>Zwiebeln in derselben Pfanne ca. 5 Min. andaempfen. Mehl und alle Zutaten bis und mit Zimtstange beigeben, kurz mitdaempfen. Bouillon dazugiessen, Oliven beigeben, aufkochen, Hitze reduzieren. Poulet beigeben, zugedeckt ca. 30 Min. schmoren, Deckel entfernen und 10 Min. fertig schmoren. Datteln darauf verteilen. </inhalt>
+      </Eintopf   >
+      <Couscous  >
+          <inhalt>Couscous in eine Schuessel geben, Salzwasser daruebergiessen, zugedeckt ca. 5 Min. quellen lassen. Couscous mit einer Gabel lockern, Mandeln, Zitronensaft und Pfefferminze daruntermischen. Couscous mit dem Poulet anrichten.</inhalt>
+      </Couscous  >
+   </rezept>
+</Rezept>

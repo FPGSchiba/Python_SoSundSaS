@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>443 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salzkartoffeln>
+          <quant>800 g</quant>
+          <zutat>vorwiegend festkochende Kartoffeln, halbiert</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Salzkartoffeln>
+      <Fisch_und_Kraeuter>
+          <quant>600 g</quant>
+          <zutat>Eglifilets ohne Haut</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Kerbel, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Liebstoeckel, fein geschnitten</zutat>
+          <quant>4 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, geviertelt</zutat>
+      </Fisch_und_Kraeuter>
+   </einkaufliste>
+   <rezept>
+      <Salzkartoffeln>
+          <inhalt>Kartoffeln im Salzwasser offen bei mittlerer Hitze ca. 15 Min. weich kochen, abtropfen.</inhalt>
+      </Salzkartoffeln>
+      <Fisch_und_Kraeuter>
+          <inhalt>Ofen auf 60 Grad vorheizen, Platte und Teller vorwaermen. Eglifilets wuerzen und mit Mehl bestaeuben. Bratbutter in einer beschichteten Bratpfanne erhitzen, Eglifilets portionenweise beidseitig je ca. 1 Min. braten, im Ofen warm stellen. Kraeuter in dieselbe Pfanne geben, Butter beigeben und ca. 1 Min. knusprig braten. Kraeuter auf den Eglifilets verteilen, salzen. Mit Salzkartoffeln und Zitronenschnitz servieren.  </inhalt>
+      </Fisch_und_Kraeuter>
+   </rezept>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>331 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Koepfli    >
+          <quant>5 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>100 g</quant>
+          <zutat>Backmarzipan (Mandelmasse)</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>5 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Koepfli    >
+      <Mangosauce>
+          <quant>1 </quant>
+          <zutat>Mango, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Mangosauce>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Koepfli                        </inhalt>
+      </How_To    >
+      <Koepfli    >
+          <inhalt>Mangosauce                    </inhalt>
+      </Koepfli    >
+      <Mangosauce>
+          <inhalt>Blancmanger mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen, Foermchen kurz ins heisse Wasser tauchen, auf Teller stuerzen. Sauce daneben verteilen.</inhalt>
+      </Mangosauce>
+   </rezept>
+</Rezept>

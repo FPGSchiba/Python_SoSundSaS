@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>22 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rosenkohl >
+          <quant>400 g</quant>
+          <zutat>Rosenkohl</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Rosenkohl >
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>rohe Schweinsbratwurst (ca. 130 g)</zutat>
+          <quant>40 g</quant>
+          <zutat>getrocknete Aprikosen (suess), fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Baumnusskern, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Rosenkohl >
+          <inhalt>Rosenkohl im siedenden Salzwasser ca. 5 Min. vorkochen, kurz in eiskaltes Wasser legen, abtropfen. </inhalt>
+      </Rosenkohl >
+      <Fuellung   >
+          <inhalt>Schweinsbraet aus der Haut in eine Schuessel druecken. Aprikosen, Nuesse und Rosmarin beigeben, alles von Hand zu einer kompakten Masse kneten. Masse zu Talern (ca. 4 cm Rosenkohl-Ø) formen. Rosenkohl halbieren, je 1 Wursttaler zwischen zwei Rosenkohlhaelften legen, mit je einem Zahnstocher fixieren. Rosenkohl Haeppchen auf ein mit Backpapier belegtes Blech legen, mit Oel betraeufeln. Fleur de Sel darueber streuen. </inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

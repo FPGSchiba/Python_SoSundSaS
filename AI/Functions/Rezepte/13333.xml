@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>424 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cevapcici >
+          <quant>600 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, 1/4 in Wuerfeli, Rest in ca. 2 cm grossen Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>8 </quant>
+          <zutat>Holzspiesschen</zutat>
+          <quant>wenig </quant>
+          <zutat>Erdnussoel</zutat>
+      </Cevapcici >
+      <Zwiebelringe>
+          <quant>2 </quant>
+          <zutat>Zwiebeln (je ca. 150 g), in dicken Ringen</zutat>
+          <quant>wenig </quant>
+          <zutat>Erdnussoel</zutat>
+      </Zwiebelringe>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Cevapcici                     </inhalt>
+      </How_To    >
+      <Cevapcici >
+          <inhalt>Hackfleisch mit Peperoniwuerfeli, Chili, Minze, Sesam, Ingwer und Salz gut vermischen. Aus der Masse mit nassen Haenden 24 ca. 6 cm lange Wuerstchen formen, zusammen mit den Peperonistuecken auf die Holspiesschen stecken, mit Oel bestreichen.</inhalt>
+      </Cevapcici >
+      <How_To1   >
+          <inhalt>Gas-/Elektrogrill: ca. 8 Min. auf hoechster Stufe.</inhalt>
+      </How_To1   >
+      <Zwiebelringe>
+          <inhalt>Die Zwiebelringe mit Oel bestreichen, neben die Cevapcici auf den Grill legen und beidseitig je 2-3 Min. grillieren. Zu den Cevapcici servieren.</inhalt>
+      </Zwiebelringe>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>194 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig      >
+      <Formen_und_backen>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+      </Formen_und_backen>
+      <Hacktaetschli>
+          <quant>600 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>5 Scheiben</quant>
+          <zutat>Raclettekaese, geviertelt</zutat>
+      </Hacktaetschli>
+      <Servieren_>
+          <quant>4 EL</quant>
+          <zutat>Ketchup</zutat>
+      </Servieren_>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Wasser und Oel beigeben, mischen, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <Formen_und_backen>
+          <inhalt>Teig zu 20 Kugeln formen, flach druecken, auf ein mit Backpapier belegtes Blech legen, zugedeckt nochmals ca. 30 Min. aufgehen lassen. Broetli mit Oel bestreichen, Sesam darueberstreuen. Ca. 15 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens backen. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Formen_und_backen>
+      <Hacktaetschli>
+          <inhalt>Fleisch und Speck in eine Schuessel geben, wuerzen, von Hand gut mischen, bis sich die Zutaten zu einer kompakten Masse verbinden.  Masse mit nassen Haenden zu 20 Taetschli formen. Oel in einer beschichteten Bratpfanne heiss werden lassen. Taetschli portionenweise ca. 2 Min. anbraten, wenden, Kaese darauflegen, ca. 2 Min. fertig braten.</inhalt>
+      </Hacktaetschli>
+      <Servieren_>
+          <inhalt>Broetli aufschneiden, wenig Ketchup auf den Boeden verteilen. Taetschli und Deckel darauflegen, leicht andruecken.</inhalt>
+      </Servieren_>
+   </rezept>
+</Rezept>

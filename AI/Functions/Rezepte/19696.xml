@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>423 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>Zucchetti</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 140 g)</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Oregano</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>150 g</quant>
+          <zutat>mittelreifer Appenzeller</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Dip       >
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dip       >
+      <Taschen   >
+          <quant>8 </quant>
+          <zutat>Mini-Tortillas</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 140 g)</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Oregano</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>150 g</quant>
+          <zutat>mittelreifer Appenzeller</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>8 </quant>
+          <zutat>Mini-Tortillas</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Taschen   >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Zucchetti an der Roestiraffel reiben, </inhalt>
+      </Fuellung   >
+      <Dip       >
+          <inhalt>Limette halbieren, 1 EL Saft in eine Schuessel pressen. Avocado halbieren, Kern entfernen, </inhalt>
+      </Dip       >
+      <Taschen   >
+          <inhalt>                              </inhalt>
+      </Taschen   >
+   </rezept>
+</Rezept>

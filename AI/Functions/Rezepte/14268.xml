@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>446 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ofen-Gemuese>
+          <quant>120 g</quant>
+          <zutat>Kichererbsen (z.B. Karma Bio Kichererbsen)</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti, in Scheiben</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ahornsirup</zutat>
+      </Ofen-Gemuese>
+      <Anrichten >
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten</zutat>
+          <quant>150 g</quant>
+          <zutat>Karma Hummus mit Zitrone und Petersilie</zutat>
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+      </Anrichten >
+      <Dressing  >
+          <quant>150 g</quant>
+          <zutat>Karma Jocos nature</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Dukkah (Gewuerzmischung)</zutat>
+      </Dressing  >
+   </einkaufliste>
+   <rezept>
+      <Ofen-Gemuese>
+          <inhalt>Alle Zutaten in einer Schuessel mischen, auf einem mit Backpapier belegten Blech verteilen. Garen im Ofen: ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Etwas auskuehlen lassen.</inhalt>
+      </Ofen-Gemuese>
+      <Anrichten >
+          <inhalt>Ofen-Gemuese auf einer Platte anrichten. Tomaten und alle Zutaten bis und mit Rucola darauf verteilen. </inhalt>
+      </Anrichten >
+      <Dressing  >
+          <inhalt>Jocos und alle Zutaten bis und mit Dukkah in einer Schuessel mischen, ueber den Salat verteillen. </inhalt>
+      </Dressing  >
+   </rezept>
+</Rezept>

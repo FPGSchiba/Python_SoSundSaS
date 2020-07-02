@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>417 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>250 g</quant>
+          <zutat>breite Nudeln (z.B. Fettucine)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Streifen, Gruen beiseite gestellt</zutat>
+          <quant>20 g</quant>
+          <zutat>getrocknete Morcheln, eingeweicht, abgetropft, in Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>trockener weisser Vermouth (z.B. Noilly Prat)</zutat>
+          <quant>125 g</quant>
+          <zutat>Frischkaese mit Knoblauch und Kraeutern (z.B. Cantadou)</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>8 </quant>
+          <zutat>Wachteleier</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nudeln im Salzwasser knapp al dente kochen, kalt abspuelen, abtropfen. Butter in derselben Pfanne warm werden lassen. Zwiebeln kurz andaempfen, Morcheln mitdaempfen. Pfanne von der Platte nehmen. Wasser, Vermouth und Frischkaese beigeben. Frischkaese schmelzen. Spinat mit dem beiseite gestellten Bundzwiebelgruen und den abgetropften Nudeln sorgfaeltig daruntermischen, wuerzen. Mithilfe eines Schoepfloeffels und einer Fleischgabel sofort 8 Nestli drehen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Gratinieren: ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Butter in einer beschichteten Bratpfanne heiss werden lassen. Hitze reduzieren. Eier einzeln aufschlagen, beigeben. Bei mittlerer Temperatur ca. 3 Min. braten. Wachteleier sorgfaeltig auf den fertigen Nudelnestli anrichten, wuerzen.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+</Rezept>

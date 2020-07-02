@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>271 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suesser_Hefeteig>
+          <quant>400 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+      </Suesser_Hefeteig>
+      <Fuellung   >
+          <quant>220 g</quant>
+          <zutat>tiefgekuehltes Marronipueree, aufgetaut</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>60 g</quant>
+          <zutat>Baumnusskerne, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rum oder Orangensaft</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>60 g</quant>
+          <zutat>Quittengelee</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Suesser_Hefeteig>
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Butter und Milch beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Suesser_Hefeteig>
+      <Fuellung   >
+          <inhalt>Marronipueree, Quark, Baumnuesse und Rum verruehren. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl zu einem Rechteck von ca. 40 x 50 cm auswallen. Quittengelee leicht erwaermen, den Teig mit der Haelfte davon bestreichen, Rest beiseite stellen. Fuellung auf dem mit Quittengelee bestrichenen Teig verteilen, dabei ringsum einen Rand von ca. 1 cm frei lassen. Teig von der Laengsseite her aufrollen, mit einem Brotmesser ohne Druck in ca. 12 Scheiben schneiden, auf ein mit Backpapier belegtes Blech legen, bei Raumtemperatur nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, Marroni-Schnecken heiss mit dem restlichen Quittengelee bestreichen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

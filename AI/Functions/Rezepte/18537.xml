@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>133 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pilze     >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>300 g</quant>
+          <zutat>gemischte  Pilze (z.B. Kraeuterseitlinge, Eierschwaemme), in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian, Blaettchen abgezupft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Pilze     >
+      <Pizzette  >
+          <quant>800 g</quant>
+          <zutat>Pizzateig</zutat>
+          <quant>150 g</quant>
+          <zutat>geriebene Mozzarella</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian, Blaettchen abgezupft</zutat>
+      </Pizzette  >
+   </einkaufliste>
+   <rezept>
+      <Pilze     >
+          <inhalt>Oel in einer Pfanne erhitzen. Pilze portionenweise ca. 3 Min. braten, herausnehmen. Hitze reduzieren, Knoblauch und Thymian beigeben, ca. 1 Min. daempfen, Pilze wieder beigeben, wuerzen. </inhalt>
+      </Pilze     >
+      <Pizzette  >
+          <inhalt>Teig in ca. 20 Portionen teilen, zu Kugeln formen, auf zwei mit Backpapier belegte Bleche legen, etwas flach druecken. Pilze, Kaese und Thymian darauf verteilen.</inhalt>
+      </Pizzette  >
+      <Backen    >
+          <inhalt>Ca. 15 Min. im auf 220 Grad vorgeheizten Ofen (Heissluft).</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

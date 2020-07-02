@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>844 kcal</NaehrwertProPerson>
+       <Fett>62 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>56 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>500 g</quant>
+          <zutat>Asiago, gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>3 dl</quant>
+          <zutat>Weisswein (z.B. Pinot Grigio)</zutat>
+          <quant>300 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), mit der Gabel zerdrueckt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Grappa oder Kirsch</zutat>
+          <quant>80 g</quant>
+          <zutat>Baumnuesse</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Das Caquelon mit Knoblauch ausreiben. Asiago und Maizena beigeben, mischen. Wein dazugiessen. Unter Ruehren aufkochen, Hitze reduzieren, weiterkoecheln, bis der Kaese geschmolzen ist. Gorgonzola und Grappa darunterruehren, weiterruehren, bis das Fondue cremig ist, wuerzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Baumnuesse vor dem Servieren darueberstreuen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

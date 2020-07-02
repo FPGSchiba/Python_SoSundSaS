@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>551 kcal</NaehrwertProPerson>
+       <Fett>49 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte geschaelte Marroni, angetaut, grob gehackt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Stuecken</zutat>
+          <quant>250 g</quant>
+          <zutat>Champignons, in Vierteln</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm, knapp steif geschlagen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel erwaermen, Knoblauch und Marroni ca. 3 Min. andaempfen. Olivenoel, Sbrinz und Majoran beigeben, puerieren, Pesto wuerzen. Butter erwaermen, Zwiebel andaempfen, Pilze beigeben, ca. 3 Min. mitdaempfen. Wein dazugiessen, auf die Haelfte einkoecheln, Bouillon dazugiessen, aufkochen, Hitze reduzieren, zugedeckt ca. 10 Min. koecheln, puerieren. Rahm beigeben, Suppe nochmals kurz puerieren, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

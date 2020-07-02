@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>368 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Buttermasse>
+          <quant>250 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+      </Buttermasse>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Buttermasse>
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist.</inhalt>
+      </Buttermasse>
+      <Teig      >
+          <inhalt>Mehl und Backpulver mischen, abwechslungsweise mit der Milch unter die Masse ruehren. </inhalt>
+      </Teig      >
+   </rezept>
+</Rezept>

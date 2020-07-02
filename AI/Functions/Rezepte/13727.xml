@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>587 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brot_fuellen>
+          <quant>1 </quant>
+          <zutat>Tessinerbrot (ca. 320 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>4 </quant>
+          <zutat>getrocknete Feigen, in Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in Schnitzen</zutat>
+          <quant>250 g</quant>
+          <zutat>Bergkaese, grob gerieben</zutat>
+          <quant>30 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+      </Brot_fuellen>
+      <Backen    >
+          <quant>20 g</quant>
+          <zutat>Kresse</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Brot_fuellen>
+          <inhalt>Brot ca. 10-mal tief einschneiden, sodass es noch zusammenhaelt. Einschnitte mit Senf bestreichen. Brot auf ein mit Backpapier belegtes Blech legen. Feigen, Aepfel und Kaese in die Einschnitte verteilen. Nuesse darueberstreuen.</inhalt>
+      </Brot_fuellen>
+      <Backen    >
+          <inhalt>Ca. 12 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, Kresse darueberstreuen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>89 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sables    >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>175 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>Orangeat</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>75 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Sables    >
+      <Schokolade-Ecke>
+          <quant>1 Beutel</quant>
+          <zutat>dunkle Kuchenglasur, geschmolzen</zutat>
+      </Schokolade-Ecke>
+   </einkaufliste>
+   <rezept>
+      <Sables    >
+          <inhalt>Mehl, Zitronenschale und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Orangeat beigeben, mischen. Eiweiss, Puderzucker und Vanillepaste gut verklopfen, beigeben, rasch zu einem weichen Teig zusammenfuegen, zu einer Rolle von ca. 4 cm Ø formen, zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Sables    >
+      <Kipferl   >
+          <inhalt>Teig portionenweise zu fingerdicken Rollen formen, in ca. 3 cm lange Stuecke schneiden. Daraus Kipferl formen, auf zwei mit Backpapier belegte Bleche legen. </inhalt>
+      </Kipferl   >
+      <Backen    >
+          <inhalt>Pro Blech ca. 12 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Schokolade-Ecke>
+          <inhalt>Kuchenglasur in eine Schuessel giessen. Ein Ende der Kipferl in die Glasur rauchen, abtropfen, zuerst auf ein Gitter, dann auf Backpapier legen. Zugedeckt ca. 30 Min. kuehl stellen.  </inhalt>
+      </Schokolade-Ecke>
+   </rezept>
+</Rezept>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>418 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Quarksauce>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>3 EL</quant>
+          <zutat>Dill, grob geschnitten</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Quarksauce>
+      <Gemuese    >
+          <quant>600 g</quant>
+          <zutat>Fruehkartoffeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>400 g</quant>
+          <zutat>Romanesco, in kleinen Roeschen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, geviertelt</zutat>
+          <quant>wenig </quant>
+          <zutat>Dill, zerzupft</zutat>
+      </Gemuese    >
+      <Fisch     >
+          <quant>100 g</quant>
+          <zutat>Bratspeck in Tranchen</zutat>
+          <quant>4 </quant>
+          <zutat>Seezungenfilets (MSC) (je ca. 100 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Quarksauce>
+          <inhalt>Quark, Dill, Zitronensaft und Oel verruehren, salzen. </inhalt>
+      </Quarksauce>
+      <Gemuese    >
+          <inhalt>Kartoffeln offen im siedendem Salzwasser ca. 15 Min. weichkochen, abtropfen. Oel in derselben Pfanne erwaermen, Romanesco beigeben, zugedeckt unter gelegentlichem Ruehren ca. 10 Min. daempfen. Radiesli beigeben, ca. 5 Min. mitdaempfen, salzen. Kartoffeln wieder beigeben, heiss werden lassen. Dill darueberstreuen. </inhalt>
+      </Gemuese    >
+      <Fisch     >
+          <inhalt>Speck in einer beschichteten Bratpfanne langsam knusprig braten, herausnehmen. Fischflets wuerzen, beidseitig je ca. 2 Min. braten. Fisch mit dem Speck, auf dem Gemuese anrichten, Zitronenschale darueberstreuen und Quark dazu servieren. </inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

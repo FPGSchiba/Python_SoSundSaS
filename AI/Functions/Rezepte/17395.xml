@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>264 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter</zutat>
+      </Schokolade>
+      <Teig      >
+          <quant>4 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>300 g</quant>
+          <zutat>rohe Randen, fein gerieben</zutat>
+          <quant>4 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>gefriergetrocknete Beerenmischung (z.B. Berries&amp;Beets), fein gemahlen, wenig beiseite gestellt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Glasur    >
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, in Stuecken</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <Schokolade>
+          <inhalt>Schokolade und Butter in eine duennwandige Schuessel geben, Schuessel ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren.</inhalt>
+      </Schokolade>
+      <Teig      >
+          <inhalt>Eigelbe mit Zucker in eine Schuessel geben, mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse heller ist. Randen und Schokolade darunterruehren. Eiweisse mit dem Salz steifschlagen, Zucker nach und nach beigeben, weiterschlagen, bis der Eischnee glaenzt. Mandeln, Himbeer- Randen-und Backpulver mischen, mit dem Eischnee sorgfaeltig unter die Schokolademasse mischen. Teig in die vorbereitete Form geben. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Rand entfernen, auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+      <Glasur    >
+          <inhalt>Rahm erhitzen, Pfanne von der Platte nehmen. Schokolade beigeben, schmelzen, glatt ruehren. Glasur ueber den Kuchen giessen, sodass sie ueber die Raender laeuft, trocknen lassen. Kuchen mit beiseite gestelltem Beeren-Randenpulver bestaeuben. </inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

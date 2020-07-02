@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>369 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>800 g</quant>
+          <zutat>Rindsvoressen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Sesamoel</zutat>
+      </Fleisch   >
+      <Schmoren  >
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen, Gruen beseite gestellt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>3 dl</quant>
+          <zutat>Kalbsfond oder Fleischbouillon</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur 1/2 Saft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thai-Basilikum, zerzupft</zutat>
+          <quant>50 g</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+      </Schmoren  >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Fleisch trocken tupfen, mit Mehl bestaeuben, wuerzen. Oel in einem Brattopf erhitzen, Fleisch portionenweise je ca. 3 Min. anbraten, herausnehmen, Hitze reduzieren. </inhalt>
+      </Fleisch   >
+      <Schmoren  >
+          <inhalt>Zwiebeln und alle Zutaten bis und mit Sternanis in demselben Brattopf ca. 5 Min. andaempfen, Fond dazugiessen, aufkochen. Hitze reduzieren, Fleisch wieder beigeben, zugedeckt bei kleiner Hitze ca. 1 3/4 Std. schmoren. Pfanne von der Platte nehmen. Limettensaft darunterruehren, Thai-Basilikum, Erdnuesse und beiseite gestelltes Bundzwiebelgruen darueberstreuen. </inhalt>
+      </Schmoren  >
+   </rezept>
+</Rezept>

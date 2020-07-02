@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>360 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lachs_marinieren>
+          <quant>1 </quant>
+          <zutat>rohe Rande, gorb gerieben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>6 </quant>
+          <zutat>Wacholderbeeren, zerstossen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>400 g</quant>
+          <zutat>Lachsrueckenfilet (Sushi-Qualitaet)</zutat>
+      </Lachs_marinieren>
+      <Salat     >
+          <quant>2 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli, mit dem Sparschaeler Streifen abgeschaelt</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Schnitzchen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kuerbiskerne, geroestet</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Lachs_marinieren>
+          <inhalt>Rande und alle Zutaten bis und mit Salz mischen. 1/3 der Randenmasse in eine flache Form verteilen, Fisch darauf legen, restliche Randenmasse darauf verteilen. Lachs mit Klarsichtfolie satt zudecken, ca. 2 Tage im Kuehlschrank marinieren.</inhalt>
+      </Lachs_marinieren>
+      <Salat     >
+          <inhalt>Essig und Oel verruehren, wuerzen. Rueebli, Apfel und Zwiebel beigeben, rmischen. Randenmasse vom Lachs entfernen. Lachs trocken tupfen, mit einem scharfen Messer in duenne Tranchen schneiden. Salat und Lachs anrichten, Kuerbiskerne und Schnittlauch darueberstreuen. </inhalt>
+      </Salat     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

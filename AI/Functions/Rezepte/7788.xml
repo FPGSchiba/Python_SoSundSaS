@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>366 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 </quant>
+          <zutat>Mango (z.B. Primagusto)</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Suesskartoffel (ca. 200 g), in Stuecken</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Suppe     >
+      <Crostini  >
+          <quant>1 Bund</quant>
+          <zutat>Koriander, wenig beiseitegestellt, Rest fein geschnitten</zutat>
+          <quant>20 g</quant>
+          <zutat>Cashew-Nuesse, geroestet, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Baguettes, in ca. 1 cm dicken Scheiben</zutat>
+      </Crostini  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suppe                         </inhalt>
+      </How_To    >
+      <Suppe     >
+          <inhalt>Crostini                      </inhalt>
+      </Suppe     >
+      <Crostini  >
+          <inhalt>Roesten: ca. 5 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Crostini  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=sLzibmyOJV4"/>
+</Rezept>

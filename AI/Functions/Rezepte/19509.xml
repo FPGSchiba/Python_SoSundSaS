@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>289 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Backpulver (ca. 15 g)</zutat>
+          <quant>160 g</quant>
+          <zutat>Apfelmus</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>6 TL</quant>
+          <zutat>Konfituere</zutat>
+      </Teig      >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Backpulver in einer Schuessel mischen. Apfelmus, Oel und Vanillepaste darunterruehren. Je 2 TL Teig in die vorbereiteten Foermchen geben, je 1 TL Konfituere darauf geben und mit je 2 TL Teig bedecken.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auskuehlen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

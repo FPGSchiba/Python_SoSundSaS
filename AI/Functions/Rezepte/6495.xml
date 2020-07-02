@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>432 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linsen    >
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>200 g</quant>
+          <zutat>braune Linsen</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Fischfond</zutat>
+      </Linsen    >
+      <Fischroellchen>
+          <quant>400 g</quant>
+          <zutat>Goldbuttfilets (MSC)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>geraeucherter Lachs in Tranchen (Bio) </zutat>
+          <quant>25 g</quant>
+          <zutat>Frischkaese mit Kraeutern</zutat>
+          <quant>einige </quant>
+          <zutat>Zahnstocher</zutat>
+      </Fischroellchen>
+      <Braten    >
+          <quant>wenig </quant>
+          <zutat>mildes Olivenoel</zutat>
+      </Braten    >
+      <Servieren >
+          <quant>2 EL</quant>
+          <zutat>Estragonblaettchen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Crema di Balsamico</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Linsen                        </inhalt>
+      </How_To    >
+      <Linsen    >
+          <inhalt>Wasser aufkochen, Linsen beigeben, Hitze reduzieren. Linsen zugedeckt ca. 30 Min. weich kochen, abtropfen.</inhalt>
+      </Linsen    >
+      <How_To1   >
+          <inhalt>Schalotte hacken. Oel in derselben Pfanne erwaermen. Schalotte andaempfen. Wein und Fond dazugiessen, Fluessigkeit auf ca. die Haelfte einkoecheln.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fischfilets mit der glaenzenden Seite (Hautseite) nach unten auslegen. Oberseite wuerzen.</inhalt>
+      </How_To2   >
+      <Fischroellchen>
+          <inhalt>Filets aufrollen, mit einem scharfen Messer halbieren, mit Zahnstochern fixieren.</inhalt>
+      </Fischroellchen>
+      <Braten    >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen, Fischroellchen bei mittlerer Hitze beidseitig je ca. 2 1/2 Min. braten. </inhalt>
+      </Braten    >
+      <Servieren >
+          <inhalt>Estragonblaettchen abzupfen. Kurz vor dem Servieren Linsen wieder beigeben, Crema di Balsamico und Estragon daruntermischen, nur noch heiss werden lassen, wuerzen. Fischroellchen auf den Aceto-Linsen anrichten.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

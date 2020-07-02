@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>428 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce_    >
+          <quant>1/2 </quant>
+          <zutat>Zitrone, ganzer Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Estragon, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce_    >
+      <Bulgursalat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Bulgur</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke, laengs geviertelt, in Scheiben</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft, in feinen Streifen</zutat>
+      </Bulgursalat>
+      <Fisch_    >
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone, in duennen Scheiben</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>Steinbuttfilets hier kommt Steinbuttfilet (je ca. 150 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Fisch_    >
+   </einkaufliste>
+   <rezept>
+      <Sauce_    >
+          <inhalt>Zitronensaft, Oel, Estragon und Pfefferminze verruehren, wuerzen, 2 EL beiseite stellen.</inhalt>
+      </Sauce_    >
+      <Bulgursalat>
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel und Bulgur anduensten, Wasser dazugiessen, aufkochen, salzen. Bulgur bei kleiner Hitze ca. 10 Min. koecheln. Pfanne von der Platte nehmen, etwas abkuehlen. Sauce, Gurke und Tomaten daruntermischen.</inhalt>
+      </Bulgursalat>
+      <Fisch_    >
+          <inhalt>Zitronenscheiben mit Zucker bestreuen, auf die Fischfilets legen, wuerzen. Oel in einer beschichteten Bratpfanne erhitzen. Fisch mit den Zitronen beidseitig je ca. 2 Min. braten. Beiseite gestellte Sauce ueber den Fisch traeufeln, mit dem Bulgursalat anrichten.  </inhalt>
+      </Fisch_    >
+   </rezept>
+</Rezept>

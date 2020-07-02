@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>302 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zitronenschicht>
+          <quant>120 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 </quant>
+          <zutat>Zitronen, ganzer Saft (ergibt ca. 1 dl)</zutat>
+      </Zitronenschicht>
+      <Orangenschicht>
+          <quant>1 dl</quant>
+          <zutat>Blutorangensaft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>4 </quant>
+          <zutat>Holzstaengeli</zutat>
+      </Orangenschicht>
+      <Schokolade_>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+      </Schokolade_>
+   </einkaufliste>
+   <rezept>
+      <Zitronenschicht>
+          <inhalt>Wasser mit dem Zucker in einer kleinen Pfanne unter gelegentlichem Ruehren aufkochen, Hitze reduzieren, ca. 2 Min. koecheln. Zitronensaft und 1 1/2 dl des Zuckersirups verruehren, auskuehlen, durch ein feines Sieb in die Glacebehaelter verteilen, ca. 2 Std. gefrieren. </inhalt>
+      </Zitronenschicht>
+      <Orangenschicht>
+          <inhalt>Restlicher Zuckersirup (ca. 1 dl), Blutorangensaft und Orangensaft verruehren, in die Glacebehaelter fuellen. Holzstaengeli hineinstecken, ca. 4 Std. gefrieren. </inhalt>
+      </Orangenschicht>
+      <Schokolade_>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Raketenglace sorgfaellig aus den Behaeltern nehmen, mit der Spitze in die Schokolade tauchen, auf einen mit Backpapier belegten Teller geben, ca. 30 Min. gefrieren. </inhalt>
+      </Schokolade_>
+   </rezept>
+</Rezept>

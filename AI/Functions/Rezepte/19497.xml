@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>806 kcal</NaehrwertProPerson>
+       <Fett>51 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ravioli   >
+          <quant>2 Pack</quant>
+          <zutat>Lentil Curry Ravioli, je ca. 250 g</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Ravioli   >
+      <Pesto     >
+          <quant>60 g</quant>
+          <zutat>Cashew-Nuesse, geroestet</zutat>
+          <quant>60 g</quant>
+          <zutat>Hanfsamen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Edelhefe</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Pesto     >
+      <Anrichten >
+          <quant>30 g</quant>
+          <zutat>Cashew-Nuesse, geroestet, grob gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Hanfsamen</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaettchen</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Ravioli   >
+          <inhalt>Ravioli im siedenden Salzwasser ca. 5 Min. ziehen lassen, abtropfen, dabei ca. 1/2 dl Kochwasser auffangen, beiseite stellen, Ravioli warm stellen.</inhalt>
+      </Ravioli   >
+      <Pesto     >
+          <inhalt>Nuesse mit allen Zutaten bis und mit Salz im Cutter fein hacken.</inhalt>
+      </Pesto     >
+      <Anrichten >
+          <inhalt>Ravioli mit dem Pesto und beiseite gestellten Kochwasser mischen, auf Teller anrichten. Cashews, Hanfsamen und Minze darauf verteilen.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>661 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Omelettenteig>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+      </Omelettenteig>
+      <Omeletten_backen>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Omeletten_backen>
+      <Apfelmus  >
+          <quant>400 g</quant>
+          <zutat>saeuerliche Aepfel</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Apfelmus  >
+      <Schoggi-Nuss-Fuellung>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>4 EL</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+      </Schoggi-Nuss-Fuellung>
+      <Zimt-Zucker>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>400 g</quant>
+          <zutat>saeuerliche Aepfel</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>4 EL</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+      </Zimt-Zucker>
+   </einkaufliste>
+   <rezept>
+      <Omelettenteig>
+          <inhalt>Ofen auf 60Grad C vorheizen. Butter in einer kleinen Pfanne schmelzen, etwas abkuehlen. </inhalt>
+      </Omelettenteig>
+      <Omeletten_backen>
+          <inhalt>Wenig Bratbutter in einer beschichteten Bratpfanne erhitzen. So viel Teig in die Pfanne geben, dass der Boden sehr duenn ueberzogen ist. Hitze reduzieren. Ist die Unterseite gebacken und loest sie sich von selbst, Crepe wenden, fertig backen, zugedeckt im Ofen warm stellen. Mit dem restlichen Teig gleich verfahren.</inhalt>
+      </Omeletten_backen>
+      <Apfelmus  >
+          <inhalt>                              </inhalt>
+      </Apfelmus  >
+      <Schoggi-Nuss-Fuellung>
+          <inhalt>Schokolade fein hacken, in eine duennwandige Schuessel geben, Schuessel ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. </inhalt>
+      </Schoggi-Nuss-Fuellung>
+      <Zimt-Zucker>
+          <inhalt>                              </inhalt>
+      </Zimt-Zucker>
+      <Party     >
+          <inhalt>                              </inhalt>
+      </Party     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>552 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_schmelzen>
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+          <quant>150 g</quant>
+          <zutat>weisse Schokolade</zutat>
+      </Schokolade_schmelzen>
+      <Teige_    >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teige_    >
+      <Dekorieren_>
+          <quant>1 </quant>
+          <zutat>dunkle Kuchenglasur (ca. 120 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Smarties</zutat>
+          <quant>50 g</quant>
+          <zutat>Suessigkeiten nach Belieben</zutat>
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+          <quant>150 g</quant>
+          <zutat>weisse Schokolade</zutat>
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 </quant>
+          <zutat>dunkle Kuchenglasur (ca. 120 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Smarties</zutat>
+          <quant>50 g</quant>
+          <zutat>Suessigkeiten nach Belieben</zutat>
+      </Dekorieren_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vorbereiten                   </inhalt>
+      </How_To    >
+      <Vorbereiten>
+          <inhalt>Schokolade schmelzen          </inhalt>
+      </Vorbereiten>
+      <Schokolade_schmelzen>
+          <inhalt>Teige                         </inhalt>
+      </Schokolade_schmelzen>
+      <Teige_    >
+          <inhalt>                              </inhalt>
+      </Teige_    >
+      <Backen_   >
+          <inhalt>Ca. 1 Std. 5 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Evtl. nach 35 Min. mit einer Alufolie zudecken. Herausnehmen, etwas abkuehlen, Kuchen aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen_   >
+      <Dekorieren_>
+          <inhalt>Kuchenglasur im Wasserbad oder in der Mikrowelle schmelzen, ueber den Kuchen giessen, </inhalt>
+      </Dekorieren_>
+   </rezept>
+</Rezept>

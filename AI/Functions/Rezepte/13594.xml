@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>234 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Jam       >
+          <quant>50 g</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Chia-Samen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Jam       >
+      <Porridge_ >
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Hirseflocken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>2 dl</quant>
+          <zutat>Haferdrink</zutat>
+      </Porridge_ >
+      <Anrichten >
+          <quant>1/2 </quant>
+          <zutat>Banane, in Scheiben</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>ungesalzene Erdnuesse, grob gehackt</zutat>
+          <quant>10 g</quant>
+          <zutat>Himbeeren (frisch oder gefroren)</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Jam                           </inhalt>
+      </How_To    >
+      <Jam       >
+          <inhalt>Porridge                      </inhalt>
+      </Jam       >
+      <Porridge_ >
+          <inhalt>Erdnussbutter, Ahornsirup, Vanillepaste und 1 dl Hafermilch daruntermischen, 2-3 Min. weiterkochen. Pfanne von der Platte nehmen, restliche Hafermilch darunterruehren. In den Bowls verteilen.</inhalt>
+      </Porridge_ >
+      <Anrichten >
+          <inhalt>Bananen, Erdnuesse und Himbeeren auf den Bowls verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

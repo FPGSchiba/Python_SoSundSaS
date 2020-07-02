@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>836 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>97 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizzateig >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Pizzateig >
+      <Tomatensauce>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Tomatensauce>
+      <Pizza_belegen>
+          <quant>300 g</quant>
+          <zutat>Mozzarella, zerzupft</zutat>
+          <quant>100 g</quant>
+          <zutat>Chorizo, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+      </Pizza_belegen>
+   </einkaufliste>
+   <rezept>
+      <Pizzateig >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Hefe, Wasser und Oel beigeben, mit einer Kelle mischen. Zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen. </inhalt>
+      </Pizzateig >
+      <Tomatensauce>
+          <inhalt>Oel in einer Pfanne warm werden lassen. Zwiebel und Knoblauch andaempfen, Tomatenpueree kurz mitdaempfen. Tomaten, Rosmarin, Zucker und Salz beigeben, aufkochen. Sauce unter gelegentlichem Ruehren bei mittlerer Hitze ca. 20 Min. koecheln, auskuehlen.</inhalt>
+      </Tomatensauce>
+      <Pizza_belegen>
+          <inhalt>Teig halbieren, 2 Kugeln formen, beide Teige etwas flach druecken, auf wenig Mehl rund auswallen, auf je ein vorbereitetes Belech legen. Die Tomatensauce auf beiden Teigboeden verteilen, dabei einen ca. 1 1/2 breiten Rand frei lassen, mit Mozzarella, Chorizo und Peperonciono belegen. </inhalt>
+      </Pizza_belegen>
+      <Backen    >
+          <inhalt>Ca. 20 Min. auf der untersten Rille des auf 240 Grad vorgeheizten Ofens. Die zweite Pizza genau gleich backen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

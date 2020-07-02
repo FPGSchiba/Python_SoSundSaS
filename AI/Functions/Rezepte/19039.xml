@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>422 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli-Nuesslisalat-Hot_dog>
+          <quant>300 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>milder Paprika</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 </quant>
+          <zutat>Wienerli</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>25 g</quant>
+          <zutat>Nuesslisalat</zutat>
+          <quant>4 </quant>
+          <zutat>Broetli</zutat>
+      </Rueebli-Nuesslisalat-Hot_dog>
+      <Speck-Kaese_Hot_dogs>
+          <quant>8 </quant>
+          <zutat>Cipollatas</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pesto rosso</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aprikosenkonfituere</zutat>
+          <quant>100 g</quant>
+          <zutat>Gruyere</zutat>
+          <quant>4 </quant>
+          <zutat>Broetli</zutat>
+      </Speck-Kaese_Hot_dogs>
+      <Fischstaebli_Hot_dogs>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>50 g</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 </quant>
+          <zutat>hart gekochte Eier</zutat>
+          <quant>4 </quant>
+          <zutat>Fischstaebli</zutat>
+          <quant>4 </quant>
+          <zutat>Laugenbroetli</zutat>
+          <quant>300 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>milder Paprika</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 </quant>
+          <zutat>Wienerli</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>25 g</quant>
+          <zutat>Nuesslisalat</zutat>
+          <quant>4 </quant>
+          <zutat>Broetli</zutat>
+          <quant>8 </quant>
+          <zutat>Cipollatas</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pesto rosso</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aprikosenkonfituere</zutat>
+          <quant>100 g</quant>
+          <zutat>Gruyere</zutat>
+          <quant>4 </quant>
+          <zutat>Broetli</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>50 g</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 </quant>
+          <zutat>hart gekochte Eier</zutat>
+          <quant>4 </quant>
+          <zutat>Fischstaebli</zutat>
+          <quant>4 </quant>
+          <zutat>Laugenbroetli</zutat>
+      </Fischstaebli_Hot_dogs>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rueebli-Nuesslisalat-Hot dog    </inhalt>
+      </How_To    >
+      <Rueebli-Nuesslisalat-Hot_dog>
+          <inhalt>                              </inhalt>
+      </Rueebli-Nuesslisalat-Hot_dog>
+      <How_To1   >
+          <inhalt>Speck-Kaese Hot dogs           </inhalt>
+      </How_To1   >
+      <Speck-Kaese_Hot_dogs>
+          <inhalt>Fischstaebli Hot dogs          </inhalt>
+      </Speck-Kaese_Hot_dogs>
+      <Fischstaebli_Hot_dogs>
+          <inhalt>                              </inhalt>
+      </Fischstaebli_Hot_dogs>
+   </rezept>
+</Rezept>

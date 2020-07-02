@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>248 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bruehstueck_>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+      </Bruehstueck_>
+      <Teig_     >
+          <quant>450 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig_     >
+      <Formen_   >
+          <quant>wenig </quant>
+          <zutat>helles Dinkelmehl</zutat>
+      </Formen_   >
+      <Lauge     >
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Natron</zutat>
+      </Lauge     >
+      <Backen    >
+          <quant>1/2 dl</quant>
+          <zutat>Kaffeerahm</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bruehstueck                     </inhalt>
+      </How_To    >
+      <Bruehstueck_>
+          <inhalt>Teig                          </inhalt>
+      </Bruehstueck_>
+      <Teig_     >
+          <inhalt>Teig mit einem Teighorn von vier Seiten her vom Schuesselrand loesen, in der Schuessel hochziehen und in die Mitte fallen lassen. Teig nochmals zugedeckt bei Raumtemperatur ca. 20 Min. aufgehen lassen. Diesen Vorgang 3-mal wiederholen. </inhalt>
+      </Teig_     >
+      <Formen_   >
+          <inhalt>Teig halbieren, auf einer gut bemehlten Arbeitsflaeche zwei ca. 30 cm lange Rollen formen, zu zwei Kraenzen zusammenfuegen, auf ein mit Backpapier belegtes Blech legen. Einen Kranz mit wenig Mehl bestaeuben  Mit der Schere je 7-mal schraeg ca. 8 cm tief einschneiden. Einschnitte nach aussen ziehen. </inhalt>
+      </Formen_   >
+      <Lauge     >
+          <inhalt>Wasser mit dem Natron verruehren, den unbemehlten Kranz damit bestreichen. </inhalt>
+      </Lauge     >
+      <Backen    >
+          <inhalt>15 Min. in der Mitte des auf 240 Grad vorgeheizten Ofens. Hitze auf 200 Grad reduzieren und ca.10 Min. fertig backen. Brotkraenze herausnehmen, Laugenkranz mit wenig Kaffeerahm bestreichen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

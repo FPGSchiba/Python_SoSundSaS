@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>552 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereitung_>
+          <quant>600 g</quant>
+          <zutat>Zucchetti, in ca. 1/2 cm dicken Scheiben</zutat>
+          <quant>250 g</quant>
+          <zutat>Quinoa</zutat>
+          <quant>100 g</quant>
+          <zutat>Rueebli in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur abgeriebene Schale</zutat>
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+      </Vorbereitung_>
+      <Gratin_   >
+          <quant>200 g</quant>
+          <zutat>Hinterschinken in Tranchen, in Wuerfeli</zutat>
+          <quant>6 EL</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Pinienkerne</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+      </Gratin_   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vorbereitung                  </inhalt>
+      </How_To    >
+      <Vorbereitung_>
+          <inhalt>Gratinieren                   </inhalt>
+      </Vorbereitung_>
+      <Gratinieren>
+          <inhalt>Gratin                        </inhalt>
+      </Gratinieren>
+      <Gratin_   >
+          <inhalt>Fertig gratinieren: ca. 15 Minuten.</inhalt>
+      </Gratin_   >
+   </rezept>
+</Rezept>

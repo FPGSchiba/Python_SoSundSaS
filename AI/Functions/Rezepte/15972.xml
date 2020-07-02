@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>215 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fisch-Paeckli>
+          <quant>600 g</quant>
+          <zutat>Seeteufelfilets (Baudroie), in 8 gleichgrossen Stuecken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse, fein gehackt</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Fine Food Sambal Mahoi</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, nur abgeriebene Schale</zutat>
+          <quant>4 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit)</zutat>
+          <quant>4 Stueck</quant>
+          <zutat>Kuechenschnur (je ca. 30 cm)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Fisch-Paeckli>
+      <Grillieren>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, in Schnitzen</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Koriander, Blaettchen abgezupft</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <Fisch-Paeckli>
+          <inhalt>Fisch salzen. Cashew-Nuesse, Koriander, Sambal Mahoi und Limettenschale mischen, auf vier Fischstuecke verteilen. Restliche Fischstuecke darauflegen, je ein Kaffirlimetten-Blatt auf die Fisch-Paeckli legen, mit Kuechenschnur binden, mit Oel bestreichen. </inhalt>
+      </Fisch-Paeckli>
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Fisch-Paeckli in eine Grillschale legen und ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) zugedeckt beidseitig je ca. 5 Min. grillieren. Limettenschnitze ueber den grillierten Fisch-Paeckli ausdruecken, Koriander darueberstreuen.</inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

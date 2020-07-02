@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>249 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 EL</quant>
+          <zutat>roter Portwein</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Schweinsfilet (ca. 500 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Fleisch   >
+      <Rhabarber >
+          <quant>300 g</quant>
+          <zutat>Rhabarber, evtl. laengs halbiert, schraeg in ca. 7 cm langen Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Schnitzchen</zutat>
+          <quant>1/2 cm</quant>
+          <zutat>Ingwer, geviertelt, in feinsten Scheibchen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Kalbsfond, oder Fleischbouillon</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Rhabarber >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Niedergaren: ca. 1 1/2 Std. in der Mitte des vorgeheizten Ofens. Die Kerntemperatur soll 60-65 Grad betragen. Das Fleisch kann anschliessend bei 60 Grad bis zu 1 Std. warm gehalten werden.</inhalt>
+      </Fleisch   >
+      <Rhabarber >
+          <inhalt>Rhabarberstuecke mit Puderzucker mischen, zugedeckt ca. 30 Min. stehen lassen. Entstandenen Saft weggiessen. Zucker und Butter in der beiseitegestellten Bratpfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin- undher- Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Zwiebel und Ingwer beigeben, ca. 2 Min. andaempfen. Fond dazugiessen, aufkochen, bei mittlerer Hitze ca. 5 Min. koecheln. Rhabarberstuecke beigeben, Zucker darueberstreuen, zugedeckt ca. 5 Min. knapp weich koecheln, wuerzen.</inhalt>
+      </Rhabarber >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=_sPRzgZu5NI"/>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

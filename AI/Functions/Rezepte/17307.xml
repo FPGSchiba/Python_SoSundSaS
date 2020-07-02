@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mostteig_zum_Ausbacken>
+          <quant>75 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>saurer Most oder Suessmost</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+      </Mostteig_zum_Ausbacken>
+      <Birnen    >
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>4 </quant>
+          <zutat>Birnen (z.B. Kaiser Alexander)</zutat>
+      </Birnen    >
+      <Vanillesauce>
+          <quant>4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei, verklopft</zutat>
+      </Vanillesauce>
+      <Frittieren>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+          <quant>5 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+      </Frittieren>
+   </einkaufliste>
+   <rezept>
+      <Mostteig_zum_Ausbacken>
+          <inhalt>Mehl, Salz und Zucker in einer Schuessel mischen. Most und Eigelb verruehren, mit einem Schwingbesen unter das Mehl ruehren, zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen. </inhalt>
+      </Mostteig_zum_Ausbacken>
+      <Birnen    >
+          <inhalt>Zitronensaft und Zucker verruehren. Birnen schaelen, laengs in ca. 1 cm dicke Scheiben schneiden, Kerngehaeuse ausstechen, mit dem Zitronensaft mischen, zugedeckt beiseite stellen.</inhalt>
+      </Birnen    >
+      <Vanillesauce>
+          <inhalt>Milch und alle Zutaten bis und mit Ei mit dem Schwingbesen in einer Pfanne verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Pfanne von der Platte nehmen, ca. 2 Min. weiterruehren, durch ein Sieb in eine Schuessel giessen, zugedeckt auskuehlen.</inhalt>
+      </Vanillesauce>
+      <Frittieren>
+          <inhalt>Eiweiss kurz vor dem Backen mit dem Salz steif schlagen, Zucker beigeben, kurz weiterschlagen, Eischnee sorgfaeltig unter den Mostteig ziehen. Oel auf 190 Grad erhitzen. Birnen portionenweise in den Teig tauchen, abtropfen und beidseitig je ca. 1 1/2  Min. goldbraun backen. Mit einer Schaumkelle herausnehmen, auf Haushaltpapier abtropfen. Zucker und Zimt in einem Teller mischen, Birnenkuechlein darin wenden, warm servieren.</inhalt>
+      </Frittieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

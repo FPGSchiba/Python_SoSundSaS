@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>416 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Grillierte_Avocado>
+          <quant>1 </quant>
+          <zutat>Avocado, halbiert, Stein entfernt</zutat>
+      </Grillierte_Avocado>
+      <Grillierte_Crevetten_>
+          <quant>300 g</quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio), laengs halbiert</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Grillierte_Crevetten_>
+      <Belegen   >
+          <quant>4 </quant>
+          <zutat>Baguettes (je ca. 100 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sweet Chili Sauce</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Belegen   >
+   </einkaufliste>
+   <rezept>
+      <Grillierte_Avocado>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Avocado mit der Schale ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) auf der Schnittflaeche ca. 5 Min. grillieren. Avocado auskuehlen, schaelen, in Scheiben schneiden.</inhalt>
+      </Grillierte_Avocado>
+      <Grillierte_Crevetten_>
+          <inhalt>Crevetten ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 4 Min. grillieren, wuerzen.</inhalt>
+      </Grillierte_Crevetten_>
+      <Belegen   >
+          <inhalt>Baguettes laengs aufschneiden, sodass sie noch zusammenhalten.  Sweet-Chili- Sauce und Avocadoscheiben in die Baguettes fuellen. Crevetten und Bundzwiebeln hineinlegen, Roestzwiebeln darauf verteilen.</inhalt>
+      </Belegen   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=NayGWA3C8OU"/>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

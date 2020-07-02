@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>183 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Eier      >
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Eier      >
+      <Suppe     >
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>400 g</quant>
+          <zutat>Kartoffeln (festkochend), in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Broccoli (ca. 300 g), in Roeschen</zutat>
+          <quant>15 g</quant>
+          <zutat>Ingwer, in feinen Streifen</zutat>
+          <quant>300 g</quant>
+          <zutat>Blattspinat, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, wenig abgeriebene Schale und 2 EL Saft</zutat>
+      </Suppe     >
+   </einkaufliste>
+   <rezept>
+      <Eier      >
+          <inhalt>Eier im siedenden Wasser ca. 7 Min. kochen, kurz in kaltem Wasser abschrecken, schaelen. </inhalt>
+      </Eier      >
+      <Suppe     >
+          <inhalt>Bouillon aufkochen, Kartoffeln beigeben, ca. 5 Min. koecheln. Broccoli und Ingwer beigeben und ca. 5 Min. mitkoecheln. Spinat, Limettenschale und - saft beigeben, nochmals aufkochen. Suppe anrichten, Eier halbieren, darauflegen. </inhalt>
+      </Suppe     >
+   </rezept>
+</Rezept>

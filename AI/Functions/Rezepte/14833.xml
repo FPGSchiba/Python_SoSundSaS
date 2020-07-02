@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>426 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fisch_vorbereiten_>
+          <quant>2 </quant>
+          <zutat>Dorschrueckenfilets Royal (je ca. 350 g)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Rosenpaprika</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in duennen Scheiben</zutat>
+          <quant>200 g</quant>
+          <zutat>Bratspeck in Tranchen</zutat>
+      </Fisch_vorbereiten_>
+      <Vinaigrette>
+          <quant>3 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in feinen Staengeli</zutat>
+      </Vinaigrette>
+   </einkaufliste>
+   <rezept>
+      <Fisch_vorbereiten_>
+          <inhalt>isch auf ein mit Backpapier belegtes Blech legen. Fisch wuerzen, Zitronenscheiben darauf verteilen, mit dem Speck umwickeln.</inhalt>
+      </Fisch_vorbereiten_>
+      <Backen    >
+          <inhalt>ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Vinaigrette>
+          <inhalt>Aceto und Oel verruehren, salzen. Petersilie und Radiesli daruntermischen.</inhalt>
+      </Vinaigrette>
+   </rezept>
+</Rezept>

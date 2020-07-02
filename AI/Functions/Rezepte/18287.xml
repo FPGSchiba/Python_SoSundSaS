@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>448 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knaeckebrot_>
+          <quant>120 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Thymian, fein geschnitten, 2 EL beiseite gestellt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Kernenmix (z.B. Campiuns)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Knaeckebrot_>
+      <Geschlagene_Butter_>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+      </Geschlagene_Butter_>
+   </einkaufliste>
+   <rezept>
+      <Knaeckebrot_>
+          <inhalt>Mehl, Thymian, Natron und Salz mischen. Wasser, Oel und Honig beigeben, zu einem weichen Teig kneten, zugedeckt bei Raumtemperatur ca. 30 Min. ruhen lassen. Teig auf wenig Mehl ca. 2 mm dick, rechteckig auswallen. In Rechtecke (6x10 cm) schneiden, auf ein mit Backpapier belegtes Blech legen, mit Wasser bestreichen. Kernenmix und Fleur de Sel darueberstreuen </inhalt>
+      </Knaeckebrot_>
+      <Backen    >
+          <inhalt>Ca. 12 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Geschlagene_Butter_>
+          <inhalt>Butter und Zitronensaft mit den Schwingbesen des Handruehrgeraets ca. 2 Min. schaumig ruehren, salzen. Mit den Radiesli zum Knaeckebrot servieren. </inhalt>
+      </Geschlagene_Butter_>
+   </rezept>
+</Rezept>

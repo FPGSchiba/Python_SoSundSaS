@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>368 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fisch     >
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, in feinen Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Doraden Royale (Bio) (je ca. 400 g), kuechenfertig</zutat>
+      </Fisch     >
+      <Gemuese-Mix>
+          <quant>3 EL</quant>
+          <zutat>Kraeuterweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 </quant>
+          <zutat>Salatgurke, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Wuerfeli</zutat>
+      </Gemuese-Mix>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fisch                         </inhalt>
+      </How_To    >
+      <Fisch     >
+          <inhalt>Knoblauch und alle Zutaten bis und mit Salz mischen. Doraden kalt abspuelen, trockentupfen, auf ein mit Backpapier belegtes Blech legen. Fische innen und aussen mit dem Knoblauchoel bestreichen.</inhalt>
+      </Fisch     >
+      <How_To1   >
+          <inhalt>Gemuese-Mix                    </inhalt>
+      </How_To1   >
+      <Gemuese-Mix>
+          <inhalt>Doraden und Gurken-Avocado-Mix zusammen servieren.</inhalt>
+      </Gemuese-Mix>
+   </rezept>
+</Rezept>

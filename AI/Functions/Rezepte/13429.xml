@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>548 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Paneer-Spiessli>
+          <quant>200 g</quant>
+          <zutat>Paneer, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Paneer-Spiessli>
+      <Gazpacho  >
+          <quant>2 </quant>
+          <zutat>Betty Bossi Gazpacho Mango Tomate (je 310 ml)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Gazpacho  >
+   </einkaufliste>
+   <rezept>
+      <Paneer-Spiessli>
+          <inhalt>Paneer an 4 Holzspiesschen stecken. Oel mit Chili verruehren, Paneer mit 1 EL Chili-Oel bestreichen, restliches Chili-Oel beiseite stellen. Grillpfanne heiss werden lassen, Spiessli beidseitig je ca. 3 Min braten, salzen. </inhalt>
+      </Paneer-Spiessli>
+      <Gazpacho  >
+          <inhalt>Beiseite gestelltes Chili-Oel mit der Gazpacho verruehren. Gazpacho in Suppenteller giessen, Paneer-Spiessli auf den Tellerrand legen, Gazpacho mit Koriander bestreuen. </inhalt>
+      </Gazpacho  >
+   </rezept>
+</Rezept>

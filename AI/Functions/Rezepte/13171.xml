@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>670 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nudeln    >
+          <quant>180 g</quant>
+          <zutat>Reisnudeln, halbiert</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Nudeln    >
+      <Fisch     >
+          <quant>1 EL</quant>
+          <zutat>geroesteter Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel oder Olivenoel</zutat>
+          <quant>600 g</quant>
+          <zutat>Lachsfilets ohne Haut , in Scheiben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fisch     >
+      <Gemuesenudeln>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, schraeg in feinen Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>Bundrueebli, schraeg in Scheibchen</zutat>
+          <quant>300 g</quant>
+          <zutat>Krautstiel, in Streifen</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>milde Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Limette heiss abgespuelt, trockengetupft, in Schnitzen</zutat>
+          <quant>einige </quant>
+          <zutat>Korianderblaettchen</zutat>
+      </Gemuesenudeln>
+   </einkaufliste>
+   <rezept>
+      <Nudeln    >
+          <inhalt>Reisnudeln in eine Schuessel geben, siedendes Wasser daruebergiessen, ca. 10 Min. ziehen lassen, kalt abspuelen, abtropfen.</inhalt>
+      </Nudeln    >
+      <Fisch     >
+          <inhalt>Sesam mit dem Oel mischen, Fisch darin wenden. Lachs in einer beschichteten Bratpfanne beidseitig je ca. 2 Min. braten, salzen. Herausnehmen, zugedeckt warm stellen.</inhalt>
+      </Fisch     >
+      <Gemuesenudeln>
+          <inhalt>Oel in derselben Pfanne heiss werden lassen. Zwiebeln, Chili, Rueebli und Krautstiel ca. 4 Min. ruehrbraten. Sojasauce beigeben, ca. 1 Min. koecheln. Essig mit den Nudeln beigeben, salzen, heiss werden lassen. Nudeln auf Tellern anrichten, Lachs, Limetten und Koriander darauf verteilen.</inhalt>
+      </Gemuesenudeln>
+   </rezept>
+</Rezept>

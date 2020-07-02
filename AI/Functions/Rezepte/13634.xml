@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>248 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tatarsauce>
+          <quant>5 </quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kapern, abgetropft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+          <quant>3 TL</quant>
+          <zutat>Worcestershire-Sauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ketchup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Tatarsauce>
+      <Steak     >
+          <quant>4 </quant>
+          <zutat>Rindsfiletmedaillons</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 EL</quant>
+          <zutat>glattblaettrige Petersilie, zerzupft</zutat>
+      </Steak     >
+   </einkaufliste>
+   <rezept>
+      <Tatarsauce>
+          <inhalt>Tomaten und alle Zutaten bis und mit Salz mischen, puerieren.</inhalt>
+      </Tatarsauce>
+      <Steak     >
+          <inhalt>Medaillons einseitig ca. 2 cm tief rhombenfoermig einschneiden. Bratbutter in einer Bratpfanne heiss werden lassen. Hitze reduzieren, Fleisch auf der Unterseite ca. 4 Min. braten, herausnehmen, wuerzen. Rohe Seite mit der Tatarsauce bestreichen, Petersilie darueberstreuen, ca. 5 Min. ruhen lassen.</inhalt>
+      </Steak     >
+   </rezept>
+</Rezept>

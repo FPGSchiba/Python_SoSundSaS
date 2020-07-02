@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>325 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto_  >
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>310 g</quant>
+          <zutat>Tomatensuppe, 3 EL beiseitegestellt</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten, grob geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Risotto_  >
+      <Poulet_   >
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>280 g</quant>
+          <zutat>Poulet-Minifilets</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Tabasco</zutat>
+      </Poulet_   >
+   </einkaufliste>
+   <rezept>
+      <Risotto_  >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel kurz andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Tomatensuppen beigeben, Wasser unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 20 Min. koecheln, bis der Reis cremig und al dente ist. Getrocknete Tomaten darunterruehren, salzen. </inhalt>
+      </Risotto_  >
+      <Poulet_   >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Poulet beigeben, salzen, beidseitig je ca. 2 Min. braten, Tabasco und beiseite gestellte Tomatensuppe beigeben, kurz mitduensten, Poulet auf dem Risotto anrichten. </inhalt>
+      </Poulet_   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

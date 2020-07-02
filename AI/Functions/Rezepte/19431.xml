@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>346 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>gemahlener Rohzucker (ca. 100 g)</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Weissmehl (150 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>gemahlene Haselnuesse (ca. 50 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Haferflocken (ca. 50 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>50 g</quant>
+          <zutat>saeuerliche Aepfel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Teig      >
+      <Tassen    >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+      </Tassen    >
+      <Topping   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>4 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>gemahlener Rohzucker (ca. 100 g)</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Weissmehl (150 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>gemahlene Haselnuesse (ca. 50 g)</zutat>
+          <quant>1/2 Becher</quant>
+          <zutat>Haferflocken (ca. 50 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>50 g</quant>
+          <zutat>saeuerliche Aepfel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>4 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>                              </inhalt>
+      </Teig      >
+      <Tassen    >
+          <inhalt>                              </inhalt>
+      </Tassen    >
+      <Topping   >
+          <inhalt>Butter schmelzen und etwas abkuehlen. </inhalt>
+      </Topping   >
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>444 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese_kochen>
+          <quant>300 g</quant>
+          <zutat>Broccoli, in Roesschen</zutat>
+          <quant>200 g</quant>
+          <zutat>Bohnen</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli, laengs halbiert, in Scheiben</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Gemuese_kochen>
+      <Belag     >
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen</zutat>
+          <quant>1/2 </quant>
+          <zutat>Gurke, in Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>hart gekochte Eier, geviertelt</zutat>
+          <quant>20 g</quant>
+          <zutat>Gartenkresse</zutat>
+      </Belag     >
+      <Erdnuss-Sauce>
+          <quant>2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>100 g</quant>
+          <zutat>gesalzene Erdnuesse</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, in Stuecken</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tamarindenpaste</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+      </Erdnuss-Sauce>
+   </einkaufliste>
+   <rezept>
+      <Gemuese_kochen>
+          <inhalt>Gemuese nacheinander im Salzwasser knapp weich kochen, herausnehmen, abtropfen, auf einer Platte anrichten. </inhalt>
+      </Gemuese_kochen>
+      <Belag     >
+          <inhalt>Bundzwiebeln, Gurke, Eier und Kresse darauf verteilen. </inhalt>
+      </Belag     >
+      <Erdnuss-Sauce>
+          <inhalt>Kokosmilch mit allen restlichen Zutaten puerieren, aufkochen, etwas abkuehlen, mit dem Gemuese servieren.</inhalt>
+      </Erdnuss-Sauce>
+   </rezept>
+</Rezept>

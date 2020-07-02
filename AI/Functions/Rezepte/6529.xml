@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>331 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargeln  >
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, abgeriebene Schale, ganzer Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>500 g</quant>
+          <zutat>weisse Spargeln, geschaelt, laengs und quer halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Spargeln  >
+      <Salat     >
+          <quant>2 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>50 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>60 g</quant>
+          <zutat>Blauschimmelkaese (z.B. St. Agur), in Stuecken</zutat>
+          <quant>30 g</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spargeln                      </inhalt>
+      </How_To    >
+      <Spargeln  >
+          <inhalt>Salat                         </inhalt>
+      </Spargeln  >
+      <Salat     >
+          <inhalt>Rucola daruntermischen, auf Tellern anrichten. Kaese darauf verteilen, Pinienkerne darueberstreuen. Spargeln daneben anrichten.</inhalt>
+      </Salat     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FNB2noKpEPA"/>
+</Rezept>

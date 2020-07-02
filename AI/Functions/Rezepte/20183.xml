@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>137 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brownies  >
+          <quant>250 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>gekochte Randen, in Stuecken</zutat>
+          <quant>100 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>50 g</quant>
+          <zutat>weisses Mandelmus</zutat>
+      </Brownies  >
+      <Erdbeeren >
+          <quant>200 g</quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+      </Erdbeeren >
+   </einkaufliste>
+   <rezept>
+      <Brownies  >
+          <inhalt>Schokolade in eine duennwandige Schuessel ueber dem leicht siedenden Wasserbad schmelzen, glatt ruehren. Randen, Datteln und Mandelmus mit der Schokolade im Mixglas puerieren. Die Masse in die vorbereitete Form geben, glattstreichen.</inhalt>
+      </Brownies  >
+      <Erdbeeren >
+          <inhalt>Teig mit den Erdbeeren belegen, zugedeckt ca. 2 Std. gefrieren. Zum Servieren in Stuecke schneiden.</inhalt>
+      </Erdbeeren >
+   </rezept>
+</Rezept>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>353 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rindsfilet_>
+          <quant>800 g</quant>
+          <zutat>Rindsfilet</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kaffeebohnen, im Cutter fein gemahlen</zutat>
+          <quant>4 cl</quant>
+          <zutat>Espressi</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Rindsfilet_>
+      <Salzkruste_>
+          <quant>1 kg</quant>
+          <zutat>grobkoerniges Meersalz</zutat>
+          <quant>2 </quant>
+          <zutat>Eiweisse, verklopft</zutat>
+      </Salzkruste_>
+      <Bratensauce>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>2 </quant>
+          <zutat>Thymianzweiglein</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Bratensauce>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rindsfilet                    </inhalt>
+      </How_To    >
+      <Rindsfilet_>
+          <inhalt>Fleisch ca. 1 Std. vor dem Braten aus dem Kuehlschrank nehmen.  Kaffeebohnen und Espresso mischen, Fleisch damit bestreichen. Oel in einer beschichteten Bratpfanne heiss werden lassen. Fleisch bei mittlerer Hitze rundum ca. 3 Min. anbraten.</inhalt>
+      </Rindsfilet_>
+      <How_To1   >
+          <inhalt>Salzkruste                    </inhalt>
+      </How_To1   >
+      <Salzkruste_>
+          <inhalt>Backen                        </inhalt>
+      </Salzkruste_>
+      <Backen    >
+          <inhalt>Die Salzkruste mit einem Essloeffel aufbrechen und abheben. Lose Salzkoerner mit einem Pinsel vom Fleisch entfernen. </inhalt>
+      </Backen    >
+      <Bratensauce>
+          <inhalt>Bouillon und Thymian in die beiseite gestellte Bratpfanne geben, Bratsatz loesen, aufkochen. Hitze reduzieren, Pfanne von der Platte nehmen. Butter portionenweise unter Ruehren mit dem Schwingbesen beigeben, die Pfanne hin und wieder kurz auf die Platte stellen, um die Sauce nur leicht zu erwaermen; sie darf nicht kochen. Ruehren, bis die Sauce cremig ist, salzen.</inhalt>
+      </Bratensauce>
+   </rezept>
+</Rezept>

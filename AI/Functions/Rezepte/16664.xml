@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>302 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>500 g</quant>
+          <zutat>Wassermelone, in Wuerfeln (ergibt ca. 400 g geschaelt)</zutat>
+          <quant>3 </quant>
+          <zutat>Snack-Gurken, laengs in Scheiben</zutat>
+          <quant>200 g</quant>
+          <zutat>Kichererbsen (gekocht oder aus der Dose), abgespuelt, abgetropft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Salat     >
+      <Dressing  >
+          <quant>1 EL</quant>
+          <zutat>Avocado-Oel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Dressing  >
+      <Anrichten >
+          <quant>2 EL</quant>
+          <zutat>Mandeln, geroestet</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Alle Zutaten in einer Schuessel mischen.</inhalt>
+      </Salat     >
+      <Dressing  >
+          <inhalt>Alle Zutaten in ein verschliessbares Glas geben, gut schuetteln.</inhalt>
+      </Dressing  >
+      <Anrichten >
+          <inhalt>Das Dressing zum Salat geben, mischen. Mandeln darueberstreuen.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

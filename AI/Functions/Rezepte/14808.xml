@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>535 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Granatapfel-Salsa>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Granatapfelsaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Granatapfel, Kerne ausgeloest</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, grob gehackt</zutat>
+      </Granatapfel-Salsa>
+      <Quinoa    >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>Quinoa</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Red Kidney Bohnen (ca. 140 g), abgespuelt, abgetropft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Granatapfelsaft</zutat>
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Quinoa    >
+      <Lammnierstueck_>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Lammnierstuecke (je ca. 150g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Harissa</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Lammnierstueck_>
+   </einkaufliste>
+   <rezept>
+      <Granatapfel-Salsa>
+          <inhalt>Aceto und alle Zutaten bis und mit Salz in einer Schuessel verruehren. Granatapfelkerne und Zwiebel beigeben, mischen.  </inhalt>
+      </Granatapfel-Salsa>
+      <Quinoa    >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Quinoa und Bohnen andaempfen. Granatapfelsaft und Bouillon dazugiessen, aufkochen, Hitze reduzieren, ca. 25 Min. koecheln.</inhalt>
+      </Quinoa    >
+      <Lammnierstueck_>
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Lamm mit Harissa rundum bestreichen, bei mittlerer Hitze beidseitig je ca. 3 Min. braten, salzen. Lamm tranchieren, mit Quinoa anrichten. Granatapfel-Salsa dazu servieren.</inhalt>
+      </Lammnierstueck_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jw9053MRDN0"/>
+</Rezept>

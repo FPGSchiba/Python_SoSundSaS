@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>97 kcal </NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fruchtig-scharfe_weisse_Schokolade>
+          <quant>100 g</quant>
+          <zutat>weisse Schokolade, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>gefriergetrocknete Beerenmischung, fein gehackt</zutat>
+      </Fruchtig-scharfe_weisse_Schokolade>
+      <Orangen-Schokolade>
+          <quant>100 g</quant>
+          <zutat>Milchschokolade, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur abgeriebene Schale</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Orangeat, fein gehackt</zutat>
+      </Orangen-Schokolade>
+      <Caramel-Fleur_de_Sel-Schokolade>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (ca. 72 % Kakao), in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Caramel-Wuerfeli </zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Caramel-Fleur_de_Sel-Schokolade>
+      <Spicy_Schokolade>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>kandierter Ingwer, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Muskat</zutat>
+      </Spicy_Schokolade>
+   </einkaufliste>
+   <rezept>
+      <Fruchtig-scharfe_weisse_Schokolade>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Loeffelvertiefung mit Schokolade fuellen, auf ein Backpapier legen. Chili und Beeren darueberstreuen, ca. 2 Std. fest werden lassen. </inhalt>
+      </Fruchtig-scharfe_weisse_Schokolade>
+      <Orangen-Schokolade>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren, Orangenschale unterruehren. Loeffelvertiefung mit Schokolade fuellen, auf ein Backpapier legen. Orangeat darueberstreuen, zugedeckt ca. 2 Std. fest werden lassen.</inhalt>
+      </Orangen-Schokolade>
+      <Caramel-Fleur_de_Sel-Schokolade>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glattruehren Loeffelvertiefgung mit Schokolade fuellen, auf ein Backpapier legen. Caramel-Wuerfeli und Fleur de Sel darueberstreuen. Zugedeckt ca. 2 Std. fest werden lassen. </inhalt>
+      </Caramel-Fleur_de_Sel-Schokolade>
+      <Spicy_Schokolade>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Loeffelvertiefung mit Schokolade fuellen, auf ein Backpapier legen. Ingwer, Zimt, Vanille und Muskat darueberstreuen. Zugedeckt ca. 2 Std. fest werden lassen. </inhalt>
+      </Spicy_Schokolade>
+      <HOT_CHOCOLATE_zubereiten>
+          <inhalt>2 dl Milch erwaermen, Schokoladeloeffel in die Milch geben und ruehren, bis die Schokolade geschmolzen ist.</inhalt>
+      </HOT_CHOCOLATE_zubereiten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

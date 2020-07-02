@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>209 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>500 g</quant>
+          <zutat>Ruchbrot oder Landbrot</zutat>
+      </Fill_Header>
+      <Roastbeef-Meerrettich>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 </quant>
+          <zutat>Baby-Ananas, in Wuerfeli</zutat>
+          <quant>150 g</quant>
+          <zutat>Roastbeef, in Tranchen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Roestzwiebeln</zutat>
+          <quant>1 cm</quant>
+          <zutat>Meerrettich, fein gerieben</zutat>
+      </Roastbeef-Meerrettich>
+      <Ricotta-Peperoni>
+          <quant>100 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, in feinen Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Akazienhonig</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Ricotta-Peperoni>
+      <Makrele-Avocado>
+          <quant>1/2 </quant>
+          <zutat>Avocado</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Makrelen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Radiesli mit dem Gruen</zutat>
+          <quant>wenig </quant>
+          <zutat>Limettensaft</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Makrele-Avocado>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Brot in 12 Scheiben schneiden, toasten.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Roastbeef-Meerrettich         </inhalt>
+      </How_To1   >
+      <Roastbeef-Meerrettich>
+          <inhalt>Creme fraiche, Curry und Kurkuma mischen, salzen. </inhalt>
+      </Roastbeef-Meerrettich>
+      <How_To2   >
+          <inhalt>Currysauce auf 4 Brotscheiben verteilen. Ananas darauf verteilen, mit Pastrami belegen.  Roestzwiebeln darueberstreuen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Ricotta-Peperoni              </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Ricotta auf Brotscheiben verteilen.</inhalt>
+      </How_To4   >
+      <Ricotta-Peperoni>
+          <inhalt>Makrele-Avocado               </inhalt>
+      </Ricotta-Peperoni>
+      <Makrele-Avocado>
+          <inhalt>Avocado auf 4 Brotscheiben verteilen. Makrele, Radisli und Radisligruen darauf verteilen. Limettensaft und Fleur de Sel daruebergeben.</inhalt>
+      </Makrele-Avocado>
+   </rezept>
+</Rezept>

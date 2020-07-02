@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>433 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z. B. Fine Food Tagliolini al nero di seppia)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>einige </quant>
+          <zutat>Butterfloeckli</zutat>
+          <quant>1 </quant>
+          <zutat>Langustenschwanz (ca. 250 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, in Scheibchen</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Streifen</zutat>
+          <quant>250 g</quant>
+          <zutat>Datteltomaten</zutat>
+          <quant>1 dl</quant>
+          <zutat>weisser Portwein</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teigwaren im Salzwasser al dente kochen, ca. 1/2 dl Kochwasser beiseite stellen, Teigwaren abtropfen, zurueck in die Pfanne geben. Butter daruntermischen, zugedeckt beiseite stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Hitze reduzieren, Languste bei mittlerer Hitze beidseitig je ca. 1 Min. braten. Knoblauch, Zwiebel und Tomaten beigeben, ca. 4 Min. weiterbraten. Portwein dazugiessen,  auf die Haelfte einkoecheln. Languste herausnehmen,  Schale aufbrechen Langustenschwanz herausloesen, in Stuecke schneiden. Languste mit der Butter, dem beiseite gestellten Kochwasser und den Teigwaren zu den Tomaten geben, nur noch erhitzen, wuerzen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

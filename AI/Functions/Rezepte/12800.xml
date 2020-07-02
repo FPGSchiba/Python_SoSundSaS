@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>384 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Acai-Pulver </zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Dessert Extrafin (Sauermilch)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter, fluessig, ausgekuehlt</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Teig      >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Backen    >
+      <Kompott   >
+          <quant>2 dl</quant>
+          <zutat>Suesswein, z.B. Muscat</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>250 g</quant>
+          <zutat>Heidelbeeren</zutat>
+      </Kompott   >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Acai-Pulver, Backpulver und Salz in einer Schuessel mischen. Sauermilch, Butter, Eigelbe und Ahornsirup gut verruehren, daruntermischen. Eiweisse mit dem Salz steif schlagen, sorgfaeltig darunterziehen. </inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Wenig Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. So viel Teig in die Pfanne geben, dass Pancakes von ca. 5 mm dicke und ca. 10 cm Ø entstehen. Hitze reduzieren. Sind die Unterseiten gebacken und loesen sie sich von selbst, Pancakes wenden, fertig backen, warm stellen. Restliche Pancakes gleich zubereiten.</inhalt>
+      </Backen    >
+      <Kompott   >
+          <inhalt>Wein mit dem Zucker aufkochen, auf die Haelfte einkoecheln. Heidelbeeren beigeben, zugedeckt bei mittlerer Hitze ca. 5 Min. fertig koecheln. Zu den Acai-Pancakes servieren.</inhalt>
+      </Kompott   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

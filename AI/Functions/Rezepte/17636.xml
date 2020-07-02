@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>196 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aepfel     >
+          <quant>3 </quant>
+          <zutat>Aepfel, geschaelt, in Scheibchen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mandeldrink</zutat>
+      </Aepfel     >
+      <Teig      >
+          <quant>1 EL</quant>
+          <zutat>geschrotete Leinsamen </zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Haferflocken, gemahlen</zutat>
+          <quant>100 g</quant>
+          <zutat>grobe Haferflocken</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandelmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>glutenfreies Backpulver (Dr. Oetker)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 </quant>
+          <zutat>Bananen (gross, reif) fein derdrueckt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Aepfel     >
+          <inhalt>Alle Zutaten in einer Schuessel mischen.</inhalt>
+      </Aepfel     >
+      <Teig      >
+          <inhalt>Leinsamen mit Wasser mischen, ca. 10 Min. quellen lassen. Haferflocken mit allen Zutaten bis und mit Zimt in einer Schuessel mischen. Bananen, Ahornsirup, Kokosoel, Vanillepaste und Leinsamen beigeben, zu einem Teig verruehren. Die Haelfte der Zutaten in die vorbereite Form geben. glatt streichen. Aepfel darauf verteilen, mit restlichem Teig bedecken, glatt streichen, Ahornsirup daruebertraeufeln.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 30 Min. im unteren Drittel des auf 180 Grad (Heissluft) vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

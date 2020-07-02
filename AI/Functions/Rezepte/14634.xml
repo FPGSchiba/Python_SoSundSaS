@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>255 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blitzteig >
+          <quant>120 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>50 g</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>weisse Schokolade, in Stuecken</zutat>
+      </Blitzteig >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Blitzteig                     </inhalt>
+      </How_To    >
+      <Blitzteig >
+          <inhalt>Butter und Schokolade in einer Pfanne bei kleiner Hitze schmelzen, unter die Masse ruehren. Teig in die vorbereitete Form fuellen.</inhalt>
+      </Blitzteig >
+      <Backen    >
+          <inhalt>Ca. 18 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Tarte auf ein Gitter schieben, auskuehlen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

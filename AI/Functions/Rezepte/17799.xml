@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1365 kcal</NaehrwertProPerson>
+       <Fett>53 g  </Fett>
+       <Kohlenhydrate>150 g </Kohlenhydrate>
+       <Eiweiss>59 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cashew-Parmesan>
+          <quant>70 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>2 EL</quant>
+          <zutat>Edelhefe</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+      </Cashew-Parmesan>
+      <Federkohl-Pesto>
+          <quant>85 g</quant>
+          <zutat>Pinienkerne</zutat>
+          <quant>85 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>85 g</quant>
+          <zutat>gewaschener, geruesteter Federkohl</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Federkohl-Pesto>
+      <Linsenragout>
+          <quant>400 g</quant>
+          <zutat>Linsen</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>gemischte  Pilze, in Stuecken</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>gehackte Tomaten (je ca. 400 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Linsenragout>
+      <Lasagne   >
+          <quant>500 g</quant>
+          <zutat>gruene Lasagne-Blaetter</zutat>
+      </Lasagne   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Cashew-Parmesan               </inhalt>
+      </How_To    >
+      <Cashew-Parmesan>
+          <inhalt>Federkohl-Pesto               </inhalt>
+      </Cashew-Parmesan>
+      <Federkohl-Pesto>
+          <inhalt>Linsenragout                  </inhalt>
+      </Federkohl-Pesto>
+      <Linsenragout>
+          <inhalt>Lasagne                       </inhalt>
+      </Linsenragout>
+      <Lasagne   >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Lasagne   >
+   </rezept>
+</Rezept>

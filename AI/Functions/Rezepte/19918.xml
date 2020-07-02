@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>542 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Trockene_Zutaten_>
+          <quant>200 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>140 g</quant>
+          <zutat>Cashew-Nuesse, grob gehackt</zutat>
+          <quant>30 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Trockene_Zutaten_>
+      <Feuchte_Zutaten>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>4 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Feuchte_Zutaten>
+      <Backen_   >
+          <quant>30 g</quant>
+          <zutat>Kokoschips</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Trockene_Zutaten_>
+          <inhalt>Haferflocken, Cashew-Nuesse, Kokosraspel und Salz in einer Schuessel mischen. </inhalt>
+      </Trockene_Zutaten_>
+      <Feuchte_Zutaten>
+          <inhalt>Kokosoel in einem Pfaennchen leicht erwaermen. Ahornsirup und Vanillepaste darunterruehren, mit den trockenen Zutaten mischen. Masse auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Feuchte_Zutaten>
+      <Backen_   >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 140 Grad vorgeheizten Ofens. Kokoschips daruntermischen, ca. 5 Min. fertigbacken. Herausnehmen, auskuehlen.  </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

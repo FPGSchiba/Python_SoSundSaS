@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>418 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Randen-Pastateig>
+          <quant>150 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>60 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Randensaft</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Randen-Pastateig>
+      <Fuellung   >
+          <quant>1 Glas</quant>
+          <zutat>Artischockenherzen in Oel (ca. 290 g), abgetropft</zutat>
+          <quant>75 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Muskat</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Formen    >
+      <Vanille-Salbei-Butter>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Salbei, Blaetter abgezupft</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Vanille-Salbei-Butter>
+   </einkaufliste>
+   <rezept>
+      <Randen-Pastateig>
+          <inhalt>Mehle und Salz in einer Schuessel mischen. Randensaft, Eigelb und Oel beigeben, mischen, ca. 15 Min. zu einem glatten, geschmeidigen Teig kneten. Kugel formen, zugedeckt bei Raumtemperatur ca. 30 Min. ruhen lassen.</inhalt>
+      </Randen-Pastateig>
+      <Fuellung   >
+          <inhalt>Die Haelfte der Artischocken mit dem Frischkaese und Vanillesamen puerieren, wuerzen. Restliche Artischocken und Vanilleschote beiseite stellen. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig halbieren, portionenweise auf gut bemehlter Arbeitsflaeche auswallen, bis der Teig durchscheinend ist. Teig dabei immer wieder von der Arbeitsflaeche loesen. Mit einem Herz-Ausstecher 40 Herzen ausstechen. Auf die Mitte von 20 der Herzen je eine nussgrosse Portion Fuellung geben, Raender mit Eiweiss bestreichen. Restliche Herzen exakt darauflegen, Kanten gut andruecken, dabei eingeschlossene Luft herausdruecken. Ravioli im knapp siedenden Salzwasser ca. 5 Min. ziehen lassen, abtropfen.. </inhalt>
+      </Formen    >
+      <Vanille-Salbei-Butter>
+          <inhalt>Die Haelfte der Butter in einer Bratpfanne erhitzen. Salbei ca. 1 Min. knusprig braten, beiseite gestellte Artischocken, Vanilleschote und restliche Butter beigeben, braten, bis die Butter nussig riecht. Ravioli beigeben, mischen, wuerzen. </inhalt>
+      </Vanille-Salbei-Butter>
+   </rezept>
+</Rezept>

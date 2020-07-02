@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>12 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Birne/Kaki>
+          <quant>1 </quant>
+          <zutat>Birne, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Kaki, in Wuerfeli</zutat>
+          <quant>3 </quant>
+          <zutat>Sternanise</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+      </Birne/Kaki>
+      <Granatapfel>
+          <quant>1 </quant>
+          <zutat>Granatapfel, Kernen ausgeloest</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer in Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Zimtstangen</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+      </Granatapfel>
+      <Mandarine >
+          <quant>1 </quant>
+          <zutat>Mandarine, filetiert</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+      </Mandarine >
+   </einkaufliste>
+   <rezept>
+      <Birne/Kaki>
+          <inhalt>Birne, Kaki  und Sternanis in eine Karaffe geben, mit Wasser auffuellen. Zugedeckt im Kuehlschrank ca. 1 Std. ziehen lassen. </inhalt>
+      </Birne/Kaki>
+      <Granatapfel>
+          <inhalt>Granatapfelkerne, Ingwer und Zimt in eine Karaffe geben, mit Wasser auffuellen. Zugedeckt im Kuehlschrank ca. 1 Std. ziehen lassen. </inhalt>
+      </Granatapfel>
+      <Mandarine >
+          <inhalt>Mandarine, Zimt, Vanilleschote und -samen in eine Karaffe geben, mit Wasser auffuellen, gut mischen. Zugedeckt im Kuehlschrank ca. 1 Std. ziehen lassen. </inhalt>
+      </Mandarine >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>372 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>50 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+          <quant>800 g</quant>
+          <zutat>Rindsfilet</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in Stuecken</zutat>
+          <quant>350 g</quant>
+          <zutat>Knollensellerie, in Stuecken</zutat>
+          <quant>250 g</quant>
+          <zutat>Lauch, in Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>50 g</quant>
+          <zutat>Emmentaler, gerieben</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter im Brattopf erhitzen. Fleisch wuerzen, rundum ca. 5 Min. anbraten, erst wenden, wenn sich eine Kruste gebildet hat. Herausnehmen, zugedeckt beiseitestellen. Wenig Bratfett in den Brattopf geben. Gemuese und alle Zutaten bis und mit Zwiebel ca. 5 Min. anbraten, Fleisch beigeben, Wein und Bouillon dazugiessen. Fleischthermometer an der dicksten Stelle des Filets einstecken.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Braten im Ofen: ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, Kaese ueber den Braten streuen, ca. 10 Min. fertig braten. Die Kerntemperatur soll ca. 60 Grad betragen. Braten herausnehmen, vor dem Tranchieren zugedeckt ca. 10 Min. stehen lassen. Bratfluessigkeit absieben, mit dem Gemuese zum Braten servieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

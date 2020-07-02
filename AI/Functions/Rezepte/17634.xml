@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>280 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>300 g</quant>
+          <zutat>Schokoladeguetzli, fein gemahlen</zutat>
+          <quant>75 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter</zutat>
+      </Boden     >
+      <Quarkmasse>
+          <quant>500 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>70 g</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>6 Blaetter</quant>
+          <zutat>Gelatine ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Quarkmasse>
+      <Aprikosenmasse>
+          <quant>1 Dose</quant>
+          <zutat>Aprikosenhaelfte (ca. 410 g), abgetropft</zutat>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Aprikosenmasse>
+      <Aprikosen-Bienen_>
+          <quant>1 Dose</quant>
+          <zutat>Aprikosenhaelfte (ca. 410 g), abgetropft, trocken getupft</zutat>
+          <quant>30 </quant>
+          <zutat>Mandelblaettchen</zutat>
+          <quant>1 </quant>
+          <zutat>Zuckerdekor-Stift  schwarz</zutat>
+          <quant>50 g</quant>
+          <zutat>Fondant schwarz</zutat>
+          <quant>1 Pack</quant>
+          <zutat>Zucker-Augen</zutat>
+      </Aprikosen-Bienen_>
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Guetzli im Cutter fein mahlen oder in einem Platikbeutel mit dem Wallholz fein zerstossen. Schokolade mit der Butter in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, mit den Guetzli mischen, in der vorbereiteten Form verteilen, gut andruecken, kuehl stellen.</inhalt>
+      </Boden     >
+      <Quarkmasse>
+          <inhalt>Quark, Honig und Vanillepaste in einer Schuessel gut verruehren. Gelatine abtropfen, im siedenden Wasser aufloesen, mit 2 EL Quarkmasse verruehren und sofort unter die restliche Masse ruehren. Schlagrahm sorgfaeltig unter die Quarkmasse ziehen. Quarkmasse auf dem Guetzliboden verteilen, zugedeckt ca. 2 Std. kuehl stellen. </inhalt>
+      </Quarkmasse>
+      <Aprikosenmasse>
+          <inhalt>Aprikosen puerieren. Gelatine abtropfen, im siedenden Wasser aufloesen, mit 2 EL Aprikosenpueree verruehren und sofort unter das restliche Pueree ruehren. Pueree auf der Quarkmasse verteilen, ca. 30 Min. kuehl stellen. </inhalt>
+      </Aprikosenmasse>
+      <Aprikosen-Bienen_>
+          <inhalt>Je zwei Mandelblaettchen in die gewoelbte Seite der Aprikosen stecken und mit dem Zuckerdekor-Stift Streifen zeichnen. Fondant zu Kuegelchen formen, je zwei Augen auf die Kuegelchen druecken. Die Aprikosen und die Kuegelchen als Bienen auf der Torte verteilen. Formenrand sorgfaeltig entfernen, Torte in Stuecke schneiden. </inhalt>
+      </Aprikosen-Bienen_>
+   </rezept>
+</Rezept>

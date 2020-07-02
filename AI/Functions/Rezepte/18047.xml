@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>75 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Eier_kochen>
+          <quant>12 </quant>
+          <zutat>Eier (weiss)</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+      </Eier_kochen>
+      <Dekorieren>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant> </quant>
+          <zutat>Kraeuter und frische Blueten</zutat>
+          <quant> </quant>
+          <zutat>Kuechenschnur</zutat>
+      </Dekorieren>
+      <Blaue_Ostereier>
+          <quant>1 Liter</quant>
+          <zutat>Heidelbeersaft</zutat>
+      </Blaue_Ostereier>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Eier kochen                   </inhalt>
+      </How_To    >
+      <Eier_kochen>
+          <inhalt>Dekorieren                    </inhalt>
+      </Eier_kochen>
+      <Dekorieren>
+          <inhalt>Strumpfstuecke so straff wie moeglich ueber die verzierte Seite ziehen und auf der Rueckseite mit der Schnur dicht am Ei zusammenbinden.</inhalt>
+      </Dekorieren>
+      <Blaue_Ostereier>
+          <inhalt>Den Heidelbeersaft in eine hohe Schuessel giessen. Eier portionenweise beigeben, je nach gewuenschter Farbintensitaet 5-30 Min. stehen lassen. Eier herausnehmen, unter fliessendem Wasser abspuelen. Den Strumpf aufschneiden, sorgfaeltig abziehen und Kraeuter entfernen, Eier  trocken tupfen. Der Saft kann mehrfach verwendet werden. </inhalt>
+      </Blaue_Ostereier>
+   </rezept>
+</Rezept>

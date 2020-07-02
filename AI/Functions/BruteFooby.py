@@ -12,6 +12,6 @@ from Functions import Scrapper_Fooby
 
 finished = False
 
-for i in range(5100,20000):
+for i in range(31500,50000):
     print("https://fooby.ch/de/rezepte/{number}/?startAuto1=0".format(number=i))
     Scrapper_Fooby.ScrapFooby("https://fooby.ch/de/rezepte/{number}/?startAuto1=0".format(number=i))

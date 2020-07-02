@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>348 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln_kochen>
+          <quant>800 g</quant>
+          <zutat>fest kochende Kartoffeln (z.B. ProSpecieRara Ostara)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Kartoffeln_kochen>
+      <Sauce     >
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Honig</zutat>
+          <quant>250 g</quant>
+          <zutat>Frischkaese nature</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Salat     >
+          <quant>50 g</quant>
+          <zutat>Landkresse</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Dill, zerzupft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Kerbel, zerzupft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, zerzupft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, zerzupft</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln_kochen>
+          <inhalt>Kartoffeln offen im siedenden Salzwasser ca. 25 Min. weich kochen. Herausnehmen, abtropfen, vierteln. </inhalt>
+      </Kartoffeln_kochen>
+      <Sauce     >
+          <inhalt>Senf, Essig, Oel und Honig in einer Schuessel verruehren, 1 EL Frischkaese darunterruehren, wuerzen. Restlichen Frischkaese beiseite stellen. Die noch warmen Kartoffeln zur Sauce geben, mischen. </inhalt>
+      </Sauce     >
+      <Salat     >
+          <inhalt>Kresse und Kraeuter unter die Kartoffeln mischen. Beiseite gestellten Frischkaese auf einer Platte verteilen, Salat darauf anrichten.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

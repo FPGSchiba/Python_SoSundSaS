@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>191 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>16 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gin</zutat>
+          <quant>1 dl</quant>
+          <zutat>Campari Bitter</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wermut  (z.B. Martini rosso)</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur duenn abgeschaelte Schale</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Eiswuerfel, Gin, Campari und Wermut in 4 Glaeser verteilen. Orangenschale beigeben, sofort servieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

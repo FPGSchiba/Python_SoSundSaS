@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>577 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>86 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Zwiebel (klein), fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>400 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlte Erbsli</zutat>
+          <quant>125 g</quant>
+          <zutat>Doppelrahmfrischkaese (Philadelphia)</zutat>
+          <quant>75 g</quant>
+          <zutat>Parmesan, gehobelt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Die Zwiebel im Oel andaempfen. Reis beigeben, duensten, bis er glasig ist. Wein dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 10 Min. koecheln, Erbsli beigeben, ca. 10 Min. weiterkoecheln, bis der Reis al dente ist. Frischkaese daruntermischen, Risotto wuerzen. Vor dem Servieren mit Parmesan garnieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

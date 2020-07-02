@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>296 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>500 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>3 1/4 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+      </Hefeteig  >
+      <Lauge     >
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>1 TL</quant>
+          <zutat>Meersalz</zutat>
+      </Lauge     >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Wasser dazugiessen, mischen, zu einem weichen, glatten Teig kneten. </inhalt>
+      </Hefeteig  >
+      <Teig_formen>
+          <inhalt>Teig in 6 Portionen teilen, je zu ca. 30 cm langen Rollen formen. Von jeder Rolle ca. 3 cm Teig abschneiden, beiseite legen. Rollen von der Mitte aus zweimal spiralfoermig eindrehen, dabei ein je ca. 3 cm grosses Loch lassen. Beiseite gelegte Teigstuecke zu Kugeln formen, auf die Oeffnungen setzen. Hasen auf ein mit Backpapier belegtes Blech legen. Zugedeckt ca. 1 Std. aufgehen lassen. </inhalt>
+      </Teig_formen>
+      <Lauge     >
+          <inhalt>Wasser und Natron verruehren, Haesli damit bestreichen, Salz darueberstreuen.</inhalt>
+      </Lauge     >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Haesli herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

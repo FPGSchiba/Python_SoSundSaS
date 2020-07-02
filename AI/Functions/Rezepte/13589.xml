@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>383 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>300 g</quant>
+          <zutat>Kohlrabi, in ca. 3 mm duennen Scheiben</zutat>
+          <quant>300 g</quant>
+          <zutat>Randen, in ca. 3 mm duennen Scheiben</zutat>
+          <quant>250 g</quant>
+          <zutat>Suesskartoffeln, in ca. 3 mm duennen Scheiben</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser siedend</zutat>
+      </Gemuese    >
+      <Guss_&amp;_Kaesekruste>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Gemuesebouillonpulver</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>60 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>100 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+      </Guss_&amp;_Kaesekruste>
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Gemuese einzeln im Salzwasser je ca. 10 Min. bissfest kochen, abwechselnd in die vorbereitete Form schichten</inhalt>
+      </Gemuese    >
+      <Guss_&amp;_Kaesekruste>
+          <inhalt>Milch, Halbrahm, Mehl und Bouillonpulver in einen Schuettelbecher geben, gut vermischen, ueber das Gemuese giessen. Petersilie mit Paniermehl und Reibkaese vermischen, ueber den Gratin streuen.</inhalt>
+      </Guss_&amp;_Kaesekruste>
+      <Ueberbacken>
+          <inhalt>ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens (bis eine Kaesekruste entsteht).</inhalt>
+      </Ueberbacken>
+   </rezept>
+</Rezept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>166 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace-Sandwiches>
+          <quant>20 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>20 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+          <quant>150 g</quant>
+          <zutat>Vanilleglace, angetaut</zutat>
+          <quant>8 </quant>
+          <zutat>Guetzli (z.B. Bricelets)</zutat>
+      </Glace-Sandwiches>
+   </einkaufliste>
+   <rezept>
+      <Glace-Sandwiches>
+          <inhalt>Heidelbeeren und Granatapfelkerne unter die Glace mischen. Je ca. 4 EL Glace auf 4 Guetzli geben, restliche Guetzli darauflegen. Glace-Sandwiches ca. 20 Min. gefrieren.</inhalt>
+      </Glace-Sandwiches>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>55 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Birnenchips>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen, laengs in ca. 2 mm dicken Scheiben gehobelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Birnenchips>
+      <Kaesemousse>
+          <quant>125 g</quant>
+          <zutat>Blauschimmelkaese (z.B. St.Agur)</zutat>
+          <quant>125 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>2 EL</quant>
+          <zutat>Suesswein (z.B. Sauternes, Marsala, Vin Santo)</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt, geroestet</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+      </Kaesemousse>
+   </einkaufliste>
+   <rezept>
+      <Birnenchips>
+          <inhalt>Wasser mit dem Zucker aufkochen, koecheln, bis sich der Zucker aufgeloest hat, etwas abkuehlen. Birnen mit dem Zitronensaft mischen, im Zuckerwasser wenden, etwas abtropfen, auf zwei mit Backpapier belegte Bleche legen.</inhalt>
+      </Birnenchips>
+      <Backen    >
+          <inhalt>Ca. 2 Std. im auf 100 Grad (Heissluft) vorgeheizten Ofen, dabei 2-mal wenden. Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, auskuehlen.</inhalt>
+      </Backen    >
+      <Kaesemousse>
+          <inhalt>Kaese, Frischkaese und Suesswein den Schwingbesen des Handruehrgeraets glatt ruehren, Petersilie beigeben, mischen. Schlagrahm mit dem Gummischaber sorgfaeltig darunterziehen, salzen, zugedeckt kuehl stellen. Kaesemousse kurz vor dem Servieren auf den Birnenchips verteilen. Nuesse und Petersilie darueberstreuen. </inhalt>
+      </Kaesemousse>
+   </rezept>
+</Rezept>

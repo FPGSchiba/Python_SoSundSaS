@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>113 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cookies   >
+          <quant>150 g</quant>
+          <zutat>Butter</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>75 g</quant>
+          <zutat>Cashew-Nuesse, grob gehackt, geroestet, ausgekuehlt</zutat>
+          <quant>2 </quant>
+          <zutat>rote Chilis, entkernt, fein gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Cookies   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Cookies                       </inhalt>
+      </How_To    >
+      <Cookies   >
+          <inhalt>Backen: ca. 10 Min. pro Blech in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Die Cookies sollten nach dem Backen noch feucht sein. Herausnehmen, mit wenig Fleur de Sel bestreuen, auf einem Gitter  auskuehlen.</inhalt>
+      </Cookies   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>249 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auberginen>
+          <quant>2 </quant>
+          <zutat>Auberginen, laengs halbiert, kreuzweise eingeschnitten</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Auberginen>
+      <Baba_Ganoush>
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse, geroestet, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, grob geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pfefferminze, grob geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Baba_Ganoush>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Auberginen                    </inhalt>
+      </How_To    >
+      <Auberginen>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Auberginen ueber starker Glut oder hoechster Stufe (ca. 250 Grad) zugedeckt beidseitig je ca. 20 Min. grillieren. </inhalt>
+      </Auberginen>
+      <Baba_Ganoush>
+          <inhalt>Auberginenfleisch mit einem Loeffel aus der Schale kratzen, in einen Messbecher geben, puerieren. Nuesse und alle restlichen Zutaten beigeben, mischen. </inhalt>
+      </Baba_Ganoush>
+   </rezept>
+</Rezept>

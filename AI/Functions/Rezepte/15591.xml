@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>219 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Erdbeeren >
+          <quant>300 g</quant>
+          <zutat>Erdbeeren, in feinen Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone 1/2 abgeriebene Schale und 2 EL Saft</zutat>
+      </Erdbeeren >
+      <Quarkmasse>
+          <quant>500 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Bourbon-Vanillezucker</zutat>
+          <quant>8 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Quarkmasse>
+      <Boden     >
+          <quant>120 g</quant>
+          <zutat>Loeffelbiskuits</zutat>
+      </Boden     >
+      <Verzierung>
+          <quant>200 g</quant>
+          <zutat>Erdbeeren einige halbiert, Rest in Scheiben</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Erdbeeren                     </inhalt>
+      </How_To    >
+      <Erdbeeren >
+          <inhalt>Quarkmasse                    </inhalt>
+      </Erdbeeren >
+      <Quarkmasse>
+          <inhalt>Eiweisse mit dem Salz steif schlagen, Eischnee mit dem Schlagrahm sorgfaeltig unter die Quarkmasse ziehen. </inhalt>
+      </Quarkmasse>
+      <Boden     >
+          <inhalt>Einen Springformring (ca. 24 cm) innen mit wenig Oel bestreichen und mit Klarsichtfolie belegen, geschlossen auf eine Tortenplatte stellen. Loeffelbiskuits mit der Zuckerseite nach unten satt auf dem Boden auslegen. Die beiseite gestellten Erdbeeren mit dem entstandenen Saft sorgfaeltig auf den Loeffelbiskuits verteilen. Quarkmasse darauf verteilen, zugedeckt im Kuehlschrank ca. 4 Std. fest werden lassen.</inhalt>
+      </Boden     >
+      <Verzierung>
+          <inhalt>Formenrand sorgfaeltig entfernen. Torte mit den Erdbeeren verzieren.</inhalt>
+      </Verzierung>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

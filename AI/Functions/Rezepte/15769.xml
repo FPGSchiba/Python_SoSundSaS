@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>295 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mueesli    >
+          <quant>6 EL</quant>
+          <zutat>Hirseflocken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, fein gerieben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>500 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>gefriergetrocknete Beerenmischung oder getrocknete Heidelbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+      </Mueesli    >
+      <Crunch    >
+          <quant>1 EL</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+      </Crunch    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mueesli                        </inhalt>
+      </How_To    >
+      <Mueesli    >
+          <inhalt>Crunch                        </inhalt>
+      </Mueesli    >
+      <Crunch    >
+          <inhalt>Mueesli in 4 Portionen anrichten, Crunch darauf verteilen.</inhalt>
+      </Crunch    >
+   </rezept>
+</Rezept>

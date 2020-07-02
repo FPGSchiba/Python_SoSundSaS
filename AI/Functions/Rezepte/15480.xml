@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>549 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tommes    >
+          <quant>2 </quant>
+          <zutat>Tommes (je ca. 100 g)</zutat>
+          <quant>40 g</quant>
+          <zutat>Nussmischung, grob gehackt</zutat>
+          <quant>40 g</quant>
+          <zutat>getrocknete Feigen, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Honig</zutat>
+      </Tommes    >
+   </einkaufliste>
+   <rezept>
+      <Tommes    >
+          <inhalt>Tommes auf ein mit Backpapier belegtes Blech legen. Nuesse, Feigen und Honig mischen, auf den Tommes verteilen.  </inhalt>
+      </Tommes    >
+      <Backen    >
+          <inhalt>Ca. 7 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens . Herausnehmen, sofort servieren. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

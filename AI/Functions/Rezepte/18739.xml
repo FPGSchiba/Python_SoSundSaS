@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>191 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>150 g</quant>
+          <zutat>geschaelte Mandeln, fein gehackt</zutat>
+          <quant>130 g</quant>
+          <zutat>Baumnusskerne, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>500 g</quant>
+          <zutat>Strudelteige  (Jufka Filoteig)</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, fluessig, etwas abgekuehlt</zutat>
+      </Formen    >
+      <Zuckersirup>
+          <quant>3 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>350 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>4 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Rosenwasser</zutat>
+      </Zuckersirup>
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Mandeln, Baumnusskerne, Sesam und Zucker mischen. </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teigblaetter auseinanderfalten. Je 2 Teigblaetter in das Blech legen, mit wenig Butter bestreichen, 3-mal wiederholen. Fuellung darauf verteilen, wieder je 2 Teigblaetter darauf legen, mit Butter bestreichen, wiederholen, bis alle Teigblaetter aufgebraucht sind. Rautenfoermig einschneiden.  </inhalt>
+      </Formen    >
+      <Backen:   >
+          <inhalt>ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf ein Blech stellen.</inhalt>
+      </Backen:   >
+      <Zuckersirup>
+          <inhalt>Wasser mit dem Zucker aufkochen, ca. 5 Min. sirupartig einkochen. Zitronensaft, Honig und Rosenwasser beigeben, ca. 5 Min. weiterkochen. Zuckersirup ueber die warme Baklava giessen, auskuehlen. </inhalt>
+      </Zuckersirup>
+   </rezept>
+</Rezept>

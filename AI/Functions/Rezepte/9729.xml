@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>197 kcal</NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>2 </quant>
+          <zutat>Tomaten, in ca. 2 cm grossen Stuecken</zutat>
+          <quant>400 g</quant>
+          <zutat>Knollensellerie, in ca. 2 cm grossen Stuecken</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in ca. 2 cm grossen Stuecken</zutat>
+          <quant>3 </quant>
+          <zutat>rote Zwiebeln, in feinen Streifen</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, in Scheibchen</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 400 g), abgespuelt und abgetropft</zutat>
+          <quant>100 g</quant>
+          <zutat>entsteinte Doerrpflaumen</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>2 TL</quant>
+          <zutat>Rosenpaprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmel</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Vorheizen >
+          <inhalt>Brattopf oder Tajine mit dem Deckel in die untere Haelfte des kalten Ofens schieben. Ofen auf 180 Grad vorheizen.</inhalt>
+      </Vorheizen >
+      <Gemuese    >
+          <inhalt>Gemuese mit Kichererbsen, Doerrpflaumen, Thymian und Gewuerzen in einer Schuessel mischen, in den heissen Brattopf / die heisse Tajine geben. Bouillon dazugiessen. </inhalt>
+      </Gemuese    >
+      <Schmoren_im_Ofen>
+          <inhalt>Zugedeckt ca. 50 Min. schmoren. </inhalt>
+      </Schmoren_im_Ofen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+</Rezept>

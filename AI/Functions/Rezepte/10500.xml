@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>695 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet_&amp;_Kartoffeln>
+          <quant>1 </quant>
+          <zutat>Poulet  (ca. 1,1 kg)</zutat>
+          <quant>400 g</quant>
+          <zutat>fest kochende Kartoffeln</zutat>
+          <quant>400 g</quant>
+          <zutat>tiefgekuehlte geschaelte Marroni, angetaut</zutat>
+          <quant>100 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Poulet_&amp;_Kartoffeln>
+      <Aepfel     >
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel</zutat>
+      </Aepfel     >
+   </einkaufliste>
+   <rezept>
+      <Poulet_&amp;_Kartoffeln>
+          <inhalt>Poulet in 8 Teile schneiden, Kartoffeln in Schnitze schneiden, mit Marroni, Speck, Apfelsaft, Thymian, Oel und Gewuerzen in einer Schuessel mischen, auf einem mit Backpapier belegten Blech verteilen.</inhalt>
+      </Poulet_&amp;_Kartoffeln>
+      <Aepfel     >
+          <inhalt>Braten im Ofen: ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Waehrenddessen die Aepfel in Schnitze schneiden, auf dem Blech verteilen und ca. 20 Min. fertig braten.</inhalt>
+      </Aepfel     >
+   </rezept>
+</Rezept>

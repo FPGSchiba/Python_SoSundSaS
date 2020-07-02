@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>887 kcal</NaehrwertProPerson>
+       <Fett>55 g  </Fett>
+       <Kohlenhydrate>66 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Speckdatteln>
+          <quant>125 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>12 </quant>
+          <zutat>Medjool-Datteln, entsteint, laengs eingeschnitten</zutat>
+          <quant>12 </quant>
+          <zutat>Salbeiblaetter</zutat>
+          <quant>24 Tranchen</quant>
+          <zutat>Rohess-Speck</zutat>
+      </Speckdatteln>
+      <Kaese,_Fleisch_und_Garnituren>
+          <quant>200 g</quant>
+          <zutat>Weichkaese</zutat>
+          <quant>200 g</quant>
+          <zutat>Hartkaese </zutat>
+          <quant>100 g</quant>
+          <zutat>Ziegenfrischkaese mit Pistazien</zutat>
+          <quant>150 g</quant>
+          <zutat>Salami, in Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>Cornichons</zutat>
+          <quant>100 g</quant>
+          <zutat>Oliven</zutat>
+          <quant>50 g</quant>
+          <zutat>Trockenfleisch</zutat>
+          <quant>50 g</quant>
+          <zutat>Kapernaepfel</zutat>
+          <quant>200 g</quant>
+          <zutat>Crackers</zutat>
+          <quant>200 g</quant>
+          <zutat>Grissini</zutat>
+          <quant>100 g</quant>
+          <zutat>Baumnuesse</zutat>
+          <quant>8 </quant>
+          <zutat>Doerrfeigen</zutat>
+      </Kaese,_Fleisch_und_Garnituren>
+   </einkaufliste>
+   <rezept>
+      <Speckdatteln>
+          <inhalt>Frischkaese wuerzen, Datteln damit fuellen. Oeffnungen mit einem Salbeiblatt bedecken, Datteln mit je zwei Tranchen Speck umwickeln, evtl. mit Zahnstochern feststecken. Datteln in einer beschichteten Bratpfanne rundum ca. 5 Min. braten. </inhalt>
+      </Speckdatteln>
+      <Kaese,_Fleisch_und_Garnituren>
+          <inhalt>Alle Zutaten mit den Speckdatteln auf einem Holzbrett anrichten. </inhalt>
+      </Kaese,_Fleisch_und_Garnituren>
+   </rezept>
+</Rezept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>579 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>42 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hackbraten>
+          <quant>2 Scheiben</quant>
+          <zutat>Weissbrote, in Wuerfeli</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>3 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>800 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Hackbraten>
+      <Schmoren  >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, laengs geviertelt</zutat>
+          <quant>200 g</quant>
+          <zutat>Pfaelzer Rueebli, laengs geviertelt</zutat>
+          <quant>200 g</quant>
+          <zutat>Pastinaken, laengs geviertelt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Schmoren  >
+   </einkaufliste>
+   <rezept>
+      <Hackbraten>
+          <inhalt>Brot und Milch in eine Schuessel geben, mischen. Butter im Brattopf warm werden lassen. Zwiebeln, Knoblauch und Petersilie ca. 8 Min. andaempfen, in die Schuessel geben, auskuehlen. Fleisch und alle Zutaten bis und mit Pfeffer beigeben, von Hand gut kneten, bis sich die Zutaten zu einer kompakten Masse verbinden. Mit nassen Haenden zu einem ca. 20 cm langen Braten formen.</inhalt>
+      </Hackbraten>
+      <Schmoren  >
+          <inhalt>Bratbutter in derselben Pfanne heiss werden lassen. Hackbraten rundum ca. 5 Min. anbraten. Braten herausnehmen, Bratfett abtupfen. Gemuese kurz andaempfen. Wein dazugiessen, Bratsatz loesen, etwas einkoecheln. Bouillon dazugiessen, aufkochen. Hitze reduzieren, Braten und Lorbeerblatt beigeben, zugedeckt bei kleiner Hitze ca. 50 Min. schmoren, wuerzen. Hackbraten herausnehmen, tranchieren, mit dem Gemuese anrichten.</inhalt>
+      </Schmoren  >
+   </rezept>
+</Rezept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>174 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>feiner Maisgriess</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 1/4 dl</quant>
+          <zutat>Buttermilch, nature</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 </quant>
+          <zutat>Maiskolben, Koerner abgeschnitten</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Griess, Backpulver und Salz in einer Schuessel mischen. Buttermilch und alle Zutaten bis und mit Maiskoerner beigeben, mit einer Kelle mischen. Teig in die vorbereitete Form fuellen, glatt streichen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>ca. 50 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, Brot aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

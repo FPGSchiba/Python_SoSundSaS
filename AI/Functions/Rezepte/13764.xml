@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>544 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Koettbullar_(Fleischbaellchen)>
+          <quant>1 Scheibe</quant>
+          <zutat>Weissbrot (ca. 50 g)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch, heiss</zutat>
+          <quant>500 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+      </Koettbullar_(Fleischbaellchen)>
+      <Preiselbeer-Sauce>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>2 EL</quant>
+          <zutat>Preiselbeeren aus dem Glas</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Preiselbeeren aus dem Glas, zum Garnieren</zutat>
+      </Preiselbeer-Sauce>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Koettbullar (Fleischbaellchen)  </inhalt>
+      </How_To    >
+      <Koettbullar_(Fleischbaellchen)>
+          <inhalt>Brot in der Milch einweichen, zerzupfen, mit Fleisch, Zwiebel und Petersilie in eine Schuessel geben, wuerzen. Alles zu einer kompakten Masse verkneten, die nicht mehr an den Haenden klebt.</inhalt>
+      </Koettbullar_(Fleischbaellchen)>
+      <How_To1   >
+          <inhalt>Die Baellchen portionenweise in wenig Bratbutter unter gelegentlichem Wenden bei mittlerer Hitze je ca. 8 Min. braten. Herausnehmen.</inhalt>
+      </How_To1   >
+      <Preiselbeer-Sauce>
+          <inhalt>Bratbutter in der Bratpanne auftupfen. Wein und Bouillon hineingiessen, aufkochen, auf die Haelfte einkochen. Creme fraiche und Preiselbeeren darunterruehren, aufkochen, Hitze reduzieren, wuerzen. Baellchen wieder beigeben, bei kleiner Hitze ca. 5 Min. koecheln. Vor dem Servieren mit Preiselbeeren garnieren.</inhalt>
+      </Preiselbeer-Sauce>
+   </rezept>
+</Rezept>

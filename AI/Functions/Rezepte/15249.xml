@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>451 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gewuerzpaste>
+          <quant>5 </quant>
+          <zutat>Schalotten, grob gehackt</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, grob gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>rote Chilis, entkernt, grob gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>3 Staengel</quant>
+          <zutat>Zitronengras , Inneres grob gehackt</zutat>
+          <quant>40 g</quant>
+          <zutat>Ingwer, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+      </Gewuerzpaste>
+      <Fleisch   >
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>600 g</quant>
+          <zutat>Rindsvoressen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>3 </quant>
+          <zutat>Nelken</zutat>
+          <quant>3 </quant>
+          <zutat>Sternanise</zutat>
+          <quant>3 </quant>
+          <zutat>Kardamomkapseln</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rindsbouillon</zutat>
+          <quant>3 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit)</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosraspel, geroestet</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Fleisch   >
+      <Anrichten >
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Gewuerzpaste>
+          <inhalt>Schalotten mit allen Zutaten bis und mit Wasser im Cutter zu einer Paste puerieren. </inhalt>
+      </Gewuerzpaste>
+      <Fleisch   >
+          <inhalt>Oel in einem Schmortopf warm werden lassen. Fleisch portionenweise je ca. 3 Min. anbraten, herausnehmen, salzen. Gewuerzpaste, Zimt, Nelken, Sternanise und Kardamom beigeben, ca. 3 Min. andaempfen. Kokosmilch und Bouillon dazugiessen, Fleisch wieder mit den Kaffirlimetten-Blaetter, Kokosraspeln und Zucker beigeben, zugedeckt unter gelegentlichem Ruehren ca. 1 Std. schmoren. Deckel entfernen, ca. 45 Min. fertig schmoren. </inhalt>
+      </Fleisch   >
+      <Anrichten >
+          <inhalt>Zimt, Nelken, Sternanise, Kardamom und Kaffirlimetten-Blaetter entfernen, das geschmorte Fleisch und die Sauce salzen, mit Roestzwiebeln bestreuen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

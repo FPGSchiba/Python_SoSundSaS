@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>325 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>200 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucchetti</zutat>
+      </Gemuese    >
+      <Pasta     >
+          <quant>250 g</quant>
+          <zutat>JaMaDu Zoo Pasta</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Pasta     >
+      <Anrichten >
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>40 g</quant>
+          <zutat>Parmesan</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucchetti</zutat>
+          <quant>250 g</quant>
+          <zutat>JaMaDu Zoo Pasta</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>40 g</quant>
+          <zutat>Parmesan</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>                              </inhalt>
+      </Gemuese    >
+      <Pasta     >
+          <inhalt>Pasta im siedenden Salzwasser ca. 5 Min. knapp al dente kochen, Rueebli- und Zucchinistreifen beigeben, ca. 2 Min. mitkochen. Ca. 3 EL Kochfluessigkeit beiseite stellen, Pasta und Gemuesestreifen abtropfen. </inhalt>
+      </Pasta     >
+      <Anrichten >
+          <inhalt>Huettenkaese mit der beiseite gestellten Kochfluessigkeit, der Pasta und den Gemuesestreifen in die Pfanne zurueckgeben, wuerzen, anrichten. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

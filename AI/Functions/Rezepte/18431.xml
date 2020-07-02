@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>60 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramelmasse_>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>weisses Mandelmus</zutat>
+      </Caramelmasse_>
+      <Pops-Masse>
+          <quant>50 g</quant>
+          <zutat>Pops-Mischung (z.B. Pops &amp; Flakes)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Zucker-Augen</zutat>
+          <quant>1 </quant>
+          <zutat>Zuckerdekor-Stift </zutat>
+      </Pops-Masse>
+   </einkaufliste>
+   <rezept>
+      <Caramelmasse_>
+          <inhalt>Zucker und Wasser in einer Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Mandelmus beigeben, verruehren. </inhalt>
+      </Caramelmasse_>
+      <Pops-Masse>
+          <inhalt>Pops, Kokosflocken und Salz mischen, unter den Caramel ruehren, etwas abkuehlen. Von Hand mit leichtem Druck zu baumnussgrossen "Haeufchen" formen, auf ein Backpapier legen, Zucker-Augen mit dem Zuckerdekor-Stift auf die Monster kleben, auskuehlen. </inhalt>
+      </Pops-Masse>
+   </rezept>
+</Rezept>

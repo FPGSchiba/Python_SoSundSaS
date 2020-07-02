@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>558 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Frozen_Mascarpone>
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Halbrahm, flaumig geschlagen</zutat>
+      </Frozen_Mascarpone>
+      <Beeren    >
+          <quant>150 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Beeren    >
+      <Anrichten_&amp;_Verzieren>
+          <quant>50 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>einige </quant>
+          <zutat>Zitronenmelisse-Blaetter</zutat>
+      </Anrichten_&amp;_Verzieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Frozen Mascarpone             </inhalt>
+      </How_To    >
+      <Frozen_Mascarpone>
+          <inhalt>Beeren                        </inhalt>
+      </Frozen_Mascarpone>
+      <Beeren    >
+          <inhalt>Anrichten &amp; Verzieren     </inhalt>
+      </Beeren    >
+      <Anrichten_&amp;_Verzieren>
+          <inhalt>Mit einem Loeffel in Becher oder Glaeser verteilen. Mit Himbeersauce, frischen Himbeeren und Melisse verzieren.</inhalt>
+      </Anrichten_&amp;_Verzieren>
+   </rezept>
+</Rezept>

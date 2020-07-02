@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>392 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig_ >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>180 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Ruehrteig_ >
+      <Schokolademasse>
+          <quant>100 g</quant>
+          <zutat>Schokolade </zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>180 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>100 g</quant>
+          <zutat>Schokolade </zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Schokolademasse>
+   </einkaufliste>
+   <rezept>
+      <Ruehrteig_ >
+          <inhalt>                              </inhalt>
+      </Ruehrteig_ >
+      <Schokolademasse>
+          <inhalt>                              </inhalt>
+      </Schokolademasse>
+      <Marmorcake>
+          <inhalt>                              </inhalt>
+      </Marmorcake>
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, leicht abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

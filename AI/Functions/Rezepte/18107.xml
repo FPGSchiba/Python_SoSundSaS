@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>240 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Torte     >
+          <quant>2 </quant>
+          <zutat>rechteckig ausgewallte Blaetterteige</zutat>
+          <quant>200 g</quant>
+          <zutat>Tomatensauce Basilico</zutat>
+          <quant>1 </quant>
+          <zutat>Tomate, in Scheiben</zutat>
+          <quant>170 g</quant>
+          <zutat>Hinterschinken in Tranchen, in Tranchen</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella, fein zerzupft</zutat>
+          <quant>80 g</quant>
+          <zutat>Parmesan, grob gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Torte     >
+   </einkaufliste>
+   <rezept>
+      <Torte     >
+          <inhalt>Einen Blaetterteig  auf ein mit Backpapier belegtes Blech legen, Tomatensauce, Tomatenscheiben und Schinken darauf verteilen. Mozzarella und Parmesan mischen, darauf verteilen. Teigrand mit wenig Ei bestreichen, zweiten Blaetterteig darauflegen, Rand gut andruecken, mit der Gabel einstechen. Mit restlichem Ei bestreichen. </inhalt>
+      </Torte     >
+      <Backen_   >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, warm servieren.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

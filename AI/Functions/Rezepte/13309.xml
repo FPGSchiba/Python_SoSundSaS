@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>412 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>2 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in ringen</zutat>
+      </Marinade  >
+      <Fleisch   >
+          <quant>600 g</quant>
+          <zutat>Rindshuft, in 1 cm Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+      </Fleisch   >
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln, Zwiebeln in Schnitzen, Gruen in Ringen</zutat>
+          <quant>250 g</quant>
+          <zutat>Mini-Spargeln, quer halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Shiitake-Pilze, geviertelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Marinade  >
+          <inhalt>Alle Zutaten mit dem Schwingbesen verruehren, 2 EL der Marinade beiseite stellen.</inhalt>
+      </Marinade  >
+      <Fleisch   >
+          <inhalt>Rindfleisch mit der Marinade mischen, zugedeckt ca. 30 Min. marinieren. Marinade abstreifen, Oel in einer Bratpfanne erhitzen. Fleisch portionenweise je ca. 2 Min. ruehrbraten, herausnehmen, beiseite stellen. </inhalt>
+      </Fleisch   >
+      <Gemuese    >
+          <inhalt>Oel in der selben Pfanne erhitzen, Bundzwiebeln andaempfen, Spargeln und Pilze beigeben, ca. 2 Min. mitdaempfen. Wasser und Sojasauce dazugiessen, aufkochen. Ca. 2 Min. koecheln. Beiseite gestellte Marinade daruntermischen, Fleisch beigeben, nur noch heiss werden lassen.</inhalt>
+      </Gemuese    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

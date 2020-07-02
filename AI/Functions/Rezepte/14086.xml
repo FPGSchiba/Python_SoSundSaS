@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>873 kcal</NaehrwertProPerson>
+       <Fett>64 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>55 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suesskartoffeln_>
+          <quant>300 g</quant>
+          <zutat>Suesskartoffeln, in duenne Scheiben gehobelt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Suesskartoffeln_>
+      <Raclette_ >
+          <quant>800 g</quant>
+          <zutat>Raclettekaese in Scheiben (z.B. Knoblauch-Raclettekaese)</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+      </Raclette_ >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suesskartoffeln                </inhalt>
+      </How_To    >
+      <Suesskartoffeln_>
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf  220 Grad vorgeheizten Ofens. </inhalt>
+      </Suesskartoffeln_>
+      <Raclette_ >
+          <inhalt>Raclettekaese in die Raclette-Pfaennchen legen, Suesskartoffeln und Zwiebel darauf verteilen, Rosmarin darueberstreuen. Unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen.  </inhalt>
+      </Raclette_ >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

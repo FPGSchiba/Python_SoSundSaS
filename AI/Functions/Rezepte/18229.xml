@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>102 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kompott   >
+          <quant>400 g</quant>
+          <zutat>Rhabarber, in ca. 1 cm langen Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 TL</quant>
+          <zutat>Agar-Agar (Morga)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser, kalt</zutat>
+      </Kompott   >
+      <Toppings  >
+          <quant>300 g</quant>
+          <zutat>Mandeljogurt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Granola</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Kompott   >
+          <inhalt>Rhabarber und alle Zutaten bis und mit Vanille in einer Pfanne aufkochen. Agar-Agar mit dem Wasser verruehren, beigeben, unter Ruehren ca. 2 Min. kochen. Kompott in die Glaeser verteilen, auskuehlen.</inhalt>
+      </Kompott   >
+      <Toppings  >
+          <inhalt>Jogurt auf dem Kompott verteilen, Granola darauf verteilen. Sofort servieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

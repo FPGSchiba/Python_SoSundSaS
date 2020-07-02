@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>618 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>39 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Chicoree, laengs halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>weisser Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zwiebel, fein geschnitten</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rosewein (z.B. Naturaplan Bio-Rose Oeil de Perdrix Neuchatel AOC Domaine des Cocinelles)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 </quant>
+          <zutat>Lachsforellenfilets   (je ca. 170 g), quer halbiert</zutat>
+          <quant>4 </quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio), laengs eingeschnitten, Darm entfernt</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter erwaermen, Chicoree mit der Schnittflaeche nach unten in die Butter geben, Vanille und Zucker beigeben, wuerzen. Unter gelegentlichem Hin und-her-Bewegen der Pfanne ca. 2 Min. andaempfen. Wasser dazugiessen, bei mittlerer Hitze ca. 10 Min. daempfen, Chicoree dabei einmal wenden. Herausnehmen, im auf 60 Grad vorgeheizten Ofen warm stellen. Butter erwaermen, Zwiebel andaempfen. Wein dazugiessen, ca. 2 Min. einkoecheln, Bouillon dazugiessen, aufkochen. Rahm dazugiessen, ca. 3 Min. fertigkoecheln, wuerzen. Rahmsauce warm stellen, vor dem Servieren mit dem Mixstab aufschaeumen. Fischfilets und Crevetten wuerzen, Fischfilets im Mehl wenden, ueberschuessiges Mehl abschuetteln. Bratbutter in einer beschichteten Bratpfanne erhitzen, Fischfilets beidseitig je ca. 2 Min. braten. Crevetten ca. 2 Min. ruehrbraten. Lachsforellenfilets und Crevetten mit Vanille-Chicoree und Rahmsauce anrichten.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

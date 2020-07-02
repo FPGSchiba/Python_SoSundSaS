@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>267 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Biskuit   >
+          <quant>1 </quant>
+          <zutat>rundes Schokolade-Biskuit  (ca. 340 g)</zutat>
+          <quant>1 </quant>
+          <zutat>rosa Grapefruit, nur 1/2 Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Biskuit   >
+      <Ganache   >
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade (70%), fein gehackt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Ganache   >
+      <Grapefruitmousse>
+          <quant>2 </quant>
+          <zutat>rosa Grapefruits, heiss abgespuelt, trocken getupft, Schale abgerieben und ganzer Saft (ergibt ca. 11/2 dl)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingeweicht, abgetropft</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Grapefruitmousse>
+      <Torte     >
+          <quant> </quant>
+          <zutat>Kakaopulver zum Bestaeuben</zutat>
+      </Torte     >
+   </einkaufliste>
+   <rezept>
+      <Biskuit   >
+          <inhalt>Springformring mit wenig Oel bestreichen, mit Klarsichtfolie auslegen und auf eine Tortenplatte stellen. Biskuit hineinlegen. Grapefruitsaft und Puderzucker verruehren, Biskuit damit betraeufeln.</inhalt>
+      </Biskuit   >
+      <Ganache   >
+          <inhalt>Rahm in einer Pfanne erhitzen. Pfanne von der Platte nehmen. Schokolade beigeben, schmelzen, glatt ruehren, auskuehlen. Die Haelfte der Schokolade auf dem Biskuit verteilen, glatt streichen, ca. 30 Min. kuehl stellen. Rahm steif schlagen, Schlagrahm unter die restliche Schokolade ziehen, darauf verteilen, glatt streichen, zugedeckt ca. 2 Std. kuehl stellen. </inhalt>
+      </Ganache   >
+      <Grapefruitmousse>
+          <inhalt>Grapefruitschale und -saft mit dem Zucker in einer Pfanne aufkochen, Pfanne von der Platte nehmen, ca. 20 Min. ziehen lassen. Grapefruitsaft nochmals aufkochen, Pfanne von der Platte nehmen. Gelatine darunterruehren, durch ein Sieb in eine Schuessel giessen, auskuehlen, zugedeckt ca. 30 Min. kuehl stellen. Eiweiss mit dem Salz steif schlagen. Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Eischnee und Schlagrahm sorgfaeltig unter die Grapefruitmasse ziehen, ca. 30 Min. kuehl stellen, auf der Schokoladenmousse verteilen, ca. 3 Std. kuehl stellen. </inhalt>
+      </Grapefruitmousse>
+      <Torte     >
+          <inhalt>Formenrand sorgfaeltig loesen, Klarsichtfolie entfernen, mit Kakao bestaeuben. </inhalt>
+      </Torte     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>266 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Tofu nature</zutat>
+          <quant>30 g</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino</zutat>
+          <quant>2 Bund</quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Ruehrbraten</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer</zutat>
+          <quant>2 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>schwarzer Pfeffer, zerdrueckt</zutat>
+          <quant>1 EL</quant>
+          <zutat>light Sojasauce</zutat>
+          <quant>3 EL</quant>
+          <zutat>dunkle Sojasauce</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tofu in ca. 1 cm grosse Wuerfel schneiden, mit dem Maizena in eine Schuessel geben, gut mischen. Oel in einer weiten Bratpfanne oder einem Wok erhitzen, Tofu rundum ca. 3 Min. braten, herausnehmen, warm stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Knoblauch in Scheibchen, Schalotten in Stuecke, Peperoncino in Ringe schneiden. Bundzwiebeln in Schnitze schneiden. Bundzwiebelgruen in in ca. 4 cm langen Stuecke schneiden, beiseite stellen. Wenig Oel im Wok erhitzen, Knoblauch, Schalotten, Peperoncino und Bundzwiebeln ca. 5 Min. ruehrbraten. Ingwer dazureiben, Zucker, Pfeffer und Sojasauce beigeben. Tofu und Bundzwiebelgruen beigeben, mischen, nur noch heiss werden lassen.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+</Rezept>

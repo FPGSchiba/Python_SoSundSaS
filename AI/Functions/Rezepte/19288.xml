@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>223 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>100 g</quant>
+          <zutat>getrocknete Aprikosen</zutat>
+          <quant>100 g</quant>
+          <zutat>getrocknete Apfelschnitze</zutat>
+          <quant>500 g</quant>
+          <zutat>Mehrkornmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>100 g</quant>
+          <zutat>getrocknete Aprikosen</zutat>
+          <quant>100 g</quant>
+          <zutat>getrocknete Apfelschnitze</zutat>
+          <quant>500 g</quant>
+          <zutat>Mehrkornmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+      </Teig_     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig_     >
+          <inhalt>Formen                        </inhalt>
+      </Teig_     >
+      <Formen    >
+          <inhalt>                              </inhalt>
+      </Formen    >
+      <_Backen   >
+          <inhalt>Blech in die Mitte des auf 240 Grad vorgeheizten Ofens schieben. Temperatur sofort auf 200 Grad reduzieren, ca. 20 Min. backen. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </_Backen   >
+   </rezept>
+</Rezept>

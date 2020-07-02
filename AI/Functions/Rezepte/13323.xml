@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>404 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Marinade  >
+      <Fleisch_  >
+          <quant>500 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>250 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch_  >
+      <Salat     >
+          <quant>2 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Salatgurke, geschaelt, entkernt, in feinen Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni, in feinen Streifen</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Marinade  >
+          <inhalt>Oel mit allen Zutaten bis und mit Zucker verruehren. Haelfte der Marinade beiseite stellen. </inhalt>
+      </Marinade  >
+      <Fleisch_  >
+          <inhalt>Hackfleisch mit restlicher Marinade mischen. Oel in einer beschichteten Bratpfanne warm werden lassen. Fleisch ca. 4 Min. ruehrbraten, Sprossen und Limettensaft beigeben, beiseitegestellte Marinade dazugiessen, wuerzen. </inhalt>
+      </Fleisch_  >
+      <Salat     >
+          <inhalt>Essig und alle Zutaten bis und mit Salz in einer Schuessel verruehren. Bundzwiebeln beigeben, mischen, ca. 5 Min. ziehen lassen. Gurke und Peperoni daruntermischen.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

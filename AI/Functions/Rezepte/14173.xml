@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>175 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sables    >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>2 EL</quant>
+          <zutat>Betty Bossi Himbeerpulver </zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>175 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>75 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Sables    >
+      <Tartelettes>
+          <quant>200 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>20 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Betty Bossi Lebkuchen-Gewuerz</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Tartelettes>
+   </einkaufliste>
+   <rezept>
+      <Sables    >
+          <inhalt>Mehl, Zitronenschale, Himbeerpulver und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Eiweiss, Puderzucker und Vanillepaste gut verklopfen, beigeben, rasch zu einem weichen Teig zusammenfuegen, zu einer Rolle von ca. 4 cm Ø formen, zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Sables    >
+      <Tartelettes>
+          <inhalt>Haselnuesse, Zucker, Halbrahm, Lebkuchengewuerz und Salz verruehren. Teig in 16 Scheiben schneiden, halbieren. Je ein Stueck in die vorbereiteten Tartelettefoermchen druecken und am Rand hochdruecken. Restliche Teigstuecke ca. 4 mm dick auswallen und in ca. 3 mm breite Streifen schneiden. Fuellung in die Mulde geben, Teigstreifen gitterartig darueberlegen, Rand andruecken. </inhalt>
+      </Tartelettes>
+      <Backen    >
+          <inhalt>Pro Blech ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

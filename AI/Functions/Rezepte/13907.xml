@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>853 kcal</NaehrwertProPerson>
+       <Fett>55 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aelpler-Hoernli>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>400 g</quant>
+          <zutat>fest kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant>250 g</quant>
+          <zutat>mittelfeine Hoernli</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Aelpler-Hoernli>
+      <Raclette  >
+          <quant>2 </quant>
+          <zutat>Aepfel halbiert, in duennen Scheiben</zutat>
+          <quant>800 g</quant>
+          <zutat>Raclettekaese in Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>Bratspeck in Tranchen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Roestzwiebeln</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Raclette  >
+   </einkaufliste>
+   <rezept>
+      <Aelpler-Hoernli>
+          <inhalt>Bouillon und Rahm aufkochen, Kartoffeln beigeben, zugedeckt bei kleiner Hitze ca. 10 Min. kochen. Hoernli beigeben, wuerzen, ca. 8 Min. fertig kochen. In eine Schuessel geben.</inhalt>
+      </Aelpler-Hoernli>
+      <Raclette  >
+          <inhalt>Raclettegrill vorheizen.  Je 2 EL Aelpler-Hoernli in die Raclette-Pfaennchen geben, mit Apfel- und Kaesescheiben belegen, unter dem Grill schmelzen. Specktranchen auf dem Raclettegrill knusprig braten, auf die Aelpler-Raclette legen. Mit Roestzwiebeln bestreuen, wuerzen. </inhalt>
+      </Raclette  >
+   </rezept>
+</Rezept>

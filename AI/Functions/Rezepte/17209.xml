@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>542 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbisboden>
+          <quant>400 g</quant>
+          <zutat>Kuerbis, in Wuerfeln</zutat>
+          <quant>wenig </quant>
+          <zutat>Salzwasser</zutat>
+          <quant>9 g</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>1/2 dl</quant>
+          <zutat>lauwarmes Wasser</zutat>
+          <quant>350 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kurkuma</zutat>
+      </Kuerbisboden>
+      <Kuerbisboden_backen>
+          <quant>wenig </quant>
+          <zutat>helles Dinkelmehl zum Auswallen</zutat>
+      </Kuerbisboden_backen>
+      <Belag     >
+          <quant>2 </quant>
+          <zutat>Avocados</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>2 Bund</quant>
+          <zutat>Petersilie (ca. 40 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Belag     >
+      <Garnitur  >
+          <quant>40 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>4 </quant>
+          <zutat>Feigen, mit dem Decor-Messer halbiert</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kuerbisboden                   </inhalt>
+      </How_To    >
+      <Kuerbisboden>
+          <inhalt>Kuerbisboden backen            </inhalt>
+      </Kuerbisboden>
+      <Kuerbisboden_backen>
+          <inhalt>Backen: ca. 15 Min auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen.</inhalt>
+      </Kuerbisboden_backen>
+      <Belag     >
+          <inhalt>Avocados mit allen Zutaten bis und mit Pfeffer im Mixglas puerieren. Belag auf dem Kuerbisboden verteilen.</inhalt>
+      </Belag     >
+      <Garnitur  >
+          <inhalt>Pizza mit Rucola und Feigen garnieren, sofort servieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

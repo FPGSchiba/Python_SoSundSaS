@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>125 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tuiles    >
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>25 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>25 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>1 TL</quant>
+          <zutat>Mohn</zutat>
+      </Tuiles    >
+      <Mousse_   >
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>100 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>80 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>300 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+      </Mousse_   >
+      <Servieren >
+          <quant>50 g</quant>
+          <zutat>Brombeeren</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tuiles                        </inhalt>
+      </How_To    >
+      <Tuiles    >
+          <inhalt>Butter fluessig werden lassen, abkuehlen. Mehl, Mandeln und Zucker mischen, Butter und Wasser darunterruehren.</inhalt>
+      </Tuiles    >
+      <How_To1   >
+          <inhalt>Eiweiss steif schlagen, sorgfaeltig darunterziehen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Formen: Je 1 Essloeffel Teig auf zwei mit Backpapier belegten Blechen zu Ovalen von je ca. 7 x 11 cm ausstreichen. Mit Mohn bestreuen. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Ca. 15 Min. im auf 150 Grad vorgeheizten Ofen (Heissluft) backen. Herausnehmen, sofort mit einem Spachtel loesen und mit der Mohnseite nach unten auf ein Wallholz legen, auskuehlen.</inhalt>
+      </How_To3   >
+      <Backen    >
+          <inhalt>Vanilleschote laengs aufschneiden, Samen auskratzen. Brombeeren mit Puderzucker und Vanillesamen puerieren. </inhalt>
+      </Backen    >
+      <Mousse_   >
+          <inhalt>Joghurt darunterruehren. Zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </Mousse_   >
+      <Servieren >
+          <inhalt>Mousse mit 2 Essloeffeln abstechen, in den Tuiles anrichten. Brombeeren halbieren, verzieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>291 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 kg</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, schraeg in ca. 1 cm dicken Scheiben</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>gehackte Tomaten in Tomatensaft (je ca. 410 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Gemuese    >
+      <Eier      >
+          <quant>8 </quant>
+          <zutat>Eier</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Eier      >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Oel in einer weiten Bratpfanne heiss werden lassen. Spargeln ca. 5 Min. ruehrbraten. Tomaten beigeben, wuerzen, ca. 5 Min. koecheln. Spinat daruntermischen.</inhalt>
+      </Gemuese    >
+      <Eier      >
+          <inhalt>Mithilfe eines Essloeffels 8 Mulden in die Sauce eindruecken. Eier einzeln aufschlagen, sorgfaeltig in die Mulden gleiten lassen. Zugedeckt ca. 9 Min. stocken lassen, Eier salzen.</inhalt>
+      </Eier      >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

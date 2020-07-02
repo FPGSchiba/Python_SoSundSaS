@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>168 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vanillecreme_>
+          <quant>4 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste oder 1 Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+      </Vanillecreme_>
+      <Vanillepudding>
+          <quant>3 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste oder 1 Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>4 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Vanillepudding>
+   </einkaufliste>
+   <rezept>
+      <Vanillecreme_>
+          <inhalt>Alle Zutaten mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Sobald die Masse bindet und cremig wird, die Pfanne sofort von der Platte nehmen, ca. 2 Min. weiterruehren. Creme durch ein Sieb in eine Schuessel giessen, auskuehlen, zugedeckt ca. 2 Std. kuehl stellen. Creme kurz vor dem Servieren glatt ruehren.</inhalt>
+      </Vanillecreme_>
+      <Vanillesauce>
+          <inhalt>Vanillecreme wie oben zubereiten, jedoch nur 1/2 EL Maizena verwenden.</inhalt>
+      </Vanillesauce>
+      <Vanillepudding>
+          <inhalt>Milch und alle Zutaten bis und mit Eier unter Ruehren bei mittlerer Hitze bis vors Kochen bringen, von der Platte nehmen. Gelatine darunterruehren, durch ein Sieb giessen, ca. 20 Min. in kaltes Wasser stellen. Wenn die Masse am Rand leicht fest wird, Creme glattruehren, Schlagrahm darunterziehen, in 4 kalt ausgespuelte Foermchen von je ca. 1 1/2  dl fuellen, zugedeckt im Kuehlschrank ca. 4 Std. fest werden lassen. Pudding mit einer Messerspitze vom Foermchenrand loesen, stuerzen.</inhalt>
+      </Vanillepudding>
+   </rezept>
+</Rezept>

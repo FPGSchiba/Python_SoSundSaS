@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>175 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mousse    >
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>1 Blatt</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingeweicht, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm, flaumig geschlagen</zutat>
+      </Mousse    >
+      <Melonen   >
+          <quant>450 g</quant>
+          <zutat>Charentais-Melonen, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronenmelisse, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Zitronenmelisse zum Verzieren</zutat>
+      </Melonen   >
+   </einkaufliste>
+   <rezept>
+      <Mousse    >
+          <inhalt>Jogurt und alle Zutaten bis und mit Zitronensaft in einer Schuessel gut  verruehren. Gelatine mit dem siedenden Wasser aufloesen, mit 2 EL Jogurtmasse mischen und sofort unter das restliche Jogurt ruehren. Kuehl stellen, bis die Masse am Rand leicht fest ist (ca. 15 Min.), glatt ruehren. Rahm mit dem Gummischaber sorgfaeltig unter die Jogurtmasse ziehen, in 4 Glaeser verteilen. Mousse zugedeckt im Kuehlschrank ca. 2 Std. fest werden  lassen.</inhalt>
+      </Mousse    >
+      <Melonen   >
+          <inhalt>Melonen mit Puderzucker und Zitronenmelisse mischen, zugedeckt im Kuehlschrank ca. 1 Std. ziehen lassen.</inhalt>
+      </Melonen   >
+   </rezept>
+</Rezept>

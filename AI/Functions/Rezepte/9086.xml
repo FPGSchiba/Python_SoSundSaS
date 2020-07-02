@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>561 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>600 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>230 g</quant>
+          <zutat>gehackte Tomaten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>4 EL</quant>
+          <zutat>glutenfreies Paniermehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+      </Fleisch   >
+      <Gefuellte_Peperoni_>
+          <quant>4 </quant>
+          <zutat>Peperoni, halbiert</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>3 EL</quant>
+          <zutat>glutenfreies Paniermehl</zutat>
+          <quant>3 dl</quant>
+          <zutat>glutenfreie Gemuesebouillon</zutat>
+      </Gefuellte_Peperoni_>
+      <Backen_   >
+          <quant>einige </quant>
+          <zutat>Basilikumblaetter</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Oel in einer grossen Bratpfanne erhitzen. Fleisch portionenweise je ca. 2 Min. anbraten, herausnehmen, salzen. Zwiebel und Knoblauch in derselben Pfanne, kurz andaempfen. Fleisch wieder beigeben, Wein dazugiessen, etwas einkoecheln. Tomaten, Tomatenpueree und Paniermehl beigeben, mischen, wuerzen. Basilikum daruntermischen. </inhalt>
+      </Fleisch   >
+      <Gefuellte_Peperoni_>
+          <inhalt>Die Peperoni mit der Fleischmasse fuellen und in die vorbereitete Gratinform legen. Die Butter in einer Bratpfanne erwaermen, Paniermehl daruntermischen. Die Paniermehlstreusel auf die Fleischfuellung verteilen. Bouillon in die Gratinform giessen.</inhalt>
+      </Gefuellte_Peperoni_>
+      <Backen_   >
+          <inhalt>Ca. 30 Min. im auf 200 Grad vorgeheizten Ofen. Herausnehmen, mit Basilikum garnieren. </inhalt>
+      </Backen_   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

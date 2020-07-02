@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>70 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>2 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sweet Chili Sauce</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, fein gehackt</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+      </Marinade  >
+   </einkaufliste>
+   <rezept>
+      <Marinade  >
+          <inhalt>Essig und alle restlichen Zutaten verruehren.</inhalt>
+      </Marinade  >
+   </rezept>
+</Rezept>

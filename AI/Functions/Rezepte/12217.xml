@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>597 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hartweizen_kochen>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>300 g</quant>
+          <zutat>vorgekochter Hartweizen (Ebly®)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Kerbel</zutat>
+          <quant>180 g</quant>
+          <zutat>Dessert Extrafin (Sauermilch)</zutat>
+      </Hartweizen_kochen>
+      <Saltimbocca>
+          <quant>8 Tranchen</quant>
+          <zutat>Rohschinken</zutat>
+          <quant>8 </quant>
+          <zutat>Salbeiblaetter</zutat>
+          <quant>8 </quant>
+          <zutat>duenne Kalbsplaetzli (z.B. Nuss, je ca. 50 g)</zutat>
+      </Saltimbocca>
+      <Sauce     >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Hartweizen_kochen>
+          <inhalt>Zwiebel fein hacken, mit dem Hartweizen in der warmen Butter ca. 2 Min. anduensten. Bouillon dazugiessen, ca. 10 Min. weich koecheln. Kerbel fein schneiden, mit Dessert Extrafin daruntermischen.</inhalt>
+      </Hartweizen_kochen>
+      <Saltimbocca>
+          <inhalt>Ofen auf 60 Grad vorheizen. Rohschinken und Salbei auf die Plaetzli legen, mit Zahnstochern fixieren. </inhalt>
+      </Saltimbocca>
+      <Sauce     >
+          <inhalt>Plaetzli portionenweise in der heissen Bratbutter in einer Bratpfanne beidseitig je ca. 1 Min. braten, herausnehmen, wuerzen, warm stellen. Wein in die Pfanne giessen, Bratsatz loesen, auf ca. 2 Essloeffel einkochen, mit den Saltimbocca und dem Hartweizen anrichten.</inhalt>
+      </Sauce     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>110 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme_fraiche-Dip>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Kraeutersalz, nach Bedarf</zutat>
+      </Creme_fraiche-Dip>
+      <Tomaten-Dip>
+          <quant>100 g</quant>
+          <zutat>Aufstrich Tomaten und Peperoni</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+      </Tomaten-Dip>
+      <Mozzarella-Baellchen>
+          <quant>100 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Oregano, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Mozzarella-Kugel (ca. 145 g)</zutat>
+      </Mozzarella-Baellchen>
+   </einkaufliste>
+   <rezept>
+      <Creme_fraiche-Dip>
+          <inhalt>Creme fraiche mit den Kraeutern verruehren, wuerzen. Bis zur Verwendung kuehl stellen.</inhalt>
+      </Creme_fraiche-Dip>
+      <Tomaten-Dip>
+          <inhalt>Tomaten mit dem sauren Halbrahm verruehren. Bis zur Verwendung kuehl stellen.</inhalt>
+      </Tomaten-Dip>
+      <Mozzarella-Baellchen>
+          <inhalt>Paniermehl in einen tiefen Teller geben, Zitronenschale und Kraeuter daruntermischen, Panade wuerzen. Mehl auf einen flachen Teller, Eier in einen tiefen Teller geben. Die Mozzarella-Kugeln portionenweise zuerst im Mehl, dann im Ei und zuletzt in der Panade wenden. Soviel Oel in eine Pfanne geben, dass die Baellchen knapp bedeckt sind und auf ca. 170 Grad erhitzen. Baellchen portionenweise kurz goldbraun frittieren. Mit einer Schaumkelle herausheben, auf Haushaltpapier abtropfen. Die noch heissen Baellchen mit den Dips servieren. </inhalt>
+      </Mozzarella-Baellchen>
+   </rezept>
+</Rezept>

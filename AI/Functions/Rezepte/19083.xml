@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>237 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>3 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Limette, abgeriebene Schale und Saft</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+      </Sauce     >
+      <Roest-Schalotten_und_Crevetten>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>3 </quant>
+          <zutat>Schalotten, in feinen Ringen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>400 g</quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio)</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Roest-Schalotten_und_Crevetten>
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>Pomelos, geschaelt, Haeutchen entfernt, Fruchtfleisch grob zerzupft</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, in feinen Ringen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thai-Basilikum, grob geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>gesalzene Erdnuesse, geroestet</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Fischsauce, Wasser und Rohzucker mit Limettenschale und -saft in einer Schuessel verruehren, Knoblauch und Chili beigeben. </inhalt>
+      </Sauce     >
+      <Roest-Schalotten_und_Crevetten>
+          <inhalt>Wenig Oel in einer beschichteten Bratpfanne erhitzen. Schalotten, Mehl und Salz mischen, bei mittlerer Hitze ca. 10 Min. goldbraun braten. Herausnehmen, auf Haushaltpapier abtropfen. Wenig Oel in derselben Pfanne erhitzen. Crevetten und Knoblauch beiseitig je ca. 2 Min. braten, salzen. </inhalt>
+      </Roest-Schalotten_und_Crevetten>
+      <Salat     >
+          <inhalt>Pomelo, Crevetten, Schalotte und Kraeuter zur Sauce geben, mischen. Roestschalotten und Erdnuesse darueberstreuen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

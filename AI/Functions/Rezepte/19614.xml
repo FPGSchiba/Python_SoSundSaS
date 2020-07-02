@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>82 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rose_gefrieren>
+          <quant>4 dl</quant>
+          <zutat>Rosewein</zutat>
+      </Rose_gefrieren>
+      <Frose     >
+          <quant>1 </quant>
+          <zutat>Gurke, geschaelt, in Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+      </Frose     >
+   </einkaufliste>
+   <rezept>
+      <Rose_gefrieren>
+          <inhalt>Wein in eine weite Chromstahlschuessel giessen, zugedeckt mind. 8 Std. oder ueber Nacht gefrieren.</inhalt>
+      </Rose_gefrieren>
+      <Frose     >
+          <inhalt>Gefrorener Wein mit der Gurke, Sirup und Limettensaft im Mixglas fein puerieren. Frose in Glaeser verteilen und mit Pfefferminze garnieren.</inhalt>
+      </Frose     >
+   </rezept>
+</Rezept>

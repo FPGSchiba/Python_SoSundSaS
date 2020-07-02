@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>195 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Curry     >
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kardamomkapseln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Garam Masala</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>200 g</quant>
+          <zutat>fest kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant>100 g</quant>
+          <zutat>rote Linsen</zutat>
+          <quant>400 g</quant>
+          <zutat>gehackte Tomaten</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Curry     >
+      <Garnitur  >
+          <quant>2 EL</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Curry     >
+          <inhalt>Kokosoel in einer Pfanne erhitzen, Kreuzkuemmel und Kardamom roesten, bis sie duften. Garam Masala, Koriander, Kurkuma, Ingwer, Knoblauch und Zwiebel beigeben, ca. 3 Min. andaempfen. Tomatenpueree, Lorbeer, Rueebli und Kartoffeln beigeben, kurz mitdaempfen. Linsen und Tomaten beigeben, Zitronensaft und Wasser dazugiessen. Aufkochen, Hitze reduzieren, zugedeckt ca. 20 Min. koecheln. Spinat beigeben, ca. 5 Min. fertigkoecheln. Kokosmilch darunterruehren, salzen.</inhalt>
+      </Curry     >
+      <Garnitur  >
+          <inhalt>Curry anrichten, mit Kokosmilch und Koriander garnieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

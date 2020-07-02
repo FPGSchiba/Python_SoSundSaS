@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>221 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauerteig >
+          <quant>20 g</quant>
+          <zutat>Sauerteig Starterkultur (siehe Rezept)</zutat>
+          <quant>30 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>20 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Sauerteig >
+      <Einweichen_ueber_Nacht>
+          <quant>50 g</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>30 g</quant>
+          <zutat>Leinsamen</zutat>
+          <quant>30 g</quant>
+          <zutat>Buchweizen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+      </Einweichen_ueber_Nacht>
+      <Vorteig   >
+          <quant>4 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Vollkornmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Vorteig   >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Roggenvollkornmehl</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Sauerteig                     </inhalt>
+      </How_To    >
+      <Sauerteig >
+          <inhalt>Einweichen ueber Nacht         </inhalt>
+      </Sauerteig >
+      <Einweichen_ueber_Nacht>
+          <inhalt>Vorteig                       </inhalt>
+      </Einweichen_ueber_Nacht>
+      <Vorteig   >
+          <inhalt>Falten &amp; aufgehen lassen  </inhalt>
+      </Vorteig   >
+      <Falten_&amp;_aufgehen_lassen>
+          <inhalt>Teig zugedeckt bei Raumtemperatur nochmals ca. 2 Std. aufgehen lassen</inhalt>
+      </Falten_&amp;_aufgehen_lassen>
+      <Backen    >
+          <inhalt>Brattopf mit dem Deckel in die untere Haelfte des Ofens schieben. Ofen auf 240 Grad vorheizen. Brattopf herausnehmen, Backpapier hineinlegen. Teig mit einem Teighorn vom Rand loesen, in den Brattopf geben, mit Mehl bestaeuben, zugedeckt ca. 30 Min. backen. Deckel entfernen, ca. 15 Min. fertig backen. Herausnehmen, Brot aus dem Brattopf nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

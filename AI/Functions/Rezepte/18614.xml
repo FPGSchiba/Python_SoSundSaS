@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>532 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>58 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Rindsplaetzli  (z.B. Huft, je ca. 170 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Paprika edelsuess</zutat>
+      </Fleisch   >
+      <Gemuese_und_Sauce>
+          <quant>300 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Wuerfeli</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in feinen Streifen</zutat>
+          <quant>250 g</quant>
+          <zutat>Champignons, in feinen Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>rote Peperoni, in feinen Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rindsbouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Paprika edelsuess</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 </quant>
+          <zutat>Essiggurken, laengs in Scheiben</zutat>
+      </Gemuese_und_Sauce>
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Plaetzli beidseitig je ca. 21/2 Min. braten. Herausnehmen, wuerzen. Hitze reduzieren. </inhalt>
+      </Fleisch   >
+      <Gemuese_und_Sauce>
+          <inhalt>Wenig Bratbutter in derselben Pfanne erwaermen. Kartoffeln, Zwiebeln, Champignons und Peperoni ca. 5 Min. andaempfen. Maizena mit der Bouillon und dem Rahm anruehren, unter Ruehren dazugiessen, bei mittlerer Hitze ca. 5 Min. kochen, wuerzen. Fleisch mit dem entstandenen Fleischsaft wieder beigeben, nur noch heiss werden lassen. Essiggurken darauf verteilen.</inhalt>
+      </Gemuese_und_Sauce>
+   </rezept>
+</Rezept>

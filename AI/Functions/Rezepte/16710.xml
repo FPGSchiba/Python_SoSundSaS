@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>575 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>77 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>2 </quant>
+          <zutat>Mandarinen</zutat>
+          <quant>200 g</quant>
+          <zutat>Brot (z.B. Kartoffel-Nussbrot), in Wuerfeli</zutat>
+          <quant>150 g</quant>
+          <zutat>Bauernspeck, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Truthahn  >
+          <quant>1 </quant>
+          <zutat>Truthahn (ca. 3.5 kg), kuechenfertig, beim Metzger vorbestellt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Muskat</zutat>
+      </Truthahn  >
+      <Braten_im_Ofen_>
+          <quant>1 Pack</quant>
+          <zutat>Suppengemuese (ca. 500 g), in Wuerfeln</zutat>
+          <quant>4 </quant>
+          <zutat>Mandarinen, heiss abgespuelt, trocken getupft, halbiert</zutat>
+          <quant>5 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Quittengelee, glatt geruehrt</zutat>
+      </Braten_im_Ofen_>
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Mandarinen heiss abspuelen, trocken tupfen. Schale abreiben, Saft auspressen, mit Brot und alle Zutaten bis und mit Pfeffer in eine Schuessel geben, mischen. Von Hand zu einer kompakten Masse kneten. </inhalt>
+      </Fuellung   >
+      <Truthahn  >
+          <inhalt>Truthahn kalt ausspuelen, mit Haushaltpapier trocken tupfen. Innen und aussen wuerzen, fuellen. Oeffnung mit Zahnstochern verschliessen. Schenkel kreuzen, mit Kuechenschnur binden. Truthahn mit der Brustseite nach oben auf das Blech legen. Oel mit Salbei und Muskat verruehren. Truthahn mit der Haelfte davon bestreichen. </inhalt>
+      </Truthahn  >
+      <Braten_im_Ofen_>
+          <inhalt>Ca. 30 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Truthahn herausnehmen, mit dem restlichen Oel bestreichen. Gemuese, Mandarinen, Knoblauch und Lorbeer neben dem Truthahn verteilen. Ofentemperatur auf 160 Grad reduzieren, ca. 2 1/4 Std. weiterbraten, dabei den Truthahn von Zeit zu Zeit mit Bratfluessigkeit betraeufeln. 20 Min. vor Ende der Bratzeit Truthahn mit dem Quittengelee bestreichen. Der Truthahn ist gar, wenn beim Einstechen der austretende Fleischsaft klar ist. Zahnstocher und Schnur entfernen, Truthahn tranchieren. Fleisch und Fuellung anrichten. Bratensaft abgiessen, durch ein Sieb streichen, als Sauce dazu servieren. </inhalt>
+      </Braten_im_Ofen_>
+   </rezept>
+</Rezept>

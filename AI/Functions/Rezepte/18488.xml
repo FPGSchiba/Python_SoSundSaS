@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>170 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Birne_pochieren>
+          <quant>2 1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen (z.B. Alexander), geschaelt, halbiert, Kerngehaeuse entfernt</zutat>
+      </Birne_pochieren>
+      <Anrichten >
+          <quant>1 EL</quant>
+          <zutat>Preiselbeerkonfituere</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Birne_pochieren>
+          <inhalt>Wein mit Zucker und Lebkuchengewuerz in einer Pfanne aufkochen. Birnen beigeben, bei kleiner Hitze ca. 5 Min. koecheln, dabei Birnen einmal wenden. Birnen im Sud auskuehlen.</inhalt>
+      </Birne_pochieren>
+      <Anrichten >
+          <inhalt>Birnen aus dem Sud nehmen, mit Preiselbeerkonfituere anrichten. Wenig Sud daruebertraeufeln. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

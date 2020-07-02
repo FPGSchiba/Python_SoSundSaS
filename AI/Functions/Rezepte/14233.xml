@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>444 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Toast_    >
+          <quant>8 Scheiben</quant>
+          <zutat>Toastbrot</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Schinken</zutat>
+          <quant>8 Scheiben</quant>
+          <zutat>Raclettekaese</zutat>
+          <quant>1 </quant>
+          <zutat>Baby-Ananas, in Scheiben</zutat>
+          <quant>8 </quant>
+          <zutat>Herzkirschen im Glas, abgetropft</zutat>
+          <quant>wenig </quant>
+          <zutat>Paprika</zutat>
+      </Toast_    >
+   </einkaufliste>
+   <rezept>
+      <Toast_    >
+          <inhalt>Toastbrotscheibe mit je 1 Tranche Schinken, 1 Scheibe Kaese, 1 Scheibe Ananas belegen. </inhalt>
+      </Toast_    >
+      <Backen_   >
+          <inhalt>Ca.10 Min. in der oberen Haelfte des auf 220 Grad vorgeheitzen Ofens. Herausnehmen, Paprika darueberstreuen, mit den Kirschen garnieren.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

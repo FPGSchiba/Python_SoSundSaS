@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>368 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Butter    >
+          <quant>75 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>20 g</quant>
+          <zutat>Kresse, fein geschnitten</zutat>
+      </Butter    >
+      <Spargeln  >
+          <quant>1 kg</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Stueck</quant>
+          <zutat>Alufolie (je ca. 45 cm Laenge)</zutat>
+      </Spargeln  >
+      <Fisch     >
+          <quant> </quant>
+          <zutat>Bratbutter zm Braten</zutat>
+          <quant>600 g</quant>
+          <zutat>Dorschfilets Nordstar, laengs und quer halbiert</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter                        </inhalt>
+      </How_To    >
+      <Butter    >
+          <inhalt>Butter mit Zitronenschale mischen, wuerzen. 1 EL davon beiseitestellen. Rest mit Kresse mischen. Masse auf ein Stueck Klarsichtfolie geben, zu einer Rolle formen, ca. 1 Std. gefrieren. Ca. 10 Min. vor dem Servieren in ca. 7 mm dicke Scheiben schneiden.</inhalt>
+      </Butter    >
+      <How_To1   >
+          <inhalt>Alufolienstuecke mit beiseitegestellter Zitronenbutter bestreichen, (rundum einen Rand von ca. 3 cm frei lassen). Eine Folie mit der gefetteten Seite nach oben ins Blech legen. Spargeln salzen, darauf verteilen. Zweite Folie mit der gefetteten Seite nach unten darauflegen. Folienraender mehrmals gut umschlagen.</inhalt>
+      </How_To1   >
+      <Spargeln  >
+          <inhalt>Fisch                         </inhalt>
+      </Spargeln  >
+      <Fisch     >
+          <inhalt>braten, salzen.               </inhalt>
+      </Fisch     >
+      <Servieren >
+          <inhalt>Dorschfilet mit Kressebutter anrichten, Spargeln dazu servieren.</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

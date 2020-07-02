@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>402 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Maiskolben_und_Bohnen_>
+          <quant>2 </quant>
+          <zutat>Maiskolben, halbiert</zutat>
+          <quant>250 g</quant>
+          <zutat>Bohnen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Olivenoel zum Grillieren</zutat>
+      </Maiskolben_und_Bohnen_>
+      <Kraeutersauce>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale, ganzer Saft</zutat>
+          <quant>5 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kraeutersauce>
+      <Linsen    >
+          <quant>100 g</quant>
+          <zutat>schwarze Linsen (Beluga)</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Linsen    >
+      <Salat     >
+          <quant>250 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten, halbiert</zutat>
+          <quant>150 g</quant>
+          <zutat>Rispentomaten, in Schnitzen</zutat>
+          <quant>3 </quant>
+          <zutat>flache Pfirsiche, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Nektarinen, in Schnitzen</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Basilikum, zerzupft</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Pfefferminze, zerzupft</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Dill, zerzupft</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Maiskolben_und_Bohnen_>
+          <inhalt>Ein Daempfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen. Maiskolben und Bohnen beigeben, salzen, zugedeckt bei mittlerer Hitze ca. 20 Min. knapp weich garen. Bohnen kurz in eiskaltes Wasser geben, abtropfen. Maiskolben trockentupfen. Oel in einer Grillpfanne heiss werden lassen. Maiskolben rundum ca. 5 Min. grillieren. Maiskoerner mit einem scharfen Messer vom Kolben schneiden. </inhalt>
+      </Maiskolben_und_Bohnen_>
+      <Kraeutersauce>
+          <inhalt>Zitronenschale und -saft mit allen Zutaten bis und mit Pfeffer verruehren. </inhalt>
+      </Kraeutersauce>
+      <Linsen    >
+          <inhalt>Linsen offen im Wasser ca. 20 Min. weich kochen, abtropfen, mit der Haelfte der Kraeutersauce mischen.</inhalt>
+      </Linsen    >
+      <Salat     >
+          <inhalt>Linsen, Mais und Bohnen mit den Tomaten und alle Zutaten bis und mit Nektarinen in eine Schuessel geben, mischen. Restliche Sauce daruebertraeufeln, Kraeuter darueberstreuen. </inhalt>
+      </Salat     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

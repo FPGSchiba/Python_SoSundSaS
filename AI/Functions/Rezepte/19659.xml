@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>296 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>Tomaten, in Scheibchen</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren, in Scheibchen</zutat>
+          <quant>125 g</quant>
+          <zutat>Mozzarella di bufala, abgetropft, zerzupft</zutat>
+      </Salat     >
+      <Sauce     >
+          <quant>2 EL</quant>
+          <zutat>Pesto alla genovese</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Tomaten, Erdbeeren und Mozzarella auf Teller verteilen. </inhalt>
+      </Salat     >
+      <Sauce     >
+          <inhalt>Pesto mit Essig und Wasser verruehren, ueber den Salat traeufeln. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

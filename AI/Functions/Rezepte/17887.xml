@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>67 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gin-Tonic-Sirup_>
+          <quant>4 dl</quant>
+          <zutat>Tonic Water</zutat>
+          <quant>4 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Gin</zutat>
+      </Gin-Tonic-Sirup_>
+      <Popsicle_ >
+          <quant>50 g</quant>
+          <zutat>Brombeeren, laengs halbiert</zutat>
+          <quant>einige </quant>
+          <zutat>Zitronenmelisse-Blaetter</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke, in Streifen von je ca. 8 cm</zutat>
+      </Popsicle_ >
+   </einkaufliste>
+   <rezept>
+      <Gin-Tonic-Sirup_>
+          <inhalt>Tonic mit dem Zucker in einer Pfanne aufkochen, ca. 2 Min. koecheln bis sich der Zucker aufgeloest hat. Gin beigeben, auskuehlen, in einen Messbecher giessen. </inhalt>
+      </Gin-Tonic-Sirup_>
+      <Popsicle_ >
+          <inhalt>Nach Belieben Brombeeren und Zitronenmelissenblaetter in die Glacebehaelter geben. Gin-Tonic-Sirup dazugiessen, Glace ca. 12 Std. gefrieren, nach ca. 2 Std. Glacestaengel einstecken. </inhalt>
+      </Popsicle_ >
+   </rezept>
+</Rezept>

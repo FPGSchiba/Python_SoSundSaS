@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>448 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fruechte   >
+          <quant>500 g</quant>
+          <zutat>Rhabarber, in Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+      </Fruechte   >
+      <Teig      >
+          <quant>5 </quant>
+          <zutat>Eier</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>4 EL</quant>
+          <zutat>Weissmehl</zutat>
+      </Teig      >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Fruechte   >
+          <inhalt>Rhabarber, Zucker und Vanillezucker mischen, zugedeckt ca. 10 Min. ziehen lassen.</inhalt>
+      </Fruechte   >
+      <Teig      >
+          <inhalt>Eier, Zucker und Salz mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse schaumig ist. Mandeln, Mehl und Rhabarbern daruntermischen, in die vorbereiteten Formen verteilen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>104 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blini     >
+          <quant>80 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>5 g</quant>
+          <zutat>Hefe, zerbroeckelt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter, zum Braten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>20 g</quant>
+          <zutat>Fine Food Swiss Caviar </zutat>
+      </Blini     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Blini                         </inhalt>
+      </How_To    >
+      <Blini     >
+          <inhalt>Blinis mit Ahornsirup bestreichen, mit Creme fraiche und Kaviar garnieren.</inhalt>
+      </Blini     >
+   </rezept>
+</Rezept>

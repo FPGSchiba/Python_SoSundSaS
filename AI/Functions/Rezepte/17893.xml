@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>255 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muerbeteig >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Muerbeteig >
+      <Fuellung   >
+          <quant>800 g</quant>
+          <zutat>saeuerliche Aepfel (z.B. Boskoop), geschaelt, geviertelt, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft oder Rum</zutat>
+      </Fuellung   >
+      <Kuchen    >
+          <quant>1 </quant>
+          <zutat>Eigelb, verklopft</zutat>
+      </Kuchen    >
+   </einkaufliste>
+   <rezept>
+      <Muerbeteig >
+          <inhalt>Mehl, Backpulver, Zucker, Vanillezucker und Zitronenschale in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Eier beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Muerbeteig >
+      <Fuellung   >
+          <inhalt>Aepfel, Zucker, Zimt und Zitronensaft mischen.</inhalt>
+      </Fuellung   >
+      <Kuchen    >
+          <inhalt>Teig halbieren, die eine Haelfte auf wenig Mehl ca. 4 mm dick auswallen, in das vorbereitete Blech legen. Teig am Rand gut andruecken, Teigboden mit einer Gabel dicht einstechen. Fuellung auf dem Teigboden verteilen. Restlichen Teig auf wenig Mehl ca. 4 mm dick auswallen, zu 6 Streifen von je ca. 6 cm Breite ausschneiden, auf die Fuellung legen. Teig am Rand gut andruecken, mit Eigelb bestreichen. </inhalt>
+      </Kuchen    >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Kuchen auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

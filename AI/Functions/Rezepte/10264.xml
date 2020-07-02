@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>183 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>50 g</quant>
+          <zutat>Fine Food Lentilles Beluga</zutat>
+          <quant>1 TL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Crema di Balsamico</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Jakobsnuesse (Jakobsmuscheln), ohne Corail</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>gemischte Kraeuter Zum Garnieren (z.B. Estragon, Kerbel, Dill)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Linsen nach Verpackungsanleitung kochen, abtropfen, beiseite stellen. Butter in derselben Pfanne warm werden lassen, Schalotte andaempfen, Linsen und Crema di baslamico beigeben, mischen, wuerzen. Olivenoel in einer beschichteten Bratpfanne warm werden lassen, Jakobsmuscheln beidseitig je 1 Min. braten, wuerzen</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

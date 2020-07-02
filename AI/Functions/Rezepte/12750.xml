@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>339 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>100 g</quant>
+          <zutat>Butterguetzli</zutat>
+          <quant>25 g</quant>
+          <zutat>Mohn</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter</zutat>
+      </Boden     >
+      <Mango_    >
+          <quant>2 </quant>
+          <zutat>Mangos (ca. 600 g)</zutat>
+      </Mango_    >
+      <Mango-Frischkaese_Masse>
+          <quant>100 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>30 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Maizena</zutat>
+      </Mango-Frischkaese_Masse>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Boden                         </inhalt>
+      </How_To    >
+      <Boden     >
+          <inhalt>Guetzli und Mohn im Cutter oder Moerser fein mahlen. </inhalt>
+      </Boden     >
+      <How_To1   >
+          <inhalt>Butter in einer Pfanne bei mittlerer Hitze schmelzen, etwas abkuehlen, mit den Guetzli mischen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Masse auf dem vorbereiteten Formboden verteilen, mit einem Loeffelruecken oder Glasboden gut andruecken, dabei einen ca. 2 cm hohen Rand formen. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Von den Mangos ca. 500 g in ca. 2 mm dicke Scheiben schneiden, zugedeckt kuehl stellen. </inhalt>
+      </How_To3   >
+      <Mango_    >
+          <inhalt>Restliche Mangos puerieren, mit dem Frischkaese glatt ruehren</inhalt>
+      </Mango_    >
+      <Mango-Frischkaese_Masse>
+          <inhalt>Backen                        </inhalt>
+      </Mango-Frischkaese_Masse>
+      <Backen    >
+          <inhalt>Backen: ca. 1 Std. in der unteren Haelfte des auf 160 Grad vorgeheizten Ofen. Herausnehmen, kuehl stellen. </inhalt>
+      </Backen    >
+      <Verzierung>
+          <inhalt>Kuehl gestellte Mangoscheiben rosettenfoermig auf der Tarte verteilen. </inhalt>
+      </Verzierung>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=sLzibmyOJV4"/>
+</Rezept>

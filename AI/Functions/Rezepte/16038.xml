@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>672 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>175 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>65 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>55 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+      </Boden     >
+      <Zitronen-Schicht>
+          <quant>190 g</quant>
+          <zutat>Cashew-Nuesse, ueber Nacht in kaltem Wasser eingeweicht</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+      </Zitronen-Schicht>
+      <Kiwi-Schicht>
+          <quant>190 g</quant>
+          <zutat>Cashew-Nuesse, ueber Nacht in kaltem Wasser eingweicht</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi, in Stuecken</zutat>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+      </Kiwi-Schicht>
+      <Toppings  >
+          <quant>2 </quant>
+          <zutat>Kiwis, in Scheiben</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Datteln mit kochendem Wasser uebergiessen, 10 Min. quellen lassen, Wasser abgiessen. Haferflocken und Mandeln im Mixer fein mahlen, Datteln und Gewuerze beigeben, alles fein puerieren, bis eine teigige Masse entsteht. Die Masse in die vorbereitete Form geben, flachdruecken, Form bis zur Weiterverwendung in den Tiefkuehler stellen.</inhalt>
+      </Boden     >
+      <Zitronen-Schicht>
+          <inhalt>Cashews abtropfen, mit den restlichen Zutaten im Mixer auf hoher Geschwindigkeit zu einer glatten Masse puerieren. Form aus dem Tiefkuehler nehmen, Zitronenschicht einfuellen, mit einem Messer glattstreichen. Form zurueck in den Tiefkuehler stellen.</inhalt>
+      </Zitronen-Schicht>
+      <Kiwi-Schicht>
+          <inhalt>Cashews abtropfen, mit den restlichen Zutaten im Mixer auf hoher Geschwindigkeit zu einer glatten Masse puerieren. Form aus dem Tiefkuehler nehmen, Kiwi-Schicht einfuellen, mit einem Messer glattstreichen. </inhalt>
+      </Kiwi-Schicht>
+      <Toppings  >
+          <inhalt>Kiwi-Scheiben auf der Kiwi-Schichte verteilen. Form fuer 6-8 Stunden in den Tiefkuehler stellen. Die Form vor dem Servieren des Desserts 20-30 Min. aus dem Tiefkuehler nehmen, in Schnitten schneiden.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>389 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>200 g</quant>
+          <zutat>Gelbhirse</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>4 </quant>
+          <zutat>Zanderfilets (je ca. 150 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zwiebel fein hacken, Knoblauch pressen, mit der Bouillon aufkochen. Hirse beigeben, zugedeckt ca. 15 Min. koecheln. Pfanne von der Platte nehmen, ca. 5 Min. quellen lassen. Kraeuter fein schneiden, daruntermischen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Fischfilets wuerzen, beidseitig mit Mehl bestaeuben. Bratbutter in einer weiten beschichteten Bratpfanne erhitzen, Fischfilets beidseitig je ca. 2 Min. braten, auf der Hirse anrichten.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

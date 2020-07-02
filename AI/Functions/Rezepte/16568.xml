@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>405 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tomaten_schaelen>
+          <quant>1 1/2 kg</quant>
+          <zutat>Tomaten (z.B. San Marzano, Cuor di Bue)</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Tomaten_schaelen>
+      <Tomaten_backen>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, laengs halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Oregano</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rohzucker</zutat>
+      </Tomaten_backen>
+      <Tomaten_passieren/Sugo_kochen>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tomaten_passieren/Sugo_kochen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tomaten schaelen               </inhalt>
+      </How_To    >
+      <Tomaten_schaelen>
+          <inhalt>Tomaten backen                </inhalt>
+      </Tomaten_schaelen>
+      <Tomaten_backen>
+          <inhalt>Backen: ca. 50 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Die Tomaten gelegentlich umruehren. Die Raender der Tomaten sollten geroestet, aber nicht zu dunkel werden.</inhalt>
+      </Tomaten_backen>
+      <Tomaten_passieren/Sugo_kochen>
+          <inhalt>Knoblauch, Kraeuterzweige und Lorbeerblaetter entfernen. Tomaten durchs Passe-vite in eine grosse Pfanne treiben, aufkochen, Hitze reduzieren, ca. 30 Min. koecheln, wuerzen.</inhalt>
+      </Tomaten_passieren/Sugo_kochen>
+      <Sugo_heiss_einfuellen>
+          <inhalt>Einmachglaeser und Deckel gruendlich waschen, heiss spuelen. Sugo heiss bis knapp unter den Rand in die Glaeser fuellen, sofort verschliessen, auskuehlen.</inhalt>
+      </Sugo_heiss_einfuellen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+</Rezept>

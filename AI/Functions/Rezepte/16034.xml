@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1881 kcal</NaehrwertProPerson>
+       <Fett>135 g </Fett>
+       <Kohlenhydrate>143 g </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>60 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>80 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Haselnuesse in einer Bratpfanne ohne Fett leicht roesten, auskuehlen. Milch und Zucker in einem Pfaennchen aufkochen, Pfanne von der Herdplatte ziehen, Butter und Schokolade beigeben, unter Ruehren schmelzen. Haselnuesse beigeben, alles mit dem Stabmixer fein puerieren. Aufstrich in ein Vorratsglas fuellen. 2 Std. kuehl stellen, erst dann ist es streichfest.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

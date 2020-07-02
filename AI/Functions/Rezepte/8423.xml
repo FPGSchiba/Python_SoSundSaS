@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>454 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ravioli   >
+          <quant>250 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 2 TL Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Ravioli   >
+      <Gemuese    >
+          <quant>1/2 EL</quant>
+          <zutat>Fine Food Beurre a la Fleur de sel de Guerande</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, schraeg in Ringen</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, schraeg in ca. 3 cm langen Stuecken</zutat>
+          <quant>10 g</quant>
+          <zutat>getrocknete Morcheln, eingeweicht, abgetropft, laengs halbiert</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Fine Food Beurre a la Fleur de sel de Guerande</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Ravioli   >
+          <inhalt>Ricotta und alle Zutaten bis und mit Pfeffer verruehren. 1 Teig quer halbieren, Ricottamasse halbieren. 12 Portionen ( je ca. 1 /2 EL) auf 1 Teigstueck verteilen. Die 2. Teighaelfte mit wenig Eiweiss bestreichen, ueber die Fuellung legen, leicht andruecken, eingeschlossene Luft herausdruecken. Ravioli mit einem scharfen Messer voneinander trennen, Raender gut andruecken. Mit restlichem Teig und restlicher Masse gleich verfahren. Ravioli portionenweise im knapp siedenden Salzwasser ca. 5 Min. ziehen lassen, abtropfen, warm stellen.</inhalt>
+      </Ravioli   >
+      <Gemuese    >
+          <inhalt>Butter erwaermen, Zwiebeln, Spargeln und Morcheln ca. 5 Min. andaempfen. Bouillon dazugiessen, aufkochen. Gemuese ca. 10 Min. knapp weich koecheln, wuerzen. Ravioli mit dem Gemuese und dem entstandenen Jus anrichten. Je ein Stueckchen Butter darauf verteilen.</inhalt>
+      </Gemuese    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+   <video href="https://www.youtube.com/watch?v=FNB2noKpEPA"/>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

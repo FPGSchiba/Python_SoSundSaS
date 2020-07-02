@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>443 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>80 g</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, abgeriebene Schale, Saft beiseitegestellt</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Guss      >
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Guss      >
+      <Kandierte_Zitronenscheiben>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>180 g</quant>
+          <zutat>Kokosbluetenzucker oder Kokosbluetenzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, in ca. 5 mm dicken Scheiben</zutat>
+      </Kandierte_Zitronenscheiben>
+      <Frosting  >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>300 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+      </Frosting  >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben. Zucker und Salz darunterruehren. Ein Ei nach dem anderen darunterruehren, weiterruehren, bis die Masse heller ist, Zitronenschale darunterruehren. Mehl und Backpulver mischen, unter die Masse mischen, in die vorbereitete Form fuellen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der Mitte des auf 180 Grad vorgeheizten Ofens.  Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf ein Gitter stellen, mit einem Holzspiesschen dicht einstechen. </inhalt>
+      </Backen    >
+      <Guss      >
+          <inhalt>Beiseite gestellten Zitronensaft mit dem Puderzucker verruehren, ueber den Cake giessen, vollstaendig auskuehlen.</inhalt>
+      </Guss      >
+      <Kandierte_Zitronenscheiben>
+          <inhalt>Wasser und Zucker aufkochen. Zitronenscheiben beigeben, ca. 30 Min. bei kleiner Hitze koecheln. Pfanne von der Platte nehmen, auskuehlen. </inhalt>
+      </Kandierte_Zitronenscheiben>
+      <Frosting  >
+          <inhalt>Butter mit den Schwingwesen des Handruehrgeraets ca. 2 Min. schaumig ruehren. Puderzucker darunterruehren.  Frischkaese beigeben, vorsichtig darunterruehren. Zugedeckt ca. 30 Min. kuehlstellen. Frosting gleichmaessig auf dem Kuchen verteilen, glattstreichen, kandierte Zitronenscheiben darauflegen.</inhalt>
+      </Frosting  >
+   </rezept>
+</Rezept>

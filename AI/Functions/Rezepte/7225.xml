@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>294 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Erdbeeren, an der Roestiraffel gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 Kugeln</quant>
+          <zutat>Zitronensorbet</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+          <quant>4 </quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+          <quant> </quant>
+          <zutat>Pfefferminzblaettchen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Coupeschalen in den Tiefkuehler stellen. Erdbeeren und Zucker mischen. Kurz vor dem Servieren Sorbet und Erdbeeren unregelmaessig mischen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Schlagrahm locker darunterziehen, sofort anrichten, mit Erdbeeren und Minze verzieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

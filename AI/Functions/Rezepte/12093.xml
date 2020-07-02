@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>435 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Medaillons:>
+          <quant>600 g</quant>
+          <zutat>Kalbsfilet  g</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1 TL</quant>
+          <zutat>Oreganoblaettchen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Senf</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Medaillons:>
+      <Sherrysauce:>
+          <quant>1 dl</quant>
+          <zutat>trockener Sherry</zutat>
+          <quant>1 dl</quant>
+          <zutat>Kalbsfond</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sherrysauce:>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Medaillons:                   </inhalt>
+      </How_To    >
+      <Medaillons:>
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen, Medaillons beidseitig je ca. 3 Min. braten, herausnehmen, warm stellen.</inhalt>
+      </Medaillons:>
+      <Sherrysauce:>
+          <inhalt>Bratfett auftupfen, Sherry in die Pfanne giessen, Bratsatz loesen, etwas einkoecheln. Fond dazugiessen, aufkochen, Fluessigkeit auf ca. 1/2 dl einkochen. Pfanne von der Platte ziehen, Butter portionenweise unter Ruehren mit dem Schwingbesen beigeben, dabei die Pfanne hin und wieder auf die Platte stellen, um die Sauce nur leicht zu erwaermen. Fleisch und Sauce zusammen anrichten.</inhalt>
+      </Sherrysauce:>
+   </rezept>
+</Rezept>

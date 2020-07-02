@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>419 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>150 g</quant>
+          <zutat>Sushi-Reis</zutat>
+          <quant>4 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Vanillepaste</zutat>
+      </Reis      >
+      <Servieren >
+          <quant>1 </quant>
+          <zutat>Mango, in feinen Scheiben</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Reis      >
+          <inhalt>Reis im Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Kokosmilch mit Zucker, Salz, Zitronengras und Vanille verruehren. Einen Viertel davon beiseite stellen. Rest mit dem Reis in eine Schuessel geben, Schuessel in ein Bambuskoerbchen stellen, Bambuskoerbchen zudecken und in eine weite Pfanne stellen. Pfanne ca. 2 cm hoch mit Wasser fuellen, aufkochen, bei mittlerer Hitze ca. 40 Min. daempfen, von Zeit zu Zeit wenig heisses Wasser nachgiessen. Es sollte immer ca. 2 cm hoch sein. </inhalt>
+      </Reis      >
+      <Servieren >
+          <inhalt>Warmen Reis mit einem kalt abgespuelten Glaceportionierer zu Kugeln formen, auf Tellern anrichten. Beiseite gestellte Kokosmilch daruebertraeufeln. Mit der Mango verzieren. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=qaDaRQedbIk"/>
+   <video href="https://www.youtube.com/watch?v=sLzibmyOJV4"/>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

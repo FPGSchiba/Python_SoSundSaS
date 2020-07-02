@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>53 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>3 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>60 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>70 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Teig_     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig_     >
+          <inhalt>Je ca. 1 EL Teig auf zwei mit Backpapier belegten Bleche duenn, rund (ca. 10 cm Ø) ausstreichen.</inhalt>
+      </Teig_     >
+      <Backen    >
+          <inhalt>Je ca. 6 Min. im auf 200 Grad vorgeheizten Ofen (Heissluft), herausnehmen.</inhalt>
+      </Backen    >
+      <Formen    >
+          <inhalt>Gluecksspruechli sofort auf dem heissen Gebaeck verteilen, falten, ueber einen Glasrand legen und die typische Einbuchtung formen. </inhalt>
+      </Formen    >
+   </rezept>
+</Rezept>

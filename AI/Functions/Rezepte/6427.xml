@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>205 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Springform_vorbereiten>
+          <quant>wenig </quant>
+          <zutat>Butter, weich</zutat>
+      </Springform_vorbereiten>
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>3 EL</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>2 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Vanillecreme-Pulver zum Kochen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>4 </quant>
+          <zutat>Aepfel (z.B. Braeburn, ca. 600 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosinen</zutat>
+      </Fuellung   >
+      <Meringage >
+          <quant>2 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandelblaettchen</zutat>
+      </Meringage >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Springform vorbereiten        </inhalt>
+      </How_To    >
+      <Springform_vorbereiten>
+          <inhalt>Springformenboden (ca. 24 cm) mit Backpapier belegen, Rand einfetten. </inhalt>
+      </Springform_vorbereiten>
+      <How_To1   >
+          <inhalt>Teig                          </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fuer den Teig Mehl, Mandeln, Zucker, Zimt und Salz in einer Schuessel mischen. Butter fluessig werden lassen.</inhalt>
+      </How_To2   >
+      <Teig      >
+          <inhalt>Butter, Eigelbe und Apfelsaft verruehren, zum Mehl giessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Zugedeckt ca. 1 Std. kuehl stellen.</inhalt>
+      </Teig      >
+      <How_To3   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Vorbacken: ca. 20 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </How_To4   >
+      <Fuellung   >
+          <inhalt>Eiweisse mit Salz steif schlagen, Zucker beigeben, weiterschlagen, bis die Masse glaenzt. </inhalt>
+      </Fuellung   >
+      <Meringage >
+          <inhalt>Fertigbacken: ca. 15 Min. im vorgeheizten Ofen. Ofen ausschalten, im leicht geoeffneten Ofen ca. 5 Min. trocknen.</inhalt>
+      </Meringage >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

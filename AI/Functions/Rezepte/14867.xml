@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>581 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>68 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Parfait-Masse>
+          <quant>25 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>40 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>8 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+      </Parfait-Masse>
+      <Veganes_Caramel>
+          <quant>8 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>5 EL</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Veganes_Caramel>
+      <Kokosrahm >
+          <quant>1 Dose</quant>
+          <zutat>Kokosmilch (ca. 400 ml)</zutat>
+          <quant>1 </quant>
+          <zutat>Banane (gut reif), in Scheiben</zutat>
+      </Kokosrahm >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Parfait-Masse                 </inhalt>
+      </How_To    >
+      <Parfait-Masse>
+          <inhalt>Veganes Caramel               </inhalt>
+      </Parfait-Masse>
+      <Veganes_Caramel>
+          <inhalt>Kokosrahm                     </inhalt>
+      </Veganes_Caramel>
+      <Kokosrahm >
+          <inhalt>Zum Anrichten Bananen-Scheiben, Caramel, Kokosrahm und Parfait-Masse lagenweise in Glaeser geben, sofort servieren.</inhalt>
+      </Kokosrahm >
+   </rezept>
+</Rezept>

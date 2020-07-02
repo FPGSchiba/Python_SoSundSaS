@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>362 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch_braten>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>800 g</quant>
+          <zutat>Rindsvoressen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch_braten>
+      <Schmoren  >
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>3 </quant>
+          <zutat>Aepfel (ca. 600 g, z.B. Boskoop), in Schnitzen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Schmoren  >
+      <Anrichten >
+          <quant>1 </quant>
+          <zutat>Apfel (z.B. Boskoop), in Wuerfeli</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Fleisch_braten>
+          <inhalt>Wenig Oel im Brattopf heiss werden lassen. Fleisch portionenweise je ca. 5 Min. anbraten, mit Mehl bestaeuben, herausnehmen, wuerzen. Hitze reduzieren, Bratfett auftupfen, evtl. wenig Oel beigeben.</inhalt>
+      </Fleisch_braten>
+      <Schmoren  >
+          <inhalt>Zwiebel, Knoblauch und Rueebli in denselben Brattopf geben, ca. 3 Min. andaempfen. Fleisch wieder beigeben, Wein dazugiessen. Tomaten und alle Zutaten bis und mit Lorbeerblatt beigeben, zugedeckt bei mittlerer Hitze ca. 1 1/2 Std. schmoren, wuerzen.  </inhalt>
+      </Schmoren  >
+      <Anrichten >
+          <inhalt>Apfelwuerfeli, Rosmarin und Roestzwiebeln auf dem Voressen verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

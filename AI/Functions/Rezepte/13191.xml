@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>15 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Amarettimasse>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Bittermandelaroma</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln, geroestet</zutat>
+      </Amarettimasse>
+      <Verzieren >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <Amarettimasse>
+          <inhalt>Eiweiss mit dem Salz steif schlagen. Zucker nach und nach beigeben, weiterschlagen, bis der Eischnee glaenzt. Mandelaroma, Zitronenschale und Mandeln beigeben, mit dem Gummischaber sorgfaeltig darunterziehen.</inhalt>
+      </Amarettimasse>
+      <Formen    >
+          <inhalt>Masse in einen Spritzsack mit glatter Tuelle (ca. 4 mm Ø) geben. Haselnussgrosse Haeufchen mit genuegend Abstand auf 2 mit Backpapier belegte Bleche spritzen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. im auf 150 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Verzieren >
+          <inhalt>Amaretti mit Puderzucker bestaeuben.</inhalt>
+      </Verzieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

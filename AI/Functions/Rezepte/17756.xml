@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>463 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Curry_    >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , fein gehackt</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Jackfruit (ca. 400 g)</zutat>
+          <quant>150 g</quant>
+          <zutat>Romanesco, in Roeschen</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen</zutat>
+          <quant>2 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit), gequetscht</zutat>
+          <quant>2 EL</quant>
+          <zutat>gruene Currypaste</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Curry_    >
+      <Wrap      >
+          <quant>12 </quant>
+          <zutat>Mini-Tortillas</zutat>
+          <quant>90 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Thai-Basilikum, Blaetter abgezupft</zutat>
+      </Wrap      >
+   </einkaufliste>
+   <rezept>
+      <Curry_    >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Zitronengras, Jackfruit, Romanesco und Bundzwiebel ca. 4 Min. ruehrbraten. Kaffirlimettenblaetter, Currpaste, Kokosmilch, Wasser und Limettensaft beigeben, salzen, aufkochen, bei mittlerer Hitze ca. 20 Min. koecheln. Kaffirlimetten-Blaetter entfernen, Jackfruit mit zwei Gabeln zerzupfen. </inhalt>
+      </Curry_    >
+      <Wrap      >
+          <inhalt>Tortillas nach Angabe auf der Verpackung vorbereiten. Curry und etwas Jogurt in den Tortillas verteilen, Limettensaft daruebertraeufeln, Basilikumblaetter darueberstreuen. </inhalt>
+      </Wrap      >
+   </rezept>
+</Rezept>

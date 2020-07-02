@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>455 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig_ >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Hefeteig_ >
+      <Pizza_    >
+          <quant>150 g</quant>
+          <zutat>Mozzarella</zutat>
+          <quant>6 </quant>
+          <zutat>entsteinte schwarze Oliven</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni</zutat>
+          <quant>200 g</quant>
+          <zutat>Tomatensauce</zutat>
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>150 g</quant>
+          <zutat>Mozzarella</zutat>
+          <quant>6 </quant>
+          <zutat>entsteinte schwarze Oliven</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni</zutat>
+          <quant>200 g</quant>
+          <zutat>Tomatensauce</zutat>
+      </Pizza_    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hefeteig                      </inhalt>
+      </How_To    >
+      <Hefeteig_ >
+          <inhalt>Pizza                         </inhalt>
+      </Hefeteig_ >
+      <Pizza_    >
+          <inhalt>                              </inhalt>
+      </Pizza_    >
+      <Backen_   >
+          <inhalt>Ca. 30 Min. in der untersten Haelfte des auf 200 Grad vorgeheizten Ofens.  </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

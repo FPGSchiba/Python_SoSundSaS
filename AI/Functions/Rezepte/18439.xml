@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>516 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dip       >
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>30 g</quant>
+          <zutat>Kokosbluetenzucker oder Rohzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fischsauce</zutat>
+      </Dip       >
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Reismehl (Vollkorn)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Bier</zutat>
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, Zwiebeln fein gehackt, Gruen in Ringe, beiseite gestellt</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli, in feinen Streifen</zutat>
+          <quant>150 g</quant>
+          <zutat>gemischte  Pilze, grob gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fischsauce</zutat>
+      </Fuellung   >
+      <Omeletten_zubereiten>
+          <quant> </quant>
+          <zutat>Oel zum Backen</zutat>
+          <quant>150 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+      </Omeletten_zubereiten>
+   </einkaufliste>
+   <rezept>
+      <Dip       >
+          <inhalt>Wasser und Zucker gut verruehren, bis sich der Zucker aufgeloest hat. Limettensaft und Fischsauce darunterruehren, beiseite stellen.</inhalt>
+      </Dip       >
+      <Teig      >
+          <inhalt>Mehl und alle Zutaten bis und mit Oel gut verruehren, Zwiebeln daruntermischen. Teig zugedeckt ca. 20 Min. quellen lassen. </inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Oel in einer beschichteten Bratpfanne erwaermen. Schalotten und Rueebli ca. 3 Min. daempfen, Pilze beigeben, kurz mitdaempfen. Fischsauce beigeben. </inhalt>
+      </Fuellung   >
+      <Omeletten_zubereiten>
+          <inhalt>Wenig Oel in einer beschichteten Bratpfanne heiss werden lassen.  1/8 des Teiges in die Pfanne geben, Hitze reduzieren. Ca. 6 Min. braten, bis die Unterseite gebacken ist, etwas der Fuellung und der Sprossen auf einer Seite verteilen, sorgfaeltig die ungefuellte Seite darueberlegen, Omelette ca. 2 Min. fertig backen. Mit dem restlichen Teig und der Fuellung weitere sieben Omeletten backen. Dip und Bundzwiebelgruen dazu servieren.</inhalt>
+      </Omeletten_zubereiten>
+   </rezept>
+</Rezept>

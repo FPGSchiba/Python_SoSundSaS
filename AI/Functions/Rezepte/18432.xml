@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>192 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>300 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Bourbon-Vanillezucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>120 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Vollkornreismehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig_     >
+      <Mumien    >
+          <quant>125 g</quant>
+          <zutat>weisse Kuchenglasur </zutat>
+          <quant>50 </quant>
+          <zutat>Zucker-Augen</zutat>
+      </Mumien    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig_     >
+          <inhalt>Eier, Wasser, Zucker, Vanillezucker und Salz in einer Schuessel ruehren, bis die Masse heller ist, Schokolade-Butter darunterruehren. Mandeln, Mehl und Backpulver mischen, darunterruehren, Teig in die vorbereitete Form fuellen.</inhalt>
+      </Teig_     >
+      <Backen_   >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Das Gebaeck muss innen noch leicht feucht sein. Herausnehmen, aus der Form nehmen, auf einem Gitter auskuehlen. Mit einem runden Ausstecher (5 cm Ø) Koerper fuer die Mumien ausstechen.</inhalt>
+      </Backen_   >
+      <Mumien    >
+          <inhalt>Kuchenglasur in heissem Wasserbad schmelzen. Streifen auf die Brownies spritzen, Zucker-Augen mit etwas Kuchenglasur aufsetzen. </inhalt>
+      </Mumien    >
+   </rezept>
+</Rezept>

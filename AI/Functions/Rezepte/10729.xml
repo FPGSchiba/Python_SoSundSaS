@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>741 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>89 g  </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch_anbraten>
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+          <quant>500 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+      </Fleisch_anbraten>
+      <Ghackets  >
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Knollensellerie, in Wuerfeli</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Ghackets  >
+      <Servieren >
+          <quant>500 g</quant>
+          <zutat>Hoernli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Fleisch_anbraten>
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Hackfleisch portionenweise je ca. 3 Min. anbraten, herausnehmen.</inhalt>
+      </Fleisch_anbraten>
+      <Ghackets  >
+          <inhalt>Zwiebel, Rueebli und Sellerie in derselben Pfanne kurz andaempfen,  Tomatenpueree kurz mitdaempfen. Wein und Bouillon dazugiessen, Paprika, Lorbeerblatt und Fleisch beigeben. Sauce aufkochen, zugedeckt ca. 30 Min. koecheln. Thymian beigeben, Sauce wuerzen.</inhalt>
+      </Ghackets  >
+      <Servieren >
+          <inhalt>Hoernli im Salzwasser al dente kochen, abtropfen, mit Ghacktem servieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

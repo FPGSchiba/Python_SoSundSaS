@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>523 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bechamelsauce>
+          <quant>10 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Rahm</zutat>
+      </Bechamelsauce>
+      <Kaesefuellung>
+          <quant>50 g</quant>
+          <zutat>Gruyere, grob gerieben, 2 EL beiseite gestellt</zutat>
+          <quant>50 g</quant>
+          <zutat>Freiburger Vacherin, grob gerieben, 2 EL beiseite gestellt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Muskat</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kaesefuellung>
+      <Ravioli   >
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Ravioli   >
+      <Salbeibutter>
+          <quant>30 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Salbei, Blaetter abgezupft</zutat>
+      </Salbeibutter>
+   </einkaufliste>
+   <rezept>
+      <Bechamelsauce>
+          <inhalt>Butter in einer Pfanne warm werden lassen. Mehl beigeben, unter Ruehren mit dem Schwingbesen duensten, das Mehl darf keine Farbe annehmen. Pfanne von der Platte nehmen. Milch und Rahm auf einmal dazugiessen, unter Ruehren aufkochen, Hitze reduzieren, unter gelegentlichem Ruehren ca. 10 Min. koecheln, bis die Sauce saemig ist.</inhalt>
+      </Bechamelsauce>
+      <Kaesefuellung>
+          <inhalt>Kaese zur Bechamelsauce geben, schmelzen, wuerzen, auskuehlen.</inhalt>
+      </Kaesefuellung>
+      <Ravioli   >
+          <inhalt>Teige entrollen, laengs vierteln. Fuellung in je 12 Portionen mit gleichmaessigem Abstand auf die unteren Haelften der Teigstreifen verteilen. Obere Teighaelften mit wenig Ei bestreichen, ueber die Fuellungen legen, Kanten gut andruecken, dabei eingeschlossene Luft herausdruecken. Ravioli mit dem Teigraedchen voneinander trennen. Ravioli portionenweise im knapp siedenden Salzwasser ca. 3 Min. ziehen lassen, abtropfen, warm stellen.</inhalt>
+      </Ravioli   >
+      <Salbeibutter>
+          <inhalt>Baumnusskerne in einer unbeschichteten Bratpfanne ohne Fett goldbraun roesten. Butter in einer Pfanne warm werden lassen, bis die Butter schaeumt und leicht nussig riecht. Salbeiblaetter beigeben, braten, bis sie knusprig sind. Baumnuesse und Salbeibutter auf den Ravioli verteilen. Beiseite gestellten Kaese darueberstreuen.</inhalt>
+      </Salbeibutter>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

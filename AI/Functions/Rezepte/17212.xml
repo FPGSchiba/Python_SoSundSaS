@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>267 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Plunderteig>
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Plunderteig>
+      <Butter_einarbeiten>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant>140 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+      </Butter_einarbeiten>
+      <Formen    >
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant>120 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zimt</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Plunderteig>
+          <inhalt>Mehl, Salz und Zucker in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben, eine Mulde eindruecken. Milch, Hefe und Ei in die Mulde geben, mischen, rasch zu einem geschmeidigen Teig zusammenfuegen. Teig ca. 11/2 Std. aufgehen lassen. </inhalt>
+      </Plunderteig>
+      <Butter_einarbeiten>
+          <inhalt>Teig auf wenig Mehl rechteckig ca. 1 cm dick auswallen, eine Teighaelfte gleichmaessig mit Butter bestreichen, dabei einen Rand von ca. 1 cm frei lassen. Andere Teighaelfte darueberlegen, Rand gut andruecken, zugedeckt ca. 30 Min. kuehl stellen. Teig nochmals auf wenig Mehl ca. 1 cm dick rechteckig auswallen. Schmalseiten bis zur Mitte einschlagen, dann eine Haelfte auf die andere legen, sodass 4 Teiglagen entstehen. Teig zugedeckt ca. 1 Std. kuehl stellen, Vorgang wiederholen, nochmals zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Butter_einarbeiten>
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl rechteckig ca. 40 x 60 cm auswallen. Teig mit wenig Wasser bestreichen. Zucker und Zimt mischen, darauf verteilen. Teig von der Laengsseite her aufrollen, in ca.15 je ca. 4 cm dicke Scheiben schneiden. Diese mit dem Stiel einer Holzkelle in der Mitte bis zum Boden eindruecken. Teigstuecke auf ein mit Backpapier belegtes Blech legen. Zugedeckt bei Raumtemperatur ca. 30 Min. aufgehen lassen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

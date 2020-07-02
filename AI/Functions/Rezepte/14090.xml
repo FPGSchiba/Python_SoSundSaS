@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>549 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Raclette-Nachos_>
+          <quant>200 g</quant>
+          <zutat>Tortilla-Chips, grob zerdrueckt</zutat>
+          <quant>300 g</quant>
+          <zutat>Cheddar, grob gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sambal Oelek</zutat>
+          <quant>50 g</quant>
+          <zutat>eingelegte Jalapeños in Scheiben</zutat>
+      </Raclette-Nachos_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Raclette-Nachos               </inhalt>
+      </How_To    >
+      <Raclette-Nachos_>
+          <inhalt>Unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen. </inhalt>
+      </Raclette-Nachos_>
+   </rezept>
+</Rezept>

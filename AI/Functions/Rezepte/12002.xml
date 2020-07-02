@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>469 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokoladenmasse>
+          <quant>200 g</quant>
+          <zutat>weisse Schokolade, in Stuecken</zutat>
+          <quant>200 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>3 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+      </Schokoladenmasse>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Dekoration>
+          <quant>50 g</quant>
+          <zutat>weisse Schokolade, in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <Schokoladenmasse>
+          <inhalt>Schokolade und Butter in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade und Butter schmelzen, glatt ruehren, etwas abkuehlen. Eier und Zucker darunterruehren.</inhalt>
+      </Schokoladenmasse>
+      <Teig      >
+          <inhalt>Mandeln, Mehl und Backpulver mischen, unter die Schokoladenmasse mischen. Teig in die vorbereitete Form fuellen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Gugelhopf auf ein Gitter stuerzen, auskuehlen.</inhalt>
+      </Backen    >
+      <Dekoration>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Auf dem Gugelhopf verteilen, Nuesse darueberstreuen, trocknen lassen.</inhalt>
+      </Dekoration>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

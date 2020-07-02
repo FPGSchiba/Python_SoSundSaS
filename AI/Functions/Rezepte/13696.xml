@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>482 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>53 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>6 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+      </Gemuese    >
+      <Fisch     >
+          <quant>4 </quant>
+          <zutat>Wolfsbarsche (Bio), je ca. 500 g</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>2 </quant>
+          <zutat>Limetten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Fisch     >
+      <Gurkensalsa>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1 </quant>
+          <zutat>Nostrano-Gurke</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>125 g</quant>
+          <zutat>Heidelbeeren</zutat>
+      </Gurkensalsa>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemuese                        </inhalt>
+      </How_To    >
+      <Gemuese    >
+          <inhalt>Bundzwiebeln halbieren, beiseite legen. Wasser aufkochen. Bundzwiebelgruen ca. 30 Sek. blanchiere, mit einer Schaumkelle herausnehmen, sofort in eiskaltem Wasser auskuehlen, trocken tupfen.</inhalt>
+      </Gemuese    >
+      <How_To1   >
+          <inhalt>Fisch                         </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fische innen und aussen kalt abspuelen, trocken tupfen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </How_To2   >
+      <Fisch     >
+          <inhalt>Fische innen salzen, Knoblauch in Scheibchen schneiden. Fisch mit den beiseite gelegten Bundzwiebeln und Knoblauch fuellen.</inhalt>
+      </Fisch     >
+      <How_To3   >
+          <inhalt>Limetten kalt abspuelen, trocken tupfen, in Scheiben schneiden. Limetten auf die Fische legen, mit dem Zwiebelgruen umwickeln.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Braten im Ofen: Ca. 28 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Aceto, Oel und Fleur de Sel verruehren. </inhalt>
+      </How_To5   >
+      <Gurkensalsa>
+          <inhalt>Gemuese mit den Heidelbeeren in die Sauce geben, mischen, dazu servieren.</inhalt>
+      </Gurkensalsa>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+</Rezept>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>79 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Beerenmassen>
+          <quant>100 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Kokosmilch</zutat>
+      </Beerenmassen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Beerenmassen                  </inhalt>
+      </How_To    >
+      <Beerenmassen>
+          <inhalt>Alle Beerensorten separat mit je 1 EL Wasser puerieren. </inhalt>
+      </Beerenmassen>
+      <How_To1   >
+          <inhalt>Jede Masse durch ein feines Sieb streichen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Je 1/4 des Puderzuckers mit den Beerenmassen verruehren.  </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Die Haelfte der Erdbeermasse mit Kokosmilch verruehren.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Erste Beerenmasse in die Glacebehaelter verteilen. </inhalt>
+      </How_To4   >
+      <Abfuellen  >
+          <inhalt>Glacestaengel einstecken, ca. 20 Min. gefrieren.</inhalt>
+      </Abfuellen  >
+   </rezept>
+</Rezept>

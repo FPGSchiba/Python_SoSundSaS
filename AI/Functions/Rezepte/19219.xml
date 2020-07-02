@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>102 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Eischnee  >
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>feinster Zucker</zutat>
+      </Eischnee  >
+      <Dekoration>
+          <quant>1 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 120 g), geschmolzen</zutat>
+          <quant>80 g</quant>
+          <zutat>Haselnuesse, fein gehackt</zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <Eischnee  >
+          <inhalt>Eiweisse mit dem Salz steif schlagen, die Haelfte des Zuckers beigeben, weiterschlagen, bis die Masse glaenzt. Restlichen Zucker beigeben, weiterschlagen, bis die Masse sehr steif ist.</inhalt>
+      </Eischnee  >
+      <Herzen    >
+          <inhalt>Masse in einen Spritzsack mit glatter Tuelle (ca. 16 mm Durchmesser) geben, auf ein mit Backpapier belegtes Blech ca. 16 Herzen spritzen.</inhalt>
+      </Herzen    >
+      <Backen/Trocknen>
+          <inhalt>Ca. 10 Min. in der unteren Haelfte des auf 120 Grad vorgeheizten Ofens. Hitze auf 100 Grad reduzieren, Meringues ca. 11/2 Std. trocknen. Meringues im ausgeschalteten Ofen auskuehlen.</inhalt>
+      </Backen/Trocknen>
+      <Dekoration>
+          <inhalt>Kuchenglasur in eine kleine Schuessel giessen, Nuesse auf einen flachen Teller geben. Den Boden der Herzen in die Glasur tunken, abtropfen, auf die Nuesse legen, leicht andruecken. Meringues auf das Backpapier legen, trocknen lassen.</inhalt>
+      </Dekoration>
+   </rezept>
+</Rezept>

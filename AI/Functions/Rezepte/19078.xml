@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>574 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schoko-Mandeln>
+          <quant>1 </quant>
+          <zutat>Eiweiss, verklopft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Schokoladenpulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>300 g</quant>
+          <zutat>geschaelte Mandeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>rosa Pfefferkoerner, grob zerstossen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Schoko-Mandeln>
+   </einkaufliste>
+   <rezept>
+      <Schoko-Mandeln>
+          <inhalt>Eiweiss, Schokoladenpulver und Zucker verruehren. Mandeln beigeben, mischen, auf einem mit Backpapier belegten Blech verteilen. Pfeffer und Fleur de Sel darauf verteilen.</inhalt>
+      </Schoko-Mandeln>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auskuehlen, in Stuecke brechen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

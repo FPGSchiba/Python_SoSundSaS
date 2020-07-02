@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>547 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nuedeli    >
+          <quant>200 g</quant>
+          <zutat>Teigwaren (z.B. Nuedeli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>Kuerbis</zutat>
+          <quant>1 </quant>
+          <zutat>gekochte Rande</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+      </Nuedeli    >
+      <Guss      >
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>200 g</quant>
+          <zutat>Teigwaren (z.B. Nuedeli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>Kuerbis</zutat>
+          <quant>1 </quant>
+          <zutat>gekochte Rande</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+      </Guss      >
+   </einkaufliste>
+   <rezept>
+      <Nuedeli    >
+          <inhalt>Nuedeli im siedenden Salzwasser ca. 11/2 Min. kochen, kalt abspuelen, abtropfen. Kuerbis und Randen an der Roestiraffel grob reiben. &lt;kids/&gt; Gemuese mit Nuedeli, Speckwuerfeli und 1 EL Oel in einer Schuessel mischen.</inhalt>
+      </Nuedeli    >
+   </rezept>
+</Rezept>

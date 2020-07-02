@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>175 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Beeren    >
+          <quant>250 g</quant>
+          <zutat>Brombeeren, halbiert</zutat>
+          <quant>250 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Beeren    >
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+      </Teig      >
+      <Pancakes  >
+          <quant> </quant>
+          <zutat>Bratbutter</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Pancakes  >
+   </einkaufliste>
+   <rezept>
+      <Beeren    >
+          <inhalt>Brom- und Heidelbeeren mit dem Puderzucker mischen, zugedeckt beiseite stellen. </inhalt>
+      </Beeren    >
+      <Teig      >
+          <inhalt>Mehl und alle Zutaten bis und mit Natron in eine Schuessel geben, mischen, in der Mitte eine Mulde eindruecken. Buttermilch, Eier und Butter verruehren, nach und nach unter Ruehren in die Mulde giessen, weiterruehren, bis der Teig glatt ist. </inhalt>
+      </Teig      >
+      <Pancakes  >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Teig portionenweise in die Pfanne giessen so, dass Pancakes von ca. 7 cm Ø entstehen. Hitze reduzieren. Ca. 11/2 Min. backen, bis sich die Unterseite von selbst loest, Pancake wenden, ca. 1 Min. fertig backen, zugedeckt warm stellen. Restliche Pancakes gleich zubereiten. Pancakes mit den Beeren anrichten, mit Puderzucker bestaeuben. </inhalt>
+      </Pancakes  >
+   </rezept>
+</Rezept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>246 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Maizena</zutat>
+      </Creme     >
+      <Caramel-Kruste>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Caramel-Kruste>
+   </einkaufliste>
+   <rezept>
+      <Creme     >
+          <inhalt>Milch, Rahm und Vanillepaste in eine Pfanne geben. Von der Zitrone einen duennen Streifen Schale abschneiden, beigeben, aufkochen, ca. 15 Min. ziehen lassen. Eier, Zucker und Maizena verruehren. Zitronenschale aus der Milch entfernen, Eiermasse beigeben, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Sobald die Masse bindet, Pfanne sofort von der Platte nehmen, ca. 2 Min. weiterruehren. Creme durch ein Sieb streichen, in die Foermchen verteilen, zugedeckt ca. 3 Std. kuehl stellen.</inhalt>
+      </Creme     >
+      <Caramel-Kruste>
+          <inhalt>Zucker auf der Creme verteilen, mit der Flamme des Bunsenbrenners caramelisieren.</inhalt>
+      </Caramel-Kruste>
+   </rezept>
+</Rezept>

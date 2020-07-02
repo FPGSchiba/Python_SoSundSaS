@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>590 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>88 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig_ >
+          <quant>500 g</quant>
+          <zutat>Dinkelzopf Backmischung</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollmilch</zutat>
+      </Hefeteig_ >
+      <Blaetterzopf_>
+          <quant>130 g</quant>
+          <zutat>Caramellcreme mit gesalzener Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>120 g</quant>
+          <zutat>Caramel-Wuerfeli </zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Blaetterzopf_>
+   </einkaufliste>
+   <rezept>
+      <Hefeteig_ >
+          <inhalt>Mehl und Milch zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufgehen lassen.</inhalt>
+      </Hefeteig_ >
+      <Blaetterzopf_>
+          <inhalt>Caramel au beurre sale und Wasser mischen. Teig halbieren, auf wenig Mehl zu zwei Rechtecken von je ca. 28 cmX 20 cm auswallen. Je 1/2 der Creme daraufstreichen, je 1/2 Caramelwuerfeli darueberstreuen. Teig von der Laengsseite her aufrollen. Teigstraenge dritteln. Straenge in ca. 1 cm dicke Scheiben schneiden, Scheiben uebereinander klappen und 6 Bluetengebaecke formen. Nebeneinander auf ein mit Backpapier belegtes Blech legen. Teige zugedeckt ca. 15 Min. kuehl stellen, mit Ei bestreichen. </inhalt>
+      </Blaetterzopf_>
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

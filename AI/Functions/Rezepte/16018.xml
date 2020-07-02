@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>681 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>5 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Pesto verde</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Hartweizen>
+          <quant>7 dl</quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>300 g</quant>
+          <zutat>vorgekochter Hartweizen (Ebly®)</zutat>
+      </Hartweizen>
+      <Salat     >
+          <quant>120 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>250 g</quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+          <quant>125 g</quant>
+          <zutat>Mozzarella di bufala, zerzupft</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Aceto, Oel und Pesto in einer Schuessel verruehren, wuerzen. </inhalt>
+      </Sauce     >
+      <Hartweizen>
+          <inhalt>Hartweizen im Salzwasser zugedeckt bei kleiner Hitze ca. 10 Min. weich koecheln, abtropfen. Hartweizen lauwarm in die Sauce geben, mischen.</inhalt>
+      </Hartweizen>
+      <Salat     >
+          <inhalt>Rucola und Erdbeeren beigeben, mischen. Salat anrichten, Mozzarella darauf verteilen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

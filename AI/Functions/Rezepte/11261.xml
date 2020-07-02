@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>749 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>71 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pulpo     >
+          <quant>1 </quant>
+          <zutat>Pulpo (ca. 1 1/2 kg)</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniges Salz</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel mit der Schale</zutat>
+      </Pulpo     >
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 </quant>
+          <zutat>gelbe Peperoni, in Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Risottoreis (z. B. Carnaroli)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>7 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>Parmesan, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+      </Risotto   >
+   </einkaufliste>
+   <rezept>
+      <Pulpo     >
+          <inhalt>Tintenfisch mit Salz einreiben, unter fliessendem Wasser gut abspuelen. Fuer den Sud Wasser mit allen Zutaten bis und mit Zwiebel aufkochen. Tintenfisch beigeben, bei mittlerer Hitze ca. 1 Std. koecheln. Tintenfisch aus dem Sud nehmen, etwas abkuehlen. Haut mit einem Haushaltspapier leicht abreiben, in Scheiben schneiden.</inhalt>
+      </Pulpo     >
+      <Risotto   >
+          <inhalt>Oel in einer beschichteten Pfanne erhitzen. Knoblauch und Pulpo ca. 2 Min. ruehrbraten, Hitze reduzieren, Peperoni beigeben, ca. 5 Min. mitdaempfen, herausnehmen, wuerzen, beiseite stellen. Oel erwaermen, Zwiebel andaempfen, Reis beigeben, unter Ruehren duensten, bis der Reis glasig ist. Wein dazugiessen, zur Haelfte einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist, ca. 15 Min. koecheln. Butter, Parmesan und beiseite gestellten Tintenfisch beigeben, mischen. Zitronensaft und Petersilie daruntermischen.</inhalt>
+      </Risotto   >
+   </rezept>
+</Rezept>

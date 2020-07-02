@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>524 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargeln_ >
+          <quant>500 g</quant>
+          <zutat>weisse Spargeln, geschaelt, halbiert, in ca. 5 mm dicken Scheibchen</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln, schraeg in ca. 5 cm langen Stuecken, Gruen, in Ringen, beiseitegestellt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in feinen Ringen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Spargeln_ >
+      <Backen    >
+          <quant>100 g</quant>
+          <zutat>Cashew-Nuesse, grob gehackt</zutat>
+      </Backen    >
+      <Rollgerste_>
+          <quant>200 g</quant>
+          <zutat>geschaelte Rollgerste</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Rollgerste_>
+      <Salat     >
+          <quant>3 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>3 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Pfefferminze, grob zerzupft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Dill, grob zerzupft</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Spargeln_ >
+          <inhalt>Spargeln und alle Zutaten bis und mit Salz in einer Schuessel mischen, auf ein mit Backpapier belegtes Blech geben. </inhalt>
+      </Spargeln_ >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Cashew-Nuesse beigeben, mischen, ca. 15 Min. fertig backen. </inhalt>
+      </Backen    >
+      <Rollgerste_>
+          <inhalt>Gerste ins siedende Salzwasser geben, Hitze reduzieren, ca. 25 Min. knapp weich koecheln, abtropfen.</inhalt>
+      </Rollgerste_>
+      <Salat     >
+          <inhalt>Senf, Aceto und Oel in einer Schuessel verruehren, wuerzen. Rollgerste beigeben, mischen. Spargeln, Kraeuter und beiseite gestelltes Bundzwiebelgruen daruntermischen.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

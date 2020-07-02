@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>440 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Thonmousse_>
+          <quant>1 Dose</quant>
+          <zutat>weisser Thon in Oel (ca. 80 g) oder rosa Thon</zutat>
+          <quant>100 g</quant>
+          <zutat>Frischkaese (z.B. Philadelphia)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Thonmousse_>
+      <Kapern_   >
+          <quant>2 EL</quant>
+          <zutat>Oel zum Frittieren</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kapern, abgetropft</zutat>
+      </Kapern_   >
+      <Crostini_ >
+          <quant>350 g</quant>
+          <zutat>Brot, in ca. 2 cm dicken Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Ringen</zutat>
+      </Crostini_ >
+   </einkaufliste>
+   <rezept>
+      <Thonmousse_>
+          <inhalt>Thon, Frischkaese und Mayonnaise mischen, wuerzen. </inhalt>
+      </Thonmousse_>
+      <Kapern_   >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Kapern ca. 3 Min. frittieren, auf Haushaltspapier abtropfen. </inhalt>
+      </Kapern_   >
+      <Crostini_ >
+          <inhalt>Brot in derselben Pfanne beidseitig roesten. Thonmousse, Zwiebeln und Kapern darauf verteilen.</inhalt>
+      </Crostini_ >
+   </rezept>
+</Rezept>

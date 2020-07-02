@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>304 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Orangen   >
+          <quant>4 </quant>
+          <zutat>Orangen, filetiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Kalamata-Oliven, entsteint</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Orangen   >
+      <Zwiebeln  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, halbiert, in Streifen</zutat>
+      </Zwiebeln  >
+   </einkaufliste>
+   <rezept>
+      <Orangen   >
+          <inhalt>Orangen, Oliven, Petersilie und Oel mischen, wuerzen.</inhalt>
+      </Orangen   >
+      <Zwiebeln  >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Zwiebeln ca. 5 Min. braten, auf dem Salat verteilen.</inhalt>
+      </Zwiebeln  >
+   </rezept>
+</Rezept>

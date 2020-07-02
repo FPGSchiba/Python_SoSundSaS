@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>152 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mehl_duensten>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+      </Mehl_duensten>
+      <Bechamelsauce>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+      </Bechamelsauce>
+      <Kaesesauce >
+          <quant>50 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+      </Kaesesauce >
+   </einkaufliste>
+   <rezept>
+      <Mehl_duensten>
+          <inhalt>Butter in einer Pfanne erwaermen. Mehl unter Ruehren mit dem Schwingbesen bei mittlerer Hitze in der warmen Butter duensten. Das Mehl darf dabei keine Farbe annehmen. Pfanne von der Platte nehmen.</inhalt>
+      </Mehl_duensten>
+      <Bechamelsauce>
+          <inhalt>Milch und Rahm auf einmal zum Mehl giessen, unter Ruehren aufkochen, Hitze reduzieren. Sauce wuerzen, bei mittlerer Hitze unter gelegentlichem Ruehren ca. 10 Min. koecheln, bis die Sauce saemig ist. </inhalt>
+      </Bechamelsauce>
+      <Kaesesauce >
+          <inhalt>Aus einer Bechamelsauce laesst sich einfach eine Kaesesauce zubereiten. Dazu den Kaese unter die Bechamelsauce mischen, wuerzen. </inhalt>
+      </Kaesesauce >
+   </rezept>
+</Rezept>

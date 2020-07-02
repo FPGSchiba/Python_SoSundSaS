@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>70 kcal </NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Truffes-Masse>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade (ca. 64%), fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+      </Truffes-Masse>
+      <Formen    >
+          <quant>50 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Truffes-Masse>
+          <inhalt>Rahm in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Rahm erwaermen, Schokolade und Kardamom beigeben, schmelzen. Schuessel herausnehmen, mit den Schwingbesen des Handruehrgeraets ruehren, bis der Schokoladerahm abgekuehlt und fester ist. Masse in einen Einwegspritzsack fuellen und ca. 2 Std. kuehl stellen.  </inhalt>
+      </Truffes-Masse>
+      <Formen    >
+          <inhalt>Haeufchen von je ca. 2 cm Ø auf ein Backpapier spritzen, ca. 30 Min. im Kuehlschrank fest werden lassen. Pistazien im Cutter fein mahlen,  in einen tiefen Teller geben. Truffes-Haeufchen vom Backpapier loesen, kurz in den Haenden rollen, in den Pistazien wenden, kuehl stellen. </inhalt>
+      </Formen    >
+   </rezept>
+</Rezept>

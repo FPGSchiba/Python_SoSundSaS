@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>547 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tarteboden>
+          <quant>150 g</quant>
+          <zutat>gemahlene Mandeln, geroestet</zutat>
+          <quant>130 g</quant>
+          <zutat>Baumnusskerne, fein gehackt, geroestet</zutat>
+          <quant>150 g</quant>
+          <zutat>Medjool-Datteln, entsteint, fein gehackt</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Tarteboden>
+      <Jogurtmasse>
+          <quant>2 1/2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Orangen (z.B. Blutorangen), abgeriebene Schale und ganzer Saft beiseite gestellt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>400 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+      </Jogurtmasse>
+      <Orangensirup>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Orangen (z.B. Blutorangen), in duennen Scheiben</zutat>
+      </Orangensirup>
+   </einkaufliste>
+   <rezept>
+      <Tarteboden>
+          <inhalt>Mandeln und alle Zutaten bis und mit Salz mischen, von Hand kneten, bis eine kompakte Masse entsteht. Masse in die das vorbereitete Blech geben, mit einem Loeffel glatt streichen, am Rand hochziehen, so dass ein Rand von ca. 3 cm entsteht, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Tarteboden>
+      <Jogurtmasse>
+          <inhalt>Rahm mit der Orangenschale und dem Zucker in einer Pfanne aufkochen, kochen, bis sich der Zucker aufgeloest hat. Gelatine unter die heisse Fluessigkeit ruehren, durch ein Sieb in einen Messbecher giessen. Jogurt darunterruehren, auskuehlen. Masse auf dem Tarteboden verteilen, zugedeckt ca. 6 Std. im Kuehlschrank fest werden lassen. </inhalt>
+      </Jogurtmasse>
+      <Orangensirup>
+          <inhalt>Beiseite gestellten Orangensaft mit dem Zucker in einer Pfanne aufkochen, koecheln, bis sich der Zucker aufgeloest hat. Orangenscheiben beigeben, zugedeckt ca. 15 Min.  bei kleiner Hitze koecheln, bis die Orangenschale weich ist. Orangenscheiben herausnehmen, Saft offen auf hoechster Stufe ca. 3 Min. sirupartig einkochen, auskuehlen. Tarte aus der Form nehmen, Orangenscheiben und Sirup darauf anrichten.</inhalt>
+      </Orangensirup>
+   </rezept>
+</Rezept>

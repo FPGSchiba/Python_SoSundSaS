@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>501 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>200 g</quant>
+          <zutat>ungesalzene Erdnuesse</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Erdnuesse, Zucker, Vanille, Zimt und Wasser in eine Pfanne geben, ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren ca. 10 Min. koecheln, bis das Wasser verdampft und der Zucker trocken ist. Mit einer Kelle weiterruehren, bis der Zucker wieder schmilzt und sich um die Erdnuesse legt (ca. 5 Min.). Erdnuesse auf ein mit Backpapier belegtes Blech verteilen, auskuehlen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

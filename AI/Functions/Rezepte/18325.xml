@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>303 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Himbeersauce>
+          <quant>200 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Himbeersauce>
+      <Creme     >
+          <quant>100 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>100 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Zitronensaft</zutat>
+      </Creme     >
+      <Zutaten_einschichten>
+          <quant>100 g</quant>
+          <zutat>Reiswaffeln mit Schokolade</zutat>
+          <quant>10 g</quant>
+          <zutat>dunkle Schokolade, in Spaenen</zutat>
+      </Zutaten_einschichten>
+   </einkaufliste>
+   <rezept>
+      <Himbeersauce>
+          <inhalt>Himbeeren mit dem Wasser aufkochen, bei kleiner Hitze ca. 3 Min. koecheln. Sauce puerieren, beiseite stellen.</inhalt>
+      </Himbeersauce>
+      <Creme     >
+          <inhalt>Alle Zutaten gut verruehren.   </inhalt>
+      </Creme     >
+      <Zutaten_einschichten>
+          <inhalt>Reiswaffeln in 4 Glaeser verteilen, Creme und Himbeersauce darauf verteilen. Mit Schokospaenen verzieren.</inhalt>
+      </Zutaten_einschichten>
+   </rezept>
+</Rezept>

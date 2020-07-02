@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>103 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Gluehwein  >
+          <quant>7 1/2 dl</quant>
+          <zutat>kraeftiger Rotwein</zutat>
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, halbiert, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>2 </quant>
+          <zutat>Nelken</zutat>
+          <quant>2 </quant>
+          <zutat>Sternanise</zutat>
+          <quant>3 </quant>
+          <zutat>Kardamomkapseln, Samen ausgeloest</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Muskat</zutat>
+      </Gluehwein  >
+   </einkaufliste>
+   <rezept>
+      <Gluehwein  >
+          <inhalt>Wein mit allen Zutaten bis und mit Muskat in einer Pfanne unter gelegentlichem Ruehren bis vors Kochen bringen. Pfanne von der Platte nehmen, zugedeckt ca. 10 Min. ziehen lassen, nochmals heiss werden lassen, durch ein Sieb in Tassen giessen. </inhalt>
+      </Gluehwein  >
+   </rezept>
+</Rezept>

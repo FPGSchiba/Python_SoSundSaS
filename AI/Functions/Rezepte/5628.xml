@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>53 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>5 </quant>
+          <zutat>Kraeutertee-Beutel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>2 </quant>
+          <zutat>Nektarinen, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi, laengs in Vierteln, quer in feinen Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Wuerfeli</zutat>
+          <quant>125 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Pfefferminze, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>20 </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wasser aufkochen, Pfanne von der Platte nehmen, Teebeutel beigeben, zugedeckt ca. 10 Min. ziehen lassen. Beutel herausnehmen, Honig unter den Tee ruehren, auskuehlen.</inhalt>
+      </How_To    >
+      <How_To    >
+          <inhalt>Nektarinen und alle Zutaten bis und mit Puderzucker in einer grossen Schuessel sorgfaeltig mischen, zugedeckt ca. 30 Min. ziehen lassen. Tee dazugiessen, Eiswuerfel beigeben, servieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

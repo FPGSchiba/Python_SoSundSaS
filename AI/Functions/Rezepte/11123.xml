@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>458 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>3 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Schokoladenaufstrich (z.B. Nutella)</zutat>
+          <quant>250 g</quant>
+          <zutat>Betty Bossi Soft-Waffeln</zutat>
+          <quant>2 </quant>
+          <zutat>Bananen, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>1/2 Beutel</quant>
+          <zutat>Betty Bossi Kuchenglasur dunkel  (ca. 60 g), geschmolzen</zutat>
+          <quant>einige </quant>
+          <zutat>Betty Bossi Schokolinsen</zutat>
+          <quant>einige </quant>
+          <zutat>Betty Bossi Zucker-Nonpareilles</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vollrahm fast steif schlagen, Nutella daruntermischen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>2 Waffeln auf eine Platte legen. 1/4 des Mousses und der Bananenscheiben darauf verteilen, den Vorgang wiederholen, bis alle Waffeln aufgebraucht sind. Restliches Mousse und Bananenscheiben darauf verteilen, mind. 1 Std. kuehl stellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Kuchenglasur ueber die Waffeltorte giessen, mit Schoko-Linsen und Nonpareilles verzieren.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

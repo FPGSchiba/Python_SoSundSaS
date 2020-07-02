@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>191 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mandelruehrteig_>
+          <quant>50 g</quant>
+          <zutat>lactosefreie Butter, weich</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>glutenfreies Backpulver (Dr. Oetker)</zutat>
+          <quant>50 g</quant>
+          <zutat>glutenfreie dunkle Schokolade (mind. 70% Kakao), fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Mandelruehrteig_>
+      <Dekoration>
+          <quant>3 </quant>
+          <zutat>Bananen, in Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>20 g</quant>
+          <zutat>glutenfreie dunkle Schokolade (mind. 70% Kakao), grob gerieben</zutat>
+      </Dekoration>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mandelruehrteig                </inhalt>
+      </How_To    >
+      <Mandelruehrteig_>
+          <inhalt>Butter in eine Schuessel geben, Zucker und Eigelbe darunterruehren, weiterruehren, bis die Masse heller ist.</inhalt>
+      </Mandelruehrteig_>
+      <How_To1   >
+          <inhalt>Backen: ca. 18 Min. in der Mitte des auf 170 Grad vorgeheizten Ofens. Muffins herausnehmen, etwas abkuehlen, aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </How_To1   >
+      <Dekoration>
+          <inhalt>Bananen mit Zitronensaft mischen, auf dem Muffins verteilen, Ahornsirup daruebertraeufeln. Schokolade darueberstreuen. </inhalt>
+      </Dekoration>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

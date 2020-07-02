@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>547 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>50 g</quant>
+          <zutat>Kaffeebohnen</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>120 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rahm und Milch mit den Kaffeebohnen aufkochen. Pfanne von der Platte nehmen, auskuehlen, zugedeckt im Kuehlschrank ca. 12 Std. ziehen lassen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Rahm durch ein Sieb in eine Pfanne giessen. Eier und Zucker mit dem Schwingbesen darunterruehren, unter Ruehren bei mittlerer Hitze bis vors Kochen bringen. Sobald die Masse bindet, Pfanne sofort von der Platte nehmen, ca. 2 Min. weiterruehren. Creme absieben, auskuehlen, zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Creme in eine weite Form geben, zugedeckt ca. 4 Std. gefrieren.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Glace in 4 flache Schaelchen (je ca. 1 1/2 dl) verteilen. Je 1 EL Zucker darauf verteilen, mit der Flamme des Bunsenbrenners caramelisieren, sofort servieren.</inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>805 kcal</NaehrwertProPerson>
+       <Fett>59 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramelisierte_Nuesse>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+      </Caramelisierte_Nuesse>
+      <Muerbeteig-Crumble>
+          <quant>60 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>20 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+      </Muerbeteig-Crumble>
+      <Quark-Creme>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Quark-Creme>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Caramelisierte Nuesse          </inhalt>
+      </How_To    >
+      <Caramelisierte_Nuesse>
+          <inhalt>Muerbeteig-Crumble             </inhalt>
+      </Caramelisierte_Nuesse>
+      <Muerbeteig-Crumble>
+          <inhalt>Backen: ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auskuehlen lassen. </inhalt>
+      </Muerbeteig-Crumble>
+      <Quark-Creme>
+          <inhalt>Quark mit Schlagrahm, Vanillezucker und Zucker verruehren. Quark-Creme lagenweise mit Nuessen und Muerbeteig-Crumble in Schaelchen oder Glaeser fuellen, mit Muerbeteig-Crumble abschliessen. </inhalt>
+      </Quark-Creme>
+   </rezept>
+</Rezept>

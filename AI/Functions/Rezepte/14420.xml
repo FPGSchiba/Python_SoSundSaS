@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>649 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linguine  >
+          <quant>250 g</quant>
+          <zutat>Vollkorn-Teigwaren (z.B. Linguine)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Linguine  >
+      <Sauce     >
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, wenig abgeriebene Schale und ganzer Saft</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Cashewmus</zutat>
+          <quant>2 1/2 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kokosbluetenzucker oder Ahornsirup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+      </Sauce     >
+      <Spinat    >
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>500 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant> </quant>
+          <zutat>Himalayasalz nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer aus der Muehle nach Bedarf</zutat>
+      </Spinat    >
+      <Pinien-Gewuerzkerne>
+          <quant>4 EL</quant>
+          <zutat>Pinienkerne</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>80 g</quant>
+          <zutat>entsteinte schwarze Oliven, grob gehackt</zutat>
+      </Pinien-Gewuerzkerne>
+      <Pochierte_Eier>
+          <quant>1 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>wenig </quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier (Bio)</zutat>
+      </Pochierte_Eier>
+      <Anrichten >
+          <quant>wenig </quant>
+          <zutat>Kresse</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Linguine  >
+          <inhalt>Die Teigwaren im Salzwasser al dente kochen, abtropfen, kalt abspuelen, zurueck in die Pfanne geben.</inhalt>
+      </Linguine  >
+      <Sauce     >
+          <inhalt>Alle Zutaten gut verruehren, zu den Teigwaren geben, sorgfaeltig mischen.</inhalt>
+      </Sauce     >
+      <Spinat    >
+          <inhalt>Oel in einer weiten Pfanne erhitzen, Knoblauch goldbraun braten. Spinat und Wasser beigeben, aufkochen, Hitze reduzieren, Spinat weich daempfen, wuerzen. Spinat zu den Linguine geben.</inhalt>
+      </Spinat    >
+      <Pinien-Gewuerzkerne>
+          <inhalt>Pinienkerne mit Ahornsirup und Kreuzkuemmel in eine Bratpfanne geben, bei mittlerer Hitze goldbraun roesten. 3/4 davon zusammen mit 3/4 der Oliven unter die Teigwaren mischen.</inhalt>
+      </Pinien-Gewuerzkerne>
+      <Pochierte_Eier>
+          <inhalt>In einer weiten Pfanne genuegen Wasser bis zum Siedepunkt erhitzen, Essig und Salz beigeben. Mit einem Schwingbesen eine Kreisbewegung durch das Wasser ziehen, die Eier aufschlagen und ganz sorgfaeltig in das Wasser geben, fuer 3 Minuten pochieren (das Eigelb sollte noch weich sein), mit einem grossen Loeffel sorgfaeltig herausnehmen und auf einem Kuechentuch die ueberfluessige Fluessigkeit abtropfen lassen.</inhalt>
+      </Pochierte_Eier>
+      <Anrichten >
+          <inhalt>Die Linguine in der Pfanne nochmals heiss werden lassen, in Tellern anrichten, die restlichen Pinienkerne und Oliven darauf verteilen. Je 1 pochiertes Ei darauf geben, mit Kresse garnieren. Eigelb aufstechen, ueber die Teigwaren laufen lassen.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=MDjg6dQM9xA"/>
+</Rezept>

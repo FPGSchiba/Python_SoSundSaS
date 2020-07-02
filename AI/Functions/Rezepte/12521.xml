@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>429 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schwiegermutterzungen>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, kalt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>grobkoerniges Meersalz</zutat>
+      </Schwiegermutterzungen>
+      <Baba_Ganoush>
+          <quant>2 </quant>
+          <zutat>Auberginen (ca. 600 g)</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone wenig abgeriebene Schale und 1 EL Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Baba_Ganoush>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schwiegermutterzungen         </inhalt>
+      </How_To    >
+      <Schwiegermutterzungen>
+          <inhalt>Rosmarin fein schneiden, mit Mehl, Salz und Pfeffer in einer Schuessel mischen. Butter in Stuecke schneiden, beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flachdruecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Schwiegermutterzungen>
+      <How_To1   >
+          <inhalt>Formen: Teig in 8 Stuecke teilen, auf wenig Mehl zu ca. 2 mm dicken Ovalen auswallen. Lingue auf zwei mit Backpapier belegte Bleche legen, mit Salz bestreuen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 15 Min. im auf 180 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Auberginenhaut mit einer Gabel mehrmals einstechen. Auberginen laengs halbieren, mit den Schnittflaechen nach unten auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </How_To3   >
+      <Baba_Ganoush>
+          <inhalt>Baba Ganoush zusammen mit den Schweigermutterzungen servieren.</inhalt>
+      </Baba_Ganoush>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

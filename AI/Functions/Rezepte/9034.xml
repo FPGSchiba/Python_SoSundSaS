@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>346 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kalbfleischbaellchen>
+          <quant>1/2 </quant>
+          <zutat>Weggli, (ca. 25 g), in Wuerfeli</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Kalb)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Fond de veau concentre</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Kalbfleischbaellchen>
+      <Sud_&amp;_Gemuese>
+          <quant>4 </quant>
+          <zutat>Fine Food Greek Safron</zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Fond de veau concentre</zutat>
+          <quant>100 g</quant>
+          <zutat>Stangensellerie, in ca. 1 cm breiten Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, geschaelt, entkernt, in Streifen</zutat>
+      </Sud_&amp;_Gemuese>
+   </einkaufliste>
+   <rezept>
+      <Kalbfleischbaellchen>
+          <inhalt>Weggli mit alle Zutaten bis und mit Sesam mischen, wuerzen, gut kneten. Mit nassen Haenden zu 12 Kugeln formen.</inhalt>
+      </Kalbfleischbaellchen>
+      <Sud_&amp;_Gemuese>
+          <inhalt>Safran im Wasser mit dem Kalbsfond-Konzentrat aufkochen. Hackbaellchen, Sellerie und Tomaten in den Sud geben, ca. 10 Min. fertig koecheln.</inhalt>
+      </Sud_&amp;_Gemuese>
+   </rezept>
+</Rezept>

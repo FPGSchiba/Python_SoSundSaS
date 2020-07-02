@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>213 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Milch     >
+          <quant>8 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade (70 % Kakao), fein gehackt</zutat>
+      </Milch     >
+      <Schneemann_>
+          <quant>wenig </quant>
+          <zutat>Zuckerdekor-Stift  (choco)</zutat>
+          <quant>4 </quant>
+          <zutat>Marshmallows</zutat>
+          <quant>1 </quant>
+          <zutat>Marzipanrueebli, geviertelt und zu Nasen geformt</zutat>
+      </Schneemann_>
+   </einkaufliste>
+   <rezept>
+      <Milch     >
+          <inhalt>Milch unter Ruehren mit einem Schwingbesen aufkochen. Schokolade beigeben, schmelzen, glatt ruehren. </inhalt>
+      </Milch     >
+      <Schneemann_>
+          <inhalt>Mit dem Zuckerdekor-Stift Mund und Augen auf die Marshmallows zeichnen, Marzipannase in die Mitte setzen. Heisse Schoggi in die Tassen giessen, Marshmallows darauf geben. </inhalt>
+      </Schneemann_>
+   </rezept>
+</Rezept>

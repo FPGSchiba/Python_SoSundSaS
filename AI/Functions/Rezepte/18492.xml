@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>0 kcal  </NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Mediterrane_Mischung>
+          <quant>1 EL</quant>
+          <zutat>Oreganoblaettchen, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikumblaetter, fein geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>getrocknete Tomaten, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kuemmel, zerstossen</zutat>
+      </Mediterrane_Mischung>
+      <Fruchtig-nussige_Mischung>
+          <quant>2 EL</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>4 </quant>
+          <zutat>getrocknete Apfelringe, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Piment (z.B. Fine Food Jamaica Piment)</zutat>
+      </Fruchtig-nussige_Mischung>
+      <Stinker_Mischung>
+          <quant>2 EL</quant>
+          <zutat>Roestzwiebeln, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rosmarinnadeln, fein gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>geraeucherter Paprika </zutat>
+      </Stinker_Mischung>
+      <Curry_Mischung>
+          <quant>1 TL</quant>
+          <zutat>Fenchelsamen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Curry (z.B. Fine Food Sri Lanka Curry)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rauchmandel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Ananasscheiben getrocknet, fein gehackt</zutat>
+      </Curry_Mischung>
+   </einkaufliste>
+   <rezept>
+      <Mediterrane_Mischung>
+          <inhalt>Kraeuter mit Tomaten und Kuemmel mischen.</inhalt>
+      </Mediterrane_Mischung>
+      <Fruchtig-nussige_Mischung>
+          <inhalt>Baumnusskerne in einer Bratpfanne ohne Fett roesten, herausnehmen, fein hacken. Baumnusskerne mit Apfelringen, Chiliflocken und Piment mischen. </inhalt>
+      </Fruchtig-nussige_Mischung>
+      <Stinker_Mischung>
+          <inhalt>Roestzwiebeln, Rosmarin, Knoblauchpulver und Paprika mischen. </inhalt>
+      </Stinker_Mischung>
+      <Curry_Mischung>
+          <inhalt>Fenchelsamen in einer Bratpfanne ohne Fett roesten. Fenchelsamen im Moerser zerstossen, mit Curry, Rauchmandeln und Ananas mischen.</inhalt>
+      </Curry_Mischung>
+   </rezept>
+</Rezept>

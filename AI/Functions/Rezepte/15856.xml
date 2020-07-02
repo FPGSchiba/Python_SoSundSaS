@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>521 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>500 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+      </Teig      >
+      <Butter_einarbeiten>
+          <quant>250 g</quant>
+          <zutat>Butter</zutat>
+      </Butter_einarbeiten>
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Zucker, Salz und Hefe in einer Schuessel mischen. Wasser und Milch dazugiessen, mischen, zu einem weichen Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 1/2 Std. aufs Doppelte aufgehen lassen.  </inhalt>
+      </Teig      >
+      <Butter_einarbeiten>
+          <inhalt>Butter zwischen zwei Backpapiere legen, rechteckig (ca. 20 x 25 cm) auswallen, ca. 30 Min. kuehl stellen. Teig auf wenig Mehl rechteckig (ca. 25 x 40 cm) auswallen. Butterplatte auf zwei Drittel des Teiges legen, sodass an drei Seiten ein ca. 1 cm breiter Rand entsteht. Freies Teigdrittel einklappen, eingeklappten Teig ueber restlichen Teig legen. </inhalt>
+      </Butter_einarbeiten>
+      <Falten    >
+          <inhalt>Raender gut andruecken, auf wenig Mehl laengs rechteckig (ca. 25 x 40 cm) auswallen. Ein Teigdrittel einklappen, anderes Teigdrittel darueberlegen. In Klarsichtfolie einpacken, ca. 30 Min. kuehl stellen. Vorgang 3-mal wiederholen. </inhalt>
+      </Falten    >
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl rechteckig (ca. 25 x 50 cm) auswallen. Teig mit einem scharfen Messer in 8 gleich grosse Dreiecke schneiden. Auf der unteren kuerzesten Seite der Dreiecke in der Mitte ca. 1 cm einschneiden, etwas in die  Breite ziehen. Teigstuecke aufrollen. Croissants mit der Teigspitze nach unten auf ein mit Backpapier belegtes Blech legen. Nochmals zugedeckt bei Raumtemperatur ca. 30 Min. aufgehen lassen, mit wenig Ei bestreichen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Croissants herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+</Rezept>

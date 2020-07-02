@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>75 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>100 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>200 g</quant>
+          <zutat>gekochte Randen, grob gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>3 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Couscous mit der Bouillon aufkochen, zugedeckt ca. 7 Min. quellen lassen. Randen, Huettenkaese, Paniermehl und Eier mit dem Couscous vermischen, Masse wuerzen. Zugedeckt im Kuehlschrank ca. 30 Min. ruhen lassen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Aus der Masse 12 Kuechlein formen, portionenweise im Oel beidseitig je 3-4 Min. goldbraun braten.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

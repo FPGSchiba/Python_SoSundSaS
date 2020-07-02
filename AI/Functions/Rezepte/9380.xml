@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>336 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Curry     >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>rote Currypaste</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli, in Staengeln</zutat>
+          <quant>170 g</quant>
+          <zutat>Ananas, in Stuecken</zutat>
+          <quant>4 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit), gequetscht</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, laengs halbiert, entkernt</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras  Inneres fein gehackt</zutat>
+          <quant>4 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Fischbouillon</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Kefen</zutat>
+          <quant>250 g</quant>
+          <zutat>tiefgekuehlte Calamaresringe</zutat>
+          <quant>250 g</quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio)</zutat>
+      </Curry     >
+      <Servieren >
+          <quant>1/2 Bund</quant>
+          <zutat>Thai-Basilikum, fein geschnitten</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Curry     >
+          <inhalt>Oel im Wok heiss werden lassen. Zwiebel und Currypaste andaempfen. Rueebli und alle Zutaten bis und mit Zitronengras beigeben, kurz mitdaempfen. Kokosmilch und Bouillon dazugiessen, aufkochen. Hitze reduzieren, ca. 5 Min. koecheln, salzen.  Kefen, Calamares und Crevetten beigeben, mischen, zugedeckt bei kleiner Hitze ca. 10 Min. ziehen lassen.</inhalt>
+      </Curry     >
+      <Servieren >
+          <inhalt>Kaffirlimetten- Blaetter entfernen, Thai-Basilikum darueberstreuen.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>150 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brombeermasse_>
+          <quant>80 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Gin</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Brombeermasse_>
+      <Zuckersirup_>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+      </Zuckersirup_>
+      <Jogurtmasse_>
+          <quant>600 g</quant>
+          <zutat>griechischer Jogurt nature nature</zutat>
+          <quant>70 g</quant>
+          <zutat>Brombeeren</zutat>
+      </Jogurtmasse_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Brombeermasse                 </inhalt>
+      </How_To    >
+      <Brombeermasse_>
+          <inhalt>Brombeeren und Gin mit dem Puderzucker in einer Pfanne erwaermen, zugedeckt ca. 5 Min. koecheln.</inhalt>
+      </Brombeermasse_>
+      <How_To1   >
+          <inhalt>Brombeer-Mischung puerieren, auskuehlen.  </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Zitronenschale abreiben, Saft auspressen, beides mit dem Zucker in einer Pfanne aufkochen, koecheln bis sich der Zucker aufgeloest hat, auskuehlen. </inhalt>
+      </How_To2   >
+      <Zuckersirup_>
+          <inhalt>Jogurt mit dem Zuckersirup verruehren, in eine Chromstahlschuessel geben, zugedeckt ca. 4 Std. gefrieren, dabei ca. 5-mal durchruehren. </inhalt>
+      </Zuckersirup_>
+      <Jogurtmasse_>
+          <inhalt>Brombeeren halbieren, zur Glace servieren. </inhalt>
+      </Jogurtmasse_>
+   </rezept>
+</Rezept>

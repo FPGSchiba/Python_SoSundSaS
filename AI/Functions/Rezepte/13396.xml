@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>402 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1/2 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>300 g</quant>
+          <zutat>Betty Bossi Thai Wok Bangkok</zutat>
+          <quant>2 EL</quant>
+          <zutat>rote Currypaste</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>Seidentofu, in ca. 2 cm grossen Wuerfeln</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Gemuese ca. 2 Min. ruehrbraten, Currypaste beigeben, ca. 1 Min. weiterruehrbraten. Kokosmilch und Wasser dazugiessen, aufkochen, salzen. Hitze reduzieren, ca. 4 Min. koecheln. Tofu beigeben, nur noch heiss werden lassen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

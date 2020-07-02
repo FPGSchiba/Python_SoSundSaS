@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>445 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mousse    >
+          <quant>2 EL</quant>
+          <zutat>Rosmarinnadeln, fein gehackt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Mousse    >
+      <Kumquats  >
+          <quant>100 g</quant>
+          <zutat>Kumquats, in ca. 2 mm dicken Scheiben</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Rosmarin zum Verzieren</zutat>
+      </Kumquats  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mousse                        </inhalt>
+      </How_To    >
+      <Mousse    >
+          <inhalt>Rosmarin und Rahm in einer Pfanne warm werden lassen. Pfanne von der Platte ziehen, zugedeckt ca. 15 Min. ziehen lassen. Rahm in eine Schuessel absieben, kuehl stellen. Fuer die Verzierung von der Schokolade mit einem grossen Messer einige Spaene abhobeln, zugedeckt kuehl stellen. Restliche Schokolade in eine duennwandige Schuessel zerbroeckeln. </inhalt>
+      </Mousse    >
+      <How_To1   >
+          <inhalt>Eiweisse mit Salz steif schlagen. Zucker beigeben, weiterschlagen bis der Eischnee glaenzt. Rahm zum Rosmarinrahm giessen, zusammen steif schlagen. Eigelbe und Zucker in einer Schuessel ruehren, bis die Masse heller ist. Die Schuessel mit der Schokolade ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, mit 1 /3 des Schlagrahms unter die Ei-Zuckermasse ruehren. Restlichen Rahm mit dem Eischnee portionenweise mit dem Gummischaber sorgfaeltig unter die Schokoladenmasse ziehen. Silvestermousse in Glaeser verteilen. Dessert zugedeckt ca. 4 Std. kuehl stellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Kumquats in eine weite Pfanne legen, knapp mit Wasser bedecken, aufkochen. Hitze reduzieren, ca. 5 Min. koecheln. Fruechte gut abtropfen. Wasser mit dem Zucker aufkochen, Fruchtscheiben beigeben, bei mittlerer Hitze ca. 5 Min. koecheln, bis sie glasig sind, gut abtropfen. Fruchtscheiben auf ein Gitter legen, ca. 30 Min. abtropfen.</inhalt>
+      </How_To2   >
+      <Kumquats  >
+          <inhalt>Verzierung: Mousse mit Kumquats Chips, kuehl gestellten Schokoladespaenen und Rosmarin verzieren.</inhalt>
+      </Kumquats  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

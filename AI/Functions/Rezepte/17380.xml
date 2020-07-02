@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>730 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>78 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis_     >
+          <quant>150 g</quant>
+          <zutat>Basmatireis (10 Min.)</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Reis_     >
+      <Reispfanne>
+          <quant>2 </quant>
+          <zutat>Bauernbratwuerste </zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>rotschalige Aepfel, in Schnitzen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Reispfanne>
+   </einkaufliste>
+   <rezept>
+      <Reis_     >
+          <inhalt>Reis im Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Wasser und Salz mit dem Reis aufkochen, Reis zugedeckt auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei Deckel nie abheben. </inhalt>
+      </Reis_     >
+      <Reispfanne>
+          <inhalt>Pro Wurst ca. 8 Portionen aus der Haut druecken, zu Kuegeli formen. Oel in einer Bratpfanne erhitzen. Aepfel beigeben, beidseitig je ca. 2 Min. anbraten, herausnehmen. Wurstkuegeli in derselben Pfanne unter gelegentlichem Ruehren ca. 5 Min. braten. Aepfel und Zucker beigeben, ca. 1 Min. mitbraten, wuerzen. Reis daruntermischen, nur noch heiss werden lassen. Roestzwiebeln darueberstreuen.</inhalt>
+      </Reispfanne>
+   </rezept>
+</Rezept>

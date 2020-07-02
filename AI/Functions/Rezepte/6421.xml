@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>523 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Curry_    >
+          <quant>wenig </quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>450 g</quant>
+          <zutat>duenneTrutenbrustschnitzel, quer in ca. 1.5 cm breiten Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Lauch (ca. 150 g), laengs geviertelt, in ca. 5 cm langen Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras , aeussere Blaetter beiseitegelegt, Inneres fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>rote Currypaste</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>200 g</quant>
+          <zutat>Mini-Kefen</zutat>
+          <quant>125 g</quant>
+          <zutat>Mini-Maiskoelbchen, laengs und quer halbiert</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Curry_    >
+      <Reis      >
+          <quant>200 g</quant>
+          <zutat>Parfuemreis</zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Zitronengras , beiseite gestellt</zutat>
+      </Reis      >
+   </einkaufliste>
+   <rezept>
+      <Curry_    >
+          <inhalt>Oel im Wok oder in einer weiten Bratpfanne heiss werden lassen. Trutenstreifen portionenweise ca. 3 Min. ruehrbraten, herausnehmen, zugedeckt beiseitestellen. Evtl. wenig Oel beigeben, Lauch, Knoblauch und Zitronengras beigeben, ca. 1 Min. ruehrbraten, Currypaste beigeben, kurz mitruehrbraten. Kokosmilch und Wasser gut verruehren, dazugiessen, aufkochen, Hitze reduzieren. Rohzucker, Fischsauce und Kurkuma beigeben, mischen. Kefen und Mais beigeben, Gemuese offen ca. 15 Min. knapp weich koecheln. Fleisch wieder beigeben, mischen, nur noch heiss werden lassen, salzen.</inhalt>
+      </Curry_    >
+      <Reis      >
+          <inhalt>Reis im Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Wasser mit dem Reis, Salz und den Zitronengrasblaettern aufkochen, bei mittlerer Hitze ca. 5 Min. kochen. Bei kleinster Hitze ca. 15 Min. ziehen lassen. Reis mit einer Gabel lockern. Zitronengrasblaetter herausnehmen. Parfuemreis zum Trutencurry servieren.</inhalt>
+      </Reis      >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

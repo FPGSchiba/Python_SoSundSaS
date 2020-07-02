@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>229 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ecken     >
+          <quant>200 g</quant>
+          <zutat>Sesam</zutat>
+          <quant>50 g</quant>
+          <zutat>Sojaflocken</zutat>
+          <quant>100 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien</zutat>
+          <quant>90 g</quant>
+          <zutat>geschaelte Mandeln</zutat>
+          <quant>120 g</quant>
+          <zutat>Tahina </zutat>
+          <quant>120 g</quant>
+          <zutat>fester Bluetenhonig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>tiefgekuehlte Himbeeren, leicht zerbrochen</zutat>
+      </Ecken     >
+      <Jogurt-Decke_und_Toppings>
+          <quant>200 g</quant>
+          <zutat>Jogurt nature, nach Wahl</zutat>
+          <quant>2 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 Handvoll</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+      </Jogurt-Decke_und_Toppings>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ecken                         </inhalt>
+      </How_To    >
+      <Ecken     >
+          <inhalt>Backen: 15-18 Min. in der Mitte des auf 160 g (Umluft/Heissluft) vorgeheizten Ofens. Sesam in eine grosse Schuessel geben. 1/3 der Pistazien fuer das Topping beiseite stellen, Rest mit Sojaflocken und Mandeln im Cutter fein hacken, zum Sesam geben. Tahina, Honig, Salz und Vanille ebenfalls beigeben, alles gut vermischen. Himbeeren unter die Masse mischen. Eine eckige Form (ca. 20x20 cm, ca. 1 1/2 cm hoch) mit Klarsichtfolie auslegen, Masse hineingeben und flach druecken. Fuer mindestens 2 Std. in den Tiefkuehler stellen.</inhalt>
+      </Ecken     >
+      <Jogurt-Decke_und_Toppings>
+          <inhalt>Form aus dem Tiefkuehler nehmen, Masse in 16 Stuecke schneiden. Jogurt darauf verteilen, mit Himbeeren und beiseite gestellten, gehackten Pistazien verzieren.</inhalt>
+      </Jogurt-Decke_und_Toppings>
+   </rezept>
+</Rezept>

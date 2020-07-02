@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>508 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuemmel-Flutes>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kuemmel</zutat>
+      </Kuemmel-Flutes>
+      <Lauchsuppe>
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>500 g</quant>
+          <zutat>Lauch, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Lauchsuppe>
+      <Garnitur  >
+          <quant>30 g</quant>
+          <zutat>Micro Greens  oder andere Sprossen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kernenmix</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kuemmel-Flutes                 </inhalt>
+      </How_To    >
+      <Kuemmel-Flutes>
+          <inhalt>Teig quer in ca. 2 cm breite Streifen schneiden, mit Fleur de Sel bestreuen. Teigstreifen laengs zusammenlegen, spiralfoermig verdrehen, mit Ei bestreichen, mit Kuemmel bestreuen. Auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Kuemmel-Flutes>
+      <How_To1   >
+          <inhalt>Lauchsuppe                    </inhalt>
+      </How_To1   >
+      <Lauchsuppe>
+          <inhalt>Rahm dazugiessen, Suppe puerieren, wuerzen.</inhalt>
+      </Lauchsuppe>
+      <Garnitur  >
+          <inhalt>Suppe anrichten, mit Sprossen und Kernen garnieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

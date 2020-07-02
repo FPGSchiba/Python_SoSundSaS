@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>241 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Roulade   >
+          <quant>6 </quant>
+          <zutat>Wirzblaetter, gross</zutat>
+          <quant>12 Tranchen</quant>
+          <zutat>Buendnerfleisch</zutat>
+          <quant>2 Pack</quant>
+          <zutat>Dorschrueckenfilets Nordstar (je ca. 250g)</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Roulade   >
+      <Backen    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Backen    >
+      <Petersilienschaum>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Petersilienschaum>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Roulade                       </inhalt>
+      </How_To    >
+      <Roulade   >
+          <inhalt>Wirzblaetter ca. 2 Min. blanchieren, herausnehmen, kurz in eiskaltes Wasser legen, abtropfen, auf einem Tuch auslegen.</inhalt>
+      </Roulade   >
+      <How_To1   >
+          <inhalt>Dicke Blattrippen flach schneiden, Blaetter sich leicht ueberlappend in 2 Reihen auf ein grosses Stueck Klarsichtfolie legen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Buendnerfleisch auf die Wirzblaetter legen. Fischfilets wuerzen, auf das Buendnerfleisch legen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Backen                        </inhalt>
+      </How_To3   >
+      <Backen    >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+      <Petersilienschaum>
+          <inhalt>Fuer den Petersilienschaum den Rahm flaumig schlagen. Petersilie fein schneiden, mit dem Rahm vermischen, wuerzen.</inhalt>
+      </Petersilienschaum>
+      <Servieren >
+          <inhalt>Roulade tranchieren, mit dem Petersilienschaum anrichten.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

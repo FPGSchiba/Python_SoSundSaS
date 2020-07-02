@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>626 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>41 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli-Pickles>
+          <quant>3/4 dl</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in feinen Streifen</zutat>
+      </Rueebli-Pickles>
+      <Caramel-Schweinefleisch>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>800 g</quant>
+          <zutat>Schweinshals , in Wuerfeln</zutat>
+          <quant>4 dl</quant>
+          <zutat>Kokoswasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 </quant>
+          <zutat>Schalotten, halbiert</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, halbiert</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Pfeffer</zutat>
+      </Caramel-Schweinefleisch>
+      <Anrichten >
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Pfefferminze, zerzupft</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, in Ringen, entkernt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Rueebli-Pickles>
+          <inhalt>Essig, Zucker und Salz in einer Schuessel verruehren, Rueebli beigeben, zugedeckt ziehen lassen. </inhalt>
+      </Rueebli-Pickles>
+      <Caramel-Schweinefleisch>
+          <inhalt>Zucker und Wasser in einem Brattopf ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Fleisch beigeben, umruehren, bis das Fleisch mit Caramel bedeckt ist. Kokoswasser und Wasser dazugiessen, aufkochen. Schalotten und Knoblauch beigeben, zugedeckt bei kleiner Hitze ca. 30 Min. schmoren, Deckel entfernen, ca. 30 Min. weiterschmoren, bis die Fluessigkeit zur Haelfte eingekocht ist. Fischsauce und Pfeffer beigeben, bei mittlerer Hitze ca. 30 Min. fertig schmoren. </inhalt>
+      </Caramel-Schweinefleisch>
+      <Anrichten >
+          <inhalt>Rueebli abtropfen, mit den Kraeutern, Chili und Limettensaft mischen. Fleisch mit den Pickles servieren. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>121 kcal</NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Smoothie  >
+          <quant>6 dl</quant>
+          <zutat>Granatapfelsaft</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature, 2 EL beiseite gestellt</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlte Himbeeren, angetaut</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>70 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+      </Smoothie  >
+   </einkaufliste>
+   <rezept>
+      <Smoothie  >
+          <inhalt>Granatapfelsaft und alle Zutaten bis und mit Ingwer in einen Mixbecher geben, fein puerieren, zugedeckt mind. 30 Min. kuehl stellen. Smoothie in die Glaeser verteilen, Granatapfel und beiseite gestelltes Jogurt daruntermischen. </inhalt>
+      </Smoothie  >
+   </rezept>
+</Rezept>

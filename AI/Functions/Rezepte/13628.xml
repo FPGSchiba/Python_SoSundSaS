@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>590 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>48 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mango-Chili-Ragout>
+          <quant>1 </quant>
+          <zutat>Mango</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Mango-Chili-Ragout>
+      <Poulets   >
+          <quant>2 </quant>
+          <zutat>Poulets (je ca. 900 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>2 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Poulets   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mango-Chili-Ragout            </inhalt>
+      </How_To    >
+      <Mango-Chili-Ragout>
+          <inhalt>Von der Mango das Fruchtfleisch beidseits entlang dem flachen Stein abschneiden, Fruchtfleisch in Scheibchen schneiden. Mit Zwiebel, Chili, Thymian, Zitronensaft, Oel und Salz vermischen. Zugedeckt ca. 1 Std. ziehen lassen.</inhalt>
+      </Mango-Chili-Ragout>
+      <How_To1   >
+          <inhalt>Poulets innen und aussen kalt abspuelen, trocken tupfen. Die Rueckenknochen herausschneiden, Poulets von der Brustseite her flach druecken. Oel mit den Gewuerzen verruehren, Poulets damit bestreichen.</inhalt>
+      </How_To1   >
+      <Poulets   >
+          <inhalt>Poulets anrichten, Mango-Chili-Ragout dazu servieren.</inhalt>
+      </Poulets   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=sLzibmyOJV4"/>
+</Rezept>

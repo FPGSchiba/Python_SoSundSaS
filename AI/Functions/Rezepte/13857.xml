@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>188 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pralines  >
+          <quant>100 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>50 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>70 g</quant>
+          <zutat>Mandelcreme </zutat>
+          <quant>70 g</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>15 </quant>
+          <zutat>Haselnuesse</zutat>
+      </Pralines  >
+      <Verzierung>
+          <quant>100 g</quant>
+          <zutat>vegane, helle Schokolade</zutat>
+          <quant>50 g</quant>
+          <zutat>Pistazien, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Pralines  >
+          <inhalt>Gemahlene Haselnuesse mit allen Zutaten bis und mit Ahornsirup im Cutter fein hacken, bis eine Masse entsteht, die zusammenhaelt. Masse in ca. 15 Portionen teilen, Kugeln formen, dabei je 1 Haselnuss in die Mitte einarbeiten. Zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Pralines  >
+      <Verzierung>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Pralines in die Schokolade tauchen, auf einem Gitter kurz abtropfen, in Pistazien oder Haselnuessen wenden oder mit Kakaopulver bestaeuben. Pralines auf Backpapier legen, zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Verzierung>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>212 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen, 2 EL Gruen fuer die Garnitur beiseite gestellt</zutat>
+          <quant>300 g</quant>
+          <zutat>Suesskartoffeln, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>gruene Peperoni, in Wuerfeli</zutat>
+          <quant>3/4 EL</quant>
+          <zutat>Tex Mex Spice Mix (z.B. von Karma)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 Dose</quant>
+          <zutat>schwarze Bohnen (ca. 210 g), abgespuelt, abgetropft</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 140 g), abgetropft</zutat>
+          <quant>7 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Suppe     >
+      <Garnitur  >
+          <quant>1 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosnuss-Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, in Schnitzen</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Kokosoel in einer Pfanne erwaermen, Knoblauch und Bundzwiebeln andaempfen, Suesskartoffeln, Peperoni, Tex Mex Spice Mix und Paprika beigeben, ca. 2 Min. mitdaempfen. Bohnen und Mais beigeben, Wasser dazugiessen, aufkochen, salzen, zugedeckt ca. 20 Min. koecheln.</inhalt>
+      </Suppe     >
+      <Garnitur  >
+          <inhalt>Die Haelfte vom Koriander unter die Suppe ruehren. Suppe anrichten, mit Jogurt, beiseite gestelltem Bundzwiebelgruen, restlichem Koriander, Kokosnuss-Streifen und Limettenschnitzen garnieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

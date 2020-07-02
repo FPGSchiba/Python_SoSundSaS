@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>169 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>400 g</quant>
+          <zutat>tiefgekuehlte Calamaresringe (MSC), aufgetaut, abgetropft</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 3 EL Saft</zutat>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>entsteinte gruene Oliven, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Streifen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Calamares mit einem Haushaltspapier trocken tupfen. Oel in einer Bratpfanne erhitzen, Calamares ca. 4 Min. braten. Pfanne von der Platte nehmen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Zitronenschale und alle restlichen Zutaten unter die Calamares mischen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

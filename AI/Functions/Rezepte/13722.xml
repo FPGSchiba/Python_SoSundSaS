@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>524 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1/2 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Shiitake-Pilze, in Scheiben</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Miso-Paste</zutat>
+      </Suppe     >
+      <Spargeln  >
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+      </Spargeln  >
+      <Tofu_&amp;_Garnitur>
+          <quant>200 g</quant>
+          <zutat>Tofu (z.B. Ingwer-Tofu), in ca. 1 cm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel, in Ringen</zutat>
+          <quant>1/2 </quant>
+          <zutat>Avocado (oder 1 Mini-Avocado), in Scheiben</zutat>
+      </Tofu_&amp;_Garnitur>
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Kokosoel erhitzen, Knoblauch, Ingwer und Shiitake einige Minuten andaempfen. Wasser dazugiessen und Miso beigeben, ca. 10 Min. koecheln.</inhalt>
+      </Suppe     >
+      <Spargeln  >
+          <inhalt>Spargeln mit dem Sparschaeler der Laenge nach in "Nudeln" hobeln, mit Sojasauce und Sesamoel mischen, kurz marinieren.</inhalt>
+      </Spargeln  >
+      <Tofu_&amp;_Garnitur>
+          <inhalt>Tofu im Sesam wenden. Kokosoel in einer Bratpfanne erhitzen, Tofu beidseitig knusprig braten. Suppe auf 2 Schalen aufteilen, Spargeln darin verteilen, Limettensaft beigeben. Suppe mit Tofu, Radiesli, Bundzwiebeln und Avocado garnieren.</inhalt>
+      </Tofu_&amp;_Garnitur>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

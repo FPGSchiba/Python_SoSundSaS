@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>381 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>46 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>800 g</quant>
+          <zutat>Rindsfilet</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Schwarztee (z.B. Earl Grey)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>grobkoerniges Meersalz</zutat>
+          <quant>6 </quant>
+          <zutat>Pfefferkoerner</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Schwarztee (z.B. Earl Grey)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>2 dl</quant>
+          <zutat>roter Portwein</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>5 </quant>
+          <zutat>Kardamomkapseln, Samen ausgeloest, gequetscht</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <_Kefenstroh>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>200 g</quant>
+          <zutat>Mini-Kefen, laengs in feinsten Streifen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </_Kefenstroh>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Niedergaren: ca. 2 Std. in der Mitte des vorgeheizten Ofens. Kerntemperatur: ca. 55 Grad (a point). Warm halten: ca. 1 Std. bei 60 Grad.</inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Tee mit dem siedenden Wasser ueberbruehen, zugedeckt kurz ziehen lassen, in beiseitegestellte Bratpfanne absieben. Wein dazugiessen, Schalotte und Kardamomsamen beigeben, aufkochen. Fluessigkeit auf 2 1/2 dl reduzieren, in Pfaennchen absieben. Mehl und Butter mit einer  Gabel gut mischen. Reduktion aufkochen, Mehlbutter portionenweise unter Ruehren beigeben, wuerzen.</inhalt>
+      </Sauce     >
+      <_Kefenstroh>
+          <inhalt>Bratbutter in Bratpfanne erhitzen. Kefenstroh unter Ruehren ca. 3 Min. ruehrbraten, wuerzen.</inhalt>
+      </_Kefenstroh>
+   </rezept>
+</Rezept>

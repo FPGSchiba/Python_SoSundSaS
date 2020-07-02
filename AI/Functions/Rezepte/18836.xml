@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>461 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Biskuit   >
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser, heiss</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, grob gerieben</zutat>
+      </Biskuit   >
+      <Heidelbeerkompott>
+          <quant>350 g</quant>
+          <zutat>tiefgekuehlte Heidelbeeren, angetaut</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Heidelbeerkompott>
+      <Apfelscheiben>
+          <quant>1 1/2 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in ca. 1 cm dicken Schnitzen</zutat>
+      </Apfelscheiben>
+      <Frischkaesemasse>
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>50 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Frischkaesemasse>
+   </einkaufliste>
+   <rezept>
+      <Biskuit   >
+          <inhalt>Zucker, Eigelbe und Wasser in eine Schuessel geben, mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse hell und schaumig ist. Eiweisse mit dem Salz steif schlagen, Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Mehl, Backpulver und Mandeln mischen, lagenweise mit dem Eischnee und Apfel auf die Masse geben, mit dem Gummischaber sorgfaeltig darunterziehen, in die vorbereitete Form fuellen.</inhalt>
+      </Biskuit   >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens, dabei das Biskuit gegen Ende der Backzeit wenn noetig mit Alufolie bedecken. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Biskuit auf ein Gitter stuerzen, Backpapier entfernen, auskuehlen. Biskuit 2-mal aufschneiden.</inhalt>
+      </Backen    >
+      <Heidelbeerkompott>
+          <inhalt>Heidelbeeren, Zucker und Wasser in einer Pfanne mischen, ca. 5 Min koecheln, puerieren, durch ein Sieb streichen, auskuehlen.</inhalt>
+      </Heidelbeerkompott>
+      <Apfelscheiben>
+          <inhalt>Apfelsaft mit dem Zucker und Zitronensaft in einer weiten Pfanne aufkochen. Aepfel beigeben, zugedeckt ca. 5 Min. knapp weich koecheln. Pfanne von der Platte nehmen, Aepfel in der Fluessigkeit auskuehlen. </inhalt>
+      </Apfelscheiben>
+      <Frischkaesemasse>
+          <inhalt>Butter in eine Schuessel geben, verruehren, Frischkaese und Puderzucker gut darunterruehren. Masse halbieren, eine Haelfte davon in einen Spritzsack ohne Tuelle geben, kuehl stellen. Restliche Masse ebenfalls halbieren. Die eine Haelfte mit 1/2 EL Heidelbeerkompott, die andere mit 3 EL Heidelbeerkompott mischen. Jede Masse separat in einen Spritzsack ohne Tuelle fuellen, ca. 1 Std. kuehl stellen. </inhalt>
+      </Frischkaesemasse>
+      <Zusammensetzen>
+          <inhalt>Biskuitboden auf eine Tortenplatte legen. Alle drei Schnittflaechen mit dem restlichen Heidelbeerkompott und der Apfelfluessigkeit betraeufeln. Die Haelfte der Apfelscheiben auf den Boden legen, 2. Biskuit darauf legen. Restliche Apfelscheiben darauf verteilen, 3. Biskuit darauf legen. Tortendeckel und oberes Drittel der Torte rundum mit der ungefaerbten Frischkaesemasse bestreichen. Untere zwei Drittel mit den farbigen Frischkaesemassen bestreichen, rundum glatt streichen. Torte zudedeckt im Kuehlschrank ca. 30 Min. kuehl stellen. </inhalt>
+      </Zusammensetzen>
+   </rezept>
+</Rezept>

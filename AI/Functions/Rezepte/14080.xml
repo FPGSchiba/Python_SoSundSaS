@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>185 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brownie-Teig>
+          <quant>350 g</quant>
+          <zutat>Suesskartoffeln, in Wuerfeln</zutat>
+          <quant>100 g</quant>
+          <zutat>getrocknete Aprikosen (suess)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>80 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>vegane, helle Schokolade, grob gehackt</zutat>
+      </Brownie-Teig>
+      <Mandel-Swirl>
+          <quant>2 EL</quant>
+          <zutat>weisses Mandelmus, glatt geruehrt</zutat>
+      </Mandel-Swirl>
+   </einkaufliste>
+   <rezept>
+      <Brownie-Teig>
+          <inhalt>Daempfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter das Koerbchen einfuellen. Suesskartoffeln ins Koerbchen legen, zugedeckt bei mittlerer Hitze ca. 25 Min. sehr weich garen. Aprikosen in der Mandelmilch einlegen, kurz ziehen lassen, mit den Suesskartoffeln und dem Oel zu einer glatten Masse puerieren, auskuehlen. Mandeln und alle Zutaten bis und mit Salz darunterruehren. Schokolade daruntermischen. Teig in die vorbereitete Form geben. </inhalt>
+      </Brownie-Teig>
+      <Mandel-Swirl>
+          <inhalt>Mandelmus portionenweise auf dem Teig verteilen, mithilfe eines Holzspiesschens marmorieren. </inhalt>
+      </Mandel-Swirl>
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, in der Form etwas abkuehlen, auf einem Gitter auskuehlen, in Stuecke schneiden.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

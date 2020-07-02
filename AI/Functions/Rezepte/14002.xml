@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>477 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade (85 % Kakao)</zutat>
+      </Schokolade_>
+      <Teig_     >
+          <quant>140 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>230 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>5 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>140 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>140 g</quant>
+          <zutat>Guetzli (z.B. Spekulatius), im Cutter fein gemahlen</zutat>
+          <quant>5 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Teig_     >
+      <Rotweinglasur_>
+          <quant>2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>70 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Rotweinglasur_>
+      <Glasur_   >
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+      </Glasur_   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schokolade                    </inhalt>
+      </How_To    >
+      <Schokolade_>
+          <inhalt>Teig                          </inhalt>
+      </Schokolade_>
+      <Teig_     >
+          <inhalt>Backen                        </inhalt>
+      </Teig_     >
+      <Backen    >
+          <inhalt>Rotweinglasur                 </inhalt>
+      </Backen    >
+      <Rotweinglasur_>
+          <inhalt>Glasur                        </inhalt>
+      </Rotweinglasur_>
+      <Glasur_   >
+          <inhalt>Glasur ueber die Torte giessen, trocknen. </inhalt>
+      </Glasur_   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

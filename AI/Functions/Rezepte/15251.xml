@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>353 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Raeucherchips>
+          <quant>75 g</quant>
+          <zutat>Raeucherchips</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Raeucherchips>
+      <Gewuerz-Paeckli>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>schwarzer Pfeffer, zerstossen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+      </Gewuerz-Paeckli>
+      <Raeuchern_auf_dem_Holzkohlegrill>
+          <quant>1 </quant>
+          <zutat>Mozzarella (je ca. 150 g)</zutat>
+          <quant>250 g</quant>
+          <zutat>Hartkaese  (Toggenburger Blumenkaese)</zutat>
+          <quant>150 g</quant>
+          <zutat>Weichkaese (Reblochon Val d`Arve)</zutat>
+          <quant>250 g</quant>
+          <zutat>Feta</zutat>
+      </Raeuchern_auf_dem_Holzkohlegrill>
+      <Rhabarber-Chutney>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>200 g</quant>
+          <zutat>roter Rhabarber, in feinen Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Essig</zutat>
+      </Rhabarber-Chutney>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Raeucherchips                  </inhalt>
+      </How_To    >
+      <Raeucherchips>
+          <inhalt>Gewuerz-Paeckli                 </inhalt>
+      </Raeucherchips>
+      <Gewuerz-Paeckli>
+          <inhalt>Raeuchern auf dem Holzkohlegrill</inhalt>
+      </Gewuerz-Paeckli>
+      <Raeuchern_auf_dem_Holzkohlegrill>
+          <inhalt>auf die Glut geben. Mozzarella in eine Grillschale legen, Gewuerz-Paeckli danebenlegen. Restlicher Kaese auf das Grillholzbrettchen legen. Zugedeckt indirekt ueber schwacher Glut (ca. 150 Grad) ca. 20 Min. grillieren, etwas abkuehlen.</inhalt>
+      </Raeuchern_auf_dem_Holzkohlegrill>
+      <Rhabarber-Chutney>
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel ca. 3 Min. andaempfen, Rhabarber beigeben, ca. 2 Min. mitdaempfen. Chili, Zucker, Salz, Wasser und Essig beigeben, aufkochen, Hitze reduzieren und zugedeckt ca. 5 Min. koecheln. Chutney etwas abkuehlen, gut verruehren, mit dem Kaese servieren.  </inhalt>
+      </Rhabarber-Chutney>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=xoDfx5yo5LQ"/>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

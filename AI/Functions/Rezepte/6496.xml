@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>506 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Espuma    >
+          <quant>1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 </quant>
+          <zutat>Gaspatrone</zutat>
+      </Espuma    >
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>4 EL</quant>
+          <zutat>lauwarmes Wasser</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>500 g</quant>
+          <zutat>gemischte  Pilze (z.B. Champignons, Kraeuterseitlinge, Austernpilze), in Stuecken</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Cognac</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Espuma                        </inhalt>
+      </How_To    >
+      <Espuma    >
+          <inhalt>Bouillon aufkochen, Erbsen ca. 4 Min. koecheln, mit Zitronensaft mischen, auskuehlen. Erbsen mit 2 EL Rahm fein puerieren. Mit restlichem Rahm in Rahmblaeser fuellen, Patrone hineinspritzen, kraeftig schuetteln, ca. 1 Std. kuehl stellen.</inhalt>
+      </Espuma    >
+      <How_To1   >
+          <inhalt>Teig                          </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To2   >
+      <Teig      >
+          <inhalt>Fertigstellen: Teig auf wenig Mehl rechteckig, moeglichst duenn auswallen, auf ein Tuch legen. Teig mit bemehlten Haenden sorgfaeltig ausziehen, bis er ca. 45 x 55 cm gross ist, mit Butter bestreichen, Fuellung darauf verteilen, dabei ringsum einen Rand von ca. 2 cm frei lassen. Seitliche Raender einschlagen. Tuch leicht heben, Strudel aufrollen, auf ein mit Backpapier belegtes Blech legen, mit Butter bestreichen. </inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Erbsli-Schaum (Variante ohne Rahmblaeser): Rahm steif schlagen, sorgfaeltig unter das lauwarme Erbslipueree ziehen.</inhalt>
+      </Fuellung   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

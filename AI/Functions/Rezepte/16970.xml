@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>370 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Griessnocken>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>60 g</quant>
+          <zutat>Hartweizengriess</zutat>
+      </Griessnocken>
+      <Apfelsuppe>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>4 </quant>
+          <zutat>Aepfel (z.B. Gravensteiner, ca. 700 g), geschaelt, Kerngehaeuse entfernt, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in feinen Scheiben</zutat>
+          <quant> </quant>
+          <zutat>Zimt zum Bestaeuben</zutat>
+      </Apfelsuppe>
+   </einkaufliste>
+   <rezept>
+      <Griessnocken>
+          <inhalt>Milch mit Butter, Vanillezucker und Salz aufkochen. Griess einruehren, aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren ca. 5 Min. koecheln, etwas abkuehlen. Mit einem Kaffeeloeffel baumnussgrosse Nocken formen.  </inhalt>
+      </Griessnocken>
+      <Apfelsuppe>
+          <inhalt>Butter in einer Pfanne erwaermen. Aepfel, Sternanis und Zimt beigeben, ca. 5 Min. andaempfen. Zucker und Weisswein beigeben, ca. 2 Min. weiterdaempfen. Wasser und Zitronensaft dazugiessen, zugedeckt ca. 10 Min. weich kochen. Sternanis und Zimt entfernen, etwas abkuehlen, Buttermilch dazugiessen, fein puerieren. Lauwarme Suppe anrichten, Griessnocken und Apfelscheiben darauf verteilen, mit Zimt bestaeuben. </inhalt>
+      </Apfelsuppe>
+   </rezept>
+</Rezept>

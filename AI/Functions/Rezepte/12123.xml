@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>145 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>700 g</quant>
+          <zutat>Kuerbis (ergibt geruestet ca. 600 g)</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili</zutat>
+          <quant>1 TL</quant>
+          <zutat>schwarzer Pfeffer</zutat>
+          <quant>4 dl</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kuerbis schaelen, entkernen, in ca. 1 cm grosse Wuerfel schneiden. Zwiebeln in Schnitze, Knoblauch in Scheiben schneiden. Alles im Salzwasser ca. 4 Min. kochen, gut abtropfen, bis unter den Rand in saubere Glaeser fuellen. Chili laengs halbieren, entkernen,  mit Pfefferkoernern, Essig, Wasser und Salz aufkochen, siedend heiss knapp unter den Rand ueber den Kuerbis giessen. Glaeser sofort verschliessen, auf einem Tuch auskuehlen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9D_neZK0qDc"/>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+</Rezept>

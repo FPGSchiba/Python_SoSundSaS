@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>136 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Kichererbsenmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>2 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Frittata  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen Zwiebel fein gehackt, Gruen in Ringen</zutat>
+          <quant>2 Blaetter</quant>
+          <zutat>Krautstiel, Stiel in Wuerfeln, Blaetter in Streifen</zutat>
+      </Frittata  >
+      <Tomaten   >
+          <quant>100 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Tomaten   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Frittata                      </inhalt>
+      </Teig      >
+      <Frittata  >
+          <inhalt>Den Teig auf dem Gemuese verteilen. Zugedeckt bei kleiner Hitze ca. 20 Min. stocken lassen.</inhalt>
+      </Frittata  >
+      <Tomaten   >
+          <inhalt>Die Tomaten mit Aceto und Petersilie mischen, salzen. Tomaten auf der Frittata verteilen.</inhalt>
+      </Tomaten   >
+   </rezept>
+</Rezept>

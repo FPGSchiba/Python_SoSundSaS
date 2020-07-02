@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>185 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cocktail  >
+          <quant>2 dl</quant>
+          <zutat>Gin (z.B. alkoholfreier Siegfried Wonderleaf)</zutat>
+          <quant>6 dl</quant>
+          <zutat>Eistee (z.B. Earl Grey)</zutat>
+          <quant>1 </quant>
+          <zutat>rosa Grapefruit, heiss abgespuelt, trocken getupft, Schale mit dem Sparschaeler abgeschaelt, 1/2 dl Saft</zutat>
+          <quant>12 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>100 g</quant>
+          <zutat>Gurken, in Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Cocktail  >
+   </einkaufliste>
+   <rezept>
+      <Cocktail  >
+          <inhalt>Gin, Eistee und Grapefruitsaft verruehren. Eiswuerfel und Gurkenscheiben auf die Glaeser verteilen, Ginmischung daruebergiessen. Grapefruitschale eindrehen, Cocktails damit garnieren, wenig Pfeffer darueberstreuen.   </inhalt>
+      </Cocktail  >
+   </rezept>
+</Rezept>

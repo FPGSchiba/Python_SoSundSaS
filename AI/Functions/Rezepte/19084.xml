@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>609 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>76 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Geschmorter_Lauch>
+          <quant>4 Staengel</quant>
+          <zutat>Lauch (ca. 750 g), laengs geviertelt, in ca. 10 langen Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vermouth (z.B. Noilly Prat)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, zerdrueckt</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Geschmorter_Lauch>
+      <Pappardelle>
+          <quant>400 g</quant>
+          <zutat>Teigwaren (z.B. Pappardelle)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+      </Pappardelle>
+   </einkaufliste>
+   <rezept>
+      <Geschmorter_Lauch>
+          <inhalt>Lauch und alle Zutaten bis und mit Pfeffer in den Brattopf geben, mischen. </inhalt>
+      </Geschmorter_Lauch>
+      <Schmoren_im_Ofen>
+          <inhalt>Zugedeckt ca. 1 Std. in der unteren Haelfte des auf 160 Grad vorgeheizten Ofens. Lorbeer und Rosmarin entfernen.</inhalt>
+      </Schmoren_im_Ofen>
+      <Pappardelle>
+          <inhalt>Teigwaren im siedenden Salzwasser al dente kochen, abtropfen. Teigwaren mit dem Lauch und Sud mischen, Parmesan darueberstreuen. </inhalt>
+      </Pappardelle>
+   </rezept>
+</Rezept>

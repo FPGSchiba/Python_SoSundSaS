@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>341 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fenchel   >
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Anis</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>600 g</quant>
+          <zutat>Fenchel, je nach Groesse in Sechsteln oder Achteln</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fenchel   >
+      <Fleisch   >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>480 g</quant>
+          <zutat>Schweinsplaetzli Charbonnade</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+      </Fleisch   >
+   </einkaufliste>
+   <rezept>
+      <Fenchel   >
+          <inhalt>Zucker und Wasser in einer unbeschichteten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hinund- her-Bewegen der Pfanne koecheln, bis ein heller Karamell entsteht. Anissamen und Butter beigeben, Butter schmelzen. Wein dazugiessen, aufkochen. Hitze reduzieren, Fenchel beigeben, wuerzen. Fenchel unter gelegentlichem Wenden zugedeckt bei mittlerer Hitze ca. 15 Min. knapp weich koecheln. Cherry-Tomaten wuerzen, beigeben. Ca. 5 Min. fertig koecheln.</inhalt>
+      </Fenchel   >
+      <Fleisch   >
+          <inhalt>Oel in beschichteter Bratpfanne heiss werden lassen. Fleisch beidseitig je ca. 30 Sek. braten, wuerzen, zugedeckt warm stellen. Herdplatte ausschalten. Butter in derselben Pfanne heiss werden lassen, bis sie schaeumt. Petersilie beigeben, salzen. Charbonnade mit dem entstandenen Jus beigeben, Charbonnade kurz darin wenden, mit dem Fenchelgemuese anrichten.</inhalt>
+      </Fleisch   >
+   </rezept>
+</Rezept>

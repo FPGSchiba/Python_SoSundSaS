@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>77 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Wassermelonen_Eiswuerfel>
+          <quant>100 g</quant>
+          <zutat>Wassermelone</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+      </Wassermelonen_Eiswuerfel>
+      <Wassermelonen_Sirup>
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+          <quant>500 g</quant>
+          <zutat>Wassermelone</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+      </Wassermelonen_Sirup>
+      <Wassermelonen_Spritzer>
+          <quant>5 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Pfefferminze</zutat>
+      </Wassermelonen_Spritzer>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wassermelonen Eiswuerfel       </inhalt>
+      </How_To    >
+      <Wassermelonen_Eiswuerfel>
+          <inhalt>Melone in Wuerfeli schneiden, Pfefferminzblaettchen abzupfen. </inhalt>
+      </Wassermelonen_Eiswuerfel>
+      <How_To1   >
+          <inhalt>Melone und Pfefferminzblaettchen in die Eiswuerfelform verteilen, mit Wasser auffuellen, zugedeckt ca. 2 Std. gefrieren. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Wassermelonen Sirup           </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Limette auspressen, Melone in Wuerfel schneiden. </inhalt>
+      </How_To3   >
+      <Wassermelonen_Sirup>
+          <inhalt>Wasser und Limettensaft mit der Wassermelone aufkochen. Hitze reduzieren, zugedeckt ca. 30 Min. koecheln, auf der ausgeschalteten Platte ca. 10 Min. ziehen lassen, puerieren. </inhalt>
+      </Wassermelonen_Sirup>
+      <How_To4   >
+          <inhalt>Den Saft mit dem Zucker unter Ruehren aufkochen, bei mittlerer Hitze ca. 20 Min. kochen, abschaeumen (ergibt ca. 7 dl Sirup). </inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Wassermelonen Spritzer        </inhalt>
+      </How_To5   >
+      <Wassermelonen_Spritzer>
+          <inhalt>Limette heiss abspuelen, halbieren und in Scheiben schneiden. Pro Glas 3 Eiswuerfel beigeben, mit Limette und Pfefferminze verzieren. </inhalt>
+      </Wassermelonen_Spritzer>
+   </rezept>
+</Rezept>

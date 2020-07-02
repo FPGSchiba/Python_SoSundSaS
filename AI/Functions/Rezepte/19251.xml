@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>243 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rhabarbermus>
+          <quant>250 g</quant>
+          <zutat>Rhabarber, in Stuecken</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+      </Rhabarbermus>
+      <Hefeteig_ >
+          <quant>400 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+      </Hefeteig_ >
+      <Fuellung_  >
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosraspel</zutat>
+      </Fuellung_  >
+      <Glasur_   >
+          <quant>70 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Glasur_   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rhabarbermus                  </inhalt>
+      </How_To    >
+      <Rhabarbermus>
+          <inhalt>Hefeteig                      </inhalt>
+      </Rhabarbermus>
+      <Hefeteig_ >
+          <inhalt>Fuellung                       </inhalt>
+      </Hefeteig_ >
+      <Fuellung_  >
+          <inhalt>Fuellung darauf verteilen, glatt streichen, dabei ringsum einen Rand von ca. 1 cm frei lassen. Teig von der Laengsseite her aufrollen. Rolle laengs halbieren, Straenge so zusammenflechten, dass die Schnittflaechen oben sind. Zu einem Kranz formen, in den Brattopf geben, Deckel aufsetzen. </inhalt>
+      </Fuellung_  >
+      <Backen_   >
+          <inhalt>Ca. 45 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Deckel abnehmen, ca. 5 Min. fertig backen. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen_   >
+      <Glasur_   >
+          <inhalt>Puderzucker mit der beiseite gestellten Rhabarberfluessigkeit verruehren, Kranz damit bestreichen. </inhalt>
+      </Glasur_   >
+   </rezept>
+</Rezept>

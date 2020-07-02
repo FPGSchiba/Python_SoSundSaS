@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>97 kcal </NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polpette  >
+          <quant>200 g</quant>
+          <zutat>Zucchetti, grob gerieben</zutat>
+          <quant>600 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>3 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>80 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), in Wuerfel</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Polpette  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Polpette                      </inhalt>
+      </How_To    >
+      <Polpette  >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Baell-chen portionenweise bei mittlerer Hitze rundum ca. 4 Min. braten, herausnehmen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Polpette  >
+      <Backen    >
+          <inhalt>ca. 10 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>242 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Eiswuerfel >
+          <quant>1/2 </quant>
+          <zutat>Ananas, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>2 dl</quant>
+          <zutat>Kokoswasser</zutat>
+      </Eiswuerfel >
+      <Drink     >
+          <quant>8 EL</quant>
+          <zutat>Rum</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Cola</zutat>
+      </Drink     >
+   </einkaufliste>
+   <rezept>
+      <Eiswuerfel >
+          <inhalt>Ananas auf einem mit Backpapier belgten Teller verteilen mit klarsichtfolie zudecken. Kokoswasser in einen Eiswuerfelbehaelter giessen. Beides ca. 2 Std. gefrieren. Ananas und Kokos-Eiswuerfel in die Glaeser geben.</inhalt>
+      </Eiswuerfel >
+      <Drink     >
+          <inhalt>Je 2 Essloeffel Rum in die vorbereiteten Glaeser geben, mit Cola auffuellen, Sofort servieren.</inhalt>
+      </Drink     >
+   </rezept>
+</Rezept>

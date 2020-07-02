@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>276 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>250 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>100 g</quant>
+          <zutat>Hartweizengriess</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Broesel    >
+          <quant>150 g</quant>
+          <zutat>Weissbrot vom Vortag, in Stuecken</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Broesel    >
+      <Knoedel    >
+          <quant>24 </quant>
+          <zutat>tiefgekuehlte Aprikosenhaelften, etwas angetaut</zutat>
+          <quant>12 </quant>
+          <zutat>Wuerfelzucker</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Knoedel    >
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten>
+          <inhalt>Ofen auf 60 Grad vorheizen, Platte vorwaermen. </inhalt>
+      </Vorbereiten>
+      <Teig      >
+          <inhalt>Butter, Vanillezucker und Salz in einer Schuessel gut verruehren. Ei und Quark darunterruehren. Griess, Mehl und Backpulver mischen, beigeben, zu einem weichen, glatten Teig zusammenfuegen, zugedeckt ca. 2 Std. kuehl stellen. </inhalt>
+      </Teig      >
+      <Broesel    >
+          <inhalt>Brot im Cutter mahlen oder fein hacken. Butter in einer Bratpfanne erwaermen, Brot und Zucker beigeben, unter Ruehren bei mittlerer Hitze goldgelb roesten, in einen tiefen Teller geben. </inhalt>
+      </Broesel    >
+      <Knoedel    >
+          <inhalt>Teig in 12 Portionen teilen, diese etwas flach druecken. Je zwei Aprikosenhaelften mit einem Wuerfelzucker fuellen, diese auf eine Teigportion legen. Mit Teig umschliessen, mit bemehlten Haenden zu Kugeln formen. Knoedel portionenweise im leicht siedenden Wasser ca. 15 Min. ziehen lassen. Mit einer Schaumkelle herausnehmen, in den Broeseln wenden, warm stellen. </inhalt>
+      </Knoedel    >
+   </rezept>
+</Rezept>

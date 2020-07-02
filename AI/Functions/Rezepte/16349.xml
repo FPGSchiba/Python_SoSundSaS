@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Curry     >
+          <quant>2 </quant>
+          <zutat>Nostrano-Gurken</zutat>
+          <quant>100 g</quant>
+          <zutat>Bohnen</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>gruene Currypaste</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>150 g</quant>
+          <zutat>Broccoli</zutat>
+      </Curry     >
+      <Basmatireis>
+          <quant>250 g</quant>
+          <zutat>Basmatireis</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras </zutat>
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+      </Basmatireis>
+      <Servieren >
+          <quant>4 Zweiglein</quant>
+          <zutat>Thai-Basilikum</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Koriander</zutat>
+          <quant>1 </quant>
+          <zutat>Limette</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Curry                         </inhalt>
+      </How_To    >
+      <Curry     >
+          <inhalt>Gurken laengs halbieren, entkernen und schraeg in ca. 1 cm dicke Scheiben schneiden. Bohnen halbieren. </inhalt>
+      </Curry     >
+      <How_To1   >
+          <inhalt>Bundzwiebel in feine Ringe schneiden, Knoblauch fein hacken. Oel in einer weiten Pfanne erwaermen. Bundzwiebel und Knoblauch andaempfen. Currypaste ca. 2 Min. mitdaempfen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Gurken und Bohnen kurz mitdaempfen. Kokosmilch und Bouillon dazugiessen, aufkochen, ca. 20 Min. koecheln. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Basmatireis                   </inhalt>
+      </How_To3   >
+      <Basmatireis>
+          <inhalt>Das Innere vom Zitronengras fein hacken. Wasser mit dem Reis und Zitronengras aufkochen, zugedeckt auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei Deckel nie abheben. Reis mit einer Gabel lockern. </inhalt>
+      </Basmatireis>
+      <Servieren >
+          <inhalt>Basilikum und Koriander zerzupfen, Limette in Schnitze schneiden. Gurkencurry mit dem Basmatireis anrichten. Kraeuter darueberstreuen, Limettenschnitze dazu servieren. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=qaDaRQedbIk"/>
+</Rezept>

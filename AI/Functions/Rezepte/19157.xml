@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>372 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig_     >
+      <Schokolade>
+          <quant>300 g</quant>
+          <zutat>weisse Schokolade</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter</zutat>
+      </Schokolade>
+      <Backen_   >
+          <quant>einige </quant>
+          <zutat>Zuckereili</zutat>
+          <quant>30 </quant>
+          <zutat>Schokoladen-Ostereili</zutat>
+          <quant>3 </quant>
+          <zutat>Schokoladen-Osterhasen (kleine, je ca. 80 g)</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>300 g</quant>
+          <zutat>weisse Schokolade</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter</zutat>
+          <quant>einige </quant>
+          <zutat>Zuckereili</zutat>
+          <quant>30 </quant>
+          <zutat>Schokoladen-Ostereili</zutat>
+          <quant>3 </quant>
+          <zutat>Schokoladen-Osterhasen (kleine, je ca. 80 g)</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Eier, Zucker und Salz in einer Schuessel mit den Schwingbesen des Mixers ruehren, bis die Masse heller ist. </inhalt>
+      </Teig_     >
+      <Schokolade>
+          <inhalt> Schokolade fein hacken, mit der Butter in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren, etwas abkuehlen. </inhalt>
+      </Schokolade>
+      <Backen_   >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Die Blondies muessen innen noch leicht feucht sein. Herausnehmen, etwas abkuehlen, mit </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

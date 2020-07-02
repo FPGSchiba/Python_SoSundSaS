@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>453 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Koteletts_marinieren>
+          <quant>1 TL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 TL</quant>
+          <zutat>Worcestershire-Sauce</zutat>
+          <quant>1 dl</quant>
+          <zutat>dunkles Bier</zutat>
+          <quant>1 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 EL</quant>
+          <zutat>scharfes Ketchup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinskoteletts</zutat>
+      </Koteletts_marinieren>
+      <Fuellung   >
+          <quant>150 g</quant>
+          <zutat>Gorgonzola-Mascarpone</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft, gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+      </Fuellung   >
+      <Grillieren>
+          <quant>einige </quant>
+          <zutat>Zahnstocher</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Koteletts marinieren          </inhalt>
+      </How_To    >
+      <Koteletts_marinieren>
+          <inhalt>Aceto und alle Zutaten bis und mit Pfeffer in einer Pfanne gut verruehren, unter Ruehren aufkochen, Hitze reduzieren. ca. 3 Min. koecheln, auskuehlen. In die Koteletts zum Fuellen eine Tasche einschneiden, mit der Marinade bestreichen, zugedeckt ca. 1 Std. im Kuehlschrank marinieren. </inhalt>
+      </Koteletts_marinieren>
+      <How_To1   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Grillieren                    </inhalt>
+      </How_To2   >
+      <Fuellung   >
+          <inhalt>Grillieren auf dem Holzkohlengrill:</inhalt>
+      </Fuellung   >
+      <Grillieren>
+          <inhalt>Grillieren mit Gas-, Elektrogrill: Beidseitig je 1-2 Min. auf hoe chster Stufe (ca. 240 Grad) anbraten, 15-20 Min. auf mittlerer Stufe (ca. 200 Grad) fertig grillieren.</inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

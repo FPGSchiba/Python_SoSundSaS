@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>379 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>50 g</quant>
+          <zutat>getrocknete Aprikosen</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Leinoel</zutat>
+          <quant>5 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Aprikosen und Haselnuesse ueber Nacht in Wasser einweichen. Bis auf ca. 1 EL Einweich-Fluessigkeit abtropfen, zusammen mit dem Oel im Mixglas zu einer cremigen Masse puerieren. Kakaopulver beigeben, alles gut verruehren, in ein Glas fuellen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

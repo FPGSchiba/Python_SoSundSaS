@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>635 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>59 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Toastbrot >
+          <quant>6 Scheiben</quant>
+          <zutat>Vollkorntoastbrot</zutat>
+      </Toastbrot >
+      <Sandwich  >
+          <quant>90 g</quant>
+          <zutat>Karma Bio Mango-Curry Aufstrich</zutat>
+          <quant>1 </quant>
+          <zutat>Tomate, in Scheiben</zutat>
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>1 </quant>
+          <zutat>hart gekochtes Ei, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, halbiert, schraeg in Scheiben</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Holzspiesschen</zutat>
+      </Sandwich  >
+   </einkaufliste>
+   <rezept>
+      <Toastbrot >
+          <inhalt>Brot ca. 2 Min. in der oberen Haelfte des auf 240 Grad vorgeheizten Ofens roesten (nur Grill oder Oberhitze).</inhalt>
+      </Toastbrot >
+      <Sandwich  >
+          <inhalt>Alle Toastbrotscheiben auf der nicht geroesteten Seite mit Aufstrich bestreichen. 2 Scheiben abwechslungsweise mit Tomate und Rucola belegen, mit je 1 Scheibe bedecken. Ei und Avocado darauf verteilen, wuerzen, mit je 1 Brotscheibe bedecken. Sandwiches etwas zusammendruecken, einmal diagonal durchschneiden, mit Holzspiesschen zusammenhalten.</inhalt>
+      </Sandwich  >
+   </rezept>
+</Rezept>

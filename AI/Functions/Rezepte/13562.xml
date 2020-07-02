@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>540 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren >
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Fusilli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren >
+      <Dressing  >
+          <quant>3 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Pfeffer</zutat>
+      </Dressing  >
+      <Salat     >
+          <quant>1 Glas</quant>
+          <zutat>Grillgemuese in Oel, abgetropft</zutat>
+          <quant>5 </quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft, in Streifen</zutat>
+          <quant>120 g</quant>
+          <zutat>Mozzarella-Perlen</zutat>
+          <quant>50 g</quant>
+          <zutat>entsteinte schwarze Oliven</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Teigwaren >
+          <inhalt>Teigwaren im Salzwasser al dente kochen, abtropfen.</inhalt>
+      </Teigwaren >
+      <Dressing  >
+          <inhalt>Aceto, Oel und Zitronenschale in einer Schuessel verruehren, wuerzen. Teigwaren beigeben.</inhalt>
+      </Dressing  >
+      <Salat     >
+          <inhalt>Grillgemuese und alle restlichen Zutaten beigeben, mischen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

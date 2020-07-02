@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>261 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lillet-Birnen>
+          <quant>2 dl</quant>
+          <zutat>Lillet Blanc</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trockengetupft, 1/2 abgeriebene Schale und Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, Samen ausgekratzt</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, in Schnitzen</zutat>
+      </Lillet-Birnen>
+      <Raclette_ >
+          <quant>200 g</quant>
+          <zutat>Raclettekaese in Scheiben (z.B. Blauschimmel)</zutat>
+          <quant>20 g</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Raclette_ >
+   </einkaufliste>
+   <rezept>
+      <Lillet-Birnen>
+          <inhalt>Lillet mit allen Zutaten bis und mit Vanilleschote und - samen aufkochen. Aepfel beigeben, Hitze reduzieren, zugedeckt ca. 10 Min. knapp weich koecheln, in der Fluessigkeit auskuehlen. </inhalt>
+      </Lillet-Birnen>
+      <Raclette_ >
+          <inhalt>Raclettekaese und Aepfel in Raclette-Pfaennchen legen, unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen. Roestzwiebeln darueberstreuen. </inhalt>
+      </Raclette_ >
+   </rezept>
+</Rezept>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>161 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>125 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>125 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>60 ml</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser, wenn noetig</zutat>
+      </Teig      >
+      <Dattel-Schicht>
+          <quant>300 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>4 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Dattel-Schicht>
+      <Schokolade-Schicht>
+          <quant>200 g</quant>
+          <zutat>vegane, helle Schokolade</zutat>
+      </Schokolade-Schicht>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Dattel-Schicht                </inhalt>
+      </Teig      >
+      <Dattel-Schicht>
+          <inhalt>Schokolade-Schicht            </inhalt>
+      </Dattel-Schicht>
+      <Schokolade-Schicht>
+          <inhalt>Form aus dem Tiefkuehler nehmen, 15-20 Min. bei Zimmertemperatur stehen lassen, die Masse in 24 Stuecke schneiden.</inhalt>
+      </Schokolade-Schicht>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

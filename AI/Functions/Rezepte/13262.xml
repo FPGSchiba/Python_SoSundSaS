@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>243 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargeln  >
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unterer hoelzerner Teil abgeschnitten, laengs in duenne Streifen gehobelt</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Spargeln  >
+      <Panko-Crunch>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>50 g</quant>
+          <zutat>Panko</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>20 g</quant>
+          <zutat>Sesam</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Baerlauch, fein geschnitten</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Panko-Crunch>
+      <Pochierte_Eier>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Pochierte_Eier>
+   </einkaufliste>
+   <rezept>
+      <Spargeln  >
+          <inhalt>Spargeln im Salzwasser ca. 1 Min. blanchieren, herausnehmen, kurz kalt abspuelen, abtropfen. Oel in einer Bratpfanne heiss werden lassen, Spargeln ca. 2 Min. ruehrbraten, Zitronensaft beigeben, wuerzen. </inhalt>
+      </Spargeln  >
+      <Panko-Crunch>
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen, Panko, Knoblauch und Sesam ca. 3 Min. ruehrbraten. Kraeuter dazugeben, salzen, von der Platte nehmen. </inhalt>
+      </Panko-Crunch>
+      <Pochierte_Eier>
+          <inhalt>Wasser und Essig in einer Pfanne aufkochen, Hitze reduzieren. Eier einzeln in eine kleine Tasse aufschlagen, sorgfaeltig ins leicht siedende Wasser gleiten lassen und ca. 4 Min. knapp unter dem Siedepunkt ziehen lassen. Mit einem Teesieb herausnehmen, abtropfen, salzen.</inhalt>
+      </Pochierte_Eier>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+   <video href="https://www.youtube.com/watch?v=FNB2noKpEPA"/>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

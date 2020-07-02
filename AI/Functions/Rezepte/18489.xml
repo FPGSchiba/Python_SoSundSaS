@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>733 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>94 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>200 g</quant>
+          <zutat>passierte Tomaten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Basilikum-Pesto</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Linguine  >
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Linguine)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Linguine  >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Tomaten, Pesto und Rahm in einer Pfanne unter Ruehren erwaermen, ca. 5 Min. koecheln, wuerzen. </inhalt>
+      </Sauce     >
+      <Linguine  >
+          <inhalt>Teigwaren im siedenden Salzwasser al dente kochen. Ca. 1/2 dl Kochwasser beiseite stellen. Teigwaren abtropfen, mit dem Kochwasser zur Sauce geben, mischen. </inhalt>
+      </Linguine  >
+   </rezept>
+</Rezept>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>517 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pasta_    >
+          <quant>300 g</quant>
+          <zutat>Teigwaren (z.B. Muescheli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Pasta_    >
+      <Gemuese_   >
+          <quant>150 g</quant>
+          <zutat>Zucchetti</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+      </Gemuese_   >
+      <Sauce_    >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>200 g</quant>
+          <zutat>Pesto rosso</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>300 g</quant>
+          <zutat>Teigwaren (z.B. Muescheli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucchetti</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>200 g</quant>
+          <zutat>Pesto rosso</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <Mis-En-Place_>
+          <inhalt>Pasta                         </inhalt>
+      </Mis-En-Place_>
+      <Pasta_    >
+          <inhalt>Gemuese                        </inhalt>
+      </Pasta_    >
+      <Gemuese_   >
+          <inhalt>Sauce                         </inhalt>
+      </Gemuese_   >
+      <Sauce_    >
+   </rezept>
+</Rezept>

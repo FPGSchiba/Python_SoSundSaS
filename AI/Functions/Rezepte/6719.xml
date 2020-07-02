@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>378 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>2 </quant>
+          <zutat>Limetten, heiss abgespuelt, abgeriebene Schale und 3 EL Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkles Sesamoel (Lee Kum Kee)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>2 </quant>
+          <zutat>rote Chilis, entkernt, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+      </Sauce     >
+      <Salat     >
+          <quant>125 g</quant>
+          <zutat>Reisnudeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, in Wuerfeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>3/4 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>4 </quant>
+          <zutat>duenneTrutenbrustschnitzel, evtl. laengs halbiert, quer in ca. 7 mm breiten Streifen</zutat>
+          <quant>3 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkle Sojasauce</zutat>
+          <quant>wenig </quant>
+          <zutat>Koriander, zum Garnieren</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Alle Zutaten in einer grossen Schuessel gut verruehren.</inhalt>
+      </Sauce     >
+      <Salat     >
+          <inhalt>Reisnudeln im siedenden Wasser ca. 5 Min. koecheln, kalt abspuelen, abtropfen. Kurz vor dem Servieren Nudeln, Tomaten, Sprossen und Koriander mit der Sauce mischen. Oel in einer beschichteten Bratpfanne erhitzen. Fleisch portionenweise ca. 2 Min. ruehrbraten. Pfanne von der Platte nehmen, Fleisch zurueck in die Pfanne geben, Zitronengras und Sojasauce daruntermischen, Fleisch unter den Salat mischen, anrichten. Asiatischen Nudelsalat mit wenig Koriander garnieren.</inhalt>
+      </Salat     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+</Rezept>

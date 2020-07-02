@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>110 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tomatensaft_>
+          <quant>2 Dosen</quant>
+          <zutat>Cherry-Tomaten (je ca. 250 g)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Stangensellerie mit dem Gruen, Staengel beiseite gestellt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zucker</zutat>
+      </Tomatensaft_>
+      <Salzrand  >
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>wenig </quant>
+          <zutat>Tabasco (z.B. Cipotle)</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Salzrand  >
+      <Bloody_Mary>
+          <quant>1 dl</quant>
+          <zutat>Wodka</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale, 1 EL Saft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Tabasco (z.B. Cipotle)</zutat>
+      </Bloody_Mary>
+   </einkaufliste>
+   <rezept>
+      <Tomatensaft_>
+          <inhalt>Cherry-Tomaten, Bouillon, Stangensellerieblaetter und Zucker in einer Pfanne aufkochen, bei kleiner Hitze ca. 10 Min. koecheln. Selleriegruen entfernen, Tomaten fein puerieren. Tomatensaft durch ein Sieb streichen. </inhalt>
+      </Tomatensaft_>
+      <Salzrand  >
+          <inhalt>Zitronensaft mit dem Tabasco verruehren. Salz auf einen Teller geben. Den Rand der Glaeser zuerst in den Zitronensaft und dann in das Salz druecken. </inhalt>
+      </Salzrand  >
+      <Bloody_Mary>
+          <inhalt>Wodka, Zitronenschale und -saft mit dem Tabasco unter den Tomatensaft ruehren. Mit dem beiseite gestellten Stangensellerie in die Glaeser verteilen. </inhalt>
+      </Bloody_Mary>
+   </rezept>
+</Rezept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>454 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_schmelzen>
+          <quant>150 g</quant>
+          <zutat>weisse Schokolade, fein gehackt</zutat>
+      </Schokolade_schmelzen>
+      <Mousse_zubereiten>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, nur ausgekratzte Samen</zutat>
+      </Mousse_zubereiten>
+      <Fruchtkompott>
+          <quant>2 </quant>
+          <zutat>Nektarinen, in Wuerfeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronenlikoer (z.B. Limoncello) oder Zitronensaft</zutat>
+      </Fruchtkompott>
+   </einkaufliste>
+   <rezept>
+      <Schokolade_schmelzen>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Pfanne von der Platte nehmen, Schokolade schmelzen, glatt ruehren. Herausnehmen.</inhalt>
+      </Schokolade_schmelzen>
+      <Mousse_zubereiten>
+          <inhalt>Rahm mit den Vanillesamen knapp steif schlagen, sorgfaeltig unter die Schokolade ziehen, in die Schalen fuellen, zugedeckt im Kuehlschrank ca. 1 Std. fest werden lassen.</inhalt>
+      </Mousse_zubereiten>
+      <Fruchtkompott>
+          <inhalt>Nektarinen, Himbeeren, Zucker und Zitronenlikoer mischen, zugedeckt ca. 10 Min. ziehen lassen. Fruchtkompott auf der Mousse verteilen.</inhalt>
+      </Fruchtkompott>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>792 kcal</NaehrwertProPerson>
+       <Fett>54 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 Paeckli</quant>
+          <zutat>Betty Bossi Mug Cake Blueberry</zutat>
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>200 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>150 g</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Betty Bossi Vanille-Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Betty Bossi Puderzucker</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>2 Mug-Cakes nach Packungsangabe zubereiten. Mascarpone, Himbeeren, Vanillezucker und Puderzucker in einen Plastikbeutel geben. Beutel gut verschliessen, mit dem Wallholz zerstossen. Creme in zwei Schaelchen fuellen, sofort mit den Mug-Cakes servieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

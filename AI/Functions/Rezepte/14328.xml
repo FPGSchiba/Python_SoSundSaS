@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>440 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Waehe      >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Kuchenteig (32 cm Ø)</zutat>
+          <quant>400 g</quant>
+          <zutat>Gruyere, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Waehe      >
+   </einkaufliste>
+   <rezept>
+      <Waehe      >
+          <inhalt>Teig mit dem Backpapier in das Blech legen, Boden mit einer Gabel dicht einstechen. Kaese mit den restlichen Zutaten mischen. Masse auf dem Teigboden verteilen. </inhalt>
+      </Waehe      >
+      <Backen    >
+          <inhalt>Ca. 30 Min auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech nehmen, warm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

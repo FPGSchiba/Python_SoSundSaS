@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>490 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>93 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 Paeckli</quant>
+          <zutat>Udon-Nudeln (ca. 300 g)</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Miso-Paste</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tamari (glutenfreie Sojasauce)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>90 g</quant>
+          <zutat>gemischte  Pilze, grob geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen</zutat>
+          <quant>2 Handvoll</quant>
+          <zutat>Blattspinat</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nudeln nach Verpackunsangabe zubereiten, kalt abspuelen, abtropfen, beiseite stellen. Wasser in einer grossen Pfanne aufkochen, Miso-Paste, Tamari, Zucker, Pilze und Bundzwiebeln beigeben, ca. 5 Min. koecheln. Spinat beigeben, ca. 30 Sek. fertigkoecheln. Die Nudeln in 2 Schalen verteilen, heisse Suppe daruebergiessen, sofort servieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

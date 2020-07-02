@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>400 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese_andaempfen>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, grob gehackt</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, gehackt</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, gehackt</zutat>
+          <quant>500 g</quant>
+          <zutat>Kuerbis, in ca. 1 1/2 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine (ca. 400 g), in ca. 1 1/2 cm grossen Wuerfeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese_andaempfen>
+      <Curry     >
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>400 g</quant>
+          <zutat>fest kochende Kartoffeln</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 400 g), abgespuelt, abgetropft</zutat>
+          <quant>1 </quant>
+          <zutat>Tomate, in Stuecken</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Indian Curry (z.B. Deli Fine Food)</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaettchen</zutat>
+      </Curry     >
+   </einkaufliste>
+   <rezept>
+      <Gemuese_andaempfen>
+          <inhalt>Oel in einem Brattopf warm werden lassen. Zwiebeln, Knoblauch und Ingwer andaempfen. Kuerbis, Aubergine und Salz beigeben, ca. 5 Min. mitdaempfen. </inhalt>
+      </Gemuese_andaempfen>
+      <Curry     >
+          <inhalt>Bouillon, Kokosmilch und Limettensaft dazugiessen, aufkochen. Kartoffeln, Kichererbsen und Tomate beigeben, Hitze reduzieren. Zugedeckt bei mittlerer Hitze ca. 20 Min. koecheln. Deckel entfernen, ca. 20 Min. fertig koecheln, Curry daruntermischen, wuerzen. Minze darueberstreuen.</inhalt>
+      </Curry     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

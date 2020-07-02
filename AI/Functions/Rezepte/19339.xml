@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>428 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>59 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Balsamico-Marinade>
+          <quant>1 1/2 EL</quant>
+          <zutat>Honigsenf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinsniersteaks (je ca. 150 g)</zutat>
+      </Balsamico-Marinade>
+      <Gemuese    >
+          <quant>300 g</quant>
+          <zutat>Snack-Peperoni</zutat>
+          <quant>200 g</quant>
+          <zutat>Mini-Zucchetti , halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, grob geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Balsamico-Marinade>
+          <inhalt>Senf und alle Zutaten bis und mit Pfeffer gut verruehren, 2 EL beiseitestellen. Steaks mit der restlichen Marinade bestreichen, zugedeckt ca. 30 Min. marinieren. </inhalt>
+      </Balsamico-Marinade>
+      <Gemuese    >
+          <inhalt>Peperoni und Zucchetti in eine Schuessel geben, Oel, Rosmarin und Salz beigeben mischen. </inhalt>
+      </Gemuese    >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Gemuese bei geschlossenem Deckel ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200Grad C) ca. 10 Min. grillieren. Steaks beidseitig je ca. 5 Min. mitgrillieren. Steaks vom Grill nehmen, mit der beiseitegestellten Marinade bestreichen, mit dem Gemuese servieren. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

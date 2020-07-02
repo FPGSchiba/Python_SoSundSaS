@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>392 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polenta   >
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>100 g</quant>
+          <zutat>mittelfeiner Maisgriess</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>50 g</quant>
+          <zutat>Salami, in Wuerfeli</zutat>
+          <quant>25 g</quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft, grob gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Polenta   >
+      <Kaese-Dip  >
+          <quant>125 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>50 g</quant>
+          <zutat>Ziegenfrischkaese (z.B. Formaggini)</zutat>
+          <quant>2 </quant>
+          <zutat>Doerrfeigen, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Kaese-Dip  >
+   </einkaufliste>
+   <rezept>
+      <Polenta   >
+          <inhalt>Bouillon aufkochen, Mais einruehren, Hitze reduzieren, unter Ruehren bei kleiner Hitze ca. 6 Min. zu einem dicken, trockenen Brei koecheln, wuerzen. Salami, Tomaten und Parmesan darunterruehren. Polenta mit einem breiten Spachtel auf einem kalt abgespuelten Blechruecken rechteckig ca. 28 x 16 cm ausstreichen. Polenta auskuehlen, in ca. 8 x 4 cm grosse Rechtecke schneiden. Oel in einer beschichteten Bratpfanne erhitzen, Hitze reduzieren. Polentaschnitten portionenweise beidseitig je ca. 5 Min. knusprig braten.</inhalt>
+      </Polenta   >
+      <Kaese-Dip  >
+          <inhalt>Frischkaese, Feigen und Rosmarin verruehren, salzen. Dip zu den Polentaschnitten servieren. </inhalt>
+      </Kaese-Dip  >
+   </rezept>
+</Rezept>

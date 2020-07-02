@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>499 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant>600 g</quant>
+          <zutat>Pouletbruestli, in ca. 3 cm grossen Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Madras-Curry</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Poulet    >
+      <Curry     >
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 200 g)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Madras-Curry</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer,gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, gehackt</zutat>
+          <quant>3 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>400 g</quant>
+          <zutat>Suesskartoffeln, in Wuerfeln</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 245 g), abgespuelt, abgetropft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+      </Curry     >
+   </einkaufliste>
+   <rezept>
+      <Poulet    >
+          <inhalt>Poulet und Curry mischen. Bratbutter im Brattopf heiss werden lassen. Poulet portionenweise je ca. 2 Min. anbraten, herausnehmen, Hitze reduzieren.</inhalt>
+      </Poulet    >
+      <Curry     >
+          <inhalt>Bratbutter im selben Brattopf erwaermen, Zwiebel und alle Zutaten bis und mit Chili beigeben, ca. 2 Min. andaempfen. Kokosmilch dazugiessen, Kartoffeln und Kichererbsen beigeben, aufkochen, Hitze reduzieren, salzen. Unter gelegentlichem Ruehren bei kleiner Hitze ca. 1 1/2 Std. schmoren.  Poulet wieder beigeben, zugedeckt 30 Min. fertig schmoren. Koriander darueberstreuen.</inhalt>
+      </Curry     >
+   </rezept>
+</Rezept>

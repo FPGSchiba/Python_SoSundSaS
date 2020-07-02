@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>510 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mueesli    >
+          <quant>600 g</quant>
+          <zutat>Karma Jocos nature</zutat>
+          <quant>200 g</quant>
+          <zutat>Karma Maple Pecan Granola </zutat>
+      </Mueesli    >
+      <Topping   >
+          <quant>125 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>Karma Crispy Berries &amp; Apple (21 g)</zutat>
+          <quant>25 g</quant>
+          <zutat>getrocknete Gojibeeren</zutat>
+          <quant>1 dl</quant>
+          <zutat>Ahornsirup</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Mueesli    >
+          <inhalt>Jogurt und Granola in die Bowls verteilen.</inhalt>
+      </Mueesli    >
+      <Topping   >
+          <inhalt>Johannisbeeren, Crispy und Gojibeeren auf dem Jogurt und Granola verteilen. Ahornsirup daruebertraeufeln.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

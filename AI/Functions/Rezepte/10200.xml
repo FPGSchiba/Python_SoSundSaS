@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>712 kcal</NaehrwertProPerson>
+       <Fett>53 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Arancini  >
+          <quant>350 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Fine Food Olivenoel Zitrone </zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Arancini  >
+      <Fuellung   >
+          <quant>3 EL</quant>
+          <zutat>Fine Food Ragù tradizionale alla bolognese</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>3 dl</quant>
+          <zutat>Erdnussoel</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Arancini  >
+          <inhalt>Kartoffeln offen im Salzwasser ca. 20 Min. weich kochen. Wasser abgiessen, Restfeuchtigkeit der Kartoffeln unter hin und her Bewegen der Pfanne verdampfen lassen, bis sie weisslich und trocken sind. Kartoffeln durchs Passe-vite in eine Schuessel treiben. Eigelbe, Olivenoel und Maizena, darunterruehren, wuerzen. </inhalt>
+      </Arancini  >
+      <Fuellung   >
+          <inhalt>Die Masse zu 3 Kugeln formen, etwa  flach druecken, Rand dabei etwas hochziehen, je 1 EL Bolognese darauf geben, mit dem Teig umschliessen, zu Kugeln formen. Kugeln in Mehl wenden, ueberschuessiges Mehl abschuetteln, in Ei, dann im Paniermehl wenden. Erdnussoel in einer Pfanne auf ca. 170 Grad C erhitzen. Kugeln portionenweise mit einer Schaumkelle hineingeben, ca. 5 Min. goldgelb ausbacken, herausnehmen, auf Haushaltpapier abtropfen. Kugeln halbieren und auf 2 Teller verteilen.</inhalt>
+      </Fuellung   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=uERVr2oDXrU"/>
+</Rezept>

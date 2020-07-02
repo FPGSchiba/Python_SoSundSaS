@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>521 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>100 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>100 g</quant>
+          <zutat>Kraeuterseitlinge</zutat>
+          <quant>100 g</quant>
+          <zutat>Steinpilze</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>40 g</quant>
+          <zutat>Parmesan</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Ravioli   >
+          <quant>2 </quant>
+          <zutat>Rollen Pastateig</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss, verklopft</zutat>
+      </Ravioli   >
+      <Ravioli_sieden>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Ravioli_sieden>
+      <Fertigstellen>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>100 g</quant>
+          <zutat>Champignons, in feinen Scheiben</zutat>
+          <quant>100 g</quant>
+          <zutat>Kraeuterseitlinge, in feinen Scheiben</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>30 g</quant>
+          <zutat>Baumnuesse, grob gehackt</zutat>
+          <quant>10 </quant>
+          <zutat>Salbeiblaetter</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Pilze im Cutter fein hacken. Oel in einer Bratpfanne erwaermen, Pilze ca. 15 Min. andaempfen bis die entstandene Fluessigkeit fast vollstaendig verdampft ist, etwas abkuehlen. Pilze mit Ricotta, Parmesan, Eigelb und Salbei mischen, wuerzen. </inhalt>
+      </Fuellung   >
+      <Ravioli   >
+          <inhalt>Teige entrollen, laengs halbieren. Mit gleichmaessigem Abstand jeweils 1 EL Fuellung auf die unteren Haelften der Teigstreifen verteilen. Obere Teighaelften mit wenig Eiweiss bestreichen, ueber die Fuellungen legen, Kanten gut andruecken, dabei eingeschlossene Luft herausdruecken. Ravioli mit dem Teigraedchen voneinander trennen. Raender mit einer Gabel eindruecken.</inhalt>
+      </Ravioli   >
+      <Ravioli_sieden>
+          <inhalt>Ravioli portionenweise im knapp siedenden Salzwasser ca. 5 Min. ziehen lassen, mit einer Schaumkelle herausnehmen, abtropfen.</inhalt>
+      </Ravioli_sieden>
+      <Fertigstellen>
+          <inhalt>Bratbutter in einer Pfanne erwaermen. Pilze ca. 5 Min. andaempfen. Butter, beigeben und warm werden lassen, bis sie schaeumt und leicht nussig riecht. Nuesse und Salbeiblaetter beigeben ca. 3 Min. anbraten. Ravioli beigeben, sorgfaeltig mischen. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

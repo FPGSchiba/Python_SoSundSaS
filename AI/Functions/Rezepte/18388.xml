@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>234 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuchen    >
+          <quant>300 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>4 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>helles Dinkelmehl oder Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>500 g</quant>
+          <zutat>blaue und weisse kernlose Trauben</zutat>
+      </Kuchen    >
+   </einkaufliste>
+   <rezept>
+      <Kuchen    >
+          <inhalt>Jogurt und alle Zutaten bis und mit Salz in eine Schuessel geben, mit den Schwingbesen des Handruehrgeraets ca. 3 Min. ruehren. Mehl, Mandeln und Backpulver mischen, daruntermischen. Teig in die vorbereitete Form fuellen, Trauben darauf verteilen. </inhalt>
+      </Kuchen    >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Kuchen auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>355 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rhabarber >
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>400 g</quant>
+          <zutat>Rhabarber, in ca. 1 cm grossen Stuecken</zutat>
+      </Rhabarber >
+      <Creme     >
+          <quant>250 g</quant>
+          <zutat>Clotted cream</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+      </Creme     >
+      <Tiramisu  >
+          <quant>100 g</quant>
+          <zutat>Loeffelbiskuits, evtl. auf die Breite der Cakeform zugeschnitten</zutat>
+          <quant>250 g</quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+      </Tiramisu  >
+   </einkaufliste>
+   <rezept>
+      <Rhabarber >
+          <inhalt>Wasser mit dem Zucker aufkochen. Hitze reduzieren, Rhabarber beigeben, ca. 5 Min. knapp weich koecheln. Rhabarber abtropfen, dabei die Kochfluessigkeit auffangen, beides auskuehlen.</inhalt>
+      </Rhabarber >
+      <Creme     >
+          <inhalt>Clotted cream mit Jogurt und Zucker glatt ruehren. </inhalt>
+      </Creme     >
+      <Tiramisu  >
+          <inhalt>Die Haelfte der Loeffelbiskuits auf den Formenboden legen. Mit wenig beiseite gestellter Kochfluessigkeit betraeufeln. Die Haelfte der Erdbeeren und der Creme darauf verteilen. Rest der Loeffelbiskuits darauflegen und restliche Rhabarberfluessigkeit daruebertraeufeln. Die Haelfte des Rhabarbers und restliche Creme darauf verteilen, zugedeckt ca. 4 Std. gefrieren.</inhalt>
+      </Tiramisu  >
+      <Servieren >
+          <inhalt>Tiramisu ca. 15 Min. vor dem Servieren aus dem Tiefkuehler nehmen, aus der Form heben, restliche Rhabarber und Erdbeeren darauf  verteilen. Tiramisu in Scheiben schneiden, anrichten. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>219 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Trockenhefe  (ca. 5 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmel</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>70 g</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+      </Teig      >
+      <Formen_&amp;_backen>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kreuzkuemmel</zutat>
+      </Formen_&amp;_backen>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker, Hefe und Kreuzkuemmel in einer Schuessel mischen. Wasser, Oel und Jogurt verruehren, zum Mehl geben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufgehen lassen.</inhalt>
+      </Teig      >
+      <Formen_&amp;_backen>
+          <inhalt>Teig in 8 Portionen teilen, zu Kugeln formen, jede Kugel auf wenig Mehl ca. 1/2 cm dick auswallen, dabei soll der Rand etwas dicker sein. Fladenbrote nacheinander in einer warmen beschichteten Bratpfanne je ca. 3 Min. backen, bis sich an der Oberflaeche Blasen bilden, Fladenbrote wenden, ca. 2 Min. fertigbacken, herausnehmen, mit Oel bestreichen, mit Kreuzkuemmel bestreuen.</inhalt>
+      </Formen_&amp;_backen>
+   </rezept>
+</Rezept>

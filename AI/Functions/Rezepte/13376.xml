@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>227 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auberginen>
+          <quant>2 </quant>
+          <zutat>Auberginen (je ca. 450 g), halbiert</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Auberginen>
+      <Gemuese_   >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen, Gruen beiseite gestellt</zutat>
+          <quant>125 g</quant>
+          <zutat>Goldhirse</zutat>
+          <quant>125 g</quant>
+          <zutat>verschiedenfarbige Cherry-Tomaten, geviertelt</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Gemuese_   >
+      <Jogurtsauce_>
+          <quant>1 </quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Jogurtsauce_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Auberginen                    </inhalt>
+      </How_To    >
+      <Auberginen>
+          <inhalt>Gemuese                        </inhalt>
+      </Auberginen>
+      <Gemuese_   >
+          <inhalt>Backen: ca. 25 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Gemuese_   >
+      <Jogurtsauce_>
+          <inhalt>Jogurt und alle restlichen Zutaten verruehren, zu den Auberginen servieren. </inhalt>
+      </Jogurtsauce_>
+   </rezept>
+</Rezept>

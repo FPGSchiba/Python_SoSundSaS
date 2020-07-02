@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>463 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 Blatt</quant>
+          <zutat>Gelatine ca. 5 Min. in kaltem Wasser eingeweicht</zutat>
+          <quant>3 EL</quant>
+          <zutat>feines sofort loesliches Kaffeepulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Blatt</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingeweicht</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Vollrahm, flaumig geschlagen</zutat>
+          <quant> </quant>
+          <zutat>Kakaopulver zum Bestaeuben</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rahm, Zucker und Vanille-samen in einer Pfanne gut verruehren, bei kleiner Hitze unter gelegentlichem Ruehren auf ca. 3 1/2 dl einkoecheln, Pfanne von der Plat-te nehmen. Masse halbieren. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Gelatine unter eine Haelfte der heissen Fluessigkeit ruehren, durch ein Sieb in die vorbereiteten Glaesli fuellen, auskuehlen. Glaesli ca. 30 Min. kuehl stellen, bis die Masse leicht fest ist.  </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Restliche Masse nochmals aufkochen, Pfanne beiseitestellen. Kaffeepulver und Zucker beigeben, unter kraeftigem Ruehren aufloesen. Gelatine unter die heisse Fluessigkeit ruehren, durch das Sieb den Messbecher giessen, sorgfaeltig auf die Vanillemasse verteilen, auskuehlen. Panna cotta zugedeckt im Kuehlschrank ca. 2 1/2 Std. fest werden lassen.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

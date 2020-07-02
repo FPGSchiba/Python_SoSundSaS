@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>399 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargel-Spitzen>
+          <quant>1 kg</quant>
+          <zutat>weisser Spargel, geschaelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+      </Spargel-Spitzen>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, gehackt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch, grob geschnitten</zutat>
+      </Suppe     >
+      <Knusper-Speck>
+          <quant>8 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+      </Knusper-Speck>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spargel-Spitzen               </inhalt>
+      </How_To    >
+      <Spargel-Spitzen>
+          <inhalt>Suppe                         </inhalt>
+      </Spargel-Spitzen>
+      <Suppe     >
+          <inhalt>Die Spargel-Spitzen separat dazu servieren.</inhalt>
+      </Suppe     >
+      <Knusper-Speck>
+          <inhalt>Speck in einer Bratpfanne bei mittlerer Hitze langsam knusprig braten, auf Haushaltpapier abtropfen.</inhalt>
+      </Knusper-Speck>
+   </rezept>
+</Rezept>

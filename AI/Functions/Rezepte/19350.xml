@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>821 kcal</NaehrwertProPerson>
+       <Fett>50 g  </Fett>
+       <Kohlenhydrate>80 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramel   >
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter,in Wuerfeli, kalt</zutat>
+      </Caramel   >
+      <Belag     >
+          <quant>4 </quant>
+          <zutat>Bananen quer und laengs halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+      </Belag     >
+      <Toppings  >
+          <quant>2 dl</quant>
+          <zutat>Doppelrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pekannuesse, grob gehackt</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Caramel   >
+          <inhalt>Das Blech im auf 180 Grad vorgeheizten Ofen ca. 5 Min. vorwaermen. Zucker in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht, Pfanne von der Platte nehmen. Caramel ins vorgewaermte Blech giessen und auf dem Boden verteilen. Butterwuerfeli darauf verteilen.</inhalt>
+      </Caramel   >
+      <Belag     >
+          <inhalt>Die Bananen mit den Schnittflaechen nach oben im Blech verteilen. Teig mit einer Gabel dicht einstechen, locker ueber die Bananen legen. Teigrand zwischen Bananen und Formenrand schieben.</inhalt>
+      </Belag     >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, ca. 2 Min. stehen lassen, Rand mit einem Messer loesen, sorgfaeltig auf eine Tortenplatte stuerzen, Backpapier entfernen. </inhalt>
+      </Backen    >
+      <Toppings  >
+          <inhalt>Doppelrahm mit Zimt verruehren, wenig davon auf der Tarte verteilen, Nuesse darueberstreuen. Restlichen Doppelrahm dazu servieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

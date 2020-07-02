@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>137 kcal</NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bowls     >
+          <quant>200 g</quant>
+          <zutat>Kuerbis (Hokaido), gewuerfelt, gedaempft, abgekuehlt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>1 </quant>
+          <zutat>Banane (gefroren)</zutat>
+          <quant>100 ml</quant>
+          <zutat>Mandeldrink</zutat>
+      </Bowls     >
+      <Toppings  >
+          <quant>2 EL</quant>
+          <zutat>Granola (Herbstliches Nuss-Frucht-Granola)</zutat>
+          <quant>2 TL</quant>
+          <zutat>getrocknete Gojibeeren</zutat>
+          <quant>einige </quant>
+          <zutat>Beeren und/oder frische Fruechte nach Wahl</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Bowls     >
+          <inhalt>Alle Zutaten im Blender/Mixer puerieren. In 2 Schalen anrichten.</inhalt>
+      </Bowls     >
+      <Toppings  >
+          <inhalt>Die Bowls mit den Toppings verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

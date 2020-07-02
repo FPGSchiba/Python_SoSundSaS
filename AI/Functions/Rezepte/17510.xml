@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>112 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>8 Scheiben</quant>
+          <zutat>Toastbrot, Rand abgeschnitten</zutat>
+          <quant>30 g</quant>
+          <zutat>Gartenkresse</zutat>
+          <quant>1/4 </quant>
+          <zutat>Gurke, laengs in feine Scheiben gehobelt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter, Zitronenschale und Fleur de Sel verruehren. Toastbrot mit der Butter bestreichen, Scheiben halbieren. Die Haelfte davon mit Kresse und Gurke belegen. Restliche Scheiben darauflegen, leicht andruecken. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

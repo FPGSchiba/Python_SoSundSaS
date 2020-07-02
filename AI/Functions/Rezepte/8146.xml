@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>146 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Crevetten >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Thailand 7-Spice</zutat>
+          <quant>12 </quant>
+          <zutat>rohe bis auf das Schwanzende geschaelte Riesencrevetten (Bio)</zutat>
+      </Crevetten >
+      <Zwiebeln  >
+          <quant>1 1/2 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 </quant>
+          <zutat>Alu-Grillschale</zutat>
+          <quant>6 </quant>
+          <zutat>Bundzwiebeln, laengs halbiert</zutat>
+      </Zwiebeln  >
+      <Holzkohle-_/_Gas-/_Elektrogrill>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Holzspiesschen</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, in Schnitzen, zum Garnieren</zutat>
+      </Holzkohle-_/_Gas-/_Elektrogrill>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Crevetten                     </inhalt>
+      </How_To    >
+      <Crevetten >
+          <inhalt>Oel, Limettensaft, 7-Spice-Gewuerz und Salz gut verruehren. Crevetten damit bestreichen, zugedeckt im Kuehlschrank ca. 1 Std. marinieren.</inhalt>
+      </Crevetten >
+      <How_To1   >
+          <inhalt>Zucker und alle Zutaten bis und mit Fischsauce in der Alu-Garschale gut verruehren. Bundzwiebeln beigeben, mischen.</inhalt>
+      </How_To1   >
+      <Zwiebeln  >
+          <inhalt>Zwiebeln bei geschlossenem Deckel ueber mittelstarker Glut/ mittlerer Stufe (ca. 220 Grad) ca. 15 Min. grillieren.</inhalt>
+      </Zwiebeln  >
+      <Holzkohle-_/_Gas-/_Elektrogrill>
+          <inhalt> Crevetten und Zwiebeln anrichten, Limettenschnitzchen dazu servieren.</inhalt>
+      </Holzkohle-_/_Gas-/_Elektrogrill>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

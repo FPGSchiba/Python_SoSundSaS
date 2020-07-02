@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>426 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Matcha-Glace>
+          <quant>1 1/2 EL</quant>
+          <zutat>Kitchen Matcha </zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser, warm</zutat>
+          <quant>2 </quant>
+          <zutat>Avocados, in Stuecken</zutat>
+          <quant>120 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+      </Matcha-Glace>
+      <Sesam-Mantel>
+          <quant>2 EL</quant>
+          <zutat>schwarzer Sesam, geroestet</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosbluetenzucker</zutat>
+      </Sesam-Mantel>
+   </einkaufliste>
+   <rezept>
+      <Matcha-Glace>
+          <inhalt>Matcha mit dem Wasser gut verruehren, Matchawasser und alle Zutaten bis und mit Kokosmilch puerieren, zugedeckt ca. 4 Std. gefrieren. Glace ca. 15 Min. vor dem Servieren in den Kuehlschrank stellen.  Mit Hilfe eines Glace-Portionierer Kugeln ausstechen, auf einen mit Klarsichtfolie ausgelegten Teller geben.</inhalt>
+      </Matcha-Glace>
+      <Sesam-Mantel>
+          <inhalt>Sesam mit dem Zucker in einen flachen Teller geben, gut mischen. Glacekugeln rasch durch die Mischung ziehen. Sofort servieren.</inhalt>
+      </Sesam-Mantel>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

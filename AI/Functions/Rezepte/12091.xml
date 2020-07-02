@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>411 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 EL</quant>
+          <zutat>Quittengelee</zutat>
+          <quant>3 TL</quant>
+          <zutat>milder Curry</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>3 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>400 g</quant>
+          <zutat>Zanderfilets</zutat>
+          <quant>wenig </quant>
+          <zutat>Curry</zutat>
+          <quant>wenig </quant>
+          <zutat>Thymian, zum Garnieren</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zwiebel und Knoblauch fein hacken, in der Butter andaempfen. Quittengelee, Curry und Thymian beigeben, kurz mitdaempfen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Bouillon und Rahm dazugiessen, aufkochen, Hitze reduzieren, ca. 15 Min. zugedeckt koecheln. Thymian herausnehmen. Suppe fein puerieren, wuerzen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fisch in ca. 2 cm breite Streifen schneiden, zur Suppe geben, ca. 8 Min. ziehen lassen. Suppe anrichten, mit Curry und Thymian garnieren.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

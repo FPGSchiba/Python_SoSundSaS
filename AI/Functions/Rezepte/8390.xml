@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>245 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant> </quant>
+          <zutat>Oel zum Anbraten</zutat>
+          <quant>500 g</quant>
+          <zutat>Rindsvoressen, in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in feinen Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner (ca. 340 g), abgespuelt, abgetropft</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Paprika, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel im Brattopf heiss werden lassen. Fleisch portionenweise je ca. 3 Min. anbraten, herausnehmen. Bratfett mit Haushaltpapier auftupfen, evtl. wenig Oel beigeben. Zwiebelbei mittlerer Hitze andaempfen, Knoblauch, Chili und Tomatenpueree beigeben, kurz mitdaempfen. Fleisch wieder beigeben, wuerzen.Wein dazugiessen, aufkochen, etwas einkoecheln. Bouillon dazugiessen, aufkochen. Hitze reduzieren, zugedeckt bei kleiner Hitze ca. 11 /2 Std. schmoren. Kurz vor dem Servieren Mais beigeben, nur noch heiss werden lassen, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

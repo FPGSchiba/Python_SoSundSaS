@@ -31,9 +31,14 @@
       </Liste     >
    </einkaufliste>
    <rezept>
-      <Rezept    >
+      <How_To    >
           <inhalt>Teig auf wenig Mehl ca. 3 mm rund auswallen. Auf ein mit Backpapier belegtes Blech legen, bis auf einen 1 cm breiten Rand mit Creme fraiche bestreichen. </inhalt>
-      </Rezept    >
+      </How_To    >
+      <How_To    >
+          <inhalt>Kartoffeln mit Oel und Knoblauch mischen, wuerzen, auf dem Teig verteilen.</inhalt>
+      </How_To    >
+      <How_To    >
           <inhalt>Backen: ca. 20 Min. auf der untersten Rille des auf 200 Grad vorgeheizten Ofens. Herausnehmen, mit Trueffeloel betraeufeln, mit Parmesan bestreuen.</inhalt>
+      </How_To    >
    </rezept>
 </Rezept>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>114 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur abgeriebene Schale</zutat>
+          <quant>250 g</quant>
+          <zutat>Weissmehl oder helles Dinkelmehl</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>2 EL</quant>
+          <zutat>Milch</zutat>
+      </Formen    >
+      <Fuellen_&amp;_verzieren>
+          <quant>5 EL</quant>
+          <zutat>Orangenkonfituere</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>dunkle Kuchenglasur (ca. 135 g)</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, nur abgeriebene Schale</zutat>
+      </Fuellen_&amp;_verzieren>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ei darunterruehren, weiterruehren, bis die Masse heller ist. Orangenschale und Mehl beigeben, mit einer Kelle zu einem Teig zusammenfuegen, etwas flach druecken. Teig zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig portionenweise auf wenig Mehl ca. 4 mm dick auswallen. Sterne ausstechen, auf ein mit Backpapier belegtes Blech legen. Eigelb mit Milch gut verruehren, Guetzli damit besteichen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 12 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Fuellen_&amp;_verzieren>
+          <inhalt>Konfituere auf die Haelfte der Guetzli verteilen. Restliche Guetzli auf die Konfituere legen, andruecken. Kuchenglasur im Wasserbad oder der Mikrowelle schmelzen, die Guetzli bis zur Haelfte in die Glasur tauchen, auf ein Gitter legen, mit etwas Orangenschale bestreuen, trocknen lassen.</inhalt>
+      </Fuellen_&amp;_verzieren>
+   </rezept>
+</Rezept>

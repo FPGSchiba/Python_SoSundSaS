@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>193 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mini-Pavlovas>
+          <quant>4 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>feinster Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kaffeebohnen, gemahlen</zutat>
+      </Mini-Pavlovas>
+      <Belegen   >
+          <quant>500 ml</quant>
+          <zutat>Mandarinen-Sorbet</zutat>
+          <quant>4 EL</quant>
+          <zutat>Schokoladenaufstrich (z.B. Nutella)</zutat>
+          <quant>50 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Belegen   >
+   </einkaufliste>
+   <rezept>
+      <Mini-Pavlovas>
+          <inhalt>Eiweisse mit dem Salz steif schlagen, die Haelfte des Zuckers beigeben, weiterschlagen, bis die Masse glaenzt. Restlichen Zucker und Zitronensaft beigeben, weiterschlagen, bis die Masse sehr steif ist. 50 g dieser Masse mit Kaffee verruehren, Kaffee-Masse marmorierend unter die restliche Masse mischen. Masse in einen Spritzsack mit glatter Tuelle (ca.  14 mm Ø) fuellen. 12 Nestli (je ca. 6 cm Ø) auf ein mit Backpapier belegtes Blech spritzen.</inhalt>
+      </Mini-Pavlovas>
+      <Backen/Trocknen>
+          <inhalt>Ca. 10 Min. in der unteren Haelfte des auf 150 Grad vorgeheizten Ofens. Hitze auf 120 Grad reduzieren, Pavlovas ca. 40 Min. trocknen. Pavlovas im ausgeschalteten, geoeffneten Ofen auskuehlen.</inhalt>
+      </Backen/Trocknen>
+      <Belegen   >
+          <inhalt>Aus dem Sorbet Kugeln formen, in die Vertiefungen setzen. Schokoladenaufstrich, Granatapfelkerne und Haselnuesse darauf verteilen. </inhalt>
+      </Belegen   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

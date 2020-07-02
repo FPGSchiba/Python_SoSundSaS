@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>206 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kranz     >
+          <quant>3 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>3 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>feinster Zucker</zutat>
+      </Kranz     >
+      <Himbeer-Mascarpone_Creme>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Himbeeren, angetaut</zutat>
+          <quant>30 g</quant>
+          <zutat>feinster Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Mascarpone</zutat>
+      </Himbeer-Mascarpone_Creme>
+      <Verzierung>
+          <quant>100 g</quant>
+          <zutat>Schokolade , in Spaenen</zutat>
+          <quant>40 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Kranz     >
+          <inhalt>Eiweisse mit dem Salz steif schlagen, die Haelfte des Zuckers beigeben, weiterschlagen, bis die Masse glaenzt. Restlichen Zucker beigeben, weiterschlagen, bis die Masse sehr steif ist. Masse in einen Spritzsack mit gezackter Tuelle (ca. 16 mm Durchmesser) geben, auf ein mit Backpapier belegtes Blech kranzfoermig 10 Nestli spritzen, welche sich knapp beruehren. </inhalt>
+      </Kranz     >
+      <Trocknen  >
+          <inhalt>Ca. 10 Min. in der unteren Haelfte des auf 150 Grad vorgeheizten Ofens. Hitze auf 120 Grad reduzieren, Meringues ca. 1 Std. trocknen. Kranz im ausgeschalteten Ofen auskuehlen. </inhalt>
+      </Trocknen  >
+      <Himbeer-Mascarpone_Creme>
+          <inhalt>Himbeeren mit Zucker puerieren, Mascarpone beigeben, zu einer glatten Creme ruehren. Creme in die Vertiefungen der Nestli fuellen. </inhalt>
+      </Himbeer-Mascarpone_Creme>
+      <Verzierung>
+          <inhalt>Kranz mit Schokolade und Nuessen verzieren. </inhalt>
+      </Verzierung>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

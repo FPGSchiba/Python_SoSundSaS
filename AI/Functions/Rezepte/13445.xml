@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>43 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Infusion  >
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras ,  gequetscht</zutat>
+          <quant>4 Beutel</quant>
+          <zutat>White Tea (z.B. Lipton White Tee)</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone, in Scheiben</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, in Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>50 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>1 Zweig</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Infusion  >
+   </einkaufliste>
+   <rezept>
+      <Infusion  >
+          <inhalt>Wasser und alle Zutaten bis und mit Minze in eine Karaffe geben, gut verruehren. ca. 3 std. kuehl stellen, Teebeutel entfernen, mit Eiswuerfel servieren.</inhalt>
+      </Infusion  >
+   </rezept>
+</Rezept>

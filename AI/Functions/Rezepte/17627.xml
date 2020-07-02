@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>121 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dip       >
+          <quant>1 Dose</quant>
+          <zutat>weisse Bohnen (ca. 400 g), abgespuelt, abgetropft</zutat>
+          <quant>30 g</quant>
+          <zutat>Baerlauch, grob geschnitten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Bundrueebli</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli</zutat>
+          <quant>1 </quant>
+          <zutat>Kohlrabi, in Staengeli</zutat>
+          <quant>250 g</quant>
+          <zutat>Snack-Gurken, laengs halbiert</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Dip       >
+          <inhalt>Bohnen, Baerlauch, Oel und Zitronensaft mit dem Puerierstab fein puerieren, wuerzen. Gemuese auf einer Platte anrichten, Dip dazu servieren.</inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

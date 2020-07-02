@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>537 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bohnenmasse_>
+          <quant>1 Dose</quant>
+          <zutat>weisse Bohnen (Cirio Bianchi di Spagna)</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>roter Tabasco</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>5 EL</quant>
+          <zutat>Paniermehl</zutat>
+      </Bohnenmasse_>
+      <Panieren  >
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Panieren  >
+      <Bohnenbaellchen_frittieren>
+          <quant> </quant>
+          <zutat>Erdnussoel zum Frittieren</zutat>
+      </Bohnenbaellchen_frittieren>
+      <Crevetten-Salat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>12 </quant>
+          <zutat>tiefgekuehlte geschaelte rohe Crevettenschwaenze (Bio), aufgetaut, trocken getupft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Cherry-Tomaten, geviertelt</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, wenig abgeriebene Schale, 1/2 Saft</zutat>
+      </Crevetten-Salat>
+   </einkaufliste>
+   <rezept>
+      <Bohnenmasse_>
+          <inhalt>Bohnen mit allen Zutaten bis und mit Pfeffer puerieren, Paniermehl daruntermischen. Masse in 12 Portionen teilen, zu ovalen Taetschli formen. </inhalt>
+      </Bohnenmasse_>
+      <Panieren  >
+          <inhalt>Mehl und Paniermehl in je einen flachen Teller geben. Ei in einem tiefen Teller verklopfen. Bohnenbaellchen portionenweise im Mehl, dann im Ei und in der Panade wenden, Panade gut andruecken.</inhalt>
+      </Panieren  >
+      <Bohnenbaellchen_frittieren>
+          <inhalt>Brattopf bis auf 1/3 Hoehe mit Oel fuellen, auf ca. 180 Grad erhitzen. Bohnenbaellchen portionenweise je ca. 4 Min. hellbraun frittieren. Bohnenbaellchen mit einer Schaumkelle herausnehmen, auf Haushaltpapier abtropfen.</inhalt>
+      </Bohnenbaellchen_frittieren>
+      <Crevetten-Salat>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Crevetten beidseitig je ca. 2 Min. braten, herausnehmen, salzen. Tomaten, Schalotte, Petersilie, Oel, Limettenschale und -saft mit den Crevetten mischen. Crevetten-Salat mit den Bohnenbaellchen anrichten. </inhalt>
+      </Crevetten-Salat>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

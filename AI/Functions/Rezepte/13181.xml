@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>593 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>73 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <One_pot_Pasta>
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Orecchiette)</zutat>
+          <quant>600 g</quant>
+          <zutat>Krautstiel, in feinen Streifen</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+      </One_pot_Pasta>
+      <Anrichten >
+          <quant>150 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>60 g</quant>
+          <zutat>geriebener Sbrinz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <One_pot_Pasta>
+          <inhalt>Teigwaren und alle Zutaten bis und mit Wasser in eine Pfanne geben, mischen, aufkochen. Offen unter gelegentlichem Ruehren bei mittlerer Hitze ca. 15 Min. kochen, bis die Teigwaren al dente sind.</inhalt>
+      </One_pot_Pasta>
+      <Anrichten >
+          <inhalt>Tomaten und Kaese unter die Teigwaren mischen. Pinienkerne und Petersilie darueberstreuen.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

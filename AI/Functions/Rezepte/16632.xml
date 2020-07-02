@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>351 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+          <quant>200 g</quant>
+          <zutat>Heidelbeeren (oder Blaubeeren)</zutat>
+          <quant>250 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>3 </quant>
+          <zutat>Bananen, zerdrueckt</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Backpulver in einer Schuessel mischen, Heidelbeeren daruntermischen. Zucker mit Oel, Eiern und Vanillepaste verruehren, Bananen daruntermischen. Zum Mehl geben, mit den Knethaken des Handmixers gut vermischen. Teig in die vorbereitete Form geben, glattstreichen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Mit einem Holzstaebchen pruefen, ob die Masse durchgebacken ist.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

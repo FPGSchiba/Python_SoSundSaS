@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>640 kcal</NaehrwertProPerson>
+       <Fett>52 g  </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rosmarin-Mandeln>
+          <quant>100 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>getrockneter Rosmarin</zutat>
+      </Rosmarin-Mandeln>
+      <Curry-Cashews>
+          <quant>100 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Curry</zutat>
+      </Curry-Cashews>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rosmarin-Mandeln              </inhalt>
+      </How_To    >
+      <Rosmarin-Mandeln>
+          <inhalt>Curry-Cashews                 </inhalt>
+      </Rosmarin-Mandeln>
+      <Curry-Cashews>
+          <inhalt>Backen                        </inhalt>
+      </Curry-Cashews>
+      <Backen    >
+          <inhalt>In Glaeschen oder Dosen verpacken.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

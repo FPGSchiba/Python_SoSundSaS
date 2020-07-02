@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>239 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pickled_Schalotte_und_Radiesli>
+          <quant>1 </quant>
+          <zutat>Schalotte, in Streifen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in feinen Scheiben</zutat>
+          <quant>1 dl</quant>
+          <zutat>Essig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Pickled_Schalotte_und_Radiesli>
+      <Salat     >
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>6 </quant>
+          <zutat>Aprikosen, halbiert</zutat>
+          <quant>120 g</quant>
+          <zutat>Rucola</zutat>
+      </Salat     >
+      <Vinaigrette>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Vinaigrette>
+   </einkaufliste>
+   <rezept>
+      <Pickled_Schalotte_und_Radiesli>
+          <inhalt>Schalotte und Radiesli in eine Schuessel geben. Essig, Wasser, Zucker und Salz aufkochen, ueber die Schalotte und Radiesli giessen. Zugedeckt ca. 10 Min. etwas abkuehlen. Schalotten und Radiesli abtropfen, dabei den Sud auffangen, beiseite stellen. </inhalt>
+      </Pickled_Schalotte_und_Radiesli>
+      <Salat     >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Aprikosen beidseitig je ca. 2 Min. braten. Rucola und ausgekuehlte Schalotte und Radiesli mit den Aprikosen mischen.</inhalt>
+      </Salat     >
+      <Vinaigrette>
+          <inhalt>2 EL beiseite gestellten Sud mit Oel und Salz verruehren, ueber den Salat traeufeln. </inhalt>
+      </Vinaigrette>
+   </rezept>
+</Rezept>

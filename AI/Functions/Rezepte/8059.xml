@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>373 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant> </quant>
+          <zutat>Oel zum Anbraten</zutat>
+          <quant>500 g</quant>
+          <zutat>Rindsvoressen, in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>300 g</quant>
+          <zutat>Chinakohl, in feinen Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>600 g</quant>
+          <zutat>fest kochende Kartoffeln, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel im Brattopf erhitzen, Fleisch portionenweise beigeben, mit Mehl bestaeuben, rundum ca. 3 Min. anbraten, salzen. Herausnehmen, Hitze reduzieren, Bratfett auftupfen. Butter in derselben Pfanne erwaermen. Zwiebel und Knoblauch andaempfen, Rueebli und alle Zutaten bis und mit Paprika beigeben, kurz mitdaempfen. Fleisch wieder beigeben, Wein dazugiessen, zur Haelfte einkochen. Bouillon dazugiessen, aufkochen, zugedeckt bei kleiner Hitze ca. 2 Std. schmoren. Deckel entfernen, Fluessigkeit ca. 10 Min. etwas einkoecheln, wuerzen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Kartoffeln und Oel mischen, auf ein mit Backpapier belegtes Blech verteilen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

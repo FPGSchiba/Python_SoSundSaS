@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>363 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blitzteig >
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>40 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>120 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Espressi, kalt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>6 </quant>
+          <zutat>Schokolade-Staengeli (je ca. 23 g)</zutat>
+      </Blitzteig >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Blitzteig                     </inhalt>
+      </How_To    >
+      <Blitzteig >
+          <inhalt>Schokoladestaengeli in den Teig druecken.</inhalt>
+      </Blitzteig >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Cake herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen. Cake mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

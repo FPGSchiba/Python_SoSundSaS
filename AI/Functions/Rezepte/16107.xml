@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>414 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant>140 g</quant>
+          <zutat>Butter, in Stuecken, weich</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Vanillezucker in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben, eine Mulde eindruecken. Milch, Hefe und Ei in die Mulde geben, mischen, rasch zu einem geschmeidigen Teig zusammenfuegen. Teig ca. 11/2 Std. aufgehen lassen. </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl rechteckig ca. 1 cm dick auswallen, eine Teighaelfte gleichmaessig mit Butter bestreichen, dabei einen Rand von ca. 1 cm frei lassen. Andere Teighaelfte darueberlegen, Rand gut andruecken, zugedeckt ca. 30 Min. kuehl stellen. Teig nochmals auf wenig Mehl ca. 1 cm dick rechteckig auswallen. Schmalseiten bis zur Mitte einschlagen, dann eine Haelfte auf die andere legen, sodass 4 Teiglagen entstehen. Teig zugedeckt ca. 1 Std. kuehl stellen, Vorgang wiederholen, nochmals zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Formen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>509 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>68 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rawnola   >
+          <quant>50 g</quant>
+          <zutat>Kokosnuss-Streifen, geroestet (oder ungesuesste Kokoschips)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>6 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>1 EL</quant>
+          <zutat>dunkles Mandelmus (oder ungesuesstes Erdnussmus)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Cocoa Nibs</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Rawnola   >
+      <Bowls     >
+          <quant>2 </quant>
+          <zutat>Bananen (mittelgross), in Scheiben, tiefgekuehlt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>5 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>1 EL</quant>
+          <zutat>dunkles Mandelmus (oder ungesuesstes Erdnussmus)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>150 ml</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>5 </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Bowls     >
+      <Toppings  >
+          <quant>1 </quant>
+          <zutat>Banane, in Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Cocoa Nibs</zutat>
+          <quant>1 EL</quant>
+          <zutat>dunkles Mandelmus (oder ungesuesstes Erdnussmus)</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Rawnola   >
+          <inhalt>Kokosnuss-Streifen, Haferflocken und Datteln im Cutter fein hacken, alle restlichen Zutaten beigeben und ca. 1 Min. weiterhacken. Fuer mindestens 1 Std. in den Tiefkuehler geben.</inhalt>
+      </Rawnola   >
+      <Bowls     >
+          <inhalt>Tiefgekuehlte Bananenscheiben 5-7 Min. antauen. Mit den restlichen Zutaten in einen leistungsstarken Mixer geben und glatt und cremig puerieren.</inhalt>
+      </Bowls     >
+      <Toppings  >
+          <inhalt>Creme in 4 Schalen anrichten, mit Rawnola, Bananenscheiben, Cocoa-Nibs und Mandelmus verzieren.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

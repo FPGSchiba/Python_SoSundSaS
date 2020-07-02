@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>495 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auberginen>
+          <quant>2 </quant>
+          <zutat>Auberginen, laengs halbiert, kreuzweise tief eingeschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Stueck</quant>
+          <zutat>Alufolie</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, halbiert</zutat>
+      </Auberginen>
+      <Hummus_   >
+          <quant>1 Dose</quant>
+          <zutat>Kichererbsen (ca. 215 g) abgespuelt, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Hummus_   >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>300 g</quant>
+          <zutat>Grillkaese (z.B. Qualite und Prix)</zutat>
+          <quant> </quant>
+          <zutat>Holzspiesschen</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Auberginen                    </inhalt>
+      </How_To    >
+      <Auberginen>
+          <inhalt>Aubergine und Knoblauch mit Oel bestreichen, salzen. Auberginen und Knoblauch satt in Alufolie einpacken.</inhalt>
+      </Auberginen>
+      <How_To1   >
+          <inhalt>Hummus                        </inhalt>
+      </How_To1   >
+      <Hummus_   >
+          <inhalt>Grillieren (Holzkohle-, Gas-, Elektrogrill):</inhalt>
+      </Hummus_   >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+          <inhalt>Grillkaese ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad)  beidseitig je ca. 4 Min. grillieren. Restliches Oel auf dem Hummus verteilen, zum Grillkaese servieren. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+   </rezept>
+</Rezept>

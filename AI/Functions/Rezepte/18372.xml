@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>363 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cashew-Nuesse>
+          <quant>380 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+      </Cashew-Nuesse>
+      <Boden     >
+          <quant>175 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>65 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>55 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+      </Boden     >
+      <Fuellung   >
+          <quant>4 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>6 EL</quant>
+          <zutat>Kokosfett, fluessig, abgekuehlt</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>350 g</quant>
+          <zutat>Heidelbeeren</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Cashew-Nuesse                  </inhalt>
+      </How_To    >
+      <Cashew-Nuesse>
+          <inhalt>Boden                         </inhalt>
+      </Cashew-Nuesse>
+      <Boden     >
+          <inhalt>Fuellung                       </inhalt>
+      </Boden     >
+      <Fuellung   >
+          <inhalt>Den Cheesecake vor dem Servieren ca. 30 Min. antauen.</inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

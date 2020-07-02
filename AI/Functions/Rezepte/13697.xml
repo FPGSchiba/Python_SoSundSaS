@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>442 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nudeln_&amp;_Gemuese>
+          <quant>1 Paeckli</quant>
+          <zutat>Glasnudeln (100 g)</zutat>
+          <quant>100 g</quant>
+          <zutat>Chinakohl, in Streifen</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli (ca. 200 g)</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur der Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel, in Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thai-Basilikum, zerzupft</zutat>
+      </Nudeln_&amp;_Gemuese>
+      <Sauce_&amp;_Garnitur>
+          <quant>2 EL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>ungesalzene Erdnuesse, grob gehackt</zutat>
+      </Sauce_&amp;_Garnitur>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nudeln &amp; Gemuese           </inhalt>
+      </How_To    >
+      <Nudeln_&amp;_Gemuese>
+          <inhalt>Bundzwiebeln, Chili, Koriander, Thai-Basilikum und Glasnudeln zum Gemuese geben.</inhalt>
+      </Nudeln_&amp;_Gemuese>
+      <Sauce_&amp;_Garnitur>
+          <inhalt>Oel mit Sojasauce und Knoblauch verruehren, zum Salat geben, alles gut mischen. Salat in 2 Schaelchen verteilen, mit den Erdnuessen garnieren.</inhalt>
+      </Sauce_&amp;_Garnitur>
+   </rezept>
+</Rezept>

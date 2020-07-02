@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>452 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffeln_>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>800 g</quant>
+          <zutat>fest kochende Kartoffeln, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarin, grob gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Kartoffeln_>
+      <Sauce     >
+          <quant>30 g</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+          <quant>1 dl</quant>
+          <zutat>roter Portwein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wildfond</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Sauce     >
+      <Fleisch   >
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>12 </quant>
+          <zutat>Rehschnitzel ( je ca. 50 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch   >
+   </einkaufliste>
+   <rezept>
+      <Kartoffeln_>
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne heiss werden lassen, Kartoffeln und Rosmarin beigeben. Kartoffeln bei mittlerer Hitze unter gelegentlichem Wendenca. 30 Min. knusprig braten, salzen.</inhalt>
+      </Kartoffeln_>
+      <Sauce     >
+          <inhalt>Cranberries mit 1 1/2 EL rotem Portwein aufkochen, in einer kleinen Schuessel auskuehlen, ca. 15 Min. ziehen lassen. Restlichen Portwein und Fond mit Schalotten und Rosmarin in derselben Pfanne aufkochen. Fluessigkeit auf ca. 1 dl einkochen, absieben, zurueck in die Pfanne giessen. Butter portionenweise unter Ruehren mit dem Schwingbesen beigeben. Dabei die Pfanne hin und wieder kurz auf die Platte stellen, um die Sauce nur leicht zu erwaermen, sie darf nicht kochen.  Ruehren, bis die Sauce cremig ist. Eingeweichte Cranberries beigeben, nur noch heiss werden lassen, Portwein-Jus salzen.</inhalt>
+      </Sauce     >
+      <Fleisch   >
+          <inhalt>Bratbutter in einer Bratpfanne heiss werden lassen. Hitze reduzieren. Fleisch bei mittlerer Hitze portionenweise beidseitig je ca. 1 1/2 Min. braten, wuerzen.</inhalt>
+      </Fleisch   >
+   </rezept>
+</Rezept>

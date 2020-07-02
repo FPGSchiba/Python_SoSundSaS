@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>126 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>150 g</quant>
+          <zutat>Sultaninen, grob gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Zitronat, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, 1/2 abgeriebene Schale und 1/2 Saft</zutat>
+          <quant>1/2 </quant>
+          <zutat>Apfel, fein gerieben</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Lebkuchengewuerz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+          <quant>40 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>dunkler Rum</zutat>
+      </Fuellung   >
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Pies      >
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Pies      >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Sultaninen und alle Zutaten bis und mit Rum in einer Schuessel mischen, zugedeckt ca. 12 Std. oder ueber Nacht im Kuehlschrank ziehen lassen. </inhalt>
+      </Fuellung   >
+      <Teig      >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen, rasch zu einem weichen, glatten Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig      >
+      <Pies      >
+          <inhalt>Teig auf wenig Mehl ca. 3mm dick auswallen, 24 Rondellen von je ca. 7 cm Ø ausstechen, in die vorbereiteten Bleche legen. Je ca. 1 EL Fuellung darauf verteilen. Aus dem restlichen Teig 24 Sterne ausstechen, diese auf die Fuellung legen, mit Eigelb bestreichen, mit Zucker bestreuen. </inhalt>
+      </Pies      >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Pies aus den Formen nehmen und auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

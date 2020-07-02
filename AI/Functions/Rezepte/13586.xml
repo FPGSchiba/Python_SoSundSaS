@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1035 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>133 g </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>500 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>90 g</quant>
+          <zutat>Butter</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Milch</zutat>
+      </Hefeteig  >
+      <Fuellen    >
+          <quant>250 g</quant>
+          <zutat>Backmarzipan (Mandelmasse)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rahm</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Fuellen    >
+      <Bestreichen>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Bestreichen>
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Hefeteig                      </inhalt>
+      </How_To    >
+      <Hefeteig  >
+          <inhalt>Mehl und alle Zutaten bis und mit Zucker in einer Schuessel mischen. Hefe zerbroeckeln, Butter in Stuecke schneiden, mit der Milch zum Mehl geben.</inhalt>
+      </Hefeteig  >
+      <How_To1   >
+          <inhalt>Formen                        </inhalt>
+      </How_To1   >
+      <Formen    >
+          <inhalt>Fuellen                        </inhalt>
+      </Formen    >
+      <Fuellen    >
+          <inhalt>Formen                        </inhalt>
+      </Fuellen    >
+      <Formen    >
+          <inhalt>Straenge zu 4 Chnoepfen formen, auf zwei mit Backpapier belegte Bleche legen, zugedeckt nochmals ca. 30 Min. aufgehen lassen.</inhalt>
+      </Formen    >
+      <Bestreichen>
+          <inhalt>Ei verklopfen, Chnoepfe damit bestreichen.</inhalt>
+      </Bestreichen>
+      <Backen    >
+          <inhalt>Ca. 25 Min. im auf 160 Grad vorgeheizten Ofens (Heissluft). Herausnehmen, auf ein Gitter schieben, etwas abkuehlen, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

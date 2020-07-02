@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>346 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>50 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>500 g</quant>
+          <zutat>saeuerliche Aepfel (z.B. Boskoop) , in Wuerfeli, 3 EL beiseite gestellt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Teig      >
+      <Topping   >
+          <quant>4 EL</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, fluessig, etwas abgekuehlt</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Zucker, Eier und Salz mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse schaumig ist. Creme fraiche darunterruehren. Mehl, Haselnuesse, Haferflocken und Backpulver mischen, unter die Eiermasse ruehren. Apfelwuerfeli und Zitronensaft beigeben, mischen, in die vorbereiteten Tassen verteilen. </inhalt>
+      </Teig      >
+      <Topping   >
+          <inhalt>Haferflocken, Zucker und Butter mit den beiseite gestellten Apfelwuerfeli mischen, auf den Kuechlein verteilen. </inhalt>
+      </Topping   >
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>204 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemueseflan>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>80 g</quant>
+          <zutat>Lauch, sehr fein geschnitten</zutat>
+          <quant>80 g</quant>
+          <zutat>Knollensellerie, in ca, 2 mm grossen Wuerfeli</zutat>
+          <quant>40 g</quant>
+          <zutat>Rueebli, in ca. 2 mm grossen Wuerfeli</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+      </Gemueseflan>
+      <Sauce     >
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>2 TL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>2 TL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemueseflan                    </inhalt>
+      </How_To    >
+      <Gemueseflan>
+          <inhalt>Garen im Wasserbad            </inhalt>
+      </Gemueseflan>
+      <Garen_im_Wasserbad>
+          <inhalt>Sauce                         </inhalt>
+      </Garen_im_Wasserbad>
+      <Sauce     >
+          <inhalt>Flan mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen, auf Teller stuerzen. Sauce dazu servieren.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

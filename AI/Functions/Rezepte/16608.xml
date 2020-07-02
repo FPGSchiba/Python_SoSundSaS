@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>672 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>93 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vermicelles>
+          <quant>5 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>5 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 kg</quant>
+          <zutat>tiefgekuehlte geschaelte Marroni</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Vermicelles>
+      <Meringues >
+          <quant>4 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>feinster Zucker</zutat>
+      </Meringues >
+      <Verzieren >
+          <quant>1/2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 60 g), geschmolzen</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vermicelles                   </inhalt>
+      </How_To    >
+      <Vermicelles>
+          <inhalt>Milch und Rahm mit 50 g Puderzucker aufkochen, salzen. Marroni darin ca. 30 Min. weich kochen, abtropfen. Marroni durchs Passe-vite in eine Schuessel treiben, etwas abkuehlen. </inhalt>
+      </Vermicelles>
+      <How_To1   >
+          <inhalt>Restlichen Puderzucker, Vanillezucker und Zitronensaft beigeben, puerieren, zugedeckt ca. 2 Std. kuehl stellen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Eiweisse mit dem Salz steif schlagen. Die Haelfte des Zuckers beigeben, weiterschlagen, bis der Eischnee sehr steif ist und glaenzt. Restlichen Zucker beigeben, kurz weiterschlagen.</inhalt>
+      </How_To2   >
+      <Meringues >
+          <inhalt>Eischnee in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Durchmesser) fuellen, auf ein mit Backpapier belegtes Blech 8 Meringues (je ca. 8 cm Durchmesser) spritzen.</inhalt>
+      </Meringues >
+      <Backen/Trocknen>
+          <inhalt>Ca. 10 Min. in der unteren Haelfte des auf 150 Grad vorgeheizten Ofens. Hitze auf 80 Grad reduzieren, Meringues ca. 1 Std. trocknen. Meringues im ausgeschalteten, geoeffneten Ofen auskuehlen.</inhalt>
+      </Backen/Trocknen>
+      <Verzieren >
+          <inhalt>Meringues quer halbieren. Marroni-Pueree durch die Vermicelles-Presse auf den Meringueboden treiben, Meringuedeckel daraufsetzen. Schokolade ueber die Meringues verteilen. </inhalt>
+      </Verzieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

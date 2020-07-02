@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>105 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dunkler_Teig>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>80 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>160 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Dunkler_Teig>
+      <Heller_Teig>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>240 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Heller_Teig>
+      <Kaffee-Creme>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>sofort loesliches Kaffeepulver</zutat>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Kaffee-Creme>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Dunkler Teig                  </inhalt>
+      </How_To    >
+      <Dunkler_Teig>
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ei beigeben, weiterruehren, bis die Masse heller ist. Kakaopulver und Mehl mischen, beigeben, rasch zu einem Teig zusammenfuegen.</inhalt>
+      </Dunkler_Teig>
+      <How_To1   >
+          <inhalt>Heller Teig                   </inhalt>
+      </How_To1   >
+      <Heller_Teig>
+          <inhalt>Teig flach druecken, zugedeckt ca. 2 Std. kuehl stellen. Teig portionenweise auf wenig Mehl ca. 4 mm dick auswallen. Herzen ausstechen, auf zwei mit Backpapier belegte Bleche legen. </inhalt>
+      </Heller_Teig>
+      <Backen    >
+          <inhalt>Je zwei Bleche ca. 7 Min. im auf 180 Grad (Heissluft) vorgeheizten Ofen. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Kaffee-Creme>
+          <inhalt>Wasser mit dem Kaffeepulver und Zucker in einer Pfanne bei mittlerer Hitze auf ca. die Haelfte einkoecheln. Den warmen, dickfluessigen Sirup langsam unter das Eigelb ruehren, kurz weiterruehren. Mokkamischung loeffelweise unter die weiche Butter (Raumtemperatur) ruehren, ca. 15 Min. zugedeckt kuehl stellen. Creme in einen Spritzsack mit gezackter Tuelle (8 mm Ø) fuellen, auf die Haelfte der Herzen spritzen, restliche Herzen daraufsetzen. </inhalt>
+      </Kaffee-Creme>
+   </rezept>
+</Rezept>

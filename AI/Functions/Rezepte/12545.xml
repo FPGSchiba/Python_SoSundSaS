@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>81 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>3 </quant>
+          <zutat>Kiwis, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Gruentee, kalt</zutat>
+          <quant>50 g</quant>
+          <zutat>Medjool-Datteln, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Leinsamen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kiwis und alle Zutaten bis und mit Datteln im Mixglas puerieren. Smoothie in Glaeser verteilen, Leinsamen darauf verteilen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

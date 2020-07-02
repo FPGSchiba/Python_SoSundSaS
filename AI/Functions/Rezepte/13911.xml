@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>717 kcal</NaehrwertProPerson>
+       <Fett>48 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung_  >
+          <quant>1 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>220 g</quant>
+          <zutat>Kuerbis, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>300 g</quant>
+          <zutat>Wirz, halbiert, in Streifen</zutat>
+          <quant>150 g</quant>
+          <zutat>braune Champignons, in Scheiben</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in Wuerfeli</zutat>
+          <quant>300 g</quant>
+          <zutat>Raclettekaese, in Wuerfeln</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung_  >
+      <Pie_      >
+          <quant>1 </quant>
+          <zutat>rund ausgewallte  Kuchenteige  (ca. 32 cm Ø)</zutat>
+          <quant>2 EL</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+      </Pie_      >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung_  >
+          <inhalt>Birne und Raclettekaese daruntermischen, wuerzen, etwas abkuehlen. </inhalt>
+      </Fuellung_  >
+      <Pie_      >
+          <inhalt>Kuchenteig in das vorbereitete Blech geben, mit einer Gabel dicht einstechen. Nuesse darueberstreuen. Fuellung darin verteilen.</inhalt>
+      </Pie_      >
+      <Backen_   >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>295 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>rote Currypaste</zutat>
+          <quant>2 </quant>
+          <zutat>Limetten, nur der Saft</zutat>
+          <quant>200 g</quant>
+          <zutat>Lachsfilets ohne Haut  (Sushi-Qualitaet), in Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Mango, in Wuerfeli</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Currypaste mit Limettensaft verruehren. Lachs beigeben, mischen, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Mango daruntermischen, sofort servieren.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=HUr8E2drUUw"/>
+</Rezept>

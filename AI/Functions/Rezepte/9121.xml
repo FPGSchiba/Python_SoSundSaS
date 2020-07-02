@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>380 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>150 g</quant>
+          <zutat>dunkle Toblerone, zerbroeckelt</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schokolade in eine Schuessel geben, siedendes Wasser daruebergiessen, ca. 2 Min. stehen lassen. Wasser sorgfaeltig bis auf ca. 1 Essloeffel abgiessen, Schokolade glatt ruehren. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Ei und Zucker gut verruehren, weiterruehren, bis die Masse heller ist, sofort gut mit der Schokolade verruehren. Rahm sorgfaeltig mit dem Gummischaber unter die Masse ziehen, zugedeckt ca. 3 Std. kuehl stellen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

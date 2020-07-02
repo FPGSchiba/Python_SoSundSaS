@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>213 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Konfituere_>
+          <quant>500 g</quant>
+          <zutat>Rhabarber, in Stuecken</zutat>
+          <quant>3 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, Samen ausgekratzt</zutat>
+          <quant>250 g</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+      </Konfituere_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Konfituere                     </inhalt>
+      </How_To    >
+      <Konfituere_>
+          <inhalt>Vanilleschoten entfernen, Konfituere siedend heiss bis knapp unter den Rand in die sauberen, vorgewaermten Glaeser fuellen, sofort verschliessen. Glaeser mit Schraubdeckel kurz auf den Kopf stellen, auf isolierender Unterlage auskuehlen.</inhalt>
+      </Konfituere_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

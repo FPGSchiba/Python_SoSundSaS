@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>654 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Johannisbeer-Sauce>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>250 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Johannisbeer-Sauce>
+      <Fleisch_fuellen>
+          <quant>4 </quant>
+          <zutat>Kalbsplaetzli (z. B. Eckstueck, je ca. 150 g), vom Metzger zum Fuellen aufgeschnitten, flach geklopft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>120 g</quant>
+          <zutat>Frischkaese mit Kraeutern</zutat>
+          <quant>12 Tranchen</quant>
+          <zutat>Rohess-Speck</zutat>
+      </Fleisch_fuellen>
+      <Panieren  >
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Eier</zutat>
+          <quant>60 g</quant>
+          <zutat>Paniermehl</zutat>
+      </Panieren  >
+      <Anbraten  >
+          <quant>4 EL</quant>
+          <zutat>Bratbutter</zutat>
+      </Anbraten  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Johannisbeer-Sauce            </inhalt>
+      </How_To    >
+      <Johannisbeer-Sauce>
+          <inhalt>Zucker beigeben, bei mittlerer Hitze ca. 5 Min. kochen. Johannisbeeren und Rosmarin beigeben, wuerzen, ca. 10 Min. mitkoecheln. Auskuehlen.</inhalt>
+      </Johannisbeer-Sauce>
+      <Fleisch_fuellen>
+          <inhalt>Plaetzli aufklappen, beidseitig wuerzen. Je 3 Specktranchen auf den Plaetzli auslegen, Frischkaese darauf verteilen. Plaetzli einmal ueberschlagen, mit Zahnstochern verschliessen.</inhalt>
+      </Fleisch_fuellen>
+      <Panieren  >
+          <inhalt>Mehl in einen flachen Teller geben. Ei in einem tiefen Teller verklopfen, Paniermehl in einen flachen Teller geben. Plaetzli portionenweise im Mehl wenden, ueberschuessiges Mehl abschuetteln, im Ei, dann im Paniermehl wenden, Panade gut andruecken.</inhalt>
+      </Panieren  >
+      <Anbraten  >
+          <inhalt>Bratbutter in einer Bratpfanne heiss werden lassen. Hitze reduzieren, Cordons bleus bei mittlerer Hitze beidseitig je ca. 4 Min. goldgelb braten. Johannisbeer-Sauce dazu servieren.</inhalt>
+      </Anbraten  >
+   </rezept>
+</Rezept>

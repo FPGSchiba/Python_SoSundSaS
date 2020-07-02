@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>463 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>120 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale, wenig davon beiseite gestellt, und 1 EL Saft</zutat>
+          <quant>30 g</quant>
+          <zutat>Shortbread, grob zerbroeckelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weisswein, oder Orangensaft</zutat>
+          <quant>6 </quant>
+          <zutat>Kirsch-Staengeli</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Himbeeren, Rohzucker, Zitronenschale und -saft zugedeckt ca. 1 Std. marinieren. Shortbread in einer Pfanne ohne Fett hellbraun roesten, von der Platte nehmen, Rohzucker darunter mischen. Vollrahm mit dem Zucker halb steif schlagen, beiseite gestellte Zitronenschale und Wein beigeben, steif schlagen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>229 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereiten>
+          <quant>200 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>100 g</quant>
+          <zutat>getrocknete Apfelschnitze</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse</zutat>
+      </Vorbereiten>
+      <Teig      >
+          <quant>475 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Teig      >
+      <Formen    >
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli</zutat>
+          <quant>100 g</quant>
+          <zutat>getrocknete Apfelschnitze</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>475 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten>
+          <inhalt>Rueebli schaelen, an der Roestiraffel grob reiben. </inhalt>
+      </Vorbereiten>
+      <Teig      >
+          <inhalt>                              </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>                              </inhalt>
+      </Formen    >
+      <Backen_   >
+          <inhalt>Broetli in die untere Haelfte des auf 240 Grad vorgeheizten Ofens schieben, die Ofentemperatur auf 220 Grad reduzieren. Ca. 25 Min. backen. Herausnehmen, Broetli auf einem Gitter auskuehlen.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

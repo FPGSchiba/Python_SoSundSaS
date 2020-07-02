@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>279 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli    >
+          <quant>8 </quant>
+          <zutat>Rueebli (ca. 900 g), geschaelt</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (25 x 40 cm)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>geroesteter Sesam</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Rueebli    >
+      <Dip       >
+          <quant>200 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>geroesteter Sesam</zutat>
+          <quant>3 TL</quant>
+          <zutat>Wasabi-Paste</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Kerbel</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Rueebli    >
+          <inhalt>Rueebli im siedenden Salzwasser ca. 15 Min. knapp weich kochen, abtropfen, auskuehlen. Teig entrollen, laengs in 8 Streifen von je ca. 1 cm Breite abschneiden. Die Rueebli mit je einem Teigstreifen umwickeln, auf ein mit Backpapier belegtes Blech legen. Teig mit Oel bestreichen, Sesam und Fleur de Sel darueberstreuen.</inhalt>
+      </Rueebli    >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter etwas abkuehlen.</inhalt>
+      </Backen    >
+      <Dip       >
+          <inhalt>Saurer Halbrahm, Essig, Oel, Sesam und Wasabi-Paste verruehren, salzen. Am dickeren Ende der Rueebli mit einem spitzen Messer ein Loch bohren, Kerbelzweige hineinstecken, mit Dip servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

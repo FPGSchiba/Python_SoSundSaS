@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>49 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli-Hummus_(fuer_8_Portionen)>
+          <quant>250 g</quant>
+          <zutat>Rueebli, in Stuecken</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>Kichererbsen (je ca. 240 g), abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Thymianblaettchen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Meersalz</zutat>
+      </Rueebli-Hummus_(fuer_8_Portionen)>
+      <Geroesteter_Randen-Hummus_(fuer_8_Portionen)>
+          <quant>250 g</quant>
+          <zutat>rohe Randen (1 Stueck)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>Kichererbsen (je ca. 240 g), abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>2 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Meersalz</zutat>
+      </Geroesteter_Randen-Hummus_(fuer_8_Portionen)>
+      <Hummus_mit_getrockneten_Tomaten_(fuer_8_Portionen)>
+          <quant>2 Dosen</quant>
+          <zutat>Kichererbsen (je ca. 240 g), abgetropft</zutat>
+          <quant>10 </quant>
+          <zutat>getrocknete Tomaten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Meersalz</zutat>
+      </Hummus_mit_getrockneten_Tomaten_(fuer_8_Portionen)>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rueebli-Hummus (fuer 8 Portionen)</inhalt>
+      </How_To    >
+      <Rueebli-Hummus_(fuer_8_Portionen)>
+          <inhalt>Die Rueebli im Dampfgarer oder im Daempfkoerbchen mit etwas Wasser gar daempfen, abtropfen. Kichererbsen im Cutter/Mixer puerieren. Rueebli, Tahini, Oel, Wasser, Zitronensaft, Thymian und Gewuerze beigeben, kurz weiterpuerieren. Hummus in eine Schuessel geben, wenig Olivenoel und Meersalz daruebergeben.</inhalt>
+      </Rueebli-Hummus_(fuer_8_Portionen)>
+      <How_To1   >
+          <inhalt>Randen waschen, trockentupfen, mit Oel bestreichen und in Alufolie verpacken, auf ein Blech legen.</inhalt>
+      </How_To1   >
+      <Geroesteter_Randen-Hummus_(fuer_8_Portionen)>
+          <inhalt>beigeben, cremig puerieren. Hummus in eine Schuessel geben, wenig Olivenoel und Meersalz daruebergeben.</inhalt>
+      </Geroesteter_Randen-Hummus_(fuer_8_Portionen)>
+      <Hummus_mit_getrockneten_Tomaten_(fuer_8_Portionen)>
+          <inhalt>Kichererbsen im Cutter/Mixer puerieren. Tomaten beigeben, puerieren, bis die Masse homogen und cremig ist. Tahini, Oel, Wasser, Zitronensaft, Tomatenpueree und Gewuerze beigeben, kurz weiterpuerieren. Hummus in eine Schuessel geben, wenig Olivenoel und Meersalz daruebergeben.</inhalt>
+      </Hummus_mit_getrockneten_Tomaten_(fuer_8_Portionen)>
+   </rezept>
+</Rezept>

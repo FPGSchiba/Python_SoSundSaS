@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>192 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>600 g</quant>
+          <zutat>Aepfel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>dunkle Sultaninen</zutat>
+          <quant>2 EL</quant>
+          <zutat>brauner Rum</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig </zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, etwas abgekuehlt</zutat>
+          <quant>3 EL</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Aepfel vierteln, quer in feine Scheiben hobeln. Zucker, Sultaninen, Rum und Zimt beigeben, alles gut mischen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Teigblaetter auseinanderfalten, ein Teigblatt in ein mit Backpapier belegtes Blech (ca. 30 cm Durchmesser) legen, mit wenig Butter bestreichen. Zwei Teigblaetter sich leicht ueberlappend nebeneinander darauflegen, mit wenig Butter bestreichen. Haselnuesse und Fuellung darauf verteilen, vorstehende Teigraender locker ueber die Fuellung legen. Mit dem letzten Teigblatt bedecken, ueberstehende Teigraender nach innen legen, mit der restlichen Butter bestreichen und mit Zucker bestreuen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen:                       </inhalt>
+      </How_To2   >
+      <Backen:   >
+          <inhalt>Dazu passt: Vanillesauce oder Vanilleglace.</inhalt>
+      </Backen:   >
+   </rezept>
+</Rezept>

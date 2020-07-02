@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>56 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>3 EL</quant>
+          <zutat>Goldmelissensirup</zutat>
+          <quant>2 Beutel</quant>
+          <zutat>Hagebuttentee</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras , in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, Samen ausgekratzt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wasser mit allen Zutaten bis und mit Vanillesamen aufkochen, Pfanne von der Platte nehmen, zugedeckt ca. 15 Min. ziehen lassen. Durch ein Sieb in vorgewaermte Glaeser giessen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>493 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risoni-Salat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 2 EL Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Teigwaren (z.B. Risoni)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>300 g</quant>
+          <zutat>Datteltomaten, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Burrata (ca. 150 g), zerzupft</zutat>
+          <quant>100 g</quant>
+          <zutat>entsteinte schwarze Oliven (z.B. Kalamata), geviertelt</zutat>
+      </Risoni-Salat>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>4 </quant>
+          <zutat>rote Peperoni, halbiert</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </einkaufliste>
+   <rezept>
+      <Risoni-Salat>
+          <inhalt>Zitronenschale und -saft, Essig, Oel und Basilikum in einer Schuessel verruehren, wuerzen. Teigwaren im Salzwasser al dente kochen, abtropfen, kalt abspuelen, zur Sauce geben. Tomaten, Burrata und Oliven beigeben, mischen. </inhalt>
+      </Risoni-Salat>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Peperoni mit Oel bestreichen, salzen.  Peperoni mit geschlossenem Deckel bei mittelstarker Glut / auf mittlerer Stufe (ca. 220 Grad) beidseitig je ca. 10 Min. grillieren. Risoni-Salat in die Peperoni verteilen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

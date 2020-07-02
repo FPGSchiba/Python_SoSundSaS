@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>185 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramel   >
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>3 </quant>
+          <zutat>Kardamomkapseln, zerstossen</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+      </Caramel   >
+      <Latte_Macchiato>
+          <quant>5 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>4 </quant>
+          <zutat>starke Espressi</zutat>
+      </Latte_Macchiato>
+   </einkaufliste>
+   <rezept>
+      <Caramel   >
+          <inhalt>Wasser, Zimt, Kadamom und Sternanis in einer weiten Pfanne aufkochen, Pfanne von der Platte nehmen, ca. 15 Min. ziehen lassen. Zucker beigeben, ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein brauner Caramel entsteht. Pfanne von der Platte nehmen, Gewuerze entfernen.</inhalt>
+      </Caramel   >
+      <Latte_Macchiato>
+          <inhalt>Caramel-Sirup nach Belieben und je 1/2 dl Vollmilch in die Glaeser verteilen. Restliche Milch schaumig schlagen, auf die Glaeser verteilen, je 1 Espresso dazugiessen. Latte Macchiato mit etwas Caramel dekorieren, sofort servieren. </inhalt>
+      </Latte_Macchiato>
+   </rezept>
+</Rezept>

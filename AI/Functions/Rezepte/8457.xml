@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>436 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>30 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+          <quant>30 g</quant>
+          <zutat>helle Sultaninen, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>30 g</quant>
+          <zutat>Kresse, grob geschnitten</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinskoteletts (je ca. 220 g)</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fine Food Murray River Salt Flakes </zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nuesse und alle Zutaten bis und mit Kresse mischen. Koteletts mit Oel bestreichen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Koteletts ueber mittelstarker Glut/auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 5 Min. grillieren. Kresse-Nuss Mischung auf den Koteletts verteilen, salzen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

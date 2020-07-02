@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>551 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffelstock>
+          <quant>500 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Fine Food Trueffelbutter</zutat>
+          <quant> </quant>
+          <zutat>Milch, nach Bedarf</zutat>
+      </Kartoffelstock>
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Fine Food Trueffelbutter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>Dorschfilets Royal (MSC), in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Lachsfilets ohne Haut , in ca. 2 cm grossen Wuerfeln</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Kartoffelstock>
+          <inhalt>Kartoffeln offen im Salzwasser ca. 20 Min. weich kochen, sehr gut abtropfen, durchs Passe-vite treiben, Trueffelbutter beigeben, wuerzen, mit einer  Kelle luftig ruehren. Bei Bedarf wenig Milch dazugiessen, Pfanne von der Platte nehmen.</inhalt>
+      </Kartoffelstock>
+      <Fuellung   >
+          <inhalt>Ofen auf 200 Grad C vorheizen.  Trueffelbutter in einer Pfanne warm werden lassen. Schalotte ca. 1 Min. andaempfen. Gemuesebouillon dazugiessen, aufkochen, Hitze reduzieren, auf ca. 3 Essloeffel einkoecheln. Vollrahm dazugiessen, mit Salz und Pfeffer wuerzen. Dorsch- und Lachsfilet beigeben, in ofenfeste Foermchen verteilen. Kartoffelstock darauf verteilen.</inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>ca. 15 Min. in der Mitte des auf 200Grad C vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=uERVr2oDXrU"/>
+</Rezept>

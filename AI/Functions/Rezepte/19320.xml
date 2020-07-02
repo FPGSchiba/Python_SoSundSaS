@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>683 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salbei-Oel >
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>6 Zweiglein</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>12 </quant>
+          <zutat>Jakobsnuesse</zutat>
+      </Salbei-Oel >
+      <Risotto   >
+          <quant>200 g</quant>
+          <zutat>Risottoreis</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Risotto   >
+      <Spiessli  >
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>12 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant>8 </quant>
+          <zutat>Holzspiesschen</zutat>
+      </Spiessli  >
+   </einkaufliste>
+   <rezept>
+      <Salbei-Oel >
+          <inhalt>Oel, Salbei und Knoblauch verruehren. 2 EL davon mit den Jakobsnuessen mischen, zugedeckt kuehl stellen. </inhalt>
+      </Salbei-Oel >
+      <Risotto   >
+          <inhalt>3 EL vom Salbei-Oel in einer Pfanne erwaermen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Wein dazugiessen, fast vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Ca. 20 Min. koecheln, bis der Reis cremig und al dente ist. Kaese darunterruehren, Risotto wuerzen.</inhalt>
+      </Risotto   >
+      <Spiessli  >
+          <inhalt>Jakobsnuesse salzen, je eine Tranche Speck um die Jakobsnuesse wickeln, davon je 3 an je 2 Holzspiesschen stecken. </inhalt>
+      </Spiessli  >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Spiesschen ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) bei geschlossenem Deckel beidseitig je ca. 3 Min. grillieren. Spiesschen mit dem Risotto anrichten, restliches Salbei-Oel daruebertraeufeln. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

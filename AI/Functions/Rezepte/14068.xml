@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>568 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tofu_braten>
+          <quant>600 g</quant>
+          <zutat>Tofu, in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>80 g</quant>
+          <zutat>Sesam</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Tofu_braten>
+      <Salat     >
+          <quant>6 </quant>
+          <zutat>Chicoree, in Sechsteln</zutat>
+          <quant>4 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 </quant>
+          <zutat>Passionsfruechte, Fruchtfleisch ausgeloest</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Tofu_braten>
+          <inhalt>Tofu salzen, portionenweise im Mehl wenden, ueberschuessiges Mehl abschuetteln. Tofu im Ei, dann im Sesam wenden, Panade gut andruecken. Wenig Bratbutter in einer beschichteten Bratpfanne heiss werden lassen. Tofu portionenweise bei mittlerer Hitze  ca. 4 Min. ruehrbraten.</inhalt>
+      </Tofu_braten>
+      <Salat     >
+          <inhalt>Chicoree anrichten. Oel, Aceto und Passionsfruchtfleisch verruehren, wuerzen. Sauce ueber den Salat traeufeln, Koriander und Tofu darauf verteilen.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

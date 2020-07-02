@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>483 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Porridge  >
+          <quant>200 g</quant>
+          <zutat>Cacao Porridge Mix (z.B. Karma)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Haferdrink</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen, fein gerieben</zutat>
+          <quant>300 g</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>2 TL</quant>
+          <zutat>dunkles Mandelmus</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Zimt</zutat>
+      </Porridge  >
+      <Toppings  >
+          <quant>2 TL</quant>
+          <zutat>dunkles Mandelmus</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Hanfsamen</zutat>
+          <quant>2 TL</quant>
+          <zutat>Cocoa Nibs</zutat>
+      </Toppings  >
+   </einkaufliste>
+   <rezept>
+      <Porridge  >
+          <inhalt>Cacao Porridge Mix mit allen Zutaten bis und mit Zimt mischen. Zugedeckt ueber Nacht in den Kuehlschrank stellen.</inhalt>
+      </Porridge  >
+      <Toppings  >
+          <inhalt>Porridge anrichten, Mandelmus und Kokosnussmilch-Jogurt darauf verteilen, Hanfsamen und Cocoa Nibs darueberstreuen.</inhalt>
+      </Toppings  >
+   </rezept>
+</Rezept>

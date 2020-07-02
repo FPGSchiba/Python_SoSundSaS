@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>163 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Blaetterteig_>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Blaetterteig_>
+      <Jogurt    >
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Jogurt    >
+      <Beeren    >
+          <quant>250 g</quant>
+          <zutat>gemischte Beeren (z.B. Himbeeren, Heidelbeeren, Erdbeeren)</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>250 g</quant>
+          <zutat>gemischte Beeren (z.B. Himbeeren, Heidelbeeren, Erdbeeren)</zutat>
+      </Beeren    >
+   </einkaufliste>
+   <rezept>
+      <Blaetterteig_>
+          <inhalt>                              </inhalt>
+      </Blaetterteig_>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, auskuehlen. </inhalt>
+      </Backen    >
+      <Jogurt    >
+          <inhalt>                              </inhalt>
+      </Jogurt    >
+      <Beeren    >
+          <inhalt>Erdbeeren vierteln,           </inhalt>
+      </Beeren    >
+   </rezept>
+</Rezept>

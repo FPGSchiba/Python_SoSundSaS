@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>310 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pilze     >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>300 g</quant>
+          <zutat>gemischte  Pilze (z.B. Steinpilze, Kraeuterseitlinge, Pleurotus), geviertelt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Pilze     >
+      <Zopf      >
+          <quant>2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>4 Scheiben</quant>
+          <zutat>Zopf</zutat>
+      </Zopf      >
+   </einkaufliste>
+   <rezept>
+      <Pilze     >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen. Pilze, Knoblauch und Peperoncino beigeben und ca. 5 Min. anbraten. Herausnehmen, Petersilie unter die Pilze mischen. </inhalt>
+      </Pilze     >
+      <Zopf      >
+          <inhalt>Butter und Knoblauch in derselben Pfanne erwaermen, Zopfscheiben beidseitig je ca. 1 Min. roesten. Pilze darauf verteilen. </inhalt>
+      </Zopf      >
+   </rezept>
+</Rezept>

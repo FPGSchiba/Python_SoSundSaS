@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>156 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Muffins   >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>160 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>sofort loesliches Kaffeepulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Amaretto</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+      </Muffins   >
+      <Garnitur  >
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>3 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Garnitur  >
+   </einkaufliste>
+   <rezept>
+      <Muffins   >
+          <inhalt>Butter, Zucker und Salz mit den Schwingbesen des Handruehrgeraets schaumig ruehren. Eier  darunterruehren, ca. 2 Min. weiterruehren, bis die Masse heller ist. Milch darunterruehren. Mehl und Backpulver mischen, daruntermischen. Kaffeepulver im Amaretto aufloesen, unter den Teig mischen. In die Foermchen fuellen, ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens backen, auskuehlen.</inhalt>
+      </Muffins   >
+      <Garnitur  >
+          <inhalt>Mascarpone, Butter und Puderzucker mit den Schwingbesen des Handruehrgeraets verruehren. In einen Spritzsack mit glatter Tuelle (ca. 9 mm Ø) geben und auf die Kuechlein aufspritzen. Mit Kakaopulver verzieren.</inhalt>
+      </Garnitur  >
+   </rezept>
+</Rezept>

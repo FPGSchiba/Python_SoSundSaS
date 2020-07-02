@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>452 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargeln  >
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>1 kg</quant>
+          <zutat>weisse Spargeln, geschaelt, schraeg halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Spargeln  >
+      <Fleisch   >
+          <quant>40 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 TL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oregano, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinskoteletts (je ca. 160 g)</zutat>
+          <quant>4 Stueck</quant>
+          <zutat>Alufolie (je ca. 25 cm)</zutat>
+      </Fleisch   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spargeln                      </inhalt>
+      </How_To    >
+      <Spargeln  >
+          <inhalt>Fleisch                       </inhalt>
+      </Spargeln  >
+      <Fleisch   >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Koteletts beidseitig je ca. 3 Min. ueber mittelstarker Glut/auf mittlerer Stufe grillieren. Koteletts auf je ein Stueck Alufolie geben. Kraeutermasse darauf verteilen. Jeweils die Folie ueber dem Fleisch zu einem Paeckli verschliessen. Koteletts ca. 3 Min. fertig grillieren.</inhalt>
+      </Fleisch   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FNB2noKpEPA"/>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

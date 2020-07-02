@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>63 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Prussiens >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig</zutat>
+          <quant>100 g</quant>
+          <zutat>Frischkaese (z.B. Philadelphia)</zutat>
+          <quant>150 g</quant>
+          <zutat>Rohschinken</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Prussiens >
+   </einkaufliste>
+   <rezept>
+      <Prussiens >
+          <inhalt>Blaetterteig mit Frischkaese bestreichen. Rohschinken darauf verteilen. Teig von beiden Laengsseiten bis zur Mitte hin aufrollen, ca. 10 Min. kuehl stellen. Rolle in ca. 7 mm dicke Scheiben schneiden. Prussiens auf ein mit Backpapier belegtes Blech legen, mit Ei bestreichen. </inhalt>
+      </Prussiens >
+      <Backen    >
+          <inhalt>Ca. 18 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens, herausnehmen, auf einem Gitter etwas abkuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

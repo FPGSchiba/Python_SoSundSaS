@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>546 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>46 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ragout    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>800 g</quant>
+          <zutat>Kalbsragout (z.B. Schulter)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, in Streifen</zutat>
+          <quant>500 g</quant>
+          <zutat>Kohlrabi, in 1 1/2 cm grossen Wuerfeln</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>saurer Halbrahm</zutat>
+      </Ragout    >
+      <Kartoffelstampf>
+          <quant>600 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Kartoffelstampf>
+   </einkaufliste>
+   <rezept>
+      <Ragout    >
+          <inhalt>Wenig Bratbutter im Brattopf heiss werden lassen. Fleisch portionenweise je ca. 2 Min. anbraten, mit wenig Mehl bestaeuben, herausnehmen, salzen. Hitze reduzieren, Bratfett auftupfen, evtl. wenig Bratbutter beigeben. Schalotten und Kohlrabi andaempfen, Wein dazugiessen, auf die Haelfte einkoecheln. Honig und Bouillon beigeben, aufkochen, Hitze reduzieren, Fleisch wieder beigeben, zugedeckt bei kleiner Hitze ca. 11/2 Std. schmoren. Rahm daruntermischen.</inhalt>
+      </Ragout    >
+      <Kartoffelstampf>
+          <inhalt>Kartoffeln offen im Salzwasser ca. 20 Min. weich kochen, abtropfen, zurueck in die Pfanne geben. Mit dem Kartoffelstampfer oder einer Gabel zerdruecken. Bundzwiebel und Butter daruntermischen, wuerzen.</inhalt>
+      </Kartoffelstampf>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=uERVr2oDXrU"/>
+</Rezept>

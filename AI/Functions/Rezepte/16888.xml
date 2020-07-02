@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>60 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Wassermelone, entkernt, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi, in Stuecken</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>3 </quant>
+          <zutat>Pfefferminzblaetter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>6 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>4 Schnitze</quant>
+          <zutat>Wassermelone</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wassermelone und alle restlichen Zutaten im Mixglas waehrend ca. 2 Min. puerieren. Smoothie in Glaeser giessen, mit den Melonenschnitzen verzieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

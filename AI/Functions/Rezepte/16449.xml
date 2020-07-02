@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>584 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>76 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kompott   >
+          <quant>800 g</quant>
+          <zutat>Zwetschgen, in Schnitzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+      </Kompott   >
+      <Milchreis >
+          <quant>6 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Bourbon-Vanillezucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Risottoreis</zutat>
+      </Milchreis >
+      <Backen    >
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Kompott   >
+          <inhalt>Zwetschgen, Zucker, Wasser und Zimt in die vorbereitete Form geben, mischen. </inhalt>
+      </Kompott   >
+      <Milchreis >
+          <inhalt>Milch und Rahm mit Vanillezucker und Salz aufkochen, mit dem Reis in die vorbereitete Form geben.</inhalt>
+      </Milchreis >
+      <Backen    >
+          <inhalt>Ca. 25 Min. nebeneinander in der Mitte des auf 180 Grad vorgeheizten Ofens. Rohzucker ueber den Reis streuen, kurz umruehren, ca. 25 Min. fertiggaren. Beides herausnehmen, ca. 5 Min. stehen lassen, noch warm zusammen servieren.  </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

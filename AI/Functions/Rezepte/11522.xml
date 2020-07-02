@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>520 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Panna_cotta>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>30 g</quant>
+          <zutat>weisse Schokolade</zutat>
+      </Panna_cotta>
+      <Melone    >
+          <quant>1 </quant>
+          <zutat>Charentais-Melone (ca. 900 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>10 g</quant>
+          <zutat>weisse Schokolade</zutat>
+      </Melone    >
+   </einkaufliste>
+   <rezept>
+      <Panna_cotta>
+          <inhalt>Gelatine ca. 5 Min. in kaltes Wasser einlegen. Vanilleschote laengs aufschneiden, Samen auskratzen, mit Rahm, Milch und Zucker aufkochen, Hitze reduzieren, auf ca. 4 dl einkoecheln, Pfanne von der Platte nehmen. Schokolade in Stuecke brechen, zur heissen Masse geben, unter Ruehren darin schmelzen lassen. Gelatine abtropfen, unter die heisse Masse ruehren, durch ein Sieb in einen Messbecher giessen. 4 Foermchen (je ca 1 1/2 dl) kalt ausspuelen. Masse hineinfuellen. Auskuehlen, zugedeckt im Kuehlschrank ca. 4 Std. fest werden lassen.</inhalt>
+      </Panna_cotta>
+      <Melone    >
+          <inhalt>Melone halbieren, entkernen. Eine Haelfte des Melonenfleisches in Scheiben schneiden und/oder Kugeln ausstechen. Restliches Melonenfleisch in Stuecke schneiden, mit Zitronensaft und Honig fein puerieren.</inhalt>
+      </Melone    >
+      <Servieren >
+          <inhalt>Panna cotta mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen. Foermchen kurz in heisses Wasser tauchen. Panna cotta auf Teller stuerzen. Mit der Melonensauce und den Melonenschnitzen garnieren. Schokolade in Spaene hobeln, darauf verteilen.</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

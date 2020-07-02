@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>697 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellen    >
+          <quant>4 </quant>
+          <zutat>Baguettes (je ca. 100 g),</zutat>
+          <quant>1 Glas</quant>
+          <zutat>Basilikum-Pesto (ca. 130 g)</zutat>
+          <quant>300 g</quant>
+          <zutat>Mozzarella, quer halbiert, in Scheiben</zutat>
+          <quant>4 </quant>
+          <zutat>Tomaten, quer halbiert, in Scheiben</zutat>
+          <quant>4 Stueck</quant>
+          <zutat>Alufolie (je ca. 20 x 30 cm)</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellen                        </inhalt>
+      </How_To    >
+      <Fuellen    >
+          <inhalt>Grillieren                    </inhalt>
+      </Fuellen    >
+      <Grillieren_>
+          <inhalt>Ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) rundum ca. 10 Min. grillieren.</inhalt>
+      </Grillieren_>
+   </rezept>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>738 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <One_Pot_zubereiten>
+          <quant>300 g</quant>
+          <zutat>Teigwaren (z. B. Aelpler Magronen)</zutat>
+          <quant>200 g</quant>
+          <zutat>fest kochende Kartoffeln, in ca. 1 cm grossen Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>rotschaliger Apfel, in Wuerfel</zutat>
+          <quant>120 g</quant>
+          <zutat>Bauernspeck, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </One_Pot_zubereiten>
+      <Fertigstellen>
+          <quant>60 g</quant>
+          <zutat>Appenzeller, gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>30 g</quant>
+          <zutat>Roestzwiebeln</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <One_Pot_zubereiten>
+          <inhalt>Teigwaren und alle Zutaten bis und mit Bouillon in eine grosse Pfanne geben, mischen, aufkochen. Offen unter gelegentlichem Ruehren bei mittlerer Hitze ca. 8 Min. kochen, bis die Teigwaren al dente sind. </inhalt>
+      </One_Pot_zubereiten>
+      <Fertigstellen>
+          <inhalt>Kaese daruntermischen, wuerzen, Roestzwiebeln darauf verteilen. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

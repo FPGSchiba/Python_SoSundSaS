@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>49 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 dl</quant>
+          <zutat>Orangensaft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Randensaft</zutat>
+          <quant>120 g</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+          <quant>120 g</quant>
+          <zutat>tiefgekuehlte Heidelbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Cashew-Nuesse</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Alle Zutaten in einem Cutter/Standmixer puerieren. Die Masse in die Popsicles-Formen fuellen, fuer 4-5 Std. gefrieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

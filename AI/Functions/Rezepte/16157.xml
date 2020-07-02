@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>136 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Topping   >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>5 EL</quant>
+          <zutat>Panko</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupfpt, nur abgeriebene Schale</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+      </Topping   >
+      <Wassermelone>
+          <quant>1 Scheibe</quant>
+          <zutat>Wassermelone (ca. 300 g)</zutat>
+      </Wassermelone>
+   </einkaufliste>
+   <rezept>
+      <Topping   >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Panko, Knoblauch, Chili und Limettenschale ca. 3 Min. braten, in eine Schuessel geben, auskuehlen. Pfefferminze, Koriander und Feta beigeben, mischen.</inhalt>
+      </Topping   >
+      <Wassermelone>
+          <inhalt>Melonenscheibe in 6 Stuecke schneiden, mit dem Topping bestreuen.</inhalt>
+      </Wassermelone>
+   </rezept>
+</Rezept>

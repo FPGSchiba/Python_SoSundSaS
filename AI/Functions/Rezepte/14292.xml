@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>177 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+   </meta>
+   <einkaufliste>
+      <Fond      >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 kg</quant>
+          <zutat>Kalbsknochen, in Stuecken (beim Metzger vorbestellt), kalt abgespuelt, abgertopft</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln, mit Schale, halbiert, dunkel geroestet</zutat>
+          <quant>150 g</quant>
+          <zutat>Rueebli, in Wuerfeln</zutat>
+          <quant>150 g</quant>
+          <zutat>Knollensellerie, in Wuerfeln</zutat>
+          <quant>3 dl</quant>
+          <zutat>Rotwein oder Portwein</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Tomaten, in Wuerfeln</zutat>
+          <quant>150 g</quant>
+          <zutat>Lauch, in Ringen</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, in Scheiben</zutat>
+      </Fond      >
+      <Passieren/_aromatisieren>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>3 </quant>
+          <zutat>Nelken</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>schwarzer Pfeffer, zerdrueckt</zutat>
+      </Passieren/_aromatisieren>
+   </einkaufliste>
+   <rezept>
+      <Fond      >
+          <inhalt>Oel in einem Brattopf heiss werden lassen. Knochen und Gemuese portionenweise ca. 20 Min. roesten. Wein dazugiessen, ca. 5 Min. bei mittlerer Hitze koecheln. So viel Wasser dazugiessen, dass die Knochen knapp bedeckt sind. Tomaten, Lauch und Knoblauch beigeben, aufkochen. Entstandenen Schaum mit einer Schaumkelle abschoepfen. Hitze reduzieren, bei kleiner Hitze ca. 4 Std.koecheln. Gelegentlich Wasser nachgiessen, so dass die knochen immer knapp bedeckt sind. </inhalt>
+      </Fond      >
+      <Passieren/_aromatisieren>
+          <inhalt>Grosses Sieb mit einem feinen Tuch auslegen, Fond absieben. Knochen und Gemuese dabei nicht ausdruecken, da der Fond sonst truebe wird. Thymian und alle Zutaten bis und mit Pfeffer dem Fond beigeben. Fond auf der ausgeschalteten Platte ca. 15 Min. ziehen lassen, absieben.</inhalt>
+      </Passieren/_aromatisieren>
+   </rezept>
+</Rezept>

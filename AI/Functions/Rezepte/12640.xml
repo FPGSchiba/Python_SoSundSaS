@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>425 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pudding   >
+          <quant>3 1/2 dl</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>20 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>150 g</quant>
+          <zutat>Datteln</zutat>
+          <quant>1 Stueck</quant>
+          <zutat>Avocado</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chia-Samen</zutat>
+      </Pudding   >
+      <Topping   >
+          <quant>100 g</quant>
+          <zutat>Knuspermueesli (z.B. Maple Pecan Granola)</zutat>
+          <quant>80 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>12 Stueck</quant>
+          <zutat>Physalis, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi, in Schnitzen</zutat>
+          <quant>40 g</quant>
+          <zutat>Granatapfelkerne</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Schnitzen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Acai-Pulver </zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <Pudding   >
+          <inhalt>Mandel-Drink, Kakaopulver und Kokosoel verruehren, Datteln und Avocado beigeben mit dem Mixstab puerieren, Chia-samen daruntermischen, in die Schalen verteilen, 15 Min. kuehl stellen.</inhalt>
+      </Pudding   >
+      <Topping   >
+          <inhalt>Knuspermueesli bis und mit Apfel auf dem Chocolate-Chia-Pudding verteilen. Acai-Pulver darueberstreuen.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

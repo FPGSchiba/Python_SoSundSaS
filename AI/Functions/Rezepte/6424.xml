@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>582 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>38 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant>2 1/2 dl</quant>
+          <zutat>dunkles Bier</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Huehnerbouillon</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 </quant>
+          <zutat>Festtags-Poulet (ca. 1,4 kg)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Poulet    >
+      <Salat     >
+          <quant>600 g</quant>
+          <zutat>Baby-Kartoffeln, halbiert</zutat>
+          <quant>250 g</quant>
+          <zutat>Bundrueebli, laengs halbiert oder geviertelt</zutat>
+          <quant>1 </quant>
+          <zutat>Kohlrabi (ca. 250 g), in Schnitzen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>75 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Poulet                        </inhalt>
+      </How_To    >
+      <Poulet    >
+          <inhalt>Fuer die Wuerzfluessigkeit Bier und alle Zutaten bis und mit Maizena in einer Pfanne verruehren, aufkochen, etwas abkuehlen. Poulet innen und aussen kalt abspuelen, trocken tupfen, wuerzen. Poulet mit der Brustseite nach oben in ein weites, gefettetes Bratgeschirr legen, Wuerzfluessigkeit darueber giessen.</inhalt>
+      </Poulet    >
+      <How_To1   >
+          <inhalt>Braten im Ofen: ca. 10 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Poulet mit der Wuerzfluessigkeit bestreichen. Hitze auf 180 Grad reduzieren, Poulet ca. 1 Std. fertig braten, dabei 3-4-mal mit</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Wuerzfluessigkeit betraeufeln. Das Poulet ist gar, wenn beim Einstechen der austretende Saft klar ist. Das Poulet nach dem Braten ca. 10 Min. im ausgeschalteten Ofen ruhen</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Salat                         </inhalt>
+      </How_To3   >
+      <Salat     >
+          <inhalt>Fuer die Sauce Senf und alle Zutaten bis und mit Schalotte gut verruehren, wuerzen. Sauce ueber das lauwarme Gemuese geben, mischen. Jungspinat kurz vor dem Servieren daruntermischen.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

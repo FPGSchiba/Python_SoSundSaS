@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>555 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cashew-Dattel-Creme>
+          <quant>200 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>10 </quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>4 dl</quant>
+          <zutat>Sojadrink</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>2 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup, nach Bedarf</zutat>
+      </Cashew-Dattel-Creme>
+      <Himbeercoulis>
+          <quant>100 g</quant>
+          <zutat>Pro Montagna Himbeerkonfituere</zutat>
+          <quant>100 g</quant>
+          <zutat>Himbeeren, frisch oder tiefgekuehlt, aufgetaut</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+      </Himbeercoulis>
+      <Nusscrunch>
+          <quant>100 g</quant>
+          <zutat>Cashew-Nuesse, fein gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, fein gehackt</zutat>
+          <quant>4 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Himalayasalz</zutat>
+      </Nusscrunch>
+   </einkaufliste>
+   <rezept>
+      <Cashew-Dattel-Creme>
+          <inhalt>Die Cashewnuesse im Ofen bei 160 Grad fuer 10-15 Min. leicht braun roesten, herausnehmen und auskuehlen lassen. Anschliessend die Cashew-Nuesse mit den Datteln in eine Schuessel geben und fuer 1 Std. in kaltem Wasser einweichen. Abtropfen und mit Sojamilch, Salz, Vanillepaste und Zimt in einen leistungsstarken Mixer geben und fuer 5 - 7 Min. glatt und cremig mixen. Je nach Geschmack Ahornsirup dazugeben. Die Ceme fuer mind. 1 Std. kuehl stellen</inhalt>
+      </Cashew-Dattel-Creme>
+      <Himbeercoulis>
+          <inhalt>In der Zwischenzeit Konfituere mit Himbeeren und Wasser bei mittlerer Hitze aufkochen, gut umruehren, abkuehlen.</inhalt>
+      </Himbeercoulis>
+      <Nusscrunch>
+          <inhalt>Fuer den Nusscrunch die Cashew-Nuesse und Haselnuesse mit dem Ahornsirup, der Vanillepaste, dem Zimt und Salz mischen und bei 160 Grad fuer 15-20 Min. goldbraun backen. Herausnehmen, komplett auskuehlen lassen.</inhalt>
+      </Nusscrunch>
+      <Anrichten >
+          <inhalt>Vor dem Servieren jeweils 2 EL des Himbeercoulis in 6 Dessertglaeser geben, die Cashew-Dattel-Creme nochmals gut umruehren und darauf geben (ca. 1/3 Coulis, 2/3 Cashew-Dattel-Creme). Mit dem Nusscrunch garnieren und servieren. Die Nuesse dafuer etwas mit den Fingern zerbrechen, so entsteht der Streusellook</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>319 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muerbeteig >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Muerbeteig >
+      <Fuellung   >
+          <quant>3 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>75 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 3 EL Saft</zutat>
+      </Fuellung   >
+      <Backen    >
+          <quant>300 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Backen    >
+      <Meringuage>
+          <quant>3 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>120 g</quant>
+          <zutat>Zucker</zutat>
+      </Meringuage>
+   </einkaufliste>
+   <rezept>
+      <Muerbeteig >
+          <inhalt>Mehl, Zucker, Vanillesamen und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig etwas flach druecken, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Muerbeteig >
+      <Teig_formen>
+          <inhalt>Die Haelfte des Teiges auf dem vorbereiteten Formenboden auswallen, Formenrand schliessen. Restlichen Teig als Rollen ( je ca. 11/2 cm Ø) an den Rand des Teigbodens legen, mit den Fingerspitzen andruecken, dabei den Rand ca. 3 cm hochziehen. Teigboden mit einer Gabel dicht einstechen, ca. 15 Min. kuehl stellen.</inhalt>
+      </Teig_formen>
+      <Fuellung   >
+          <inhalt>Eigelbe und Zucker mit den Schwingbesen des Handruehrgeraets ca. 3 Min. ruehren, bis die Masse heller ist. Mandeln und Maizena mischen, mit der Butter, Zitronenschale und -saft unter die Eigelbmasse mischen. Masse auf dem Teigboden verteilen.</inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Ofenhitze auf 150 Grad reduzieren. Form herausnehmen, Himbeeren darauf verteilen.</inhalt>
+      </Backen    >
+      <Meringuage>
+          <inhalt>Eiweisse mit dem Salz steif schlagen, die Haelfte des Zuckers beigeben, kurz weiterschlagen. Restlichen Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Meringuage auf der Tarte verteilen.</inhalt>
+      </Meringuage>
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der oberen Haelfte des vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. Formenrand entfernen, auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

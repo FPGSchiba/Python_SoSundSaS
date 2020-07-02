@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>298 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>2 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, grob geschnitten</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>gruener Chili , entkernt, grob gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+      </Sauce     >
+      <Fisch_    >
+          <quant>4 </quant>
+          <zutat>Doradenfilets (je ca. 150 g)</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen, in Scheiben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Fisch_    >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Koriander mit allen Zutaten bis und mit Kardamompulver in einen Mixbecher geben, fein puerieren. </inhalt>
+      </Sauce     >
+      <Fisch_    >
+          <inhalt>Fischfilets wuerzen, zwischen je 4 Zitronenscheiben legen und mit Kuechenschnur zu je einem Paeckli formen. mit Oel bestreichen.</inhalt>
+      </Fisch_    >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Ueber mittelstarker Glut/ auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 7 Min. grillieren. Fisch mit Zitronenscheiben und Sauce anrichten.</inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

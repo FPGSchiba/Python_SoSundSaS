@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>29 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>1/2 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/4 dl</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken, nach Belieben</zutat>
+      </Marinade  >
+      <Spiessli  >
+          <quant>200 g</quant>
+          <zutat>Champignons</zutat>
+          <quant>150 g</quant>
+          <zutat>Shiitake-Pilze, evtl. halbiert</zutat>
+          <quant>8 </quant>
+          <zutat>Holzspiesschen</zutat>
+      </Spiessli  >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>wenig </quant>
+          <zutat>Koriander, zerzupft</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </einkaufliste>
+   <rezept>
+      <Marinade  >
+          <inhalt>Maizena mit Aceto und Sojasauce in einer Pfanne verruehren. Ahornsirup und alle Zutaten bis und mit Chiliflocken beigeben, aufkochen. Unter Ruehren kurz zu einer dicklichen Sauce einkoecheln, etwas abkuehlen. </inhalt>
+      </Marinade  >
+      <Spiessli  >
+          <inhalt>Pilze und 3/4 der Mariande mischen, Pilze auf die Spiesschen stecken. Uebrige Marinade beiseite stellen. </inhalt>
+      </Spiessli  >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Spiessli bei geschlossenem Deckel ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) ca. 15 Min. grillieren, von Zeit zu Zeit wenden und mit der beiseite gestellten Marinade bestreichen. Spiessli anrichten, Koriander darueberstreuen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

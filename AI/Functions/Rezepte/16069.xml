@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>453 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mehl, Zucker und Salz in eine Schuessel geben, mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig  flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

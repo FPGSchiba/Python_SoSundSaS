@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>569 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>60 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>30 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Roquefort)</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>20 g</quant>
+          <zutat>Baumnuesse, fein gehackt, geroestet</zutat>
+          <quant>2 </quant>
+          <zutat>Salbeiblaetter, fein geschnitten</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Fine Food Angus Sirloin Steak  </zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Roquefort und Butter mit einer Gabel zerdruecken. Nuesse, Salbei und Petersilie beigeben, wuerzen, zu einer glatten Masse verruehren.  Fleisch wuerzen. Oel in einer Bratpfanne erhitzen, Fleisch beidseitig je ca. 3 1/2 Min. braten (a point).</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

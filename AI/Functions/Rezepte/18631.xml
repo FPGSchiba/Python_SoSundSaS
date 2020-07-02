@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>171 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 dl</quant>
+          <zutat>Whiskey (z.B. Bourbon)</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Campari Bitter</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>roter Vermouth (z.B. Martini rosso)</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, in Schnitzen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Whiskey, Campari, Vermouth und Eiswuerfel in die Glaeser verteilen. Orangenschnitze beigeben.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

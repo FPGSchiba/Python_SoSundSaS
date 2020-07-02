@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>372 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Caramelsauce>
+          <quant>1/2 EL</quant>
+          <zutat>Rosmarinnadeln, grob geschnitten</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>70 g</quant>
+          <zutat>Fine Food All Butter Fudges</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fine Food Murray River Salt Flakes </zutat>
+      </Caramelsauce>
+      <Parfaitmasse>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>50 g</quant>
+          <zutat>Pekannuesse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Fine Food Murray River Salt Flakes </zutat>
+          <quant>6 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+      </Parfaitmasse>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Caramelsauce                  </inhalt>
+      </How_To    >
+      <Caramelsauce>
+          <inhalt>Parfaitmasse                  </inhalt>
+      </Caramelsauce>
+      <Parfaitmasse>
+          <inhalt>Butter in einer Beschichteten Bratpfanne schmelzen, Pecanuesse beigeben, gut mischen, mit Puderzucker bestaeuben, bei mittlerer Hitze goldbraun caramelisieren. Nuesse auf einem mit Backpapier belegten Gitter verteilen, mit Murray River Salt bestreuen, auskuehlen. </inhalt>
+      </Parfaitmasse>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

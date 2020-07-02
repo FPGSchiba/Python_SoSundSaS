@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>359 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mangopueree>
+          <quant>1 </quant>
+          <zutat>weiche Mango (z.B. Primagusto; ca. 700 g)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>75 g</quant>
+          <zutat>getrocknete Mango, grob gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, grob gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Mangopueree>
+      <Biskuits  >
+          <quant>120 g</quant>
+          <zutat>Baerentatzen, grob gehackt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Orangensaft</zutat>
+      </Biskuits  >
+   </einkaufliste>
+   <rezept>
+      <Mangopueree>
+          <inhalt>Von der Mango 6 duenne Scheiben wegschneiden, mit Zitronensaft betraeufeln, fuer die Verzierung zugedeckt kuehl stellen. Rest in Stuecke schneiden, in eine Pfanne geben. Puderzucker daruntermischen. Unter Ruehren, ca. 1 Min. koecheln, puerieren, vollstaendig auskuehlen. Zitronensaft daruntermischen. Je 1 EL Mango- und Schokoladestueckli fuer die Verzierung beiseite stellen. Rest zusammen mit der Ricotta unter das Mangopueree mischen. Schlagrahm sorgfaeltig darunterziehen.</inhalt>
+      </Mangopueree>
+      <Biskuits  >
+          <inhalt>Baerentatzen in die Glaesli geben, mit Orangensaft betraeufeln. Mangocreme darauf verteilen. Dessert zugedeckt ca. 2 Std. kuehl stellen. Mango-Tango mit den beiseite gestellten Mangoscheiben, Mango- und Schokoladestueckli verzieren.</inhalt>
+      </Biskuits  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=sLzibmyOJV4"/>
+</Rezept>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>177 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spiessli  >
+          <quant>1 Pack</quant>
+          <zutat>Delicorn Gehacktes (200 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Thailand 7-Spice</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , aeussere Blaetter entfernt, Inneres fein gehackt</zutat>
+          <quant>4 Staengel</quant>
+          <zutat>Zitronengras , laengs halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Spiessli  >
+      <Dip       >
+          <quant>1 </quant>
+          <zutat>Mango (ca. 250 g), in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 </quant>
+          <zutat>Limette zum Garnieren, in Schnitzen</zutat>
+          <quant>4 </quant>
+          <zutat>rote Chilis zum Garnieren, je laengs 4-5 mal eingeschnitten, ca. 15 Min. in Eiswasser gelegt, abgetropft</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spiessli                      </inhalt>
+      </How_To    >
+      <Spiessli  >
+          <inhalt>Gehacktes mit Paniermehl und Ei gut mischen, wuerzen. Fein gehacktes Zitronengras daruntermischen. Masse in 8 ca. 6 cm lange Wuerstchen formen, an die Zitronengras-Spiesschen stecken. Oel in einer beschichteten Bratpfanne erhitzen, Spiessli bei mittlerer Hitze rundum ca. 4 Min. anbraten.</inhalt>
+      </Spiessli  >
+      <How_To1   >
+          <inhalt>ca. 5 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </How_To1   >
+      <Dip       >
+          <inhalt>Mango puerieren, Chili, Limettensaft und Essig daruntermischen, salzen.</inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

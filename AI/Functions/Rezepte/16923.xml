@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>832 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>91 g  </Kohlenhydrate>
+       <Eiweiss>46 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Basis_Suesskartoffelcreme>
+          <quant>500 g</quant>
+          <zutat>Suesskartoffeln</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Basis_Suesskartoffelcreme>
+      <Basis_Rotkabis>
+          <quant>2 dl</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>5 </quant>
+          <zutat>Pfefferkoerner</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>150 g</quant>
+          <zutat>Rotkabis, in feinen Streifen</zutat>
+      </Basis_Rotkabis>
+      <Crevetten-Tacos>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>geschaelte rohe Crevetten </zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>4 </quant>
+          <zutat>Mais-Tortillas (z.B. White Corn Tortillas)</zutat>
+          <quant>20 g</quant>
+          <zutat>Nuesslisalat</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+      </Crevetten-Tacos>
+      <Rindsfilet-Tacos>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Rindsfiletmedaillons (je ca. 150 g)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>4 </quant>
+          <zutat>Mais-Tortillas (z.B. White Corn Tortillas)</zutat>
+          <quant>20 g</quant>
+          <zutat>Nuesslisalat</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+      </Rindsfilet-Tacos>
+      <Pilz-Feta-Tacos>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>300 g</quant>
+          <zutat>Kraeuterseitlinge, in Scheiben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Chiliflocken</zutat>
+          <quant>4 </quant>
+          <zutat>Mais-Tortillas (z.B. White Corn Tortillas)</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>20 g</quant>
+          <zutat>Nuesslisalat</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+      </Pilz-Feta-Tacos>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Basis Suesskartoffelcreme      </inhalt>
+      </How_To    >
+      <Basis_Suesskartoffelcreme>
+          <inhalt>Suesskartoffeln auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </Basis_Suesskartoffelcreme>
+      <How_To1   >
+          <inhalt>Suesskartoffeln schaelen, mit einer Gabel zerdruecken. Limettensaft und Oel, darunterruehren, wuerzen. </inhalt>
+      </How_To1   >
+      <Basis_Rotkabis>
+          <inhalt>Essig und Wasser mit allen Zutaten bis und mit Sternanis in einer Pfanne aufkochen. Rotkabis beigeben, ca. 2 Min. mitkoecheln, in der Fluessigkeit etwas abkuehlen. </inhalt>
+      </Basis_Rotkabis>
+      <Crevetten-Tacos>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Crevetten beidseitig je ca. 2 Min. braten, wuerzen. Tortillas nach Angabe auf der Verpackung erwaermen. Tortillas mit der Suesskartoffelcreme bestreichen, Rotkabis, Crevetten und Nuesslisalat darauf verteilen. Nuesse darueber streuen. </inhalt>
+      </Crevetten-Tacos>
+      <Rindsfilet-Tacos>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Medaillons beidseitig je ca. 2 Min. braten, wuerzen, ca. 5 Min. ruhen lassen, tranchieren. Tortillas nach Angabe auf der Verpackung erwaermen. Tortillas mit der Suesskartoffelcreme bestreichen, Fleisch, Rotkabis, und Nuesslisalat darauf verteilen. Nuesse darueber streuen. </inhalt>
+      </Rindsfilet-Tacos>
+      <Pilz-Feta-Tacos>
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Pilze beidseitig je ca. 2 Min. braten, wuerzen. Tortillas nach Angabe auf der Verpackung erwaermen. Tortillas mit der Suesskartoffelcreme bestreichen, Rotkabis, Pilze, Feta und Nuesslisalat darauf verteilen. Nuesse darueber streuen. </inhalt>
+      </Pilz-Feta-Tacos>
+   </rezept>
+</Rezept>

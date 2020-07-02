@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>607 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>3 EL</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>60 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>75 g</quant>
+          <zutat>Toastbrot, in Wuerfeli</zutat>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>250 g</quant>
+          <zutat>Blattspinat, tropfnass</zutat>
+          <quant>2 EL</quant>
+          <zutat>Majoran, fein geschnitten</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Muskat</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Fleisch   >
+          <quant>1 1/5 kg</quant>
+          <zutat>Kalbsbrust, beim Metzger vorbestellen und zum Fuellen eine Tasche einschneiden lassen</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Fleisch   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Milch, Ei und Kaese in einer Schuessel verruehren. Brotwuerfeli beigeben, mischen.</inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Speckwuerfeli im Brattopf langsam knusprig braten. Zwiebel und Knoblauch beigeben, kurz mitbraten, herausnehmen, abkuehlen. Spinat in dieselbe Pfanne geben, zugedeckt bei mittlerer Hitze zusammenfallen lassen, abtropfen, abkuehlen. Speck Zwiebel-Mischung und Spinat mit den eingeweichten Brotwuerfeli mischen. Majoran beigeben, wuerzen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fleisch innen und aussen wuerzen. Fuellung in die Tasche geben. Oeffnung mit Zahnstochern kreuzweise gut verschliessen. </inhalt>
+      </How_To2   >
+      <Fleisch   >
+          <inhalt>Schmoren im Ofen: zugedeckt ca. 11/2 Std. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Fleisch von Zeit zu Zeit mit der Bratfluessigkeit uebergiessen. Herausnehmen, zugedeckt ca. 10 Min. ruhen lassen. Zahnstocher entfernen, Kalbsbrust tranchieren. Bratfluessigkeit absieben, dazu servieren.</inhalt>
+      </Fleisch   >
+   </rezept>
+</Rezept>

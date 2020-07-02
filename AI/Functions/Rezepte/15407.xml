@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>228 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Konfituere >
+          <quant>1 </quant>
+          <zutat>Grapefruit, in Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Granatapfel, halbiert, 1/2 der Kerne ausgeloest, beiseite gestellt, vom Rest Saft ausgepresst</zutat>
+          <quant>75 g</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+      </Konfituere >
+      <Schwarzwurzeln>
+          <quant>600 g</quant>
+          <zutat>Schwarzwurzeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Schwarzwurzeln>
+      <Garnieren >
+          <quant>2 EL</quant>
+          <zutat>Kerbel, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Garnieren >
+   </einkaufliste>
+   <rezept>
+      <Konfituere >
+          <inhalt>Grapefruitwuerfel mit dem entstandenen Saft, Granatapfelsaft und Gelierzucker in einer Pfanne mischen, aufkochen, ca. 4 Min. sprudelnd kochen, beiseite stellen.</inhalt>
+      </Konfituere >
+      <Schwarzwurzeln>
+          <inhalt>Schwarzwurzeln unter fliessendem kalten Wasser mit einer Stahlwolle gut abbuersten, halbieren, auf ein mit Backpapier belegtes Blech legen. Zitronensaft und Oel daruebertraeufeln, mischen, wuerzen. </inhalt>
+      </Schwarzwurzeln>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, ca. 2 EL Konfituere auf den Schwarzwurzeln verteilen, ca. 5 Min. fertig backen.  </inhalt>
+      </Backen    >
+      <Garnieren >
+          <inhalt>Beiseite gestellte Granatapfelkerne mit dem Kerbel und Fleur de Sel ueber die Schwarzwurzeln streuen, mit restlicher Konfituere servieren. </inhalt>
+      </Garnieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

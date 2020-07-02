@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>306 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>500 g</quant>
+          <zutat>glutenfreies Mehl (Schaer Brot-Mix)</zutat>
+          <quant>100 g</quant>
+          <zutat>Nussmischung, grob gehackt</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Xanthan</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Trockenhefe  (ca. 7 g)</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Teig_     >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl und alle Zutaten bis und mit Salz in einer Schuessel mischen. Milch, Butter und Ei beigeben, mit dem Knethacken der Kuechenmaschine auf niedriger Stufe ca. 10 Min. zu einem weichen, glatten Teig kneten. Mit feuchten Haenden zu unterschiedlich grossen Kugeln formen, in die vorbereitete Form legen. Zugedeckt bei Raumtemperatur ca. 11/2 Std. aufgehen lassen. </inhalt>
+      </Teig_     >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

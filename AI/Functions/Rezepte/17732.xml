@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>329 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace-Masse_>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>120 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Baileys</zutat>
+          <quant>1 dl</quant>
+          <zutat>starker Espresso</zutat>
+          <quant>3 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>50 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Glace-Masse_>
+      <Schokolade_>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (ca. 70 %), fein gehackt</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Schokolade_>
+   </einkaufliste>
+   <rezept>
+      <Glace-Masse_>
+          <inhalt>Rahm, Eier und Zucker mit dem Schwingbesen in einer Pfanne verruehren, unter staendigem Ruehren bei mittlerer Hitze bis vors Kochen bringen. Sobald die Masse bindet, die Pfanne von der Platte nehmen. 1/3 der Masse in eine Schuessel giessen, mit dem Baileys und Espresso verruehren. Rahm mit dem Zucker steif schlagen. Die Haelfte des Schlagrahms sorgfaeltig unter die Espresso-Masse ziehen, zugedeckt kuehl stellen. Restlichen Schlagrahm unter die Eimasse ziehen, 1/2 davon in die vorbereitete Form giessen, zugedeckt ca. 2 Std. gefrieren. Restliche Masse zugedeckt kuehl stellen.   </inhalt>
+      </Glace-Masse_>
+      <Schokolade_>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. 1/3 der Schokolade ueber die gefrorene Masse giessen, Kaffee-Masse darauf verteilen, zugedeckt ca. 2 Std. gefrieren. 1/3  Schokolade darauf verteilen, restliche Eimasse daruebergiessen, ca. 2 Std. gefrieren. Restliche Schokolade daruebergiessen, zugedeckt ca. 1 Std. gefrieren. Kakaopulver darueberstreuen. </inhalt>
+      </Schokolade_>
+   </rezept>
+</Rezept>

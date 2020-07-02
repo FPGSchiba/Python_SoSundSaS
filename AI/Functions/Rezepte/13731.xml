@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>233 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig  >
+          <quant>150 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+      </Ruehrteig  >
+      <Fuellen    >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>100 g</quant>
+          <zutat>helle Sultaninen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>600 g</quant>
+          <zutat>Kuerbis (z.B. Butternut), grob gerieben (ergibt ca. 450 g)</zutat>
+      </Fuellen    >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Ruehrteig  >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist.</inhalt>
+      </Ruehrteig  >
+      <Fuellen    >
+          <inhalt>Mehl und alle Zutaten bis und mit Kardamompulver mischen, mit dem Kuerbis unter die Masse mischen. Teig in die vorbereitete Form fuellen.</inhalt>
+      </Fuellen    >
+      <Backen    >
+          <inhalt>Ca. 55 min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Cake herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem GItter auskuehlen. Mit Puderzucker Bestaeuben.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

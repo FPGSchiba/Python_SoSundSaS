@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>883 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>115 g </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kompott   >
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter</zutat>
+          <quant>500 g</quant>
+          <zutat>Zwetschgen, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+      </Kompott   >
+      <Teigwaren_kochen>
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. grobe Hoernli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren_kochen>
+      <Knusper   >
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>100 g</quant>
+          <zutat>Toastbrot, in Wuerfeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandelstifte</zutat>
+      </Knusper   >
+   </einkaufliste>
+   <rezept>
+      <Kompott   >
+          <inhalt>Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Pfanne von der Platte nehmen. Butter beigeben, darunterruehren. Zwetschgen und Zimt beigeben, ca. 5 Min. weich koecheln.</inhalt>
+      </Kompott   >
+      <Teigwaren_kochen>
+          <inhalt>Teigwaren im Salzwasser al dente kochen, abtropfen.</inhalt>
+      </Teigwaren_kochen>
+      <Knusper   >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Toast und Nuesse unter gelegentlichem Ruehren bei mittlerer Hitze ca. 3 Min. roesten. Knusper auf den Hoernli verteilen, Zwetschgen dazu servieren.</inhalt>
+      </Knusper   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

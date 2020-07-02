@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>618 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>620 g</quant>
+          <zutat>Pulled Beef mit BBQ-Sauce (z.B Bell)</zutat>
+          <quant>4 Stueck</quant>
+          <zutat>Burger-Broetli, quer halbiert</zutat>
+          <quant>300 g</quant>
+          <zutat>Betty Bossi Coleslaw </zutat>
+          <quant>100 g</quant>
+          <zutat>Baby-Salate (z.B Baby Lattich), in Blaettern</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pulled Beef nach Angabe auf der Verpackung erwaermen, mit zwei Gabeln zerzupfen und mit der Sauce mischen. Broetlihaelften mit den Schnittflaechen nach unten in einer Grillpfanne ca. 3 Min. grillieren. Pulled Beef, Coleslaw und Salat auf den Broetliboeden verteilen, Deckel darauflegen, leicht andruecken.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

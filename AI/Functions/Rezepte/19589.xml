@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>7 kcal  </NaehrwertProPerson>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salzmischung>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Oregano</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>400 g</quant>
+          <zutat>Meersalz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Oregano</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>400 g</quant>
+          <zutat>Meersalz</zutat>
+      </Salzmischung>
+   </einkaufliste>
+   <rezept>
+      <Salzmischung>
+          <inhalt>                              </inhalt>
+      </Salzmischung>
+      <Trocknen  >
+          <inhalt>                              </inhalt>
+      </Trocknen  >
+      <Abfuellen  >
+          <inhalt>Salz nochmals im Cutter fein mahlen. </inhalt>
+      </Abfuellen  >
+   </rezept>
+</Rezept>

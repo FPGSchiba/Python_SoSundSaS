@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>373 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_schmelzen>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (72 % Kakao), fein gehackt</zutat>
+          <quant>3 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Vollrahm</zutat>
+      </Schokolade_schmelzen>
+      <Mousse_zubereiten>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Kakaopulver zum Bestaeuben</zutat>
+      </Mousse_zubereiten>
+   </einkaufliste>
+   <rezept>
+      <Schokolade_schmelzen>
+          <inhalt>Schokolade mit Puderzucker und Rahm in einer duennwandigen Schuessel ueber dem nur leicht siedenden Wasserbad schmelzen, glattruehren. Schuessel herausnehmen, auskuehlen.</inhalt>
+      </Schokolade_schmelzen>
+      <Mousse_zubereiten>
+          <inhalt>Rahm steif schlagen, mit dem Gummischaber sorgfaeltig darunterziehen. Mousse in Glaesli fuellen, zugedeckt ca. 2 Std. kuehl stellen. Mit Kakaopulver bestaeuben.</inhalt>
+      </Mousse_zubereiten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

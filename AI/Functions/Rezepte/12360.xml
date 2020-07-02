@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>938 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>79 g  </Kohlenhydrate>
+       <Eiweiss>55 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 EL</quant>
+          <zutat>Kuemmel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 EL</quant>
+          <zutat>gelbe Senfkoerner</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Muskat</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniges Meersalz</zutat>
+          <quant>600 g</quant>
+          <zutat>Schweinshaxen</zutat>
+      </Fleisch   >
+      <Rotkabis  >
+          <quant>300 g</quant>
+          <zutat>Rotkabis</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Rotkabis  >
+      <Sandwiches>
+          <quant>150 g</quant>
+          <zutat>Gruyere</zutat>
+          <quant>8 Scheiben</quant>
+          <zutat>Brot, je ca. 100 g (z.B. Sauerteigbrot)</zutat>
+          <quant>125 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli</zutat>
+      </Sandwiches>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Braten im Ofen: ca. 3 Std. in der Mitte des auf 150 Grad vorgeheizten Ofens. Danach das Fleisch mit zwei Gabeln vom Knochen loesen und zerteilen ("pullen"!).</inhalt>
+      </Fleisch   >
+      <Rotkabis  >
+          <inhalt>Rotkabis fein hobeln. Wasser mit Essig, Salz und Zucker aufkochen. Rotkraut beigeben und einige Minuten darin ziehen lassen.</inhalt>
+      </Rotkabis  >
+      <Sandwiches>
+          <inhalt>Gruyere in 4 Scheiben schneiden. Die Haelfte der Brotscheiben mit Creme fraiche bestreichen, mit Fleisch und Kaese belegen, auf ein Backblech legen und im Ofen bei 150 Grad 3-4 Min. erhitzen, bis der Kaese zu schmelzen beginnt, herausnehmen. Radiesli in Scheibchen schneiden, mit dem abgetropften Rotkraut auf den Sandwiches verteilen, mit je einer Brotscheibe bedecken, sofort servieren.</inhalt>
+      </Sandwiches>
+   </rezept>
+</Rezept>

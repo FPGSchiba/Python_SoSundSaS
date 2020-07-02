@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>464 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Panna_Cotta>
+          <quant>4 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Bourbon-Vanillezucker</zutat>
+          <quant>2 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+      </Panna_Cotta>
+      <Erdbeeren >
+          <quant>250 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronenlikoer (z.B. Limoncello)</zutat>
+      </Erdbeeren >
+      <Servieren >
+          <quant>2 TL</quant>
+          <zutat>geschaelte Pistazien, grob gehackt</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Panna_Cotta>
+          <inhalt>Milch, Rahm, Zucker und Vanillezucker zusammen aufkochen, Hitze reduzieren, auf ca. 4 dl einkochen. Pfanne von der Platte nehmen. Gelatine unter die heisse Fluessigkeit ruehren. Durch ein Sieb in einen Messbecher giessen. In 4 kalt ausgespuelte Foermchen (je ca. 1 1/2 dl) fuellen, zugedeckt im Kuehlschrank ca. 4 Std. fest werden lassen.</inhalt>
+      </Panna_Cotta>
+      <Erdbeeren >
+          <inhalt>Erdbeeren mit Zucker und Likoer mischen, zugedeckt ca. 30 Min. ziehen lassen. </inhalt>
+      </Erdbeeren >
+      <Servieren >
+          <inhalt>Panna cotta mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen. Foermchen kurz in heisses Wasser tauchen, Panna cotta auf Teller stuerzen. Erdbeeren darauf verteilen, mit Pistazien bestreuen.</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

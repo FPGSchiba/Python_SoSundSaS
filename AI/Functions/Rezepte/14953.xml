@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>401 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Risotto   >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Risottoreis (Uncle Ben's, 10 Min.)</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+      </Risotto   >
+      <Wraps     >
+          <quant>4 </quant>
+          <zutat>Weizen-Tortillas</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>rosa Thon in Salzwasser, abgetropft, zerzupft</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft, in Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Eisbergsalat, in Streifen</zutat>
+      </Wraps     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Risotto                       </inhalt>
+      </How_To    >
+      <Risotto   >
+          <inhalt>Wraps                         </inhalt>
+      </Risotto   >
+      <Wraps     >
+          <inhalt>Zum Servieren schraeg halbieren.</inhalt>
+      </Wraps     >
+   </rezept>
+</Rezept>

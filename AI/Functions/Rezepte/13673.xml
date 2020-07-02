@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>538 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>350 g</quant>
+          <zutat>Broccoli in Roeschen</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Suppe     >
+      <Croutons  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Scheiben</quant>
+          <zutat>Nussbrot, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>20 g</quant>
+          <zutat>Kresse</zutat>
+      </Croutons  >
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel in einer Pfanne warm werden lassen. Broccoli ca. 3 Min andaempfen, Bouillon und Kokosmilch dazugiessen, aufkochen, Hitze reduzieren, zugedeckt ca. 15 Min. weich koecheln, puerieren, wuerzen.</inhalt>
+      </Suppe     >
+      <Croutons  >
+          <inhalt>Oel in einer Bratpfanne warm werden lassen, Brot ca. 5 Min. roesten, salzen. Croutons und Kresse auf der Suppe anrichten. </inhalt>
+      </Croutons  >
+   </rezept>
+</Rezept>

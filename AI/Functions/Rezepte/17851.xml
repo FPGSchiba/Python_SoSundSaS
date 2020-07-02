@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>228 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cocktail  >
+          <quant>12 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Cognac (z.B. Hennessy)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rose's Lime</zutat>
+          <quant>2 dl</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>6 dl</quant>
+          <zutat>Ginger Ale  (z.B. Swiss Mountain Spring Ginger Ale)</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, in Schnitzen</zutat>
+      </Cocktail  >
+   </einkaufliste>
+   <rezept>
+      <Cocktail  >
+          <inhalt>Die Eiswuerfel auf die Glaeser verteilen. Cognac, Rose's Lime und Limettensaft verruehren, ueber die Eiswuerfel giessen, mit Ginger Ale auffuellen und mit Limettenschnitzen garnieren. </inhalt>
+      </Cocktail  >
+   </rezept>
+</Rezept>

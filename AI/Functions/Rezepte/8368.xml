@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>312 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Honigkerne>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Kernenmix, z.B. Bio Kernen-Nuss-Mix</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Honigkerne>
+      <Salat     >
+          <quant>3 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>2 </quant>
+          <zutat>Fenchel (ca. 350 g), in ca. 5 mm dicken Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado, in Wuerfeln</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Honigkerne>
+          <inhalt>Honig, Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Kernen-Nuss-Mix und Salz beigeben, Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne ca. 1 1/2 Min. koecheln, bis die Kerne und Nuesse haselnussbraun sind, sofort auf einem Backpapier  verteilen, auskuehlen, in Stueckchen brechen.</inhalt>
+      </Honigkerne>
+      <Salat     >
+          <inhalt>Aceto und Oel verruehren, wuerzen. Rucola, Fenchel und Avocado auf Teller verteilen, Sauce daruebertraeufeln, Honigkerne und  -nuesse darauf verteilen.</inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

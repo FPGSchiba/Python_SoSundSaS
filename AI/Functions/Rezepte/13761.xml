@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>671 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>175 g</quant>
+          <zutat>Medjool-Datteln, entsteint</zutat>
+          <quant>65 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>55 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Ingwerpulver</zutat>
+      </Boden     >
+      <Schoko-Schicht>
+          <quant>190 g</quant>
+          <zutat>Cashew-Nuesse, ueber Nacht in kaltem Wasser eingeweicht, abgetropft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Schoko-Schicht>
+      <3._Schicht_&amp;_Himbeeren>
+          <quant>190 g</quant>
+          <zutat>Cashew-Nuesse, ueber Nacht in kaltem Wasser eingeweicht, abgetropft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>85 g</quant>
+          <zutat>Himbeeren</zutat>
+      </3._Schicht_&amp;_Himbeeren>
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Die Datteln mit kochendem Wasser uebergiessen, 10 Min. quellen lasssen, gut abtropfen. Haferflocken und Mandeln im Cutter zu einer kruemeligen Konsistenz zerkleinern. Datteln und Gewuerze beigeben, kurz weitermixen, bis die Masse homogen ist. Die Masse in die Form geben, mit nassen Haenden andruecken. Form bis zur Wiederverwendung in den Tiefkuehler stellen.</inhalt>
+      </Boden     >
+      <Schoko-Schicht>
+          <inhalt>Cashews mit allen restlichen Zutaten im Cutter fein puerieren. Die Form aus dem Tiefkuehler nehmen, die Schoko-Schicht auf der ersten Schicht verteilen, mit einm Messer glattstreichen. Form fuer eine weitere Stunde in den Tiefkuehler stellen.</inhalt>
+      </Schoko-Schicht>
+      <3._Schicht_&amp;_Himbeeren>
+          <inhalt>Die Cashews mit dem Zitronensaft, 2 EL Ahornsirup und Kokosoel in den Cutter geben und fein zerkleinern. Die Form aus dem Tiefkuehler nehmen und die 3. Schicht darauf verteilen und glattstreichen. Die Himbeeren mit 1 EL Ahonsirup separat puerieren, in die Form geben und mithilfe eines Messers mit der 3. Schicht marmorartig verruehren. Form fuer weiter 6-8 Std. in den Tiefkuehler stellen. Vor dem Zerschneiden aus dem Tiefkuehler nehmen, Masse auf Zimmertemperatur abkuehlen. Die Masse mit einem in heisses Wasser getauchten Messer in 6 gleich grosse Schnitten schneiden.</inhalt>
+      </3._Schicht_&amp;_Himbeeren>
+   </rezept>
+</Rezept>

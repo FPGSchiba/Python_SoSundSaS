@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>312 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zwetschgenmus_>
+          <quant>750 g</quant>
+          <zutat>tiefgekuehlte Zwetschgen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+      </Zwetschgenmus_>
+      <Streusel_ >
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandelstifte</zutat>
+          <quant>25 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, fluessig</zutat>
+      </Streusel_ >
+   </einkaufliste>
+   <rezept>
+      <Zwetschgenmus_>
+          <inhalt>Zwetschgen mit dem Zitronensaft und den Vanillesamen in einer Pfanne aufkochen, Hitze reduzieren, zugedeckt unter gelegentlichem Ruehren bei kleiner Hitze ca. 15 Min. weich kochen. Zwetschgen mit dem Stabmixer fein puerieren, auskuehlen.</inhalt>
+      </Zwetschgenmus_>
+      <Streusel_ >
+          <inhalt>Mandeln, Mandelstifte, Zucker und Butter mischen, in einer beschichteten Bratpfanne bei mittlerer Hitze knusprig braten, auskuehlen. Zwetschgenmus in die Glaeser verteilen, Streusel darueberstreuen, Glaeser gut verschliessen. </inhalt>
+      </Streusel_ >
+   </rezept>
+</Rezept>

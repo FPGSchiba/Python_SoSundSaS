@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>185 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bananen   >
+          <quant>4 </quant>
+          <zutat>JaMaDu Kinderbananen</zutat>
+          <quant>15 g</quant>
+          <zutat>Butter, fluessig</zutat>
+      </Bananen   >
+      <Creme     >
+          <quant>250 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>90 g</quant>
+          <zutat>Creme fraiche</zutat>
+      </Creme     >
+   </einkaufliste>
+   <rezept>
+      <Bananen   >
+          <inhalt>Bananen rundum mit Butter bestreichen, beidseitig je ca. 5 Min. ueber mittelstarker Glut oder in der Grillpfanne grillieren.</inhalt>
+      </Bananen   >
+      <Creme     >
+          <inhalt>Beeren mit Puderzucker mischen und mit einer Gabel grob zerdruecken. Zitronensaft und Creme fraiche daruntermischen. Creme mit den warmen Bananen anrichten.</inhalt>
+      </Creme     >
+   </rezept>
+</Rezept>

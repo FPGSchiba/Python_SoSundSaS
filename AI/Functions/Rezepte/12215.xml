@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1010 kcal</NaehrwertProPerson>
+       <Fett>53 g  </Fett>
+       <Kohlenhydrate>93 g  </Kohlenhydrate>
+       <Eiweiss>37 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaghetti >
+          <quant>500 g</quant>
+          <zutat>Spaghetti</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaghetti >
+      <Sauce     >
+          <quant>4 </quant>
+          <zutat>Landjaeger (je ca. 50 g), geschaelt, in Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln, in feinen Streifen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>50 g</quant>
+          <zutat>Parmesan, grob gerieben</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Spaghetti >
+          <inhalt>Spaghetti im Salzwasser al dente kochen, abtropfen, dabei 1 dl Kochwasser beiseite stellen, Spaghetti zurueck in die Pfanne geben, zugedeckt beiseite stellen. </inhalt>
+      </Spaghetti >
+      <Sauce     >
+          <inhalt>Landjaeger und Zwiebeln im heissen Oel in einer Pfanne ca. 1 Min. braten. Rahm und beiseite gestelltes Kochwasser dazugiessen, ca. 3 Min. koecheln. Rucola und Kaese daruntermischen, wuerzen, mit den Spaghetti mischen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

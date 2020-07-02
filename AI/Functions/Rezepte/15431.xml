@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>473 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>75 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rote_Eimasse>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>6 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Rote_Eimasse>
+      <Teig__    >
+          <quant>400 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Teig__    >
+      <Tagliatelle_>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Tagliatelle_>
+      <Sauce_    >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>250 g</quant>
+          <zutat>Cherry-Tomaten, geviertelt</zutat>
+          <quant>einige </quant>
+          <zutat>Basilikumblaetter</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rote Eimasse                  </inhalt>
+      </How_To    >
+      <Rote_Eimasse>
+          <inhalt>Teig                          </inhalt>
+      </Rote_Eimasse>
+      <Teig__    >
+          <inhalt>Tagliatelle                   </inhalt>
+      </Teig__    >
+      <Tagliatelle_>
+          <inhalt>Tagliatelle im siedendem Salzwasser al dente kochen,  abtropfen, dabei 1 dl Kochwasser auffangen, beiseite stellen.</inhalt>
+      </Tagliatelle_>
+      <Sauce_    >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Tomaten beigeben, ca. 5 Min. ruehrbraten. Beiseite gestelltes  Kochwasser dazugiessen, ca. 3 Min. koecheln. Tagliatelle beigeben, warm werden lassen. Basilikum darueberstreuen. </inhalt>
+      </Sauce_    >
+   </rezept>
+</Rezept>

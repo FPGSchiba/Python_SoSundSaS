@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>357 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>160 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, geroestet, im Cutter fein gemahlen</zutat>
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Teig      >
+      <Nussfuellung>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>150 g</quant>
+          <zutat>Haselnuesse, geroestet</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Weissmehl</zutat>
+      </Nussfuellung>
+      <Tarte     >
+          <quant>300 g</quant>
+          <zutat>roter Rhabarber, schraeg in ca. 3 cm langen Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Tarte     >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Nuesse, Zucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig auf wenig Mehl auswallen, in das vorbereitete Blech legen, Boden dicht einstechen, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig      >
+      <Blindbacken>
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter etwas abkuehlen. </inhalt>
+      </Blindbacken>
+      <Nussfuellung>
+          <inhalt>Butter, Zucker und Salz mit den Schwingbesen des Handruehrgeraets gut verruehren, Eier beigeben, ca. 3 Min. weiterruehren, bis die Masse heller ist. Nuesse im Cutter mahlen bis die Masse cremig ist, mit dem Mehl unter die Masse mischen, auf dem Tarteboden verteilen. </inhalt>
+      </Nussfuellung>
+      <Tarte     >
+          <inhalt>Rhabarber rautenfoermig auf die Nussfuellung legen, Zucker darueberstreuen. </inhalt>
+      </Tarte     >
+      <Backen    >
+          <inhalt>Ca. 1 Std. in der unteren Haelfte des Ofens. Herausnehmen, etwas abkuehlen, aus dem Blech auf ein Gitter schieben, auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>190 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kraeuter (z.B. Petersilie, Schnittlauch), fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Paprika</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in feinen Ringen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ei mit Schnittlauch, Paprika, Salz und Pfeffer in einer Schuessel gut verklopfen. Bratbutter in einer beschichteten Bratpfanne warm werden lassen, Eimasse hineingiessen, bei kleiner Hitze mit der Bratschaufel hin und her schieben, bis sie leicht fest, aber noch feucht ist. Ruehrei auf Tellern anrichten, Bundzwiebel darueberstreuen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

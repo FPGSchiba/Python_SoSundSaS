@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>441 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereiten_>
+          <quant>100 g</quant>
+          <zutat>Mini-Rueebli</zutat>
+          <quant>150 g</quant>
+          <zutat>Broccoli</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant>130 g</quant>
+          <zutat>Pesto verde</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Vorbereiten_>
+      <Teig_     >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Flammenkuchenteig (ca. 24 x 33 cm)</zutat>
+          <quant>100 g</quant>
+          <zutat>Magerquark</zutat>
+      </Teig_     >
+      <Belegen   >
+          <quant>wenig </quant>
+          <zutat>Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kernenmix</zutat>
+      </Belegen   >
+      <Servieren >
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>100 g</quant>
+          <zutat>Mini-Rueebli</zutat>
+          <quant>150 g</quant>
+          <zutat>Broccoli</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant>130 g</quant>
+          <zutat>Pesto verde</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Flammenkuchenteig (ca. 24 x 33 cm)</zutat>
+          <quant>100 g</quant>
+          <zutat>Magerquark</zutat>
+          <quant>wenig </quant>
+          <zutat>Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Kernenmix</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten_>
+          <inhalt>Rueebli laengs halbieren,       </inhalt>
+      </Vorbereiten_>
+      <Teig_     >
+          <inhalt>                              </inhalt>
+      </Teig_     >
+      <Belegen   >
+          <inhalt>                              </inhalt>
+      </Belegen   >
+      <Backen_   >
+          <inhalt>Ca. 20 Min. in der untersten Rille des auf 220 Grad vorgeheizten Ofens. Herausnehmen. </inhalt>
+      </Backen_   >
+      <Servieren >
+          <inhalt>                              </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

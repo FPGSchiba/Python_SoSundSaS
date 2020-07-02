@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>842 kcal</NaehrwertProPerson>
+       <Fett>64 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>800 g</quant>
+          <zutat>Fondue Kaesemischung  (moitie-moitie)</zutat>
+          <quant>3 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kirsch</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Knoblauchzehe halbieren, Caquelon damit ausreiben. Kaesemischung ins Caquelon geben. Wein mit dem Maizena verruehren, dazugiessen, unter gleichmaessigem Ruehren bei kleiner Hitze aufkochen, Kirsch beigeben, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

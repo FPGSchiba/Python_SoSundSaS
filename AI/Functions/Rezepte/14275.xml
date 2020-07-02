@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>284 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Panettoncini>
+          <quant>2 </quant>
+          <zutat>Panettoncini, quer gedrittelt</zutat>
+          <quant>300 ml</quant>
+          <zutat>Mandel-Amaretto Glace</zutat>
+      </Panettoncini>
+      <Orangensauce>
+          <quant>2 </quant>
+          <zutat>Bio-Orangen, abgeriebene Schale und Saft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Amaretto</zutat>
+      </Orangensauce>
+      <Eiweisshaube>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>25 g</quant>
+          <zutat>Zucker</zutat>
+      </Eiweisshaube>
+   </einkaufliste>
+   <rezept>
+      <Panettoncini>
+          <inhalt>Panettoncinischeiben mit Glace bestreichen. Panettoncini zusammensetzen, zugedeckt ca. 1 Std. gefrieren.</inhalt>
+      </Panettoncini>
+      <Orangensauce>
+          <inhalt>Orangenschale und -saft mit Gelierzucker aufkochen, ca. 20 Min. koecheln, auskuehlen. Amaretto darunterruehren. </inhalt>
+      </Orangensauce>
+      <Eiweisshaube>
+          <inhalt>Eiweiss mit dem Salz steif schlagen. Die Haelfte des Zuckers beigeben, weiterschlagen, bis die Masse glaenzt. Restlichen Zucker beigeben, kurz weiterschlagen. Panettoncini aus dem Tiefkuehler nehmen, auf ein mit Backpapier belegtes Blech setzen. Eischnee mit einem Loeffel auf dem Deckel verteilen.</inhalt>
+      </Eiweisshaube>
+      <Gratinieren>
+          <inhalt>Ca. 2 Min. in der Mitte des auf 240 Grad vorgeheizten Ofens (Oberhitze). Herausnehmen, halbieren, sofort mit Orangensauce servieren.</inhalt>
+      </Gratinieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

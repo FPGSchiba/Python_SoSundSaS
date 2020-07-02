@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>659 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Beeren_   >
+          <quant>300 g</quant>
+          <zutat>gemischte Beeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Beeren_   >
+      <Waffelnteig>
+          <quant>150 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>80 g</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>150 g</quant>
+          <zutat>dunkles Mandelmus</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+      </Waffelnteig>
+      <Backen_   >
+          <quant> </quant>
+          <zutat>Bratbutter zum Backen</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Beeren_   >
+          <inhalt>Beeren, Zucker und Zitronensaft mischen, beiseite stellen.</inhalt>
+      </Beeren_   >
+      <Waffelnteig>
+          <inhalt>Mehl und alle Zutaten bis und mit Salz in einer Schuessel mischen. Eier, Mandelmus und Milch verruehren, darunterruehren. Teig zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </Waffelnteig>
+      <Backen_   >
+          <inhalt>Waffeleisen erhitzen, mit wenig Bratbutter bestreichen. Je 1 gehaeufter Essloeffel Teig auf das Waffeleisen geben, Waffeln je ca. 3 Min. backen. Herausnehmen, auf einem Gitter etwas abkuehlen, noch warm mit den Beeren anrichten. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

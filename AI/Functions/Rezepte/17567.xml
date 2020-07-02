@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>146 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zimt-Zucker>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+      </Zimt-Zucker>
+      <Haesli_formen_>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig, laengs halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser zum Bestreichen</zutat>
+      </Haesli_formen_>
+      <Backen_   >
+          <quant>100 g</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zimt-Zucker                   </inhalt>
+      </How_To    >
+      <Zimt-Zucker>
+          <inhalt>Haesli formen                  </inhalt>
+      </Zimt-Zucker>
+      <Haesli_formen_>
+          <inhalt>Backen                        </inhalt>
+      </Haesli_formen_>
+      <Backen_   >
+          <inhalt>Schlagrahm in eine gezackte Tuelle (ca. 10 mm Ø) geben, Schwaenzchen spritzen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

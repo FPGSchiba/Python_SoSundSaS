@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>769 kcal</NaehrwertProPerson>
+       <Fett>47 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>4 </quant>
+          <zutat>Rindsfiletmedaillons (z.B. Fine Food Limousin Tenderloin Steak, je ca. 150 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Fleisch   >
+      <Rahm-Lauch>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>500 g</quant>
+          <zutat>Lauch laengs halbiert, schraeg in feinen Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>200 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+      </Rahm-Lauch>
+      <Paeckli_   >
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Weissmehl</zutat>
+          <quant>350 g</quant>
+          <zutat>Blaetterteig</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 </quant>
+          <zutat>saeuerlicher Apfel halbiert, Kerngehaeuse entfernt, in feinen Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Paeckli_   >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen, Fleisch beidseitig je ca. 1 Min. anbraten, herausnehmen, salzen, auskuehlen.</inhalt>
+      </Fleisch   >
+      <Rahm-Lauch>
+          <inhalt>Bratbutter in derselben Bratpfanne erwaermen. Lauch kurz andaempfen, wuerzen. Wasser dazugiessen, ca. 10 Min. koecheln. Sauren Halbrahm dazugiessen, ca. 5 Min. knapp weich koecheln. Lauch zugedeckt warm halten.  </inhalt>
+      </Rahm-Lauch>
+      <Paeckli_   >
+          <inhalt>Pfefferminze und Thymian mischen, die Haelfte davon mit wenig Mehl auf die Arbeitsflaeche streuen, 300 g Blaetterteig darauflegen. Restliche Kraeuter darueberstreuen. Blaetterteig zu einem Rechteck von ca. 25 x 60 cm auswallen auswallen, quer in 4 Streifen schneiden. Mandeln auf die Mitte der einen Haelfte des Teiges streuen, Fleisch darauflegen. Apfelscheiben darauf verteilen. Teigraender mit Ei bestreichen, locker ueber das Fleisch legen, Raender gut andruecken, auf ein mit Backpapier belegtes Blech legen. Paeckli mit Ei bestreichen. Restlichen Blaetterteig duenn auswallen, Sterne ausstechen, auf den Paeckli verteilen, mit Ei bestreichen. </inhalt>
+      </Paeckli_   >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Rahm-Lauch erhitzen, dazu servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

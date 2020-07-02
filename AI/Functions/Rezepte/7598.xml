@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>376 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 EL</quant>
+          <zutat>milde Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>heller Reiswein  oder trockener Sherry</zutat>
+          <quant>250 g</quant>
+          <zutat>Rindsplaetzli (a la minute), in ca. 1 cm breiten Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, in Scheibchen</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Ruehrbraten</zutat>
+          <quant>500 g</quant>
+          <zutat>Broccoli, in kleinen Roeschen</zutat>
+          <quant>250 g</quant>
+          <zutat>Shiitake-Pilze oder Champignons, in Scheiben</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>3 EL</quant>
+          <zutat>heller Reiswein  oder trockener Sherry</zutat>
+          <quant>3 EL</quant>
+          <zutat>milde Sojasauce</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Thai-Basilikum oder Koriander, fein geschnitten</zutat>
+      </Fleisch   >
+      <Reis      >
+          <quant>250 g</quant>
+          <zutat>Parfuemreis</zutat>
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Reis      >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Maizena, Sojasauce und Reiswein gut verruehren. Fleisch und Knoblauch beigeben, mischen. Zugedeckt im Kuehlschrank ca. 1 Std. marinieren. Oel im Wok oder in weiter beschichteter Bratpfanne heiss werden lassen. Broccoli ca. 2 Min. ruehrbraten, Pilze ca. 3 Min. mitruehrbraten. Wasser dazugiessen, aufkochen, Hitze reduzieren. Gemuese bei mittlerer Hitze 5-10 Min. koecheln. Gemuese herausnehmen, zugedeckt beiseitestellen. Wenig Oel in derselben Pfanne heiss werden lassen. Fleisch ca. 2 Min. ruehrbraten, zum Gemuese geben. Bouillon, Reiswein und Sojasauce gut verruehren, in die Pfanne giessen. Bratsatz loesen, aufkochen. Hitze reduzieren, Gemuese und Fleisch wieder beigeben, nur noch heiss werden lassen, wuerzen. Kurz vor dem Servieren Thai Basilikum daruntermischen.</inhalt>
+      </Fleisch   >
+      <Reis      >
+          <inhalt>Reis im Sieb unter fliessendem kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Reis mit den restlichen Zutaten aufkochen. Reis zugedeckt auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei den Deckel nie abheben. Reis mit einer Gabel lockern. Ingwerreis zum Rindfleisch mit Broccoli und Pilzen servieren.</inhalt>
+      </Reis      >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

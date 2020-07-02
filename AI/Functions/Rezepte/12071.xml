@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>851 kcal</NaehrwertProPerson>
+       <Fett>54 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pastateig >
+          <quant>140 g</quant>
+          <zutat>glutenfreies Mehl (Schaer)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Pastateig >
+      <Fleisch_zubereiten>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>350 g</quant>
+          <zutat>Hackfleisch (Rind oder Lamm)</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, grob gerieben</zutat>
+          <quant>400 g</quant>
+          <zutat>Kuerbis (z.B. Butternut), grob gerieben</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Aprikosen (sauer)</zutat>
+          <quant>1 </quant>
+          <zutat>Lauch, geviertelt, in Scheiben</zutat>
+          <quant>2 dl</quant>
+          <zutat>glutenfreie Gemuesebouillon (z.B. Coop Free From)</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>gehackte Tomaten in Tomatensaft (je ca. 410 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Fleisch_zubereiten>
+      <Lasagne_zubereiten>
+          <quant>2 dl</quant>
+          <zutat>lactosefreier Halbrahm</zutat>
+          <quant>2 dl</quant>
+          <zutat>lactosefreie Creme fraiche</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>3 EL</quant>
+          <zutat>glutenfreies Paniermehl (Schaer, Pain Grati)</zutat>
+      </Lasagne_zubereiten>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pastateig                     </inhalt>
+      </How_To    >
+      <Pastateig >
+          <inhalt>Mehl und alle Zutaten mischen, zu einem glatten Teig kneten. In Folie einpacken und ca. 2 Std. im Kuehlschrank ruhen lassen. Teig vierteln, je ein Rechteck in der Groesse der Form auswallen.</inhalt>
+      </Pastateig >
+      <How_To1   >
+          <inhalt>Oel im Brattopf heiss werden lassen. Hackfleisch ca. 5 Min. anbraten, Hitze reduzieren. Zwiebel, Kuerbis, Aprikosen und Lauch beigeben, ca. 5 Min. andaempfen. Bouillon und Tomaten dazugiessen, Petersilie beigeben, aufkochen. Hitze reduzieren, zugedeckt bei kleiner Hitze ca. 30 Min. schmoren, wuerzen.</inhalt>
+      </How_To1   >
+      <Fleisch_zubereiten>
+          <inhalt>Rahm und Creme fraiche mischen, wuerzen. Pastateige, Fleisch und Sauce abwechslungsweise in die vorbereitete Form schichten. Mit Sauce abschliessen, Paniermehl darueberstreuen.</inhalt>
+      </Fleisch_zubereiten>
+      <Lasagne_zubereiten>
+          <inhalt>Ofens. Herausnehmen, zugedeckt ca. 5 Min. ruhen lassen.</inhalt>
+      </Lasagne_zubereiten>
+   </rezept>
+</Rezept>

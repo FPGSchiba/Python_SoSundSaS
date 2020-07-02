@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>882 kcal</NaehrwertProPerson>
+       <Fett>51 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>67 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 kg</quant>
+          <zutat>Entrecote am Stueck</zutat>
+      </Fleisch   >
+      <Gemuese    >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>600 g</quant>
+          <zutat>Pastinaken, in Scheiben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Senfkoerner</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Gemuese    >
+      <Yorkshire_Puddings>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 1/4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+      </Yorkshire_Puddings>
+      <Roastbeef >
+          <quant>1 EL</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Roastbeef >
+      <Backen    >
+          <quant>4 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Fleisch ca. 1 Std. vor dem Anbraten aus dem Kuehlschrank nehmen. </inhalt>
+      </Fleisch   >
+      <Gemuese    >
+          <inhalt>Oel in einer weiten Bratpfanne erhitzen. Pastinaken und Senfkoerner unter gelegentlichem Ruehren ca. 5 Min. anbraten, salzen. Wasser dazugiessen, Gemuese zugedeckt ca. 20 Min. daempfen.</inhalt>
+      </Gemuese    >
+      <Yorkshire_Puddings>
+          <inhalt>Mehl und Salz in einem Messbecher mischen. Eier nacheinander mit der Milch und dem Oel beigeben, mit den Schwingbesen des Handruehrgeraets zu einem glatten Teig ruehren, zugedeckt ca. 20 Min. quellen lassen.  </inhalt>
+      </Yorkshire_Puddings>
+      <Roastbeef >
+          <inhalt>Butter, Senf, Salz und Pfeffer verruehren, Fleisch damit bestreichen. Fleischthermometer an der dicksten Stelle des Bratens (Fettseite nach oben) einstecken.  </inhalt>
+      </Roastbeef >
+      <Backen    >
+          <inhalt>Oel in die Vertiefungen des Muffinblechs verteilen. Muffinblech auf ein mit Backpapier belegtes Blech legen. Blech ca. 5 Min. in die untere Haelfte, ein Ofengitter in die obere Haelfte des auf 240 Grad vorgeheizten Ofens schieben. Yorkshire Pudding Masse in die Vertiefungen des Muffinblechs giessen, zurueck in den Ofen geben. Fleisch ueber das Muffinblech auf das heisse Ofengitter legen. Ca. 10 Min. anbraten, Ofentemperatur auf 200 Grad reduzieren und ca. 15 Min. fertig braten (die Kerntemperatur des Fleisches soll 55 Grad betragen). Roastbeef herausnehmen, zugedeckt ca. 10 Min. stehen lassen. Yorkshire Puddings im ausgeschalteten, leicht geoeffneten Ofen warm halten. </inhalt>
+      </Backen    >
+      <Anrichten >
+          <inhalt>Roastbeef in duenne Tranchen schneiden, mit Gemuese und Yorkshire Puddings servieren. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>211 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>350 g</quant>
+          <zutat>Kirschen</zutat>
+          <quant>200 g</quant>
+          <zutat>Vollkornguetzli (z. B. Bio Vierkorn)</zutat>
+      </Fuellung   >
+      <Glasur    >
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>5 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>300 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>70 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>350 g</quant>
+          <zutat>Kirschen</zutat>
+          <quant>200 g</quant>
+          <zutat>Vollkornguetzli (z. B. Bio Vierkorn)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>5 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Glasur    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>                              </inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Kirschen entsteinen,          </inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig zu einem Rechteck von ca. 30 x 40 cm auswallen. </inhalt>
+      </Formen    >
+      <Backen:   >
+          <inhalt>Ca. 20 Min. im auf 180 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, auf ein Gitter schieben.</inhalt>
+      </Backen:   >
+      <Glasur    >
+          <inhalt>                              </inhalt>
+      </Glasur    >
+   </rezept>
+</Rezept>

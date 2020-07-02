@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>689 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>68 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Tomaten</zutat>
+          <quant>250 g</quant>
+          <zutat>Gelierzucker (Coop) 2:1</zutat>
+          <quant>1/2 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>400 g</quant>
+          <zutat>Manchego</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tomaten ueberbruehen, schaelen, in Stuecke schneiden, in einer Pfanne mit dem Gelierzucker verruehren. Vanilleschote aufschneiden, Samen auskratzen, beigeben, aufkochen. Rosmarin und Zitronensaft beigeben, bei mittlerer Hitze 3-4 Minuten kochen. Vanilleschote und Rosmarin entfernen. Konfituere siedend heiss in saubere, vorgewaermte Glaeser fuellen, sofort verschliessen. Glaeser mit Schraubdeckel kurz auf den Kopf stellen, auskuehlen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Konfituere zum Manchego servieren.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+</Rezept>

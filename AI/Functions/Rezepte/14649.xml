@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>346 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Venere_Reis_>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>125 g</quant>
+          <zutat>Venere-Reis</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Champagner</zutat>
+          <quant>3 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+      </Venere_Reis_>
+      <Pochieren >
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 dl</quant>
+          <zutat>Champagner</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fischbouillon</zutat>
+          <quant>400 g</quant>
+          <zutat>Dorschfilets Royal (MSC), ohne Haut, in vier Stuecken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>weisser Pfeffer</zutat>
+      </Pochieren >
+      <Sauce     >
+          <quant>40 g</quant>
+          <zutat>Butter, in Wuerfeln</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Venere_Reis_>
+          <inhalt>Oel in einer Pfanne warm werden lassen. Rueebli beigeben, ca. 2 Min andaempfen. Reis beigeben, unter Ruehren duensten, bis er glasig ist. Champagner dazugiessen, vollstaendig einkochen. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Ca. 35 Min. koecheln, bis der Reis cremig und al dente ist.</inhalt>
+      </Venere_Reis_>
+      <Pochieren >
+          <inhalt>Schalotte und Knoblauch in einer weiten Pfanne in Butter andaempfen. Champagner und Bouillon dazugiessen, aufkochen, Fisch wuerzen, zur Fluessigkeit geben. Pfanne von der Platte nehmen, Fisch zugedeckt ca. 8 Min. ziehen lassen (pochieren). Fisch aus der Fluessigkeit heben, zugedeckt warm stellen.</inhalt>
+      </Pochieren >
+      <Sauce     >
+          <inhalt>Fluessigkeit auf ca. 3 Essloeffel einkochen, Pfanne von der Platte nehmen, Butter portionenweise unter Ruehren mit dem Schwingbesen beigeben. Dabei Pfanne hin und wieder kurz auf die Platte stellen, um die Sauce nur leicht zu erwaermen, sie darf nicht kochen. Ruehren, bis die Sauce cremig ist, wuerzen. Fisch und Venere Reis auf vorgewaermten Tellern anrichten, Sauce auf den Filets verteilen. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

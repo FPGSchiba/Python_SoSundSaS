@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>272 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>13 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellen    >
+          <quant>300 g</quant>
+          <zutat>Rueebli, geschaelt, laengs geviertelt</zutat>
+          <quant>200 g</quant>
+          <zutat>Kefen, laengs in feinen Streifen</zutat>
+          <quant>200 g</quant>
+          <zutat>Mini-Patissons, halbiert, in Scheibchen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>600 g</quant>
+          <zutat>Saiblingfilets, ohne Haut</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Estragon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>4 Prisen</quant>
+          <zutat>Meersalz</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <Fuellen    >
+          <inhalt>Rueebli, Kefen und Mini-Patisson in eine Schuessel geben. Oel beigeben, wuerzen. Je 1/4 des Gemueses auf die Mitte der Backpapiere verteilen. Fischfilet auf dem Gemuese verteilen, mit dem Estragon belegen. Weisswein dazugiessen, salzen.</inhalt>
+      </Fuellen    >
+      <Verschliessen>
+          <inhalt>Vorderen und hinteren Papierrand ueber dem Fisch ca. 1cm einschlagen, 2-mal umschlagen. Enden links und rechts, nicht zu nahe am Fisch, mit Kuechenschnur zusammenbinden.</inhalt>
+      </Verschliessen>
+      <Backen_im_Ofen>
+          <inhalt>Ca. 20 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens.</inhalt>
+      </Backen_im_Ofen>
+   </rezept>
+</Rezept>

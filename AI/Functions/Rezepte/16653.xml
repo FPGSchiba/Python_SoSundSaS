@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>23 kcal </NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>1 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vinaigrette_>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, wenig abgeriebene Schale und 2 EL Saft</zutat>
+          <quant>2 TL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Korianderblaettchen</zutat>
+          <quant>4 EL</quant>
+          <zutat>Granatapfelkerne</zutat>
+      </Vinaigrette_>
+      <Austern   >
+          <quant>12 </quant>
+          <zutat>Austern</zutat>
+      </Austern   >
+   </einkaufliste>
+   <rezept>
+      <Vinaigrette_>
+          <inhalt>Limettenschale und -saft und alle Zutaten bis und mit Koriander mischen, Granatapfelkerne daruntermischen. </inhalt>
+      </Vinaigrette_>
+      <Austern   >
+          <inhalt>Austern einzeln mit der flachen Seite nach oben auf ein Tuch und Schneidebrett legen und mit dem Tuch zudecken. Austern fest halten, mit der Spitze des Austernmessers in die kleine Oeffnung im Gelenk fahren. Obere Schale mit einer scharf drehenden Bewegung oeffnen. Das Messer an der oberen Schale entlang fuehren, so dass das Fruchtfleisch nicht verletzt wird. Die geschlossene Auster muss beim Oeffnen einen ziemlich grossen Widerstand leisten, sonst ist sie ungeniessbar. Mit den restlichen Austern gleich verfahren. Vinaigrette auf die Austern verteilen, sofort geniessen.</inhalt>
+      </Austern   >
+   </rezept>
+</Rezept>

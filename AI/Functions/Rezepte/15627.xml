@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>576 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>57 g  </Kohlenhydrate>
+       <Eiweiss>48 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargelchips_>
+          <quant>250 g</quant>
+          <zutat>gruene Spargeln</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+      </Spargelchips_>
+      <Fisch     >
+          <quant>600 g</quant>
+          <zutat>Wolfsbarschfilets</zutat>
+          <quant>3 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 1/2 </quant>
+          <zutat>Granataepfel, halbiert, 1/2 der Kerne ausgeloest, beiseite gestellt, vom Rest Saft ausgepresst (ergibt ca. 1 dl)</zutat>
+      </Fisch     >
+      <Sauce_    >
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce_    >
+      <Belugalinsen>
+          <quant>250 g</quant>
+          <zutat>schwarze Linsen (Beluga)</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>20 g</quant>
+          <zutat>Micro Greens </zutat>
+      </Belugalinsen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spargelchips                  </inhalt>
+      </How_To    >
+      <Spargelchips_>
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 130 Grad vorgeheizten Ofens. Herausnehmen, auskuehlen. </inhalt>
+      </Spargelchips_>
+      <Fisch     >
+          <inhalt>Fisch mit einer Pinzette von allfaelligen Graeten befreien, halbieren, mit Limettensaft betraeufeln, salzen. Wenig Oel in einer beschichteten Bratpfanne heiss werden lassen, Hitze reduzieren, Fisch beidseitig, je ca. 1 Min. braten. Die Haelfte des Granatapfelsafts ueber den Fisch traeufeln. </inhalt>
+      </Fisch     >
+      <Sauce_    >
+          <inhalt>Zitronensaft, Oel und restlichen Granatapfelsaft verruehren, salzen. </inhalt>
+      </Sauce_    >
+      <Belugalinsen>
+          <inhalt>Linsen im siedenden Wasser bei kleiner Hitze ca. 20 Min. weichkoecheln, Fluessigkeit abgiessen, salzen. Mit Sauce und Granatapfelkernen in Tellern verteilen. Fisch darauf anrichten, mit den Micro Greens und Spargelchips garnieren. </inhalt>
+      </Belugalinsen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

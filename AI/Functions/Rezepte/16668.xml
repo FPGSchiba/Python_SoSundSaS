@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>602 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Roesti     >
+          <quant>2 </quant>
+          <zutat>Cervelats, geschaelt</zutat>
+          <quant>500 g</quant>
+          <zutat>Gschwellti (fest kochende Sorte)</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Curry</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+      </Roesti     >
+      <Spiegelei >
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Spiegelei >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Roesti                         </inhalt>
+      </How_To    >
+      <Roesti     >
+          <inhalt>beschichteten Bratpfanne erhitzen. Kartoffelmischung beigeben, unter gelegentlichem Wenden ca. 5 Min. anbraten. Roesti zu einem Kuchen formen. Roesti offen bei mittlerer Hitze ca. 10 Min. weiterbraten, bis sich eine goldgelbe Kruste gebildet hat. Einen grossen flachen Teller auf die Pfanne legen. Roesti auf den Teller stuerzen. Evtl. noch etwas Butter in die Pfanne geben, Roesti mit der noch ungebratenen Seite nach unten in die Pfanne zurueckgleiten lassen, offen ca. 10 Min. fertig braten.</inhalt>
+      </Roesti     >
+      <Spiegelei >
+          <inhalt>Butter in derselben Pfanne warm werden lassen. Eier separat aufschlagen, in die Pfanne gleiten lassen, bei kleiner Hitze braten, bis die Eiweisse fest, die Eigelbe noch fluessig sind, wuerzen. Spiegeleier auf der Roesti servieren. </inhalt>
+      </Spiegelei >
+   </rezept>
+</Rezept>

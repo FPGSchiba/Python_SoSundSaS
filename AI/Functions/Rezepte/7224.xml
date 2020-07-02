@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>544 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>50 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>600 g</quant>
+          <zutat>Rindsfilet</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>Parmaschinken in Tranchen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel zum Braten</zutat>
+      </Fill_Header>
+      <Sauce     >
+          <quant>2 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Parmesan, gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+          <quant>20 g</quant>
+          <zutat>Basilikum</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Filet pfeffern, im Parmaschinken einwickeln. Oel erhitzen, Filet mit der Naht nach unten ins heisse Oel geben, unter Wenden ca. 5 Minuten braten. Auf einem Gitter (mit einem Blech daruntergeschoben) in der Mitte des auf 180 Grad C vorgeheizten Backofens ca. 2 Min. ziehen lassen. Temperatur auf 100 Grad C reduzieren, ca. 30 Min. ziehen lassen bis die Kerntemperatur 55 Grad C betraegt. Herausnehmen, ca. 5 Minuten stehen lassen.</inhalt>
+      </How_To    >
+      <Sauce     >
+          <inhalt>Rahm aufkochen. Parmesan beifuegen, bei kleiner Hitze saemig einkochen, salzen. Einige Blaettchen Basilikum fuer die Garnitur beiseite stellen, Rest fein schneiden.</inhalt>
+      </Sauce     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=z7Xe2a7vyTc"/>
+</Rezept>

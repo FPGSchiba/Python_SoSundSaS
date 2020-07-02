@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>420 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bechamelsauce>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Muskat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Bechamelsauce>
+      <Sandwich  >
+          <quant>8 Scheiben</quant>
+          <zutat>Toastbrot</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Schinken</zutat>
+          <quant>100 g</quant>
+          <zutat>Gruyere, grob gerieben</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer (z.B. tasmanischer Bergpfeffer)</zutat>
+      </Sandwich  >
+      <Backen    >
+          <quant>30 g</quant>
+          <zutat>Kresse</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Bechamelsauce>
+          <inhalt>Butter in einer Pfanne erwaermen. Mehl beigeben, kurz duensten, das Mehl darf dabei keine Farbe annehmen. Milch auf einmal dazugiessen, unter Ruehren aufkochen, Hitze reduzieren, ca. 5 Min. koecheln, wuerzen und etwas abkuehlen. </inhalt>
+      </Bechamelsauce>
+      <Sandwich  >
+          <inhalt>4 Scheiben Toastbrot mit der Haelfte der Bechamelsauce bestreichen. Je 2 Tranchen Schinken darauflegen, die Haelfte vom Kaese darueberstreuen. Restliche Toastbrot-Scheiben darauflegen, leicht andruecken, auf ein mit Backpapier belegtes Blech legen. Restliche Bechamelsauce und Kaese darauf verteilen, wuerzen. </inhalt>
+      </Sandwich  >
+      <Backen    >
+          <inhalt>Ca. 10 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, Toasts halbieren, Kresse darauf verteilen und heiss servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

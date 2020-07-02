@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>602 kcal</NaehrwertProPerson>
+       <Fett>51 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pfefferminze-Rahm>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 Beutel</quant>
+          <zutat>Pfefferminztee</zutat>
+      </Pfefferminze-Rahm>
+      <Mousse    >
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>50 g</quant>
+          <zutat>dunkle Schokolade, mit dem Sparschaeler in Spaene geschaelt</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferminzblaetter</zutat>
+      </Mousse    >
+   </einkaufliste>
+   <rezept>
+      <Pfefferminze-Rahm>
+          <inhalt>Rahm in einer kleinen Pfanne kurz vors Kochen bringen, Pfanne von der Platte nehmen, Teebeutel beigeben, auskuehlen, zugedeckt ca. 1 Std. kuehl stellen. Teebeutel sorgfaeltig ausdruecken und entfernen.  </inhalt>
+      </Pfefferminze-Rahm>
+      <Mousse    >
+          <inhalt>Schokolade und 4 EL Pfefferminze-Rahm in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Schuessel herausnehmen, etwas abkuehlen. Schlagrahm mit dem Gummischaber sorgfaeltig darunterziehen. Mousse in einen Spritzsack mit glatter Tuelle (ca. 16 mm Ø) geben, in die Glaeser verteilen, zugedeckt ca. 3 Std. kuehl stellen. Pfefferminze zum restlichen Pfefferminze-Rahm geben, steif schlagen. Schlagrahm in einen Spritzsack mit gezackter Tuelle (ca. 12 mm Ø) geben, auf dem Mousse spritzen. Schokoladenspaene und Pfefferminze darauf verteilen.  </inhalt>
+      </Mousse    >
+   </rezept>
+</Rezept>

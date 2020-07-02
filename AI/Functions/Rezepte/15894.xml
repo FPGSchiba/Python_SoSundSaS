@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>249 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinade  >
+          <quant>3 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>Rindshuftsteaks (je ca. 140 g)</zutat>
+          <quant>100 g</quant>
+          <zutat>Aprikosen, entsteint, geviertelt</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, in Schnitzen</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>3 1/3 dl</quant>
+          <zutat>Weizenbier</zutat>
+      </Marinade  >
+      <Bier-Sauce_>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Bier-Sauce_>
+      <Grillieren>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <Marinade  >
+          <inhalt>Thymian und Pfeffer mischen, Fleisch damit einreiben und in eine Form legen. Aprikosen, Schalotten und Thymian beigeben, Bier daruebergiessen, zugedeckt ca. 12 Std. oder ueber Nacht im Kuehlschrank marinieren. Fleisch aus der Marinade nehmen und trockentupfen.</inhalt>
+      </Marinade  >
+      <Bier-Sauce_>
+          <inhalt>Honig mit der Marinade, Aprikosen und Schalotten in eine Pfanne geben, aufkochen, ca. 5 Min. einkochen. Maizena mit dem Wasser anruehren, unter Ruehren in die Sauce geben, ca. 3 Min. weiterkochen. Thymianzweiglein herausnehmen, wuerzen.  </inhalt>
+      </Bier-Sauce_>
+      <Grillieren>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Fleisch ueber starker Glut / auf hoechster Stufe (ca. 240 Grad) beidseitig je ca. 3 Min. grillieren. Steaks auf eine Platte legen, zugedeckt ca. 5 Min. ruhen lassen. Steaks salzen und in feine Tranchen schneiden, mit der Sauce anrichten. </inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

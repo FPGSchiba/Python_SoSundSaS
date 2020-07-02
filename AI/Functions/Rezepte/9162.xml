@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>65 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Amaretti  >
+          <quant>100 g</quant>
+          <zutat>geschaelte Mandeln</zutat>
+          <quant>75 g</quant>
+          <zutat>dunkle Schokolade (64% Kakao)</zutat>
+          <quant>100 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Bittermandelaroma</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Amaretti  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Amaretti                      </inhalt>
+      </How_To    >
+      <Amaretti  >
+          <inhalt>Mandeln in einer unbeschichteten Pfanne roesten.</inhalt>
+      </Amaretti  >
+      <How_To1   >
+          <inhalt>Schokolade in Wuerfeli schneiden.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Mandeln und Pistazien im Cutter fein mahlen, mit der Schokolade mischen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Eiweisse mit dem Salz steif schlagen, Zucker nach und nach beigeben, weiterschlagen bis der Eischnee glaenzt, Bittermandelaroma sorgfaeltig daruntermischen.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Eischnee zur Mandel- Pistazien-Schokolade Mischung geben, sorgfaeltig darunterziehen.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Amaretti mit Puderzucker bestaeuben, die Haeufchen mit 4 Fingern leicht zusammendruecken, sodass die typische Amarettiform entsteht.</inhalt>
+      </How_To5   >
+      <Backen    >
+          <inhalt>Ca. 15 Min. im auf 160 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, Amaretti auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

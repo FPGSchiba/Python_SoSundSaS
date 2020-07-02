@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>409 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Crevetten >
+          <quant>600 g</quant>
+          <zutat>ungeschaelte rohe Crevetten (Bio)</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale und ganzer Saft</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Crevetten >
+      <Gruenes_Curry>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Schnitzen</zutat>
+          <quant>2 EL</quant>
+          <zutat>gruene Currypaste</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli, in Streifen</zutat>
+          <quant>1/2 </quant>
+          <zutat>Papaya, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>4 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit), gequetscht</zutat>
+          <quant>4 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Gruenes_Curry>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Crevetten                     </inhalt>
+      </How_To    >
+      <Crevetten >
+          <inhalt>Oel im Wok oder einer weiten Bratpfanne heiss werden lassen. Crevetten portionenweise je ca. 2 Min. anbraten, herausnehmen, Hitze reduzieren. </inhalt>
+      </Crevetten >
+      <Gruenes_Curry>
+          <inhalt>Oel in der selben Bratpfanne erwaermen, Zwiebel und Currypaste andaempfen. Rueebli, Papaya und Kaffirlimetten-Blaetter beigeben, kurz mitdaempfen. Kokosmilch dazugiessen, aufkochen. Hitze reduzieren, ca. 5 Min. koecheln, salzen. Crevetten beigeben, nur noch warm werden lassen.</inhalt>
+      </Gruenes_Curry>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

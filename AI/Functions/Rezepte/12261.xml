@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>703 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>65 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Kuchenteig</zutat>
+          <quant>4 EL</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>800 g</quant>
+          <zutat>Aepfel</zutat>
+          <quant>2 EL</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig mit dem Backpapier ins Blech legen (ca. 30 cm Durchmesser). Boden mit einer Gabel dicht einstechen, Mandeln und Zucker darauf verteilen. Creme fraiche, Milch, Eier, Zucker und Zimt verruehren. Aepfel an der Roestiraffel darzureiben. Cranberrys daruntermischen, auf dem Teig verteilen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: ca. 40 Min. auf der untersten Rille des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

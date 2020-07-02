@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>197 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>Bundzwiebel</zutat>
+          <quant>125 g</quant>
+          <zutat>Frischkaese (z.B. Philadelphia mit Jogurt)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fine Food Pesto con Basilico Genovese D.O.P.</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Fine Food Alaska Wild Salmon</zutat>
+          <quant>4 Scheiben</quant>
+          <zutat>Pumpernickel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bundzwiebel in Streifchen schneiden, 1 EL Gruen fuer die Garnitur beiseitelegen. Restliche Bundzwiebel mit Frischkaese und Pesto vermischen, wuerzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Fuellung auf die Lachstranchen verteilen, diese zu Cornets rollen. Pumpernickelscheiben diagonal halbieren, Lachs-Cornets darauf verteilen, mit beiseitegelegtem Zwiebelgruen garnieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

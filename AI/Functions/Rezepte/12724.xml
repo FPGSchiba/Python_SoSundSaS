@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>3 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Tatar     >
+          <quant>180 g</quant>
+          <zutat>Trockenfleisch, in Wuerfeli</zutat>
+          <quant>40 g</quant>
+          <zutat>Rucola, grob geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+      </Tatar     >
+      <Belegen   >
+          <quant>8 Scheiben</quant>
+          <zutat>Toastbrot, geroestet</zutat>
+          <quant>2 EL</quant>
+          <zutat>Frischkaese</zutat>
+      </Belegen   >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Essig und Oel verruehren, wuerzen.</inhalt>
+      </Sauce     >
+      <Tatar     >
+          <inhalt>Trockenfleisch und alle Zutaten bis und mit Schnittlauch unter die Sauce mischen. </inhalt>
+      </Tatar     >
+      <Belegen   >
+          <inhalt>Toast mit dem Frischkaese bestreichen, Tatar darauf verteilen.</inhalt>
+      </Belegen   >
+   </rezept>
+</Rezept>

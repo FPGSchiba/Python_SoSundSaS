@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>219 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Granatapfelsirup>
+          <quant>1 dl</quant>
+          <zutat>Granatapfelsaft</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Granatapfelsirup>
+      <Spiced_Gin_Tonic>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gin (z.B. Opihr)</zutat>
+          <quant>6 dl</quant>
+          <zutat>Tonic Water (z.B. Schweppes Tonic Hibiskus)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Granatapfelkerne</zutat>
+      </Spiced_Gin_Tonic>
+   </einkaufliste>
+   <rezept>
+      <Granatapfelsirup>
+          <inhalt>Granatapfelsaft und Zucker in einer kleinen Pfanne aufkochen, koecheln, bis sich der Zucker aufgeloest hat, auskuehlen. </inhalt>
+      </Granatapfelsirup>
+      <Spiced_Gin_Tonic>
+          <inhalt>Eiswuerfel, Gin, Tonic und Granatapfelkerne in die Glaeser verteilen. Je ca. 2 EL Sirup daruebertraeufeln.</inhalt>
+      </Spiced_Gin_Tonic>
+   </rezept>
+</Rezept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>636 kcal</NaehrwertProPerson>
+       <Fett>50 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Grillieren_>
+          <quant>300 g</quant>
+          <zutat>Fruehkartoffeln, geviertelt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Stueck</quant>
+          <zutat>Alufolie</zutat>
+          <quant>4 </quant>
+          <zutat>Cervelats</zutat>
+      </Grillieren_>
+      <Sauce_    >
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>90 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce_    >
+      <Wurst-Kaese-Salat>
+          <quant>200 g</quant>
+          <zutat>Halbhartkaese (z.B. Luzerner Rahmkaese), in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke, geschaelt, geviertelt,  entkernt, in ca. 1 cm breiten Stuecken</zutat>
+          <quant>100 g</quant>
+          <zutat>Kopfsalat mit Herzen, Blaetter abgeloest</zutat>
+      </Wurst-Kaese-Salat>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Grillieren                    </inhalt>
+      </How_To    >
+      <Grillieren_>
+          <inhalt>Holzkohle- /Gas - /Elektrogrill: Kartoffeln ueber mittelstarker Glut/ auf mittlerer Stufe (ca. 200 Grad) ca. 10 Min. grillieren. Cervelats auf den Grill legen, ca. 5 Min. fertig grillieren. Cervelats, laengs halbieren und schraeg in ca. 5 mm breite Stuecke schneiden. </inhalt>
+      </Grillieren_>
+      <Sauce_    >
+          <inhalt>Aceto, Oel und Jogurt verruehren. Schnittlauch beigeben, mischen, wuerzen. </inhalt>
+      </Sauce_    >
+      <Wurst-Kaese-Salat>
+          <inhalt>Kartoffel, Cervelats, Kaese, Gurke und Kopfsalat mit der Sauce mischen. </inhalt>
+      </Wurst-Kaese-Salat>
+   </rezept>
+</Rezept>

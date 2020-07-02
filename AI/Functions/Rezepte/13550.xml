@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>263 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knoblauch_grillieren>
+          <quant>1 </quant>
+          <zutat>Knoblauch mit der Schale</zutat>
+      </Knoblauch_grillieren>
+      <Aioli     >
+          <quant>1 </quant>
+          <zutat>frisches Eigelb</zutat>
+          <quant>1 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>1 TL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 1 TL Saft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Sonnenblumenoel (nicht kalt gepresst)</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Aioli     >
+   </einkaufliste>
+   <rezept>
+      <Knoblauch_grillieren>
+          <inhalt>Holzkohle-, Gas- oder Elektrogrill: Knoblauch ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) zugedeckt ca. 30 Min. grillieren. Knoblauch etwas abkuehlen, schaelen, mit einer Gabel zerdruecken.</inhalt>
+      </Knoblauch_grillieren>
+      <Aioli     >
+          <inhalt>Eigelb, Senf, Aceto, Zitronenschale und -saft mit dem Knoblauch in einen Messbesser geben, puerieren. Oel unter staendigem Puerieren anfangs tropfenweise, dann im Faden dazugiessen, bis eine dickfluessige Mayonnaise entsteht, wuerzen.</inhalt>
+      </Aioli     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

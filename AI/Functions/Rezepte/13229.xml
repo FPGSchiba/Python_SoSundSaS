@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>68 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gurkensaft>
+          <quant>1 </quant>
+          <zutat>Gurke, geschaelt, in Stuecken</zutat>
+      </Gurkensaft>
+      <Mocktail  >
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>20 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>4 dl</quant>
+          <zutat>Ginger Beer </zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, in 8 Stuecken</zutat>
+          <quant>4 Zweige</quant>
+          <zutat>Pfefferminze</zutat>
+      </Mocktail  >
+   </einkaufliste>
+   <rezept>
+      <Gurkensaft>
+          <inhalt>Gurke puerieren, absieben, Saft auffangen. </inhalt>
+      </Gurkensaft>
+      <Mocktail  >
+          <inhalt>Gurkensaft, Limettensaft und Eiswuerfel in Glaeser verteilen. Ginger Beer dazugiessen. Je 2 Limettenstuecke und 1 Zweig Minze beigeben. </inhalt>
+      </Mocktail  >
+   </rezept>
+</Rezept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>348 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>500 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1 1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 Wuerfel</quant>
+          <zutat>Hefe (ca. 10 g), zerbroeckelt</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Hefeteig  >
+      <Rhabarberstreifen>
+          <quant>500 g</quant>
+          <zutat>roter Rhabarber</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+      </Rhabarberstreifen>
+      <Formen    >
+          <quant>wenig </quant>
+          <zutat>Hagelzucker</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in eine Schuessel geben, mischen. Butter, Milch und Ei beigeben, zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Rhabarberstreifen>
+          <inhalt>Rhabarber in ca. 10 cm lange Stuecke, laengs in je 4 Streifen schneiden. Wasser mit Zucker in einer weiten Pfanne aufkochen. Rhabarberstreifen portionenweise ca. 3 Min. koecheln, mit einer Schaumkelle herausnehmen, auf ein Blech legen, auskuehlen. Butter, Zucker und Zimt verruehren. </inhalt>
+      </Rhabarberstreifen>
+      <Formen    >
+          <inhalt>Teig auf wenig Mehl rechteckig (ca. 40 x 50 cm) duenn auswallen. Zimtbutter darauf verteilen, glatt streichen. Rhabarber auf die Haelfte des Teiges legen, andere Haelfte darueberlegen, etwas andruecken. Teig laengs in ca. 3 cm breite Streifen schneiden. Streifen eindrehen, zu Knoten formen, auf ein mit Backpapier belegtes Blech legen. Hagelzucker darueberstreuen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

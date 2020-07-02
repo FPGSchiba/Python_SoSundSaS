@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>515 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_>
+          <quant>100 g</quant>
+          <zutat>weisse Schokolade, fein gehackt</zutat>
+      </Schokolade_>
+      <Ruehrteig_ >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>150 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien, mit dem Cutter fein gemahlen</zutat>
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Ruehrteig_ >
+      <Frischkaese-Creme_>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>50 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>125 g</quant>
+          <zutat>Frischkaese (z. B. Philadelphia)</zutat>
+          <quant>50 g</quant>
+          <zutat>ungesalzene geschaelte Pistazien, mit dem Cutter fein gemahlen</zutat>
+      </Frischkaese-Creme_>
+   </einkaufliste>
+   <rezept>
+      <Schokolade_>
+          <inhalt>Schokolade in einer duennwandigen Schuessel ueber dem nur leicht siedenden Wasserbad schmelzen.</inhalt>
+      </Schokolade_>
+      <Ruehrteig_ >
+          <inhalt>Butter, Zucker und Salz mischen. Ein Ei nach dem anderen mit den Schwingbesen des Handruehrgeraets darunterruehren, Schokolade beigeben, weiterruehren, bis die Masse heller wird. Pistazien, Mehl und Backpulver mischen, darunterruehren. Teig ins vorbereitete Blech verteilen.</inhalt>
+      </Ruehrteig_ >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Cupcakes herausnehmen, etwas abkuehlen, aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Frischkaese-Creme_>
+          <inhalt>Butter und Puderzucker mit den Schwingbesen des Handruehrgeraets verruehren, Frischkaese und Pistazien darunterruehren. Masse in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø) geben, auf die Cupcakes spritzen.</inhalt>
+      </Frischkaese-Creme_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

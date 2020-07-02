@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>195 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>225 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>60 g</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>60 g</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>80 g</quant>
+          <zutat>Amaranth-Pops oder Quinoa-Pops</zutat>
+          <quant>75 g</quant>
+          <zutat>weiche Doerraprikosen, in Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Matchapulver </zutat>
+          <quant>100 ml</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>4 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosoel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Haferflocken mit Kuerbis- und Sonnenblumenkernen mischen, auf ein Blech verteilen, mit einem Backpapier bedecken.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: 8-10 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Auskuehlen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Ahornsirup mit Mandelmus und Kokosoel in einem Pfaennchen unter Ruehren langsam erwaermen; die Fluessigkeit sollte dicklich-klebrig sein. In einer grossen Schuessel Amaranth-Pops, Doerraprikosen, Vanille, Salz und Matcha mischen. Haferlocken, Kuerbis- und Sonnenblumenkerne daruntermischen. Die Fluessigkeit dazugiessen und alles gut vermischen. Die Masse in eine mit Backpapier belegte Brownie-Form geben, mit nassen Haenden glattstreichen. Form fuer ca. 4 Std. in den Tiefkuehler stellen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Form herausnehmen, Masse in 14 Riegel schneiden. </inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

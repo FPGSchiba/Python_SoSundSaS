@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>626 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>65 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Puderzucker (in der Cakepackung enthalten)</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Betty Bossi Blaumohnsamen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale und 1/2 EL Saft</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Betty Bossi Backmischung Zitronen-Cake (ca. 550 g)</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>150 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>4 </quant>
+          <zutat>Feigen, in Wuerfeli</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker, zum Bestreuen (in der Cake-Packung enthalten)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mascarpone und alle Zutaten bis und mit Zitronensaft knapp steif schlagen, kuehl stellen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backmischung und alle Zutaten bis und mit Butter mit den Schwingbesen des Handruehrgeraets ca. 3 Min. glatt ruehren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Ofen auf 60 Grad vorheizen, Platte vorwaermen. Wenig Bratbutter in einer beschichteten Pfanne heiss werden lassen. Soviel Teig in die Pfanne geben, dass ein Pancake von ca. 12 cm Ø entsteht. Hitze reduzieren. Ist die Unterseite gebacken und loest sie sich von selbst, Pancake wenden, fertig backen, zugedeckt warm stellen. Vorgang wiederholen, bis der Teig aufgebraucht ist. Mascarponemasse und Feigen auf die Pancakes verteilen, mit Puderzucker bestaeuben.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

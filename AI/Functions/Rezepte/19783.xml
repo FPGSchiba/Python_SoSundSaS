@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>667 kcal</NaehrwertProPerson>
+       <Fett>38 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>31 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zitronen-Oel_>
+          <quant>1 1/2 </quant>
+          <zutat>Bio-Zitronen, abgeriebene Schale und Saft</zutat>
+          <quant>1 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+      </Zitronen-Oel_>
+      <Blumenkohl_>
+          <quant>700 g</quant>
+          <zutat>Blumenkohl, in Roeschen</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>3 </quant>
+          <zutat>rote Zwiebeln, in Schnitzen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Blumenkohl_>
+      <Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+          <quant>400 g</quant>
+          <zutat>Lachsrueckenfilet</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+      <Couscous  >
+          <quant>200 g</quant>
+          <zutat>Couscous</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Couscous  >
+      <Sauce_    >
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, Blaettchen abgezupft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, Blaettchen abgezupft</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <Zitronen-Oel_>
+          <inhalt>Zitronenschale, - saft, Oel und Knoblauch verruehren. </inhalt>
+      </Zitronen-Oel_>
+      <Blumenkohl_>
+          <inhalt>Blumenkohl im Salzwasser ca. 5 Min. kochen, herausnehmen, abtropfen, etwas abkuehlen. Blumenkohl und Zwiebeln in eine Grillschale geben, salzen, mit 2 EL Zitronen-Oel mischen.</inhalt>
+      </Blumenkohl_>
+      <Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+          <inhalt>Blumenkohl bei geschlossenem Deckel ueber mittelstarker Glut /bei mittlerer Stufe (ca. 200 Grad) ca. 15 Min. grillieren. Fisch salzen, mit 1 EL Zitronen-Oel bestreichen, in eine zweite Grillschale geben. Beidseitig je ca. 4 Min. grillieren. </inhalt>
+      </Grillieren_(Holzkohle-/Gas-/Elektrogrill)>
+      <Couscous  >
+          <inhalt>Couscous und Salz in einer Schuessel mischen, Wasser daruebergiessen, zugedeckt ca. 5 Min. quellen lassen. Couscous mit einer Gabel lockern.</inhalt>
+      </Couscous  >
+      <Sauce_    >
+          <inhalt>Restliches Zitronen-Oel wuerzen, mit den Blumenkohlroeschen, Zwiebeln und dem Couscous mischen. Kraeuter daruntermischen. Lachs in Stuecke teilen, darauf anrichten.</inhalt>
+      </Sauce_    >
+   </rezept>
+</Rezept>

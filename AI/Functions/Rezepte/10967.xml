@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>466 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Dressing  >
+          <quant>1 TL</quant>
+          <zutat>Senf</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 1/2 EL</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum, grob geschnitten</zutat>
+      </Dressing  >
+      <Salat     >
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Gurke, laengs halbiert, entkernt, in Scheiben</zutat>
+          <quant>4 </quant>
+          <zutat>Tomaten, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>gelbe Peperoni, in Streifen</zutat>
+          <quant>200 g</quant>
+          <zutat>Feta, in ca. 11/2 cm grossen Wuerfeln</zutat>
+          <quant>40 g</quant>
+          <zutat>schwarze Oliven</zutat>
+      </Salat     >
+      <Croutons  >
+          <quant>200 g</quant>
+          <zutat>Pariserbrot, in ca 11/2 cm grossen Wuerfeln</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Croutons  >
+   </einkaufliste>
+   <rezept>
+      <Dressing  >
+          <inhalt>Senf, Essig und Oel verruehren, Knoblauch beigeben, wuerzen. Basilikum beigeben.</inhalt>
+      </Dressing  >
+      <Salat     >
+          <inhalt>Zwiebel und alle Zutaten bis und mit Oliven beigeben, mischen.</inhalt>
+      </Salat     >
+      <Croutons  >
+          <inhalt>Brot im heissen Oel ca. 5 Min. hellbraun roesten. Einige Croutons ueber den Salat streuen, Rest dazu servieren.</inhalt>
+      </Croutons  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+</Rezept>

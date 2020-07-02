@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>448 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>62 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nudeln_kochen>
+          <quant>250 g</quant>
+          <zutat>Eiernudeln (z.B. Mei Yang)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Nudeln_kochen>
+      <Marinieren>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>400 g</quant>
+          <zutat>geschnetzeltes Pouletfleisch</zutat>
+      </Marinieren>
+      <Wok       >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen</zutat>
+          <quant>300 g</quant>
+          <zutat>Rueebli, in feinen Streifen</zutat>
+          <quant>250 g</quant>
+          <zutat>tiefgekuehlte Kefen, aufgetaut</zutat>
+          <quant>100 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+      </Wok       >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nudeln kochen                 </inhalt>
+      </How_To    >
+      <Nudeln_kochen>
+          <inhalt>Marinieren                    </inhalt>
+      </Nudeln_kochen>
+      <Marinieren>
+          <inhalt>Wok                           </inhalt>
+      </Marinieren>
+      <Wok       >
+          <inhalt>Bouillon dazugiessen, aufkochen, wuerzen. Nudeln und Fleisch wieder beigeben, gut mischen, heiss werden lassen.</inhalt>
+      </Wok       >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+</Rezept>

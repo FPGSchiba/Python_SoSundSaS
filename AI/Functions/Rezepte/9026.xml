@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>84 kcal </NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>200 g</quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio), in groben Stuecken</zutat>
+          <quant>300 g</quant>
+          <zutat>festfleischige Fischfilets (z.B. Dorsch, Zander, Barsch), in groben Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , fein gehackt</zutat>
+          <quant>3 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, fein gehackt</zutat>
+          <quant>10 </quant>
+          <zutat>Thai-Basilikumblaetter, fein geschnitten</zutat>
+          <quant>3 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit), fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>100 g</quant>
+          <zutat>Fine Food Tropical Mango, Lime &amp; Chili Sauce</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Crevetten, Fisch, und alle Zutaten bis und mit Kokosnussmilch fein puerireren. Zitronengras und alle Zutaten bis und mit Kaffirlimetten-Blaetter zur Fischmassse geben, nochmals kurz puerieren. Masse mit nassen Haenden zu 12 gleichgrossen Kugeln formen und leicht flach druecken. Oel in einer Bratpfanne erhitzen, die Fisch-Cakes bei mittlerer Hitze rundum ca. 8 Min. goldbraun braten. Warm oder kalt zusammen mit der Mango-Limetten-Chili-Sauce servieren.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

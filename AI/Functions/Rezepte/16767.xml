@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>134 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>2 </quant>
+          <zutat>rote Chilis, entkernt, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Garam Masala</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>300 g</quant>
+          <zutat>fest kochende Kartoffeln, in Wuerfeli</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Erbsli, aufgetaut</zutat>
+          <quant>3 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Wasser und Oel beigeben, zu einem weichen, glatten Teig kneten, zugedeckt bei Raumtemperatur ca. 30 Min. ruhen lassen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel und alle Zutaten bis und mit Kurkuma andaempfen. Kartoffeln kurz mitdaempfen. Wasser, Zitronensaft und Salz beigeben, zugedeckt ca. 10 Min. weich koecheln. Kartoffeln mit einer Gabel zerdruecken, Erbsen und Koriander daruntermischen.</inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teig in 6 Stuecke teilen, zu Kugeln formen, etwas flach druecken. Kugeln auf wenig Mehl rund auswallen (je ca. 17 cm Ø). Rondellen halbieren, Schnittkanten mit wenig Wasser bestreichen. Je einen Teig-Halbkreis zu einer Tuete falten, Kanten gut zusammendruecken. Fuellung bis ca. 1 cm unter den Rand fuellen, Teigraender mit Wasser bestreichen, gut zusammendruecken. Restliche Samosas gleich formen und fuellen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

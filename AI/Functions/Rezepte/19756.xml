@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>139 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Milch_    >
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein geschnitten</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollmilch</zutat>
+      </Milch_    >
+      <Knoedel-Masse_>
+          <quant>300 g</quant>
+          <zutat>Laugenbroetli, in Wuerfeli</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Knoedel-Masse_>
+      <Laugenknoedel_>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Laugenknoedel_>
+      <Anbraten_ >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Anbraten_ >
+      <Dip       >
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Milch_    >
+          <inhalt>Butter in einer Pfanne erwaermen, Zwiebel beigeben, ca.3 Min. andaempfen, Milch dazugiessen, erwaermen. </inhalt>
+      </Milch_    >
+      <Knoedel-Masse_>
+          <inhalt>Laugenbroetli und Salz in eine Schuessel geben, Milch dazugiessen, mit den Haenden zu einer Masse kneten, ca. 10 Min. ziehen lassen. Eier beigeben, mischen, mit nassen Haenden zu 15 Kugeln formen. </inhalt>
+      </Knoedel-Masse_>
+      <Laugenknoedel_>
+          <inhalt>Knoedel portionenweise im knapp siedenden Salzwasser ca. 5 Min. ziehen lassen, mit einer Schaumkelle herausnehmen, abtropfen.</inhalt>
+      </Laugenknoedel_>
+      <Anbraten_ >
+          <inhalt>Oel in einer Bratpfanne erhitzen. Knoedel rundum ca. 5 Min. anbraten. </inhalt>
+      </Anbraten_ >
+      <Dip       >
+          <inhalt>Creme fraiche wuerzen, zu den Knoedel servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

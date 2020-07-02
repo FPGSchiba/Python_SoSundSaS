@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>455 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brot      >
+          <quant>400 g</quant>
+          <zutat>Brot vom Vortag, in Scheiben</zutat>
+          <quant>4 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Brot      >
+      <Guss      >
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Creme fraiche</zutat>
+      </Guss      >
+      <Auflauf   >
+          <quant>600 g</quant>
+          <zutat>Pflaumen, entsteint, in Schnitzen</zutat>
+          <quant>40 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+      </Auflauf   >
+   </einkaufliste>
+   <rezept>
+      <Brot      >
+          <inhalt>Brotscheiben in die Form schichten. Milch, Vanillezucker, Zimt und Salz verruehren, uebers Brot giessen, beiseite stellen. </inhalt>
+      </Brot      >
+      <Guss      >
+          <inhalt>Zucker und Wasser in einer weiten Pfanne ohne Ruehren aufkochen, Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Pfanne von der Platte nehmen. Rahm, Butter und Salz beigeben, bei kleiner Hitze koecheln, bis der Caramel sich aufgeloest hat. Pfanne von der Platte nehmen, etwas abkuehlen. Eier und Creme fraiche darunterruehren. </inhalt>
+      </Guss      >
+      <Auflauf   >
+          <inhalt>Pflaumen zwischen die Brotscheiben verteilen, Guss daruebergiessen, Butter darauf verteilen. Auflauf mit Alufolie zudecken.</inhalt>
+      </Auflauf   >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens backen. Alufolie entfernen, ca. 35 Min. fertig backen. Herausnehmen, warm servieren. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

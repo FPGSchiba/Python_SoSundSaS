@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>380 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>40 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fenchel   >
+          <quant>2 </quant>
+          <zutat>Fenchel, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fenchel   >
+      <Bohnenpueree>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>6 </quant>
+          <zutat>Schalotten, grob gehackt</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>weisse Bohnen (je ca. 400 g), abgetropft, abgespuelt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Bohnenpueree>
+      <Fisch_mitbacken>
+          <quant>600 g</quant>
+          <zutat>Eglifilets ohne Haut</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fisch_mitbacken>
+      <Anrichten >
+          <quant>1 </quant>
+          <zutat>Zitrone, in Schnitzen</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Fenchel   >
+          <inhalt>Fenchel auf ein mit Backpapier belegtes Blech legen, mit Oel bestreichen, wuerzen. Fenchelgruen beiseite legen. </inhalt>
+      </Fenchel   >
+      <Backen    >
+          <inhalt>Ca. 40 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen. </inhalt>
+      </Backen    >
+      <Bohnenpueree>
+          <inhalt>Butter in einer Pfanne erwaermen. Schalotten ca. 10 Min. daempfen, Bohnen und Bouillon beigeben, zugedeckt ca. 10 Min. mitkoecheln, puerieren, wuerzen. </inhalt>
+      </Bohnenpueree>
+      <Fisch_mitbacken>
+          <inhalt>Fisch wuerzen, mit Oel bestreichen, auf dem Fenchel verteilen, ca. 10 Min. mitbacken. </inhalt>
+      </Fisch_mitbacken>
+      <Anrichten >
+          <inhalt>Bohnenpueree auf Tellern verteilen, Fenchel, Fisch und Zitronenschnitze darauf anrichten, mit dem beiseite gelegten Fenchelgruen garnieren.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

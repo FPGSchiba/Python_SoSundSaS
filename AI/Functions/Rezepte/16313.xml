@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>331 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>100 g</quant>
+          <zutat>Datteln, fein geschnitten</zutat>
+          <quant>75 g</quant>
+          <zutat>Baumnusskerne, fein gehackt</zutat>
+          <quant>75 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>100 g</quant>
+          <zutat>Feigen, in duennen Scheiben</zutat>
+      </Boden     >
+      <Quarkmousse_>
+          <quant>400 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>4 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingeweicht, abgetropft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>150 g</quant>
+          <zutat>Feigen, in Scheiben</zutat>
+      </Quarkmousse_>
+      <Glasur_   >
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Glasur_   >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Datteln, Nuesse, Kokosraspeln und Butter mischen, in die vorbereitete Form verteilen, gut andruecken. Feigen auf dem Boden verteilen, zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Boden     >
+      <Quarkmousse_>
+          <inhalt>Quark mit dem Zucker, Honig und Limettensaft in einer Schuessel verruehren. Gelatine im Wasser aufloesen, 2 EL der Quarkmasse darunterruehren, sofort unter die restliche Masse ruehren. Schlagrahm sorgfaeltig unter die  Masse ziehen. Masse auf dem Boden verteilen, zugedeckt ca. 30 Min. kuehlstellen. Feigen auf dem Mousse verteilen, zugedeckt ca. 4 Std. kuehl stellen. </inhalt>
+      </Quarkmousse_>
+      <Glasur_   >
+          <inhalt>Limettensaft und Honig verruehren, ueber den Cake traeufeln, in Schnitten schneiden. </inhalt>
+      </Glasur_   >
+   </rezept>
+</Rezept>

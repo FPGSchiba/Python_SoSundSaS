@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>235 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kokosmilch>
+          <quant>400 ml</quant>
+          <zutat>Kokosmilch (Dose)</zutat>
+      </Kokosmilch>
+      <Muerbeteig >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>80 g</quant>
+          <zutat>Margarine, in Stuecken, kalt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Muerbeteig >
+      <Fuellung   >
+          <quant>5 </quant>
+          <zutat>Bio-Zitronen (1 EL agberiebene Schale und 3 3/4 dl Saft)</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>70 g</quant>
+          <zutat>Maizena</zutat>
+      </Fuellung   >
+      <Passionsfruechte>
+          <quant>2 </quant>
+          <zutat>Passionsfruechte, halbiert, Kerne herausgeloest</zutat>
+      </Passionsfruechte>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kokosmilch                    </inhalt>
+      </How_To    >
+      <Kokosmilch>
+          <inhalt>Kokosmilch ueber Nacht in den Kuehlschrank stellen, die obere harte Schicht abschoepfen, fuer die Fuellung beiseite stellen (Rest kann z.Bsp. fuer Smoothies verwendet werden).</inhalt>
+      </Kokosmilch>
+      <How_To1   >
+          <inhalt>Mehl, Zucker und Salz in einer Schuessel mischen. Margarine beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen. Teig auf wenig Mehl auswallen, ins vorbereitete Blech legen, Boden mit einer Gabel dicht einstechen. Teig mit Backpapier belegen und mit getrockneten Huelsenfruechten beschweren.</inhalt>
+      </How_To1   >
+      <Muerbeteig >
+          <inhalt>Fuellung                       </inhalt>
+      </Muerbeteig >
+      <Fuellung   >
+          <inhalt>Fertigbacken: ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Torte auskuehlen.</inhalt>
+      </Fuellung   >
+      <Passionsfruechte>
+          <inhalt>Die Passionsfruchtkerne auf der Torte verteilen.</inhalt>
+      </Passionsfruechte>
+   </rezept>
+</Rezept>

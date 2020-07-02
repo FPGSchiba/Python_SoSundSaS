@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>395 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig      >
+      <Galette   >
+          <quant>500 g</quant>
+          <zutat>Erdbeeren, in Scheiben</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss, verklopft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Galette   >
+      <Backen    >
+          <quant>2 dl</quant>
+          <zutat>Doppelrahm</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Zucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten, zugedeckt ca. 30 Min. kuehl stellen. Teig auf einem Backpapier auswallen (ca. 30 cm Ø), auf ein Blech ziehen. </inhalt>
+      </Teig      >
+      <Galette   >
+          <inhalt>Erdbeeren mit Vanillezucker und Zucker mischen, auf dem Teig verteilen, dabei rundum einen Rand ca. 4 cm frei lassen. Teigrand darueberlegen, mit Eiweiss bestreichen, Zucker darueberstreuen. </inhalt>
+      </Galette   >
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Galette herausnehmen, auskuehlen, Doppelrahm dazu servieren. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

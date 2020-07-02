@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>731 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>80 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tomaten-Bohnen-Patties_(6_Stueck)>
+          <quant>1 Dose</quant>
+          <zutat>weisse Bohnen (250 g), abgetropft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Oreganoblaettchen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sonnenblumenkerne</zutat>
+          <quant>8 </quant>
+          <zutat>getrocknete Tomaten, in Streifen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 EL</quant>
+          <zutat>Haferflocken</zutat>
+      </Tomaten-Bohnen-Patties_(6_Stueck)>
+      <Gebackene_Peperoni>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, halbiert, entkernt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>einige </quant>
+          <zutat>Basilikumblaetter</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+      </Gebackene_Peperoni>
+      <Linsenpasta>
+          <quant>140 g</quant>
+          <zutat>Teigwaren (Linsenpasta)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Linsenpasta>
+      <Avocado-Pesto>
+          <quant>1 </quant>
+          <zutat>Avocado, in Stuecken</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Basilikum</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+      </Avocado-Pesto>
+      <Anrichten_&amp;_Garnieren>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+          <quant>wenig </quant>
+          <zutat>Rucola</zutat>
+          <quant>einige </quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti, in Nudeln geschnitten ("Zoodles)</zutat>
+      </Anrichten_&amp;_Garnieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tomaten-Bohnen-Patties (6 Stueck)</inhalt>
+      </How_To    >
+      <Tomaten-Bohnen-Patties_(6_Stueck)>
+          <inhalt>Backen: ca. 25 Min. in der Mitte des auf 180 Grad (Heissluft). Nach der Haelfte der Backzeit wenden.</inhalt>
+      </Tomaten-Bohnen-Patties_(6_Stueck)>
+      <Gebackene_Peperoni>
+          <inhalt>Die Peperonihaelften nach der Haelfte der Backzeit auf das Blech neben die Patties legen, fertig backen. Gebackene Peperoni schaelen, in Streifen schneiden, mit dem Knoblauch, dem Zitronensaft, dem Basilikum, dem Oel und dem Salz marinieren.</inhalt>
+      </Gebackene_Peperoni>
+      <Linsenpasta>
+          <inhalt>Teigwaren im Salzwasser nach Verpackungsanleitung kochen, abtropfen.</inhalt>
+      </Linsenpasta>
+      <Avocado-Pesto>
+          <inhalt>Alle Zutaten im Blender/Mixer zu einer geschmeidigen Masse puerieren.</inhalt>
+      </Avocado-Pesto>
+      <Anrichten_&amp;_Garnieren>
+          <inhalt>Die Pasta auf 2 Bowls verteilen, Peperoni, Patties und das Pesto ebenfalls darauf verteilen. Mit Pinienkernen, Rucola, Tomaten und Zoodles garnieren.</inhalt>
+      </Anrichten_&amp;_Garnieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+</Rezept>

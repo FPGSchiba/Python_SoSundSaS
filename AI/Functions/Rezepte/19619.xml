@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>351 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>50 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Teig_     >
+      <Aprikosen-Fuellung>
+          <quant>400 g</quant>
+          <zutat>Aprikosen, in Stuecken</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature</zutat>
+          <quant>30 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>5 Blaetter</quant>
+          <zutat>Gelatine (ca. 5 Min. in kaltem Wasser eingelegt), abgetropft</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Aprikosen-Fuellung>
+      <Dekorieren_>
+          <quant>1 </quant>
+          <zutat>Aprikose, in Schnitzen</zutat>
+          <quant>1 </quant>
+          <zutat>Pfirsich, in Schnitzen</zutat>
+          <quant>100 g</quant>
+          <zutat>Johannisbeeren</zutat>
+      </Dekorieren_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig_     >
+          <inhalt>Teig zwischen zwei Backpapieren rund auswallen (ca. 32 cm Ø), mit den Backpapieren ins Blech legen, ca. 15 Min. kuehl stellen, oberes Backpapier loesen, Boden mit einer Gabel dicht einstechen. Backpapier wieder auf den Teig legen, mit getrockneten Huelsenfruechten beschweren. </inhalt>
+      </Teig_     >
+      <Blindbacken>
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, Backpapier und Huelsenfruechte entfernen, ca. 15 Min. fertig backen. Herausnehmen, etwas abkuehlen, Tortenboden aus dem Blech nehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Blindbacken>
+      <Aprikosen-Fuellung>
+          <inhalt>Aprikosen puerieren, Pueree in eine Schuessel geben. Frischkaese, Jogurt und Puderzucker beigeben, mit den Schwingbesen des Mixers verruehren. Gelatine mit dem Wasser aufloesen, 3 EL der Frischkaesemasse darunterruehren, sofort gut unter die restliche Masse ruehren. Masse auf dem Tortenboden verteilen, zugedeckt ca. 2 Std. im Kuehlschrank fest werden lassen. </inhalt>
+      </Aprikosen-Fuellung>
+      <Dekorieren_>
+          <inhalt>Tarte mit den Fruechten verzieren. </inhalt>
+      </Dekorieren_>
+   </rezept>
+</Rezept>

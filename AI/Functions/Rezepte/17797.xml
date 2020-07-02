@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>496 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>80 g  </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis      >
+          <quant>400 g</quant>
+          <zutat>Basmatireis</zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+      </Reis      >
+      <Biryani   >
+          <quant>1 </quant>
+          <zutat>Zwiebel, gehackt</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ghee</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kreuzkuemmelpulver</zutat>
+          <quant>5 </quant>
+          <zutat>Nelken</zutat>
+          <quant>2 </quant>
+          <zutat>Zimtstangen</zutat>
+          <quant>2 </quant>
+          <zutat>Sternanise</zutat>
+          <quant>3 </quant>
+          <zutat>Kardamomkapseln</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>300 g</quant>
+          <zutat>Pouletbruestli, in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 TL</quant>
+          <zutat>Rosinen</zutat>
+          <quant>2 TL</quant>
+          <zutat>Pistazien</zutat>
+      </Biryani   >
+   </einkaufliste>
+   <rezept>
+      <Reis      >
+          <inhalt>Reis im Sieb unter fliessendem, kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Wasser mit dem Reis in eine Pfanne geben, aufkochen, zugedeckt auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei Deckel nie abheben. Reis mit einer Gabel lockern.</inhalt>
+      </Reis      >
+      <Biryani   >
+          <inhalt>Zwiebel, Knoblauch und Ingwer im Ghee andaempfen. Gewuerze beigeben, kurz mitdaempfen. Poulet beigeben, alles gut mischen. Das Fleisch unter gelegentlichem Wenden bei mittlerer Hitze ca. 5 Min. garen, mit Salz und Pfeffer wuerzen. Den gekochten Reis mit dem Fleisch vermischen, anrichten, mit Rosinen und Pistazien garnieren.</inhalt>
+      </Biryani   >
+   </rezept>
+</Rezept>

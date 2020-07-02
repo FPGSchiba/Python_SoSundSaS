@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>135 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>110 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>10 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>10 </quant>
+          <zutat>Fine Food All Butter Fudges, gehackt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Whiskey</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>30 </quant>
+          <zutat>Himbeeren</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mehl und alle Zutaten bis und mit Milch in einer Schuessel gut verruehren, Butter beigeben und unter die Masse ruehren, ca. 20 Min. quellen lassen.  Karamelles mit dem Rahm und dem Whisky schmelzen, beiseite stellen. Wenig Butter in einer beschichteten Pfanne warm werden lassen, 2 EL Teig in die Pfanne geben, mit einem Loeffel zu einem Kreis von ca. 5 cm Ø formen, bei mittlerer Hitze beidseitig ca. 3 Min. goldbraun braten. Mit den uebrigen 9 Pancakes gleich verfahren. Auf 5 Pancakes die Himbeeren verteilen, mit den restlichen Pancakes bedecken.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>514 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 </quant>
+          <zutat>Lachstranchen (je ca. 120 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarinnadeln</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 </quant>
+          <zutat>Eisbergsalat</zutat>
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Tagliatelle)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>3 EL</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>nicht kalt gepresstes Olivenoel, zum Braten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lachstranchen nebeneinander in ein weites Gefaess legen. Rosmarin fein schneiden. Von der Orange die Schale abreiben, 2 EL Saft fuer die Nudeln beiseite stellen. Orangenschale mit restlichem Orangensaft, Kardamom und Pfeffer verruehren. Lachstranchen damit bestreichen, zugedeckt ca. 30 Min. im Kuehlschrank marinieren.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Eisbergsalat in Streifen schneiden. Tagliatelle im Salzwasser al dente kochen, ca. 1 dl Kochwasser beiseite stellen. Tagliatelle abtropfen, zurueck in die Pfanne geben. Beiseite gestelltes Kochwasser und Orangensaft dazugiessen. Salat und Frischkaese daruntermischen, nur noch heiss werden lassen, wuerzen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Oel in einer beschichteten Bratpfanne erhitzen. Lachstranchen aus der Marinade nehmen, beidseitig je ca. 2 Min. braten, wuerzen, mit den Nudeln servieren</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

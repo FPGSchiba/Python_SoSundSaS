@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>289 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zitrus-Sauce>
+          <quant>1 </quant>
+          <zutat>Grapefruit, nur ganzen Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Orange, nur ganzen Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Zitrus-Sauce>
+      <Tatar     >
+          <quant>360 g</quant>
+          <zutat>Lachsrueckenfilet (Sushi-Qualitaet), in Wuerfeli</zutat>
+          <quant>100 g</quant>
+          <zutat>Stangensellerie, in Wuerfeli, wenig Gruen fein geschnitten, beiseite gestellt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kapern, grob gehackt</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Meerrettich, fein gerieben</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Grapefruit, filetiert</zutat>
+      </Tatar     >
+   </einkaufliste>
+   <rezept>
+      <Zitrus-Sauce>
+          <inhalt>Grapefruit-, Orangen- und Zitronensaft in einer Pfanne aufkochen. Hitze reduzieren, auf ca. 3/4 dl einkochen, auskuehlen. Oel darunterruehren, wuerzen. </inhalt>
+      </Zitrus-Sauce>
+      <Tatar     >
+          <inhalt>Lachs und alle Zutaten bis und mit Dill zur Zitrus-Sauce geben, mischen. Tatar mithilfe eines runden Ausstechers auf Tellern anrichten, mit Grapefruit und Selleriegruen garnieren. </inhalt>
+      </Tatar     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>268 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, nur ausgekratze Samen</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>250 g</quant>
+          <zutat>glutenfreies Mehl (Schaer)</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+      </Teig      >
+      <Fuellen    >
+          <quant>100 g</quant>
+          <zutat>Konfituere (z.B. Zwetschgen-Zimt)</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter in eine Schuessel geben, Zucker, Vanillesamen, Salz und Ei beigeben, mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Mehl und Zitronenschale daruntermischen. Teig in einen Plastikbeutel geben, flach druecken, ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig portionenweise auf wenig Mehl ca. 4 mm dick auswallen. Rondellen von je ca. 6 cm Ø ausstechen, auf zwei mit Backpapier belegte Bleche legen. Aus der Haelfte kleine Formen ausstechen, ca. 30 Min. kuehl stellen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 12 Min. im auf 170 Grad vorgeheizten Ofen (Heissluft). Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Fuellen    >
+          <inhalt>Konfituere auf die Guetzliboedeli verteilen. Guetzlideckeli mit Puderzucker bestaeuben, auf die Konfituere legen.</inhalt>
+      </Fuellen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>507 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linguine  >
+          <quant>320 g</quant>
+          <zutat>Teigwaren (z.B. Linguine)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Linguine  >
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen, Gruen beiseite gestellt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Blaumohnsamen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>40 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Linguine  >
+          <inhalt>Teigwaren im siedenden Salzwasser knapp al dente kochen. 1 dl Kochwasser beiseite stellen, Teigwaren abtropfen. </inhalt>
+      </Linguine  >
+      <Sauce     >
+          <inhalt>Butter in derselben Pfanne erwaermen. Bundzwiebeln und Mohn kurz andaempfen. Saucen-Halbrahm, Zitronenschale und -saft beigeben, wuerzen, ca. 1 Min. koecheln. Teigwaren und beiseite gestelltes Kochwasser beigeben, mischen, nur noch heiss werden lassen. Beiseite gestelltes Bundzwiebelgruen darueberstreuen, Kaese dazu servieren. </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>205 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigboden_blindbacken>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Durchmesser)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Teigboden_blindbacken>
+      <Belag     >
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>250 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teigboden blindbacken         </inhalt>
+      </How_To    >
+      <Teigboden_blindbacken>
+          <inhalt>Blindbacken: ca. 15 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Teigboden_blindbacken>
+      <Belag     >
+          <inhalt>Quark, Rahm Zucker und Vanillesamen in einer Schuessel mit den Schwingbesen des Handruehrgeraetes steif schlagen. Masse auf dem Blaetterteigboden verteilen. Beeren darauf verteilen. Vor dem Servieren mit Puderzucker bestaeuben.</inhalt>
+      </Belag     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=lfS12MtS0qw"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>367 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Miso-Glasur>
+          <quant>2 TL</quant>
+          <zutat>Miso-Paste</zutat>
+          <quant>2 TL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 TL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 TL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Honig</zutat>
+          <quant>500 g</quant>
+          <zutat>Lachsfilet (Bio)</zutat>
+      </Miso-Glasur>
+      <Spinat_und_Champignons>
+          <quant>200 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Alu-Grillschale</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salbei, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>250 g</quant>
+          <zutat>braune Champignons</zutat>
+      </Spinat_und_Champignons>
+      <Lachs_    >
+          <quant>1 </quant>
+          <zutat>Zedern Grillholzbrettchen, ca. 12 Std. in Wasser eingeweicht, abgetropft</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauch, quer halbiert</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Lachs_    >
+   </einkaufliste>
+   <rezept>
+      <Miso-Glasur>
+          <inhalt>Miso-Paste mit allen Zutaten bis und mit Honig verruehren. Lachs mit der Haelfte der Glasur bestreichen, zugedeckt im Kuehlschrank ca. 2 Std. marinieren. Restliche Glasur beiseite stellen.</inhalt>
+      </Miso-Glasur>
+      <Spinat_und_Champignons>
+          <inhalt>Spinat mit Oel und Salz mischen, in die Grillschale geben. Oel mit Thymian, Salbei und Salz mischen, Champignons beigeben und gut mischen. </inhalt>
+      </Spinat_und_Champignons>
+      <Lachs_    >
+          <inhalt>Lachs auf das Grillholzbrettchen legen. Die Schnittflaechen des Knoblauchs mit Oel bestreichen. Grillholzbrettchen mit Lachs auf den Grillrost legen, den Knoblauch mit der Schnittflaeche nach unten und die Grillschale mit Spinat und Champignons daneben auf den Grillrost legen.   </inhalt>
+      </Lachs_    >
+      <Grillieren>
+          <inhalt>Holzkohle-/ Gas-/ Elektrogrill: Lachs, Knoblauch, Spinat und Pilze ueber schwacher Glut oder auf kleiner Stufe (ca. 150 Grad) zugedeckt ca. 10 Min. grillieren. </inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

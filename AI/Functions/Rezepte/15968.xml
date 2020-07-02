@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>260 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sorbet    >
+          <quant>5 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>175 g</quant>
+          <zutat>dunkle Schokolade (Cremant), fein gehackt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Sorbet    >
+      <Caramel-Nuesse>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>20 g</quant>
+          <zutat>Macadamia-Nuesse, grob gehackt, geroestet</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Caramel-Nuesse>
+      <Verzieren >
+          <quant>1/2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 60 g), geschmolzen</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <Sorbet    >
+          <inhalt>Wasser mit Zucker, Kakaopulver und Salz unter Ruehren aufkochen und unter Ruehren ca. 1 Min. sprudelnd kochen. Pfanne von der Platte nehmen. Schokolade und Vanille beigeben, ruehren, bis die Schokolade geschmolzen ist. Die Masse kurz puerieren, in die Foermchen giessen, ca. 3 Std. gefrieren. Nach Belieben je einen Kaffeeloeffel als Stiel in die Foermchen stecken, nochmals ca. 3 Std. gefrieren.</inhalt>
+      </Sorbet    >
+      <Caramel-Nuesse>
+          <inhalt>Zucker und Wasser in einer Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein heller Caramel entsteht. Nuesse und Salz beigeben, gut mischen, sofort auf ein Backpapier geben, auskuehlen, grob hacken. </inhalt>
+      </Caramel-Nuesse>
+      <Verzieren >
+          <inhalt>Glacestaengel aus den Foermchen loesen, auf ein mit Backpapier belegtes kleines Blech stellen, nochmals ca. 30 Min. gefrieren. Kuchenglasur ueber die Glacestaengel giessen, Nuesse darueberstreuen und  nochmals ca. 30 Min. gefrieren.</inhalt>
+      </Verzieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=VGLb0Jarz94"/>
+</Rezept>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson> kcal   </NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Bouillon  >
+          <quant>2 TL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>100 g</quant>
+          <zutat>Wurzelgemuese (z.B. Pastinaken, Rueebli, Sellerie), nur die Schale, in Stuecken</zutat>
+          <quant>80 g</quant>
+          <zutat>Lauch, nur gruener Abschnitt, in Stuecken</zutat>
+          <quant>60 g</quant>
+          <zutat>Pleurotus (Austernpilz), in Stuecken</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Senfkoerner</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kuemmel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Bouillon  >
+   </einkaufliste>
+   <rezept>
+      <Bouillon  >
+          <inhalt>Oel in einer grossen Pfanne erwaermen. Gemueseschalen, Lauchgruen und Pilze beigeben, unter gelegentlichem Ruehren bei kleiner Hitze ca. 30 Min. daempfen. Wasser dazugiessen, aufkochen, bei mittlerer Hitze ca. 30 Min. koecheln. Senfkoernern, Kuemmel und Pfeffer beigeben, nochmals ca. 30 Min. koecheln. Bouillon durch ein Sieb giessen, salzen. </inhalt>
+      </Bouillon  >
+   </rezept>
+</Rezept>

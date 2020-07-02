@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>145 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mocktail  >
+          <quant>6 dl</quant>
+          <zutat>Tonic Water (z.B. Fever Tree Mediterranean Tonic Water)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Exotic Sirup (z.B. Coop Naturaplan)</zutat>
+          <quant>4 </quant>
+          <zutat>Passionsfruechte, Fruchtfleisch herausgeloest</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Mocktail  >
+      <Garnieren >
+          <quant>16 </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>2 </quant>
+          <zutat>Passionsfruechte, heiss abgespuelt, trocken getupft, halbiert</zutat>
+          <quant>4 </quant>
+          <zutat>kurze Holzspiesschen</zutat>
+      </Garnieren >
+   </einkaufliste>
+   <rezept>
+      <Mocktail  >
+          <inhalt>Tonic, Sirup, Passionsfruchtfleisch und Zitronensaft verruehren.</inhalt>
+      </Mocktail  >
+      <Garnieren >
+          <inhalt>Eiswuerfel auf die Glaeser verteilen. Mocktail dazugiessen, Passionsfruchthaelften an die Holzspiesschen stecken, Mocktail damit garnieren. </inhalt>
+      </Garnieren >
+   </rezept>
+</Rezept>

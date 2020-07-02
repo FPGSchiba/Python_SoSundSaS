@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>444 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>125 g</quant>
+          <zutat>Clotted cream</zutat>
+          <quant>1 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+      </Creme     >
+      <Tiramisu  >
+          <quant>200 g</quant>
+          <zutat>Cantucci, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Erdbeeren, in Stuecken</zutat>
+          <quant>1 dl</quant>
+          <zutat>Champagner</zutat>
+          <quant>200 g</quant>
+          <zutat>Erdbeeren, in Scheibchen</zutat>
+      </Tiramisu  >
+      <Fertigstellen>
+          <quant>50 g</quant>
+          <zutat>Cantucci, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Erdbeeren, in Scheibchen</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Creme     >
+          <inhalt>Rahm steif schlagen. Jogurt, Clotted Cream und Holunderbluetensirup darunterrruehren, zugedeckt kuehl stellen. </inhalt>
+      </Creme     >
+      <Tiramisu  >
+          <inhalt>Die Haelfte der Cantucci in die Form legen. Erdbeeren mit dem Champagner puerieren, die Haelfte des Puerees ueber die Cantucci traeufeln. Die Haelfte der Erdbeeren und der Creme darauf verteilen. Restliche Cantucci darauf verteilen, mit restlichem Pueree betraeufeln. Restliche Erdbeeren und Creme darauf verteilen, zugedeckt ca. 1 Std. kuehl stellen. </inhalt>
+      </Tiramisu  >
+      <Fertigstellen>
+          <inhalt>Cantucci und Erdbeeren auf dem Tiramisu verteilen. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

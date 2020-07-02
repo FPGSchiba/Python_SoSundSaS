@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>130 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>15 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>450 g</quant>
+          <zutat>Zopfmehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3/4 Wuerfel</quant>
+          <zutat>Hefe, zerbroeckelt</zutat>
+          <quant>150 g</quant>
+          <zutat>Butter, weich, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milch, lauwarm</zutat>
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Hefeteig  >
+      <Teig_belegen>
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>500 g</quant>
+          <zutat>tiefgekuehlte Beerenmischung (Bio)</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandelblaettchen</zutat>
+      </Teig_belegen>
+      <Backen:   >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen:   >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl und alle Zutaten bis und mit Hefe in einer Schuessel mischen. Butter, Milch und Eier beigeben, mischen, zu einem weichen, glatten Teig kneten, zugedeckt bei Raumtemperatur ca. 1 1/2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Teig_belegen>
+          <inhalt>Den Teig etwas flach druecken, in der Groesse des Bleches (eckiges Blech, mit Backpapier ausgelegt) auswallen, ins Blech legen. Butter auf dem Teig verteilen, Zucker und Vanillezucker mischen, darueberstreuen. Beeren auf dem Teig verteilen, leicht andruecken, Mandelblaettchen darauf verteilen.</inhalt>
+      </Teig_belegen>
+      <Backen:   >
+          <inhalt>Ca. 35 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, in Stuecke schneiden, aus dem Blech heben, auf einem Gitter auskuehlen. Mit Puderzucker bestaeuben.</inhalt>
+      </Backen:   >
+   </rezept>
+</Rezept>

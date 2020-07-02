@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>267 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Haselnusscreme>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse (z.B. Nocciola Piemonte IGP)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+      </Haselnusscreme>
+      <Cappuccino>
+          <quant>4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>4 </quant>
+          <zutat>starke Espressi</zutat>
+          <quant>1 EL</quant>
+          <zutat>Haselnuss, grob gehackt</zutat>
+      </Cappuccino>
+   </einkaufliste>
+   <rezept>
+      <Haselnusscreme>
+          <inhalt>Nuesse mit dem Zucker und Salz im Cutter puerieren, bis die Masse cremig ist.</inhalt>
+      </Haselnusscreme>
+      <Cappuccino>
+          <inhalt>Haselnusscreme in 4 Tassen oder Glaeser verteilen, an den Glasraender etwas hochstreichen. Milch aufschaeumen, in die Glaeser verteilen. Espresso daruebergiessen, Nuesse darueberstreuen. </inhalt>
+      </Cappuccino>
+   </rezept>
+</Rezept>

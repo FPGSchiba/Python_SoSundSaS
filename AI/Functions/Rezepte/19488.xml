@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>981 kcal</NaehrwertProPerson>
+       <Fett>51 g  </Fett>
+       <Kohlenhydrate>93 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaghetti >
+          <quant>500 g</quant>
+          <zutat>Spaghetti</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaghetti >
+      <Landjaeger_>
+          <quant>4 </quant>
+          <zutat>Landjaeger</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel</zutat>
+      </Landjaeger_>
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>500 g</quant>
+          <zutat>Spaghetti</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>4 </quant>
+          <zutat>Landjaeger</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>90 g</quant>
+          <zutat>Rucola</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spaghetti                     </inhalt>
+      </How_To    >
+      <Spaghetti >
+          <inhalt>Landjaeger                     </inhalt>
+      </Spaghetti >
+      <Landjaeger_>
+          <inhalt>Sauce                         </inhalt>
+      </Landjaeger_>
+      <Sauce     >
+          <inhalt>                              </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

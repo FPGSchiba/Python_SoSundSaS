@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>419 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fisch     >
+          <quant>10 </quant>
+          <zutat>echte Rotzungenfilets (ca. 500 g), laengs halbiert</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>10 Zweiglein</quant>
+          <zutat>Rosmarin, halbiert</zutat>
+          <quant>10 Tranchen</quant>
+          <zutat>Rohschinken (ca. 100 g), halbiert, gefaltet</zutat>
+          <quant> </quant>
+          <zutat>Olivenoel zum Braten</zutat>
+      </Fisch     >
+      <Reis      >
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, in feinen Scheibchen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Langkornreis</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Tomaten, in feinen Streifen</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Reis      >
+   </einkaufliste>
+   <rezept>
+      <Fisch     >
+          <inhalt>Fischstreifen mit Aceto betraeufeln, salzen. Je 1 halbiertes Rosmarinzweiglein schraeg ueber jeden Fischstreifen legen. Unteres Fischende darueberlegen. Mit je 1 Stueck Rohschinkenstreifen umwickeln. Oel in einer beschichteten Bratpfanne heiss werden lassen. Hitze reduzieren. Fisch- Involtini portionenweise bei mittlerer Hitze ca. 5 Min. braten, warm stellen.</inhalt>
+      </Fisch     >
+      <Reis      >
+          <inhalt>Oel warm werden lassen. Knoblauch knusprig braten, herausnehmen, auf Haushaltpapier abtropfen, beiseitestellen. Evtl. wenig Oel beigeben, warm werden lassen. Zwiebel andaempfen, Reis und Tomatenstreifen beigeben, unter Ruehren duensten, bis der Reis glasig ist. Wasser dazugiessen, aufkochen, salzen. Hitze reduzieren, Reis zugedeckt bei mittlerer Hitze ca. 15 Min. koecheln, bis alle Fluessigkeit eingekocht ist. Die Haelfte der beiseitegestellten Knoblauchscheibchen zerdruecken, daruntermischen.</inhalt>
+      </Reis      >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=FGqX3huFntg"/>
+</Rezept>

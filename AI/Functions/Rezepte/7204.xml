@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>451 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 EL</quant>
+          <zutat>Mandelstifte</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte geschaelte rohe Crevettenschwaenze (Bio), aufgetaut</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Blumenkohl (ca. 500 g), in Roeschen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>mittelscharfer Curry</zutat>
+          <quant>6 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>250 g</quant>
+          <zutat>gelbe Linsen</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, in Wuerfeln</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pfefferminze, geschnitten</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Weite Bratpfanne erhitzen, Mandeln unter Ruehren ca. 2 Min. roesten, herausnehmen, beiseitestellen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Wenig Oel erhitzen, Crevetten beidseitig je ca. 1 Min. braten, herausnehmen, salzen, zugedeckt beiseitestellen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Chili, Zwiebel, Knoblauch und Blumenkohl ca. 3 Min. andaempfen. Tomatenpueree und Curry kurz mitduensten, 1 dl Wasser dazugiessen, aufkochen, Hitze reduzieren, zugedeckt ca. 10 Min. daempfen. Restliches Wasser und Linsen beigeben, unter gelegentlichem Ruehren ca. 10 Min. fertig garen, salzen. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Tomaten, beiseitegestellte Crevetten und Mandeln daruntermischen, nur noch heiss werden lassen. Jogurt mit Pfefferminze mischen, salzen. Linsen Paella anrichten, Minzejogurt separat dazu servieren.</inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+</Rezept>

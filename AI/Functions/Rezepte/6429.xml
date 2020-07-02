@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>523 kcal</NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>450 g</quant>
+          <zutat>Rindsvoressen</zutat>
+          <quant>100 g</quant>
+          <zutat>Rohess-Speck, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, grob gehackt</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 230 g)</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Salbei</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Fleisch   >
+      <Polenta   >
+          <quant>1 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>250 g</quant>
+          <zutat>grobkoerniger Maisgriess (Bramata)</zutat>
+      </Polenta   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch                       </inhalt>
+      </How_To    >
+      <Fleisch   >
+          <inhalt>Polenta                       </inhalt>
+      </Fleisch   >
+      <Polenta   >
+          <inhalt>Mais einruehren, Hitze reduzieren, unter gelegentlichem Ruehren bei kleinster Hitze zugedeckt ca. 40 Min. zu einem dicken Brei koecheln.</inhalt>
+      </Polenta   >
+   </rezept>
+</Rezept>

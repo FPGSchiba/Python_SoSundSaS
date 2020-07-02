@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>91 kcal </NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 </quant>
+          <zutat>Schalotte</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>300 g</quant>
+          <zutat>Broccoli</zutat>
+          <quant>5 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+      </Suppe     >
+      <Garnitur  >
+          <quant>1/4 Bund</quant>
+          <zutat>Kerbel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Garnitur  >
+      <Rohschinken>
+          <quant>3 Scheiben</quant>
+          <zutat>Rohschinken</zutat>
+      </Rohschinken>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suppe                         </inhalt>
+      </How_To    >
+      <Suppe     >
+          <inhalt>Garnitur                      </inhalt>
+      </Suppe     >
+      <Garnitur  >
+          <inhalt>Suppe wuerzen.                 </inhalt>
+      </Garnitur  >
+      <Rohschinken>
+          <inhalt>Rohschinken in Streifen schneiden, in einer Bratpfanne langsam knusprig braten. Suppe in Tassen oder Teller verteilen, mit den Rohschinken- Streifen garnieren.</inhalt>
+      </Rohschinken>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

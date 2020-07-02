@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>537 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>53 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kokosreis >
+          <quant>200 g</quant>
+          <zutat>Basmatireis</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosnuss-Streifen, grob gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Kokosreis >
+      <Fisch     >
+          <quant>1 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>600 g</quant>
+          <zutat>Dorschfilets Royal (MSC), geviertelt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Limette, abgeriebene Schale und Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sriracha-Sauce</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>300 g</quant>
+          <zutat>Jungspinat</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Kokosreis >
+          <inhalt>Reis im Sieb unter fliessendem, kaltem Wasser so lange spuelen, bis dieses klar ist, gut abtropfen. Kokosmilch und Wasser mit dem Reis und den Kokosstreifen aufkochen, salzen. Reis zugedeckt bei kleinster Hitze ca. 15 Min. koecheln, zugedeckt auf ausgeschalteter Platte ca. 10 Min. quellen lassen, dabei Deckel nie abheben. Reis mit einer Gabel lockern.</inhalt>
+      </Kokosreis >
+      <Fisch     >
+          <inhalt>Oel in der Bratpfanne erhitzen. Fisch salzen, beidseitig je ca. 2 Min. braten. Limettenschale und -saft mit dem Honig, Sriracha-Sauce, Ingwer und Knoblauch beigeben, ca. 2 Min. einkoecheln. Fisch herausnehmen, Spinat beigeben, salzen, zusammenfallen lassen. Spinat mit dem Fisch und Reis anrichten, Chili darueberstreuen.</inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

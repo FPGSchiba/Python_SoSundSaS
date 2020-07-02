@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>137 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muscheln_ >
+          <quant>1 kg</quant>
+          <zutat>Miesmuschel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, in Scheibchen</zutat>
+          <quant>400 g</quant>
+          <zutat>Tomatensaft, geschaelt, entkernt, in Wuerfel</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>4 dl</quant>
+          <zutat>Rotwein (z.B. Valais AOC Pinot Noir Hurkevent Ch. Favre 2015)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Estragonblaettchen, grob geschnitten</zutat>
+      </Muscheln_ >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Muscheln                      </inhalt>
+      </How_To    >
+      <Muscheln_ >
+          <inhalt>Oel in einer grossen Pfanne warm werden lassen. Zwiebel und Knoblauch andaempfen. Tomaten und  Safran beigeben, mitdaempfen. Muscheln beigeben, Wein dazugiessen, zugedeckt ca. 5 Min. koecheln. Estragon darueberstreuen. </inhalt>
+      </Muscheln_ >
+   </rezept>
+</Rezept>

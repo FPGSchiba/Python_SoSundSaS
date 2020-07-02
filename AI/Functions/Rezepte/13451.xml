@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>394 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Aufstrich_>
+          <quant>6 EL</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>4 EL</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen, laengs in ca. 5 mm dicken Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, quer in ca. 5 mm dicken Scheiben</zutat>
+      </Aufstrich_>
+      <Belag_    >
+          <quant>50 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>50 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>40 g</quant>
+          <zutat>getrocknete Bananen</zutat>
+          <quant>1 </quant>
+          <zutat>Kiwi, geviertelt, in duennen Scheiben</zutat>
+          <quant>4 EL</quant>
+          <zutat>Mandelstifte</zutat>
+          <quant>30 g</quant>
+          <zutat>Schokoladenspaene</zutat>
+      </Belag_    >
+   </einkaufliste>
+   <rezept>
+      <Aufstrich_>
+          <inhalt>Erdnussbutter und Jogurt verruehren. Fruchtscheiben mit je 2 TL bestreichen. </inhalt>
+      </Aufstrich_>
+      <Belag_    >
+          <inhalt>Frucht-Bagels nach Belieben belegen. </inhalt>
+      </Belag_    >
+   </rezept>
+</Rezept>

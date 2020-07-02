@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>283 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gurken-Kraeuter-Salat>
+          <quant>1/4 </quant>
+          <zutat>Gurke, gewaschen, in Wuerfeli</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Pfefferminze, fein geschnitten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>1/2 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Gurken-Kraeuter-Salat>
+      <Fladenbrot>
+          <quant>150 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandeljogurt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Backen</zutat>
+      </Fladenbrot>
+      <Fladenbrote_belegen>
+          <quant>175 g</quant>
+          <zutat>Hummus (z.B. Karma Muhammara)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mandel, grob gehackt</zutat>
+      </Fladenbrote_belegen>
+   </einkaufliste>
+   <rezept>
+      <Gurken-Kraeuter-Salat>
+          <inhalt>Gurke mit Kraeutern und Zitronensaft in einer Schuessel mischen, salzen. Salat bis zum Servieren zugedeckt kuehl stellen.</inhalt>
+      </Gurken-Kraeuter-Salat>
+      <Fladenbrot>
+          <inhalt>Mehl, Salz, Backpulver und Rosmarin in einer Schuessel mischen. Jogurt und Oel beigeben, mischen, zu einem glatten Teig kneten. Teig in 4 Portionen teilen, zu Kugeln formen, auf wenig Mehl ca. 1/2 cm dick zu Fladen auswallen. Eine beschichtete Bratpfanne heiss werden lassen. Fladen bei mittlerer Hitze beidseitig je ca. 2 Min. backen, herausnehmen, warm stellen.</inhalt>
+      </Fladenbrot>
+      <Fladenbrote_belegen>
+          <inhalt>Fladenbrote mit dem Hummus bestreichen, Gurken-Kraeuter-Salat darauf verteilen, Mandeln darueberstreuen.</inhalt>
+      </Fladenbrote_belegen>
+   </rezept>
+</Rezept>

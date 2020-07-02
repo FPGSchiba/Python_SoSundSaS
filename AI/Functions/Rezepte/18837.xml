@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>460 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Birnen    >
+          <quant>3 </quant>
+          <zutat>Birnen, geschaelt, in Scheibchen</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Birnel (Birnendicksaft) oder fluessiger Honig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+      </Birnen    >
+      <Streusel  >
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>60 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Streusel  >
+      <Fertig_backen>
+          <quant>4 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+      </Fertig_backen>
+   </einkaufliste>
+   <rezept>
+      <Birnen    >
+          <inhalt>Birnen mit dem Limettensaft, Birnel und Zimt mischen, in die vorbereiteten Foermchen verteilen.</inhalt>
+      </Birnen    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen.</inhalt>
+      </Backen    >
+      <Streusel  >
+          <inhalt>Nuesse, Butter, Zucker und Mehl mit einer Gabel zu einer kruemeligen Masse mischen. Streusel auf den Birnen verteilen.</inhalt>
+      </Streusel  >
+      <Fertig_backen>
+          <inhalt>Ca. 25 Min. Herausnehmen, etwas abkuehlen. Creme fraiche mit Zimt verruehren, dazu servieren. </inhalt>
+      </Fertig_backen>
+   </rezept>
+</Rezept>

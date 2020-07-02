@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>308 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mille_Feuilles>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig</zutat>
+      </Mille_Feuilles>
+      <Mousse_au_Chocolat>
+          <quant>175 g</quant>
+          <zutat>Couverture Drops dunkel</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote</zutat>
+          <quant>350 g</quant>
+          <zutat>Seidentofu</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Mousse_au_Chocolat>
+      <Servieren >
+          <quant>250 g</quant>
+          <zutat>gemischte Beeren</zutat>
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mille Feuilles                </inhalt>
+      </How_To    >
+      <Mille_Feuilles>
+          <inhalt>Blindbacken: ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Mille Feuilles auf einem Gitter auskuehlen.</inhalt>
+      </Mille_Feuilles>
+      <Mousse_au_Chocolat>
+          <inhalt>Die Couverture ueber dem heissen Wasserbad schmelzen. Vanilleschote laengs aufschneiden, Mark auskratzen, mit Tofu, Zucker und geschmolzener Schokolade mit dem Stabmixer puerieren und leicht aufschlagen. Zugedeckt ca. 2 Std. kuehl stellen.</inhalt>
+      </Mousse_au_Chocolat>
+      <Servieren >
+          <inhalt>Die Mousse in einen Dressierbeutel mit gerader Tuelle fuellen. Die Haelfte der Mousse auf die Haelfte der Mille Feuilles dressieren. Die Haelfte der Beeren darauf verteilen, mit den restlichen Mille Feuilles bedecken, Vorgang wiederholen. Mit wenig Puderzucker bestaeuben, sofort servieren.</inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+</Rezept>

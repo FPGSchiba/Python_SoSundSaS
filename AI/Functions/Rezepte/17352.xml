@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>590 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_>
+          <quant>200 g</quant>
+          <zutat>weisse Schokolade, fein gehackt</zutat>
+      </Schokolade_>
+      <Ruehrteig_ >
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant>400 g</quant>
+          <zutat>Rhabarber, in ca. 1 cm grossen Stuecken</zutat>
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>200 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Ruehrteig_ >
+      <Backen    >
+          <quant>150 g</quant>
+          <zutat>weisse Schokolade (z.B. weisser Schokoladenhase), laengs halbiert, 1/2 fein gehackt</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Schokolade_>
+          <inhalt>Schokolade in einer duennwandigen Schuessel ueber dem nur leicht siedenden Wasserbad schmelzen, glatt ruehren, beiseite stellen.</inhalt>
+      </Schokolade_>
+      <Ruehrteig_ >
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist. Quark mit der Schokolade darunterruehren, Rhabarber daruntermischen. Mehl, Kokosraspeln und Backpulver mischen, unter die Masse mischen, in die vorbereitete Form fuellen. </inhalt>
+      </Ruehrteig_ >
+      <Backen    >
+          <inhalt>Ca. 65 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens, dabei nach ca. 45 Min. Kuchen mit Alufolie abdecken. Gehackte Schokolade in eine duennwandige Schuessel ueber dem leicht siedenden Wasserbad schmelzen, glatt ruehren. Kuchen aus dem Ofen nehmen, fluessige Schokolade darauf verteilen, Hasenhaelfte darauf legen, Kuchen ca. 2 Min. fertig backen. Herausnehmen, etwas abkuehlen, Formenrand entfernen, Kuchen auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

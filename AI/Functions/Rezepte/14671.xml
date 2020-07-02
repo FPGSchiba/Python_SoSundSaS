@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>611 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polenta   >
+          <quant>7 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>200 g</quant>
+          <zutat>mittelfeiner Maisgriess</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Polenta   >
+      <Karamellisierter_Cicorino_rosso>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>Cicorino rosso, in Streifen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Karamellisierter_Cicorino_rosso>
+      <Gratinieren>
+          <quant>200 g</quant>
+          <zutat>Gorgonzola-Mascarpone, in Stuecken</zutat>
+          <quant>40 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Gratinieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Polenta                       </inhalt>
+      </How_To    >
+      <Polenta   >
+          <inhalt>ausstreichen. Polenta auskuehlen, in ca. 3 x 7 cm grosse Rechtecke schneiden. </inhalt>
+      </Polenta   >
+      <Karamellisierter_Cicorino_rosso>
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen, Cicorino beigeben, ca. 10 Min. ruehrbraten bis er zusammenfaellt, Honig und Aceto beigeben, salzen, ca. 10 Min. koecheln.</inhalt>
+      </Karamellisierter_Cicorino_rosso>
+      <Gratinieren>
+          <inhalt>Polenta-Schnitten abwechselnd mit Radicchio und Gorgonzola in die vorbereitete Form schichten, Haselnuesse darueberstreuen. Gratinieren: ca. 10 Min. in der oberen Haelfte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Gratinieren>
+   </rezept>
+</Rezept>

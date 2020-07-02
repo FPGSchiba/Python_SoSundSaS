@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>357 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce_    >
+          <quant>3 EL</quant>
+          <zutat>Erdnussbutter (crunchy)</zutat>
+          <quant>2 1/2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Sesamoel</zutat>
+          <quant>1/2 </quant>
+          <zutat>Pfirsich, in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Sauce_    >
+      <Spiessli_ >
+          <quant>250 g</quant>
+          <zutat>geschaelte rohe Crevetten </zutat>
+          <quant>300 g</quant>
+          <zutat>Rindshuft, in 16 ca. 2 1/2 cm grossen Wuerfeln</zutat>
+          <quant>5 Tranchen</quant>
+          <zutat>Bratspeck in Tranchen</zutat>
+          <quant>8 </quant>
+          <zutat>Holzspiesschen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Spiessli_ >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+   </einkaufliste>
+   <rezept>
+      <Sauce_    >
+          <inhalt>Erdnussbutter und alle Zutaten bis und mit Sesamoel verruehren. Pfirsich und Koriander daruntermischen. </inhalt>
+      </Sauce_    >
+      <Spiessli_ >
+          <inhalt>Crevetten, Fleischwuerfel und Speck abwechslungsweise an die Spiesschen stecken, mit Oel bestreichen, salzen.</inhalt>
+      </Spiessli_ >
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+          <inhalt>Spiessli ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 4 Min., grillieren, salzen. Sauce dazu servieren. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill):>
+   </rezept>
+</Rezept>

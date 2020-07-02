@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>297 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ruehrteig_ >
+          <quant>125 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>125 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Birnel (Birnendicksaft)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+      </Ruehrteig_ >
+      <Cupcakes  >
+          <quant>600 g</quant>
+          <zutat>Kuerbis (z.B. Butternut), grob gerieben (ergibt ca. 300 g)</zutat>
+          <quant>120 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>50 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Cupcakes  >
+      <Topping   >
+          <quant>200 g</quant>
+          <zutat>Frischkaese</zutat>
+          <quant>200 g</quant>
+          <zutat>Vermicellepueree</zutat>
+          <quant>30 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Topping   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ruehrteig                      </inhalt>
+      </How_To    >
+      <Ruehrteig_ >
+          <inhalt>Cupcakes                      </inhalt>
+      </Ruehrteig_ >
+      <Cupcakes  >
+          <inhalt>Backen: ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Cupcakes herausnehmen, etwas abkuehlen, aus dem Blech nehmen und auf einem Gitter auskuehlen.</inhalt>
+      </Cupcakes  >
+      <Topping   >
+          <inhalt>Frischkaese, Vermicellepueree und Puderzucker mit den Schwingbesen des Handruehrgeraets verruehren. Masse in einen Spritzsack mit gezackter Tuelle (ca. 10 mm Ø) geben, auf die Cupcakes spritzen.</inhalt>
+      </Topping   >
+   </rezept>
+</Rezept>

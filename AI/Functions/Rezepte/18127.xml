@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>635 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>98 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Melone    >
+          <quant>200 g</quant>
+          <zutat>Wassermelone, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Reisessig</zutat>
+      </Melone    >
+      <Reis      >
+          <quant>200 g</quant>
+          <zutat>Sushi-Reis</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Reis      >
+      <Restliche_Zutaten>
+          <quant>100 g</quant>
+          <zutat>Edamame (ausgeloest)</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Staengeli</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen</zutat>
+          <quant>4 </quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>1 </quant>
+          <zutat>Avocado</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Wasabi-Paste</zutat>
+          <quant>2 TL</quant>
+          <zutat>schwarzer Sesam</zutat>
+      </Restliche_Zutaten>
+   </einkaufliste>
+   <rezept>
+      <Melone    >
+          <inhalt>Melone mit Sojasauce und Essig in einer Schuessel mischen, bis zum Anrichten ziehen lassen.</inhalt>
+      </Melone    >
+      <Reis      >
+          <inhalt>Reis in einem Sieb kalt abspuelen, gut abtropfen, mit dem Wasser in eine Pfanne geben, aufkochen, Hitze reduzieren, zugedeckt bei kleiner Hitze ca. 10 Min. koecheln, auf ausgeschalteter Platte ca. 15 Min. quellen lassen, dabei Deckel nie abheben. Reis in eine Schuessel geben, mit einer Gabel lockern. Essig mit Zucker und Salz unter Ruehren warm werden lassen, bis sich der Zucker aufgeloest hat. Warme Fluessigkeit ueber den Reis traeufeln, mit einer Gabel sorgfaeltig mischen. Reis in 2 Schalen verteilen.</inhalt>
+      </Reis      >
+      <Restliche_Zutaten>
+          <inhalt>Melone aus der Marinade nehmen, auf dem Reis anrichten. Edamame, Rueebli, Bundzwiebel und Radiesli ebenfalls in die Schalen geben. Avocado mit dem Zitronensaft betraeufeln, mit einer Gabel fein zerdruecken, Wasabi daruntermischen, auf die Bowls verteilen. Sesam darueberstreuen.</inhalt>
+      </Restliche_Zutaten>
+   </rezept>
+</Rezept>

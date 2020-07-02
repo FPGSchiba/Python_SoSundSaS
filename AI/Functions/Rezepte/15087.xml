@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>506 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>200 g</quant>
+          <zutat>Buchweizenmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig_     >
+      <Kernenmischung>
+          <quant>2 EL</quant>
+          <zutat>Kernenmix</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+      </Kernenmischung>
+      <Galette   >
+          <quant>150 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Saint Agur), in Stuecken</zutat>
+          <quant>100 g</quant>
+          <zutat>Aepfel, in ca. 2 mm dicke Scheiben gehobelt</zutat>
+          <quant>20 g</quant>
+          <zutat>Schalotten, in feinen Schnitzen</zutat>
+      </Galette   >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen, rasch zu einem  weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig_     >
+      <Kernenmischung>
+          <inhalt>Kernenmix, Fleur de Sel, Rosmarin und Pfeffer mischen. </inhalt>
+      </Kernenmischung>
+      <Galette   >
+          <inhalt>Teig auf wenig Mehl ca. 1/2 cm dick rund auswallen, auf ein mit Backpapier belegtes Blech legen. Kaese auf dem Teig verteilen, dabei einen Rand von ca. 5 cm frei lassen. Aepfel und Schalotten auf dem Kaese verteilen. Raender einschlagen, Kernenmischung darueberstreuen.  </inhalt>
+      </Galette   >
+      <Backen_   >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

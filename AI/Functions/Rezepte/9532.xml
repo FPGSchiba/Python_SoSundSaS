@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>343 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>200 g</quant>
+          <zutat>blaue Trauben, halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zucker, Wasser und Nuesse in einer Pfanne mischen, unter Ruehren aufkochen, Hitze reduzieren, ca. 5 Min. unter gelegentlichem Hin-und her-Bewegen der Pfanne koecheln, bis die Nuesse haselnussbraun sind. Nuesse auf einem Backpapier verteilen, auskuehlen, in Stuecke brechen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Trauben und Puderzucker mischen, zugedeckt ca. 30 Min. ziehen lassen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Jogurt und Puderzucker verruehren, Schlagrahm darunterziehen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>3/4 der Trauben in Schaelchen verteilen, Creme daraufgeben, mit restlichen Trauben und Cashew-Nuessen verzieren.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>659 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>45 g  </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polenta   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unteres Drittel geschaelt, in ca. 1 cm langen Stuecken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>200 g</quant>
+          <zutat>grobkoerniger Maisgriess (Bramata)</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten in Oel, in Streifen</zutat>
+      </Polenta   >
+      <Fleisch   >
+          <quant>8 </quant>
+          <zutat>Lammfilets (je ca. 80 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>30 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola)</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Olivenoel</zutat>
+      </Fleisch   >
+   </einkaufliste>
+   <rezept>
+      <Polenta   >
+          <inhalt>Oel in einer Pfanne erhitzen. Spargeln ca. 2 Min. anbraten, herausnehmen, beiseite stellen. Bouillon in derselben Pfan-ne aufkochen. Maisgriess einruehren, Hitze reduzieren, unter haeufigem Ruehren bei kleinster Hitze ca. 30 Min. koecheln. Beiseite gestellte Spargeln wieder beigeben, ca. 10 Min. zu einem dicken Brei koecheln. Butter und Tomaten darunterruehren.</inhalt>
+      </Polenta   >
+      <Fleisch   >
+          <inhalt>Fleisch ca. 30 Min. vor dem Anbraten aus dem Kuehlschrank nehmen. Ofen auf 60 Grad vorheizen, Platte und Teller vorwaermen. Butter, Gorgonzola und Rosma-rin mischen, wuerzen. Wenig Oel in einer Bratpfanne erhitzen. Fleisch rundum ca. 3 Min. braten, wuerzen, zugedeckt ca. 3 Min.  in der Bratpfanne lassen. Filets mit der Polenta auf den vorgewaermten Tellern anrichten, Gorgonzola-Butter darauf verteilen.</inhalt>
+      </Fleisch   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

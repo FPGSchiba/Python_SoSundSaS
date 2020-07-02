@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>190 kcal</NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hefeteig  >
+          <quant>260 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>7 g</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kokosoel</zutat>
+      </Hefeteig  >
+      <Lauge     >
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>10 g</quant>
+          <zutat>Natron</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+      </Lauge     >
+   </einkaufliste>
+   <rezept>
+      <Hefeteig  >
+          <inhalt>Mehl, Salz, Zucker und Hefe in einer Schuessel mischen. Wasser und Oel dazugiessen, mischen, zu einem weichen Teig kneten. Zugedeckt bei Raumtemperatur  ca. 30 Min. aufgehen lassen. Teig in 5 Portionen teilen, zu Kugeln formen, mit der Schere oben einschneiden. Broetli auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Hefeteig  >
+      <Lauge     >
+          <inhalt>Wasser und Natron verruehren, Broetli damit bestreichen, mit Meersalz bestreuen.</inhalt>
+      </Lauge     >
+      <Backen_   >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

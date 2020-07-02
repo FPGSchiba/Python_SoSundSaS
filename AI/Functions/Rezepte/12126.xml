@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>160 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 </quant>
+          <zutat>reife Avocado</zutat>
+          <quant>1/2 </quant>
+          <zutat>Bio-Zitrone abgeriebene Schale und Saft</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>150 g</quant>
+          <zutat>griechischer Jogurt nature nature</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Avocado halbieren, entkernen, schaelen, Fruchfleisch mit Zitronenschale und -saft zerdruecken. Koriander fein schneiden, mit dem Jogurt daruntermischen, wuerzen. Bis zum Servieren kuehl stellen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=NayGWA3C8OU"/>
+</Rezept>

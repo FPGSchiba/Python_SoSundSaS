@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>0 kcal  </NaehrwertProPerson>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 TL</quant>
+          <zutat>getrocknetes Bohnenkraut</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronenpfeffer</zutat>
+          <quant>2 TL</quant>
+          <zutat>gemahlene Koriandersamen</zutat>
+          <quant>2 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Muskat</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bohnenkraut und alle restlichen Zutaten  im Moerser zerstossen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>504 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Braten    >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>2 </quant>
+          <zutat>Zucchetti, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>480 g</quant>
+          <zutat>gekochte Maiskolben, Maiskoerner abgeschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Rindshuftplaetzli, in Streifen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Braten    >
+      <Salat     >
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Braten    >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Zucchetti und Mais portionenweise ca. 3 Min braten, herausnehmen, salzen, beiseite stellen. Oel beigeben. Fleisch salzen, in derselben Pfanne ca. 2 Min. ruehrbraten. </inhalt>
+      </Braten    >
+      <Salat     >
+          <inhalt>Oel und Zitronensaft verruehren, wuerzen. Mit dem Gemuese und Fleisch mischen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>612 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>47 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>800 g</quant>
+          <zutat>Lammschulter, in ca. 3 cm grossen Wuerfeln</zutat>
+          <quant>400 g</quant>
+          <zutat>Baby-Kartoffeln, in Wuerfeln</zutat>
+          <quant>200 g</quant>
+          <zutat>Weisskabis, in ca. 5 mm breiten Streifen</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, in Wuerfeln</zutat>
+          <quant>100 g</quant>
+          <zutat>weiche Doerraprikosen, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandeln, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, zerzupft</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Brattopf oder Tajine ohne Deckel in die untere Haelfte des kalten Ofens schieben. Ofen auf 160 Grad vorheizen. Fleisch und alle Zutaten bis und mit Salz in einer Schuessel mischen, in den heissen Brattopf geben, zugedeckt fuer ca. 2 Std. garen. Deckel entfernen, ca. 15 Min. fertig garen. Herausnehmen, Petersilie darueberstreuen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

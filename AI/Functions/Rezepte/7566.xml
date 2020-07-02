@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>359 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, zerbroeckelt</zutat>
+          <quant>3 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+      </Boden     >
+      <Belag     >
+          <quant>500 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Unigel Geliermittel (ca. 15 g, Geliermittel aus Apfelpektin)</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant> </quant>
+          <zutat>Kakaopulver</zutat>
+      </Belag     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Boden                         </inhalt>
+      </How_To    >
+      <Boden     >
+          <inhalt>Backen: ca. 20 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Gebaeck in der Form etwas abkuehlen.</inhalt>
+      </Boden     >
+      <Belag     >
+          <inhalt>Beeren aufkochen, Hitze reduzieren. Zitronensaft und Unigel beigeben, unter staendigem Ruehren ca. 1 Min. weiterkochen. Zucker daruntermischen, 1 Min. fertig kochen. Beeren auf dem Gebaeck verteilen, in der Form auskuehlen. Zugedeckt ca. 30 Min. kuehl stellen. Rahm, Creme fraiche und Puderzucker mit den Schwingbesen des Handruehrgeraetes flaumig schlagen.</inhalt>
+      </Belag     >
+      <Garnieren >
+          <inhalt>Gebaeck aus der Form heben, in 10 Rechtecke schneiden. Kurz vor dem Servieren Schlagrahm auf den Johannisbeerschnitten verteilen, mit Kakaopulver bestaeuben.</inhalt>
+      </Garnieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

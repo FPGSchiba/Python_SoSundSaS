@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>279 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 TL</quant>
+          <zutat>Kraeutersenf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kraeuterweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>4 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>Kichererbsen (je ca. 400 g), abgespuelt, abgetropft</zutat>
+          <quant>3 </quant>
+          <zutat>Orangen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Senf und alle Zutaten bis und mit Petersilie gut verruehren, Sauce wuerzen. Ein Drittel der Kichererbsen mit einer Gabel grob zerdruecken, mit den restlichen Kichererbsen zur Sauce geben. Von den Orangen die Schale bis auf das Fruchtfleisch abschneiden, vierteln, quer in Scheibchen schneiden, mit dem Saft unter den Salat mischen, wuerzen.</inhalt>
+      </How_To    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=yNIMAigQY0Y"/>
+</Rezept>

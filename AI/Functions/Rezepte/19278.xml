@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>246 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>18 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tarte     >
+          <quant>150 g</quant>
+          <zutat>Frischkaese mit Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rauchmandeln, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Blaetterteig  (ca. 32 cm Ø)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Chicoree, in Blaettern</zutat>
+      </Tarte     >
+   </einkaufliste>
+   <rezept>
+      <Tarte     >
+          <inhalt>Frischkaese, Wasser und Mandeln verruehren. Teig entrollen, in das Blech legen, mit dem Frischkaese bestreichen.  Oel, Honig und Salz verruehren, mit dem Chicoree mischen, auf dem Frischkaese anrichten.  </inhalt>
+      </Tarte     >
+      <Backen    >
+          <inhalt>Ca. 35 Min. auf der untersten Rille des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

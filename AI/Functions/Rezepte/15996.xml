@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>524 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Broccoli  >
+          <quant>1 </quant>
+          <zutat>Broccoli (ca. 300 g), in Roeschen</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>50 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Broccoli  >
+      <Salat     >
+          <quant>30 g</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+      </Salat     >
+      <Vinaigrette>
+          <quant>1 EL</quant>
+          <zutat>Kraeuteressig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Vinaigrette>
+   </einkaufliste>
+   <rezept>
+      <Broccoli  >
+          <inhalt>Broccoli im Cutter oder von Hand sehr fein hacken. Oel in einer Bratpfanne erhitzen, Broccoli und Haselnuesse ca. 3 Min. ruehrbraten, in eine Schuessel geben. </inhalt>
+      </Broccoli  >
+      <Salat     >
+          <inhalt>Cranberrys und Feta zum Broccoli geben, mischen. </inhalt>
+      </Salat     >
+      <Vinaigrette>
+          <inhalt>Essig und Oel verruehren, wuerzen, ueber den Salat traeufeln. Salat mischen, in Schaelchen servieren. </inhalt>
+      </Vinaigrette>
+   </rezept>
+</Rezept>

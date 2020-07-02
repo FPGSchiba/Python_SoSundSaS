@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>254 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sonnenblumenoel</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mehl und Salz in eine Schuessel geben, mischen. Ei, Oel und Wasser gut verruehren, beigeben,  zusammenfuegen, auf wenig Mehl zu einem geschmeidigen Teig kneten. Teig zu einer Kugel formen, unter einer heiss ausgespuelten Schuessel bei Raumtemperatur ca. 30 Min. ruhen lassen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

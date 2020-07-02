@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>16 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Ingwer-Orangenbluetentee>
+          <quant>50 g</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>4 Beutel</quant>
+          <zutat>Orangenbluetentee</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Ingwer-Orangenbluetentee>
+      <Limonade  >
+          <quant>80 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel nach Belieben</zutat>
+      </Limonade  >
+   </einkaufliste>
+   <rezept>
+      <Ingwer-Orangenbluetentee>
+          <inhalt>Ingwer und Tee im siedenden Wasser ca. 5 Min. koecheln, zugedeckt ca. 15 Min. ziehen lassen. Teebeutel entfernen, Tee auskuehlen lassen. </inhalt>
+      </Ingwer-Orangenbluetentee>
+      <Limonade  >
+          <inhalt>Tee absieben, Zucker beigeben, ruehren, bis sich der Zucker aufgeloest hat. Zitronensaft dazugiessen, mit dem Mineralwasser auffuellen, Eis beigeben, servieren.</inhalt>
+      </Limonade  >
+   </rezept>
+</Rezept>

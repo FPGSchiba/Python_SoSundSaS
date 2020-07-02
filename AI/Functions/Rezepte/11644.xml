@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>274 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>600 g</quant>
+          <zutat>geschaelte rohe Crevettenschwaenze (Bio)</zutat>
+          <quant>8 </quant>
+          <zutat>kurze Holzspiesschen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1/4 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Avocados</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Die Crevetten an die Spiesschen stecken.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Fuer die Marinade/Sauce den Chili fein hacken, den Knoblauch pressen und den Koriander fein schneiden, mit Limettensaft und Oel verruehren. Die Haelfte der Marinade/Sauce ueber die Crevetten giessen, zugedeckt ca. 30 Min. im Kuehlschrank marinieren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Avocados halbieren, entkernen, dann nochmals laengs halbieren. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Holzkohle-, Gas-, Elektrogrill oder Grillpfanne:</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Crevettenspiessli beidseitig je ca. 4 Min., Avocado-Viertel allseitig ca. 3 Min. grillieren. Spiessli und Avocados anrichten, mit Fleur de Sel bestreuen und mit restlicher Marinade/Sauce betraeufeln.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Dazu passt: Baguette.         </inhalt>
+      </How_To5   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=1u7OcrVNKJs"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=NayGWA3C8OU"/>
+</Rezept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>265 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mango_Colada_>
+          <quant>1 </quant>
+          <zutat>Mango (reif)</zutat>
+          <quant>4 dl</quant>
+          <zutat>Saft (z.B. Mango-Orange)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rum (z.B. Don Papa Rum )</zutat>
+          <quant>2 EL</quant>
+          <zutat>Exotic Sirup (z.B. Coop Naturaplan)</zutat>
+          <quant>8 </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Mango_Colada_>
+   </einkaufliste>
+   <rezept>
+      <Mango_Colada_>
+          <inhalt>Die Haelfte der Mango in Stuecke schneiden, mit Saft, Kokosmilch, Rum, Sirup und Eiswuerfeln in einem Mixglas puerieren. Mango Colada in die Glaeser giessen. Restliche Mango in Schnitze schneiden, Cocktails damit verzieren. </inhalt>
+      </Mango_Colada_>
+   </rezept>
+</Rezept>

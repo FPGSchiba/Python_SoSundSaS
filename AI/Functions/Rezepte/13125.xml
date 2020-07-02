@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>342 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>8 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant>2 </quant>
+          <zutat>Pouletbruestli (je ca. 180 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Paprika</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>12 Scheiben</quant>
+          <zutat>Toastbrot (Oelz Supersoft Sandwichtoast)</zutat>
+          <quant>125 g</quant>
+          <zutat>Frischkaese nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten</zutat>
+          <quant>1/2 </quant>
+          <zutat>Eisbergsalat</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Speck in einer Bratpfanne knusprig braten. Herausnehmen, auf Haushaltpapier abtropfen. Pouletbruestli in derselben Pfanne bei mittlerer Hitze beidseitig je ca. 4 Min. braten. Herausnehmen, wuerzen. Etwas abkuehlen, in Tranchen schneiden. Eier in derselben Pfanne zu Spiegeleiern braten. Toasts toasten. Frischkaese mit Senf verruehren, Toastbrotscheiben einseitig damit bestreichen. Tomaten in Scheiben schneiden. 4 Toasts mit Poulet, Salatblaettern und Tomaten belegen, mit je 1 Toast bedecken. Spiegeleier und Speck darauf verteilen, mit restlichen Toasts belegen, Sandwiches 1-mal diagonal durchschneiden.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

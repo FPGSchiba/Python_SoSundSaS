@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>783 kcal</NaehrwertProPerson>
+       <Fett>49 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gratin    >
+          <quant>550 g</quant>
+          <zutat>Gnocchi</zutat>
+          <quant>2 </quant>
+          <zutat>rohe Schweinsbratwuerste, Wurstfleisch aus dem Darm gedrueckt, in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>rote Peperoni, in Stuecken</zutat>
+          <quant>4 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>4 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gratin    >
+   </einkaufliste>
+   <rezept>
+      <Gratin    >
+          <inhalt>Gnocchi, Wurststuecke und Peperoni in der vorbereiteten Form mischen. Rahm mit allen Zutaten bis und mit Pfeffer verruehren, daruebergiessen. </inhalt>
+      </Gratin    >
+      <Gratinieren>
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Gratinieren>
+   </rezept>
+</Rezept>

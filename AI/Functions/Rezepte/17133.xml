@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>193 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>150 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Die Haselnuesse ueber Nacht in kaltem Wasser einweichen. Mandeln abtropfen, mit kaltem Wasser abspuelen, mit 5 dl frischem Wasser und Salz im Mixglas puerieren. Haselnuesse durch ein Passiertuch aus Vlies giessen, im Tuch leicht pressen. Die "Reste" der Haselnuesse, die im Passiertuch verbleiben, kann man aufbewahren, gut trocknen und daraus Cracker herstellen. Siehe Rezept: "Nusscracker". Haselnuss-Drink in eine saubere, heiss ausgespuelte Flasche abfuellen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

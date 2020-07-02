@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>631 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>33 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kartoffelsalat>
+          <quant>4 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, je 1/2 abgeriebene Schale und Saft</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>600 g</quant>
+          <zutat>Gschwellti (fest kochende Sorte), frisch gekocht, heiss geschaelt</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in feinen Ringen</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>200 g</quant>
+          <zutat>Erbsli</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Kerbel, fein geschnitten</zutat>
+          <quant>20 g</quant>
+          <zutat>Kresse</zutat>
+      </Kartoffelsalat>
+      <Honig-Senf>
+          <quant>1 EL</quant>
+          <zutat>Mayonnaise</zutat>
+          <quant>3 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+      </Honig-Senf>
+      <Wurst     >
+          <quant>4 </quant>
+          <zutat>Pro Montagna Berg Bauernbratwurst mit Kraeutern</zutat>
+      </Wurst     >
+   </einkaufliste>
+   <rezept>
+      <Kartoffelsalat>
+          <inhalt>Essig und alle Zutaten bis und mit Salz in einer grossen Schuessel verruehren. Heisse Gschwellti in ca. 3 mm dicke Scheiben schneiden, mit den Bundzwiebeln zur Vinaigrette geben, zugedeckt ca. 30 Min. ziehen lassen. Erbsli ca. 2 Min. blanchieren, Wasser abgiessen, im Sieb mit kaltem Wasser ueberbrausen, gut abtropfen und unter den Salat mischen, salzen. Kraeuter und Kresse beigeben, mischen.</inhalt>
+      </Kartoffelsalat>
+      <Honig-Senf>
+          <inhalt>Mayonnaise, Senf und Honig verruehren. </inhalt>
+      </Honig-Senf>
+      <Wurst     >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Wuerste ueber mittelstarker Glut/ auf mittlerer Stufe (ca. 200 Grad) rundum ca. 15 Min. grillieren, mit Honig-Senf zum Kartoffelsalat servieren. </inhalt>
+      </Wurst     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+</Rezept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>781 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>94 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 Pack</quant>
+          <zutat>Betty Bossi Backmischung Ruchbrot  (ca. 500 g)</zutat>
+          <quant>3 1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>150 g</quant>
+          <zutat>Ziegenfrischkaese (Chavroux), in Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>Birnen, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>10 </quant>
+          <zutat>Baumnusskerne, halbiert</zutat>
+          <quant>12 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Backmischung mit dem Wasser in einer Schuessel mischen, ca. 8 Min. zu einem weichen, glatten Teig kneten. Zugedeckt bei Raumtemperatur ca. 1 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Teig      >
+      <How_To1   >
+          <inhalt>Backen: ca. 20 Min. im auf 180 Grad vorgeheizten Ofen (Heissluft). </inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

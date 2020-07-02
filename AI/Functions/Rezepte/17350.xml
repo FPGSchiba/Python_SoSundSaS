@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>595 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rettichchips>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+          <quant>50 g</quant>
+          <zutat>schwarzer Rettich (z.B. ProSpecieRara Rettich schwarz), in feine Scheiben gehobelt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Rettichchips>
+      <Quinoa_   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>300 g</quant>
+          <zutat>schwarzer Rettich (z.B. ProSpecieRara Rettich schwarz), in Wuerfeli</zutat>
+          <quant>300 g</quant>
+          <zutat>Quinoa</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>3 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>80 g</quant>
+          <zutat>Sbrinz, grob gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>20 g</quant>
+          <zutat>schwarzer Rettich (z.B. ProSpecieRara Rettich schwarz), in feine Scheiben gehobelt</zutat>
+      </Quinoa_   >
+   </einkaufliste>
+   <rezept>
+      <Rettichchips>
+          <inhalt>Oel in einem Brattopf auf ca. 180 Grad erhitzen. Rettich mit Haushaltpapier trocken tupfen, portionenweise ca. 3 Min. frittieren. Herausnehmen, abtropfen, salzen. </inhalt>
+      </Rettichchips>
+      <Quinoa_   >
+          <inhalt>Oel in einer Pfanne erwaermen. Zwiebel und Rettich beigeben, ca. 3 Min. andaempfen. Quinoa beigeben, unter Ruehren kurz duensten. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Quinoa immer knapp mit Fluessigkeit bedeckt ist. Ca. 10 Min. koecheln, Rahm dazugiessen, ca. 10 Min. fertig koecheln, bis der Quinoa al dente ist. Thymian und Zitronensaft beigeben, Kaese darunterruehren, wuerzen. Rettichchips und frischer Rettich darauf verteilen. </inhalt>
+      </Quinoa_   >
+   </rezept>
+</Rezept>

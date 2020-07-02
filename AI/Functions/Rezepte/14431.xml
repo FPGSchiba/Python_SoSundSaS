@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>778 kcal</NaehrwertProPerson>
+       <Fett>64 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rotweinsauce_>
+          <quant>3 dl</quant>
+          <zutat>Rotwein (z.B. Tre Roveri Pico Maccario Barbera D`Asti Superiore DOC)</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkle Sultaninen</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+      </Rotweinsauce_>
+      <Rotweinbutter>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Piment d`Espelette</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Rotweinbutter>
+      <Entenbruestli_>
+          <quant>4 </quant>
+          <zutat>Entenbruestli (je ca. 280 g), Fettschicht kreuzweise eingeschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Entenbruestli_>
+   </einkaufliste>
+   <rezept>
+      <Rotweinsauce_>
+          <inhalt>Wein mit den Schalotten, Sultaninen und Zimtstange aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren sirupartig einkoecheln (ca. 3 Essloeffel), auskuehlen, Zimtstange entfernen.</inhalt>
+      </Rotweinsauce_>
+      <Rotweinbutter>
+          <inhalt>Butter mit den Schwingbesen des Handruehrgeraets ca. 2 Min. schaumig ruehren. Reduktion darunterruehren, wuerzen. Rotweinbutter auf ein Stueck Klarsichtfolie geben, zu einer Rolle formen, kuehl stellen.</inhalt>
+      </Rotweinbutter>
+      <Entenbruestli_>
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Entenbruestli wuerzen, ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 5 Min. grillieren. </inhalt>
+      </Entenbruestli_>
+   </rezept>
+</Rezept>

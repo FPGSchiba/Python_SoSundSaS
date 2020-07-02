@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>537 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>129 g </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Koniftuere >
+          <quant>1 kg</quant>
+          <zutat>Kirsche, entsteint, halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>650 g</quant>
+          <zutat>Gelierzucker (Coop)</zutat>
+      </Koniftuere >
+   </einkaufliste>
+   <rezept>
+      <Koniftuere >
+          <inhalt>Kirschen und Zitronensaft in eine Pfanne geben, zugedeckt ca. 5 Min. koecheln. Die Haelfte des Gelierzuckers beigeben, unter Ruehren aufkochen, unter Ruehren ca. 2 Min. sprudelnd kochen. Restlichen Gelierzucker unter Ruehren beigeben, ca. 2 Min. weiterkochen. Evtl. Schaum abschoepfen, grob puerieren, nochmals aufkochen. </inhalt>
+      </Koniftuere >
+      <Abfuellen  >
+          <inhalt>Konfituere siedend heiss bis knapp unter den Rand in die sauberen, vorgewaermten Glaeser fuellen, sofort verschliessen. Glaeser mit Schraubdeckel kurz auf den Kopf stellen, auf einem Tuch auskuehlen.</inhalt>
+      </Abfuellen  >
+   </rezept>
+</Rezept>

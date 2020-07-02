@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>627 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>53 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marinieren>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollmilch (UHT)</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fenchelsamen</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>800 g</quant>
+          <zutat>Schweinsnierstueck</zutat>
+      </Marinieren>
+      <Fleisch_anbraten>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Fleisch_anbraten>
+      <Gemuese    >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>2 </quant>
+          <zutat>Fenchel</zutat>
+          <quant>500 g</quant>
+          <zutat>Baby-Kartoffeln</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Salbei</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese    >
+      <Sauce     >
+          <quant>2 dl</quant>
+          <zutat>Vollmilch (UHT), ca. 4 EL beiseite gestellt</zutat>
+          <quant>2 dl</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>2 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Marinieren                    </inhalt>
+      </How_To    >
+      <Marinieren>
+          <inhalt>Knoblauchzehen in eine weite Form pressen, Milch, Lorbeer, Fenchelsamen und Pfeffer beigeben. Fleisch darin mehrmals wenden.  </inhalt>
+      </Marinieren>
+      <How_To1   >
+          <inhalt>Fleisch zudecken, im Kuehlschrank ca. 12 Std. marinieren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Fleisch ca. 1 Std. vor dem Anbraten aus dem Kuehlschrank nehmen. Fleisch trocken tupfen, salzen. Bratbutter in einer Bratpfanne erhitzen. Fleisch rundum ca. 8 Min. anbraten, in das Bratgeschirr legen. </inhalt>
+      </How_To2   >
+      <Fleisch_anbraten>
+          <inhalt>Zwiebel und Fenchel in Streifen schneiden, Kartoffeln in Scheiben schneiden, Salbeiblaetter abzupfen. </inhalt>
+      </Fleisch_anbraten>
+      <Gemuese    >
+          <inhalt>Sauce                         </inhalt>
+      </Gemuese    >
+      <Sauce     >
+          <inhalt>Zum Fleisch in das Bratgeschirr giessen. </inhalt>
+      </Sauce     >
+      <Braten_im_Ofen>
+          <inhalt>Ca. 40 Min. in der Mitte des auf ca. 180 Grad vorgeheizten Ofens. Die Kerntemperatur sollte ca. 60 Grad betragen. Fleisch tranchieren, mit Gemuese und Sauce servieren.</inhalt>
+      </Braten_im_Ofen>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=ZssuuKAkoV8"/>
+</Rezept>

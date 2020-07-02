@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>290 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Form      >
+          <quant>wenig </quant>
+          <zutat>Butter, weich</zutat>
+      </Form      >
+      <Pasteten-Teig>
+          <quant>200 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, kalt</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Wasser</zutat>
+      </Pasteten-Teig>
+      <Fuellung   >
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>150 g</quant>
+          <zutat>Kuerbis (z.B. Butternut)</zutat>
+          <quant>100 g</quant>
+          <zutat>Federkohl</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>200 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>weisser Portwein oder Weisswein</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Fuellen    >
+          <quant>4 </quant>
+          <zutat>hart gekochte Eier</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Form                          </inhalt>
+      </How_To    >
+      <Form      >
+          <inhalt>8 Vertiefungen des Muffinsblech mit wenig Butter bestreichen.</inhalt>
+      </Form      >
+      <How_To1   >
+          <inhalt>Pasteten-Teig                 </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Butter in Stuecken beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser dazugiessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </How_To2   >
+      <Pasteten-Teig>
+          <inhalt>Fuellung                       </inhalt>
+      </Pasteten-Teig>
+      <How_To3   >
+          <inhalt>Oel in einer weiten beschichteten Bratpfanne heiss werden lassen. Zwiebel, Kuerbis und Federkohl ca. 4 Min. ruehrbraten. </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Auswallen                     </inhalt>
+      </How_To4   >
+      <Fuellung   >
+          <inhalt>Groessere Rondellen in das vorbereitete Blech legen, Boeden mit einer Gabel dicht einstechen.</inhalt>
+      </Fuellung   >
+      <Auswallen >
+          <inhalt>Fleischfuellung auf die Teige verteilen. Eier halbieren, Haelften in die Fuellung druecken. </inhalt>
+      </Auswallen >
+      <Fuellen    >
+          <inhalt>Backen: Ca. 25 Min. auf der untersten Rille des auf 220 Grad vorgeheizten Ofens. Herausnehmen, kurz stehen lassen, sorgfaeltig aus dem Blech nehmen.</inhalt>
+      </Fuellen    >
+   </rezept>
+</Rezept>

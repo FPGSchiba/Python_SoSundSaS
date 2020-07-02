@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>329 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe_    >
+          <quant>5 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>5 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Zitronengras , gequetscht</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili, entkernt, in Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>Kaffirlimetten-Blatt (Thai-Kit), gequetscht</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+      </Suppe_    >
+      <Poulet    >
+          <quant>2 </quant>
+          <zutat>Pouletbruestli (je ca. 120g)</zutat>
+      </Poulet    >
+      <Servieren_>
+          <quant>70 g</quant>
+          <zutat>Shiitake-Pilze, halbiert</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, in Schnitzen</zutat>
+      </Servieren_>
+   </einkaufliste>
+   <rezept>
+      <Suppe_    >
+          <inhalt>Kokosmilch und Wasser in einer Pfanne aufkochen. Fischsauce und allen Zutaten bis und mit Ingwer beigeben. Hitze reduzieren, zugedeckt bei kleiner Hitze ca. 10 Min. koecheln.</inhalt>
+      </Suppe_    >
+      <Poulet    >
+          <inhalt>Poulet beigeben, zugedeckt ca. 10 Min. ziehen lassen, herausnehmen, Poulet zerzupfen. </inhalt>
+      </Poulet    >
+      <Servieren_>
+          <inhalt>Pilze und Poulet zurueck in die Suppe geben, ca. 5 Min. koecheln.  Zitronengras und Kaffirlimettenblatt entfernen, Suppe wuerzen. Koriander darueberstreuen, Limette dazu servieren. </inhalt>
+      </Servieren_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

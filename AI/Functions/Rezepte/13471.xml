@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>568 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>5 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bernaise-Sauce_>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Estragon, grob geschnitten</zutat>
+          <quant>5 </quant>
+          <zutat>Pfefferkoerner, zerstossen</zutat>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Estragon, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+      </Bernaise-Sauce_>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>1 </quant>
+          <zutat>Clubsteak Dry Aged (ca. 600 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln, unterer hoelzerner Teil abgeschnitten, laengs halbiert</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bernaise-Sauce                </inhalt>
+      </How_To    >
+      <Bernaise-Sauce_>
+          <inhalt>Butter portionenweise unter Ruehren beigeben. Weiterruehren, bis die Sauce cremig ist. Schuessel herausnehmen, kurz weiterruehren. Estragon beigeben, salzen.</inhalt>
+      </Bernaise-Sauce_>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Steak mit Oel bestreichen, salzen. Steak ueber mittelstarker Glut/auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 6 Min. grillieren. Steak zugedeckt ca. 5 Min. ruhen lassen. Spargeln mit dem Oel mischen, ueber mittelstarker Glut /auf mittlerer Stufe (ca. 200 Grad) ca. 8 Min. grillieren, wuerzen.</inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

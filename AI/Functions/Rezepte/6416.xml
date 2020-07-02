@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>273 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Erdbeer-Sorbet>
+          <quant>500 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Erdbeer-Sorbet>
+      <Ananas-Sorbet>
+          <quant>1/2 </quant>
+          <zutat>Ananas (ca. 600 g)</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>50 g</quant>
+          <zutat>Puderzucker</zutat>
+      </Ananas-Sorbet>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Erdbeer-Sorbet                </inhalt>
+      </How_To    >
+      <Erdbeer-Sorbet>
+          <inhalt>2 Erdbeeren fuer die Verzierung beiseitelegen. Restliche Erdbeeren in Stuecke schneiden und mit dem Puderzucker grob puerieren. Masse in eine weite Chromstahlschuessel geben.</inhalt>
+      </Erdbeer-Sorbet>
+      <How_To1   >
+          <inhalt>Ananas-Sorbet                 </inhalt>
+      </How_To1   >
+      <Ananas-Sorbet>
+          <inhalt>Gefrieren: siehe Erdbeer-Sorbet.</inhalt>
+      </Ananas-Sorbet>
+   </rezept>
+</Rezept>

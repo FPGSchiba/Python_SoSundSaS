@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>608 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>62 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rollschinkli>
+          <quant>3 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 </quant>
+          <zutat>geraeuchertes Rollschinkli (ca. 1,1 kg)</zutat>
+      </Rollschinkli>
+      <Bohnen    >
+          <quant>100 g</quant>
+          <zutat>Doerrbohnen</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Bohnen    >
+      <Ingwer-Senf-Sauce>
+          <quant>3 EL</quant>
+          <zutat>milder Senf</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>100 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Doerrfeigen, in Wuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Ingwer-Senf-Sauce>
+   </einkaufliste>
+   <rezept>
+      <Rollschinkli>
+          <inhalt>Wasser in einer hohen Pfanne aufkochen. Schinkli beigeben, bei kleiner Hitze knapp unter dem Siedepunkt ca.1 Std. ziehen lassen.</inhalt>
+      </Rollschinkli>
+      <Bohnen    >
+          <inhalt>Bohnen mit Wasser bedecken, Thymian beigeben, aufkochen, zugedeckt ca. 30 Min. knapp weich kochen. Ca. 1 dl Kochwasser beiseite stellen, Bohnen abtropfen, Thymian entfernen. Butter in einer Pfanne erwaermen. Schalotte andaempfen, Bohnen und beiseite gestelltes Kochwasser beigeben, ca. 5 Min. koecheln, wuerzen.</inhalt>
+      </Bohnen    >
+      <Ingwer-Senf-Sauce>
+          <inhalt>Senf und alle Zutaten bis und mit Zitronensaft verruehren. Rollschinkli in Tranchen schneiden. Doerrbohnen, Ingwer-Senf-Sauce dazu servieren.</inhalt>
+      </Ingwer-Senf-Sauce>
+   </rezept>
+</Rezept>

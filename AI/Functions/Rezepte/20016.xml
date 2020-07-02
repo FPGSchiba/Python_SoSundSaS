@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>257 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Granola-Boeden>
+          <quant>200 g</quant>
+          <zutat>Mueeslimischung</zutat>
+          <quant>130 g</quant>
+          <zutat>Erdnussbutter</zutat>
+          <quant>20 g</quant>
+          <zutat>Kokosoel, fluessig</zutat>
+          <quant>4 TL</quant>
+          <zutat>Agavensirup</zutat>
+      </Granola-Boeden>
+      <Anrichten >
+          <quant>200 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>250 g</quant>
+          <zutat>gemischte Beeren (z.B. Himbeeren, Heidelbeeren, Erdbeeren)</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Granola-Boeden>
+          <inhalt>Mueeslimischung, Erdnussbutter, Kokosoel und Agavensirup zu einer kompakten Masse mischen. Masse in 8 Portionen teilen. Auf einem mit Backpapier belegten Blech Rondellen von ca. 8 cm Ø  formen.</inhalt>
+      </Granola-Boeden>
+      <Backen    >
+          <inhalt>Ca. 6 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Anrichten >
+          <inhalt>Jogurt und Beeren auf den Granola-Boeden verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

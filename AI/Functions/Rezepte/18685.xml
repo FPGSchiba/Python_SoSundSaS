@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>252 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Biskuitteig>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>6 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>6 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>80 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kakaopulver</zutat>
+      </Biskuitteig>
+      <Kuchen_traenken>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Kuchen_traenken>
+      <Caramelrahm>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>3 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Caramelrahm>
+      <Igel-Verzierung>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade, fein gehackt</zutat>
+          <quant>400 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>3 </quant>
+          <zutat>Smarties (braun)</zutat>
+          <quant>wenig </quant>
+          <zutat>Zuckerdekor-Stift </zutat>
+          <quant>wenig </quant>
+          <zutat>Marzipan (rosa)</zutat>
+      </Igel-Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Biskuitteig>
+          <inhalt>Zucker, Eigelbe und Wasser in einer Schuessel mit den Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse schaumig ist. Eiweisse mit dem Salz steif schlagen, Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Mehl und Mandeln mischen, Kakaopulver dazusieben, lagenweise mit dem Eischnee auf die Masse geben, mit dem Gummischaber sorgfaeltig darunterziehen. Teig in die vorbereitete Form fuellen. </inhalt>
+      </Biskuitteig>
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. Formenrand entfernen, Kuchen auf ein Gitter stuerzen, Backpapier entfernen, auskuehlen. Kuchen auf eine Platte schieben. Mit einem Kellenstiel mehrere Loecher ca. 2/3 tief in den Kuchen stossen. </inhalt>
+      </Backen    >
+      <Kuchen_traenken>
+          <inhalt>Wasser, Puderzucker, Zimt und Vanille verruehren, ueber den Kuchen giessen. </inhalt>
+      </Kuchen_traenken>
+      <Caramelrahm>
+          <inhalt>Zucker und 2 EL Wasser in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Wasser dazugiessen, sirupartig einkochen. Pfanne von der Platte nehmen, auskuehlen. Rahm mit dem Caramelsirup steif schlagen. Kuchen damit bestreichen, sodass die Loecher mit dem Rahm gefuellt sind. Torte zugedeckt ca. 30 Min. kuehl stellen. </inhalt>
+      </Caramelrahm>
+      <Igel-Verzierung>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren, etwas abkuehlen. Schokolade, Frischkaese und Rahm verruehren. Masse in einen Spritzsack mit gezackter Tuelle (ca. 9 mm Ø) fuellen. Torte am Rand und auf der Oberflaeche damit verzieren, dabei fuer das Gesicht einen Kreis und fuer die Beine einen Halbkreis frei lassen. Torte ca. 30 Min. kuehl stellen. Mit den Smarties und dem Zuckerdekorstift das Gesicht verzieren. Den Marzipan zu Ohren und Pfoten formen, Torte damit verzieren. </inhalt>
+      </Igel-Verzierung>
+   </rezept>
+</Rezept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>376 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>4 g   </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 </quant>
+          <zutat>Spareribs am Stueck (Schweinsbrustspitz-Rippchen), (je ca. 300 g)</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Paprika edelsuess</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Senfkoerner</zutat>
+          <quant>1 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zwiebelpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch ca. 30 Min. vor dem Grillieren aus dem Kuehlschrank nehmen. Zucker und alle Zutaten bis und mit Pfeffer mischen. Spareribs mit 2 1/2 EL davon einreiben.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: Spareribs ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) ca. 25 Min. grillieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

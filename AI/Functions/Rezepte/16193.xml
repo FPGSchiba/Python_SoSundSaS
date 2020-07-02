@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>169 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tag_1     >
+          <quant>50 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>3/4 dl</quant>
+          <zutat>Wasser</zutat>
+      </Tag_1     >
+      <Tag_2-9   >
+          <quant>40 g</quant>
+          <zutat>Roggenvollkornmehl</zutat>
+          <quant>40 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+      </Tag_2-9   >
+      <Tag_10-12 >
+          <quant>50 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Tag_10-12 >
+   </einkaufliste>
+   <rezept>
+      <Tag_1     >
+          <inhalt>Mehl und Wasser in einem Glas mischen, Deckel aufs Glas legen (nicht verschliessen), bei Raumtemperatur ca. 24 Std. ruhen lassen. </inhalt>
+      </Tag_1     >
+      <Tag_2-9   >
+          <inhalt>Jeden Tag 60 g der angesetzten Starterkultur in das andere saubere Glas geben. Rest entsorgen. Roggen- und Weissmehl mit dem Wasser beigeben, gut mischen. Deckel aufs Glas legen (nicht verschliessen), bei Raumtemperatur ca. 24 Std. ruhen lassen. Gebrauchtes Glas gut reinigen, fuer den naechsten Tag bereit stellen. </inhalt>
+      </Tag_2-9   >
+      <Tag_10-12 >
+          <inhalt>Jeden Tag 25 g der Starterkultur mit dem Weissmehl und Wasser mischen, Deckel aufs Glas legen (nicht verschliessen), bei Raumtemperatur ca. 24 Std. ruhen lassen. Rest entsorgen. </inhalt>
+      </Tag_10-12 >
+      <13_Tag    >
+          <inhalt>Am 13. Tag weist der Sauerteig regelmaessige kleine Blasenbildung auf und kann somit zum Backen von Brot verwendet werden (siehe Rezept Weizen-Sauerteigbrot). </inhalt>
+      </13_Tag    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>353 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>51 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bruehe     >
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in Scheiben</zutat>
+          <quant>150 g</quant>
+          <zutat>Knollensellerie, in Stuecken</zutat>
+          <quant>150 g</quant>
+          <zutat>Lauch, in Stuecken</zutat>
+          <quant>150 g</quant>
+          <zutat>Wirz, in Stuecken</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gequetscht</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Koriander</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, in Scheiben</zutat>
+          <quant>6 </quant>
+          <zutat>Pfefferkoerner, zerdrueckt</zutat>
+      </Bruehe     >
+      <Mongolentopf>
+          <quant>300 g</quant>
+          <zutat>Broccoli, in kleinen Roesschen</zutat>
+          <quant>100 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>2 </quant>
+          <zutat>Tomaten, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, in feinen Streifen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, grob geschnitten</zutat>
+      </Mongolentopf>
+      <Fleisch_und_Meeresfruechte>
+          <quant>200 g</quant>
+          <zutat>geschaelte rohe Crevetten </zutat>
+          <quant>300 g</quant>
+          <zutat>Kalbsplaetzli, in duennen Tranchen</zutat>
+          <quant>300 g</quant>
+          <zutat>Rindshuft, in duennen Tranchen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Fleisch_und_Meeresfruechte>
+   </einkaufliste>
+   <rezept>
+      <Bruehe     >
+          <inhalt>Oel in einem grossen Topf erhitzen. Zwiebeln und Rueebli ca. 5 Min. anbraten. Restliches Gemuese beigeben, kurz mitbraten. Wasser dazugiessen, aufkochen. Kraeuter, Ingwer und Pfefferkoerner beigeben, bei kleiner Hitze ca. 1 Std. koecheln., Bruehe absieben, Gemuese entfernen. </inhalt>
+      </Bruehe     >
+      <Mongolentopf>
+          <inhalt>Bruehe in den Mongolentopf giessen, heiss halten. Gemuese und Koriander beigeben, ca. 5 Min. koecheln. </inhalt>
+      </Mongolentopf>
+      <Fleisch_und_Meeresfruechte>
+          <inhalt>Crevetten und Fleisch portionenweise im Sud ziehen lassen, wuerzen. </inhalt>
+      </Fleisch_und_Meeresfruechte>
+   </rezept>
+</Rezept>

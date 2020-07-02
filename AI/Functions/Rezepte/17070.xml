@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>668 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nuesse_    >
+          <quant>80 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+      </Nuesse_    >
+      <Pilz-Gnocchi>
+          <quant>2 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>400 g</quant>
+          <zutat>Champignons, geviertelt</zutat>
+          <quant>300 g</quant>
+          <zutat>Kartoffelgnocchi</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Gartenkresse</zutat>
+      </Pilz-Gnocchi>
+   </einkaufliste>
+   <rezept>
+      <Nuesse_    >
+          <inhalt>Nuesse in einer beschichteten Bratpfanne ohne Fett goldbraun roesten, beiseite stellen. </inhalt>
+      </Nuesse_    >
+      <Pilz-Gnocchi>
+          <inhalt>Butter in derselben Pfanne erhitzen, Pilze portionenweise je ca. 5 Min. anbraten. Gnocchi beigeben, ca. 4 Min. mitbraten, wuerzen. Beiseite gestellte Nuesse daruntermischen, Gartenkresse darueberstreuen. </inhalt>
+      </Pilz-Gnocchi>
+   </rezept>
+</Rezept>

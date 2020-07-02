@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>334 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>48 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pancakes-Masse_>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>10 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>Prise </quant>
+          <zutat>Salz</zutat>
+      </Pancakes-Masse_>
+      <Speck_    >
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+      </Speck_    >
+      <Pancake-Raclette_>
+          <quant>wenig </quant>
+          <zutat>Butter, weich</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Beerenmischung</zutat>
+      </Pancake-Raclette_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Pancakes-Masse                </inhalt>
+      </How_To    >
+      <Pancakes-Masse_>
+          <inhalt>Eiweiss mit Salz steif schlagen, sorgfaeltig unter die Masse ziehen. </inhalt>
+      </Pancakes-Masse_>
+      <Speck_    >
+          <inhalt>Speck in einer beschichteten Bratpfanne ohne Fett langsam knusprig braten. Ahornsirup beigeben, ca. 1 Min. weiterbraten. </inhalt>
+      </Speck_    >
+      <Pancake-Raclette_>
+          <inhalt>Raclette-Pfaennchen mit wenig Butter bestreichen, im Raclette-Ofen heiss werden lassen. So viel Teig in die Pfaennchen geben, dass die Boeden duenn ueberzogen sind, Beeren darauf verteilen. Pancakes backen, bis sich die Unterseite von selbst loest, wenden, fertig backen. Speck darauf verteilen. </inhalt>
+      </Pancake-Raclette_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

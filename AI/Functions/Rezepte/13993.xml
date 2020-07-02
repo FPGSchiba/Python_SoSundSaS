@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>155 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>200 g</quant>
+          <zutat>Schinkentranchen, fein gehackt</zutat>
+          <quant>2 TL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Formen    >
+          <quant>2 </quant>
+          <zutat>rund ausgewallte Blaetterteige</zutat>
+          <quant>1 </quant>
+          <zutat>Eiweiss</zutat>
+          <quant>1 </quant>
+          <zutat>Eigelb, mit etwas Wasser verduennt</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Alle Zutaten in einer Schuessel gut mischen, wuerzen.</inhalt>
+      </Fuellung   >
+      <Formen    >
+          <inhalt>Teige in je 8 "Kuchenstuecke" schneiden. Fuellung gleichmaessig darauf verteilen, dabei rundum einen ca. 1 cm breiten Rand freilassen. Raender mit Eiweiss bestreichen. Stuecke zur Spitze hin aufrollen. Enden einlegen und gut zusammendruecken. Gipfeli auf ein mit Backpapier belegtes Blech legen, mit Eigelb bestreichen.</inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

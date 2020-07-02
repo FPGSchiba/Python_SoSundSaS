@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>313 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese_   >
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>300 g</quant>
+          <zutat>Bundrueebli, in ca. 2 mm dicken Scheiben</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen</zutat>
+          <quant>150 g</quant>
+          <zutat>Hinterschinken, in Streifen</zutat>
+      </Gemuese_   >
+      <Frittata  >
+          <quant>6 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>80 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>50 g</quant>
+          <zutat>Kresse</zutat>
+      </Frittata  >
+   </einkaufliste>
+   <rezept>
+      <Gemuese_   >
+          <inhalt>Oel in einer beschichteten Bratpfanne warm werden lassen. Gemuese ca. 4 Min. daempfen, Schinken daruntermischen.</inhalt>
+      </Gemuese_   >
+      <Frittata  >
+          <inhalt>Eier verklopfen, mit Milch und Kaese mischen, wuerzen, ueber das Gemuese giessen. Masse zugedeckt bie kleiner Hitze ca. 10 Min. fest werden lassen. Einen flachen Teller auf die Pfanne legen, Frittata uf den Teller stuerzen, zurueck in die Pfanne gleiten lassen, offen ca. 5 Min. fertig backen. Kresse darauf geben.</inhalt>
+      </Frittata  >
+   </rezept>
+</Rezept>

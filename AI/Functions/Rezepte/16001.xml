@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>613 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rigatoni  >
+          <quant>150 g</quant>
+          <zutat>Teigwaren (z.B. Rigatoni)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>120 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Rigatoni  >
+      <Aubergine >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine, in Wuerfeli</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Aubergine >
+      <Fertigstellen>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Rigatoni  >
+          <inhalt>Teigwaren im siedenden Salzwasser knapp al dente kochen, Jungspinat ca. 1 Min. vor Ende der Kochzeit beigeben. Teigwaren und Spinat abtropfen, in eine Schuessel geben. </inhalt>
+      </Rigatoni  >
+      <Aubergine >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Aubergine ca. 4 Min. ruehrbraten, wuerzen, zu den Teigwaren geben, mischen. </inhalt>
+      </Aubergine >
+      <Fertigstellen>
+          <inhalt>Oel und Feta daruntermischen, wuerzen, Salat lauwarm servieren. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

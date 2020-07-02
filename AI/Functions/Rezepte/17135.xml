@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>716 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Baumnusssauce>
+          <quant>100 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>50 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Baumnusssauce>
+      <Fusilli   >
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Fusilli)</zutat>
+          <quant>200 g</quant>
+          <zutat>gewaschener, geruesteter Federkohl</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>30 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+      </Fusilli   >
+   </einkaufliste>
+   <rezept>
+      <Baumnusssauce>
+          <inhalt>Baumnusskerne mit Kaese, Knoblauch, Milch und Oel im Cutter mixen, wuerzen. </inhalt>
+      </Baumnusssauce>
+      <Fusilli   >
+          <inhalt>Teigwaren mit dem Federkohl im Salzwasser knapp al dente kochen. Steinpilze ca. 3 Min. vor Ende der Kochzeit beigeben. Alles abtropfen, dabei ca. 1 dl Kochwasser auffangen. Teigwaren mit dem Kochwasser und der Baumnusssauce mischen.</inhalt>
+      </Fusilli   >
+   </rezept>
+</Rezept>

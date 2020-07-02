@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>758 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>97 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pizza_    >
+          <quant>2 </quant>
+          <zutat>rund ausgewallte Pizzateige (ca. 28 Ø cm)</zutat>
+          <quant>200 g</quant>
+          <zutat>Doppelrahmfrischkaese (z.B. Philadelphia)</zutat>
+          <quant>300 g</quant>
+          <zutat>Blaue St. Galler Kartoffeln, in 2 mm dicke Scheiben gehobelt</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Ringen</zutat>
+          <quant>150 g</quant>
+          <zutat>Ziegenfrischkaese</zutat>
+      </Pizza_    >
+      <Backen    >
+          <quant>40 g</quant>
+          <zutat>Blattspinat</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Pizza_    >
+          <inhalt>Teige mitsamt dem Backpapier auf 2  Bleche legen, mit Frischkaese bestreichen, mit Kartoffeln und Zwiebeln belegen. Ziegenfrischkaese daraufverteilen. </inhalt>
+      </Pizza_    >
+      <Backen    >
+          <inhalt>Pro Blech ca. 16 Min. auf der untersten Rille des auf 240 Grad vorgeheizten Ofens. Spinat darueberstreuen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

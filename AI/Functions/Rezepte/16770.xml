@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>400 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>44 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muerbeteig >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, kalt, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Muerbeteig >
+      <Schokoladen-Auskleidung>
+          <quant>120 g</quant>
+          <zutat>Couverture Drops dunkel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Schokoladestreusel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Haselnuesse, fein gehackt</zutat>
+      </Schokoladen-Auskleidung>
+      <Servieren >
+          <quant>3 dl</quant>
+          <zutat>starker Kaffee oder Milch</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Muerbeteig >
+          <inhalt>Mehl, Zucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Muerbeteig >
+      <Tassen_formen>
+          <inhalt>Teig zwischen zwei Backpapieren ca. 3 mm dick auswallen, zu Streifen von je ca. 6 x 15 cm schneiden. Die Raender der Ringe mit Teigstreifen auskleiden, leicht andruecken. Teigresten zusammenfuegen, ca. 3 mm dick auswallen. Metallringe daraufstellen, Boeden damit ausstechen, auf ein mit Backpapier belegtes Blech stellen, ca. 30 Min. kuehl stellen. Teigboeden mit einer Gabel dicht einstechen. </inhalt>
+      </Tassen_formen>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen, Cookie cups aus den Ringen loesen. </inhalt>
+      </Backen    >
+      <Schokoladen-Auskleidung>
+          <inhalt>Couverture Drops in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Innenseiten der Cups mit Schokolade ueberziehen. Raender leicht in die Schokolade tunken, mit Schokoladenstreuseln oder Nuessen verzieren. Ca. 30 Min. kuehl stellen. </inhalt>
+      </Schokoladen-Auskleidung>
+      <Servieren >
+          <inhalt>Kaffee oder Milch in die Cookie cups giessen. Kaffee trinken und Cups essen. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

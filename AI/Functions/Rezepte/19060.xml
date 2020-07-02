@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>421 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suesskartoffeln>
+          <quant>1 kg</quant>
+          <zutat>Suesskartoffel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Suesskartoffeln>
+      <Backen_   >
+          <quant>8 Tranchen</quant>
+          <zutat>Bratspeck (ca. 100 g)</zutat>
+          <quant>8 </quant>
+          <zutat>frische Eier</zutat>
+      </Backen_   >
+      <Fertig_backen_>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel, in Ringen</zutat>
+      </Fertig_backen_>
+   </einkaufliste>
+   <rezept>
+      <Suesskartoffeln>
+          <inhalt>Suesskartoffeln mit einer Gabel 3-mal einstechen, mit Oel bestreichen, salzen, auf mit Backpapier belegtes Blech stellen.</inhalt>
+      </Suesskartoffeln>
+      <Backen_   >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, Kartoffeln in der Mitte einschneiden, etwas auseinanderdruecken. Mit einem Essloeffel eine Mulde eindruecken, je eine Specktranche hineinlegen, je 1 Ei sorgfaeltig in die Mulde geben.</inhalt>
+      </Backen_   >
+      <Fertig_backen_>
+          <inhalt>Ca.10 Min. in der Mitte des Ofens. Bundzwiebel darueberstreuen.</inhalt>
+      </Fertig_backen_>
+   </rezept>
+</Rezept>

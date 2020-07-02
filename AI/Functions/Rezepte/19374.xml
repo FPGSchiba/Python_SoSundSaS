@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>162 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>20 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Masse     >
+          <quant> </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>60 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>150 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+      </Masse     >
+      <Kuchen-Baellchen>
+          <quant>1 </quant>
+          <zutat>rundes Biskuit  (hell, ca. 320 g)</zutat>
+      </Kuchen-Baellchen>
+      <Verzierung>
+          <quant>18 </quant>
+          <zutat>lange Holzspiesschen</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>weisse Kuchenglasur  (ca. 120 g)</zutat>
+          <quant> </quant>
+          <zutat>Fondant, weiss</zutat>
+          <quant> </quant>
+          <zutat>Zuckerdekor-Stift  (choco)</zutat>
+          <quant> </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>60 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>150 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>1 </quant>
+          <zutat>rundes Biskuit  (hell, ca. 320 g)</zutat>
+          <quant>18 </quant>
+          <zutat>lange Holzspiesschen</zutat>
+          <quant>1 Beutel</quant>
+          <zutat>weisse Kuchenglasur  (ca. 120 g)</zutat>
+          <quant> </quant>
+          <zutat>Fondant, weiss</zutat>
+          <quant> </quant>
+          <zutat>Zuckerdekor-Stift  (choco)</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Masse     >
+          <inhalt>                              </inhalt>
+      </Masse     >
+      <Kuchen-Baellchen>
+          <inhalt>Biskuit im Cutter fein mahlen, daruntermischen und zu einer kompakten Masse zusammenfuegen. Masse in 18 Portionen teilen, </inhalt>
+      </Kuchen-Baellchen>
+      <Verzierung>
+          <inhalt>                              </inhalt>
+      </Verzierung>
+   </rezept>
+</Rezept>

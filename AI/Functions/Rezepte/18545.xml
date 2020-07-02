@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>210 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Paeckli    >
+          <quant>12 Scheiben</quant>
+          <zutat>Raclettekaese (ca. 400 g), diagonal halbiert</zutat>
+          <quant>12 </quant>
+          <zutat>weiche Doerraprikosen, halbiert</zutat>
+          <quant>100 g</quant>
+          <zutat>Mostbroeckli</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, geschmolzen, abgekuehlt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kuemmel</zutat>
+      </Paeckli    >
+   </einkaufliste>
+   <rezept>
+      <Paeckli    >
+          <inhalt>12 Kaesescheiben mit je 2 Doerraprikosen belegen. Restlichen Kaese darauflegen und mit je 2 Tranchen Mostbroeckli umwickeln. Teigblaetter sorgfaeltig auseinanderfalten, je laengs dritteln (ergibt 12 Streifen). Teigstreifen mit wenig Butter bestreichen, je ein Kaesepaeckli in eine Ecke legen, mehrmals einklappen. Ecken auf ein mit Backpapier belegtes Blech legen, mit wenig Butter bestreichen, Kuemmel darueberstreuen. Mit den restlichen Teigstreifen gleich verfahren. </inhalt>
+      </Paeckli    >
+      <Backen_   >
+          <inhalt>Ca. 10 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, warm servieren. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

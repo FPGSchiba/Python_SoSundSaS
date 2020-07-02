@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>249 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 dl</quant>
+          <zutat>brauner Rum (z.B. Havana Club Añejo 7 Años)</zutat>
+          <quant>1 dl</quant>
+          <zutat>weisser Portwein oder Lillet Blanc</zutat>
+          <quant>1 dl</quant>
+          <zutat>Orangenlikoer (z.B. Cointreau)</zutat>
+          <quant>einige </quant>
+          <zutat>Eiswuerfel</zutat>
+          <quant>einige </quant>
+          <zutat>rote Herzkirschen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Rum und Zutaten bis und mit Eiswuerfel in einen grossen Becher geben, kalt ruehren. Drink auf die Glaeser verteilen, mit Herzkirschen garnieren.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

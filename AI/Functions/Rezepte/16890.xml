@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>375 kcal</NaehrwertProPerson>
+       <Fett>33 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, grob gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Noilly Prat</zutat>
+          <quant>5 dl</quant>
+          <zutat>Fischbouillon</zutat>
+          <quant>3 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Dill, fein geschnitten</zutat>
+      </Suppe     >
+      <Jakobsnuesse>
+          <quant>4 </quant>
+          <zutat>Jakobsnuesse ohne Rogen (MSC)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Jakobsnuesse>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suppe                         </inhalt>
+      </How_To    >
+      <Suppe     >
+          <inhalt>Bouillon und Rahm dazugiessen, aufkochen. Hitze reduzieren, Safran beigeben, ca. 25 Min. koecheln, wuerzen. Suppe puerieren, bis sie schaumig ist. Dill darueberstreuen.</inhalt>
+      </Suppe     >
+      <Jakobsnuesse>
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen. Hitze reduzieren, Jakobsnuesse wuerzen, beidseitig je ca. 2 Min. braten, auf der zur Suppe anrichten.  </inhalt>
+      </Jakobsnuesse>
+   </rezept>
+</Rezept>

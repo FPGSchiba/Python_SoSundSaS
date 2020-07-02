@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>320 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salsa     >
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>400 g</quant>
+          <zutat>Tomaten, in Wuerfeli</zutat>
+          <quant>120 g</quant>
+          <zutat>Mozzarella-Perlen</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+      </Salsa     >
+      <Avocado   >
+          <quant>2 </quant>
+          <zutat>Avocados, halbiert</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Avocado   >
+      <Grillieren>
+          <quant>1/2 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Grillieren>
+   </einkaufliste>
+   <rezept>
+      <Salsa     >
+          <inhalt>Limettensaft, Oel, Salz und Pfeffer verruehren, Tomaten und alle Zutaten bis und mit Zimt beigeben, mischen.</inhalt>
+      </Salsa     >
+      <Avocado   >
+          <inhalt>Avocado mit dem Oel bestreichen, in die Grillschale legen.</inhalt>
+      </Avocado   >
+      <Grillieren>
+          <inhalt>Holzkohle-, Gas- oder Elektrogrill: Avocado ueber mittelstarker Glut oder auf mittlerer Stufe (ca. 200 Grad) zugedeckt beidseitig je ca. 4 Min. grillieren. Fleur de Sel darueberstreuen, mit der Salsa anrichten.</inhalt>
+      </Grillieren>
+   </rezept>
+</Rezept>

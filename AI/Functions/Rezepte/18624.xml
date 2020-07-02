@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>320 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zwiebel-Pickles>
+          <quant>4 </quant>
+          <zutat>rote Zwiebeln, in Ringen</zutat>
+          <quant>1 dl</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 TL</quant>
+          <zutat>Dattelsirup</zutat>
+          <quant>3 TL</quant>
+          <zutat>Salz</zutat>
+      </Zwiebel-Pickles>
+      <Jackfruit >
+          <quant>2 Dosen</quant>
+          <zutat>Jackfruit  (je ca. 200 g), abgetropft</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Dattelsirup</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, halbiert, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+      </Jackfruit >
+      <Tahina-Miso-Dressing>
+          <quant>2 EL</quant>
+          <zutat>Tahina </zutat>
+          <quant>1 EL</quant>
+          <zutat>Miso-Paste</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Tahina-Miso-Dressing>
+      <Salat-_Schiffchen>
+          <quant>4 </quant>
+          <zutat>Mini-Lattiche</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Maiskoerner, abgetropft (ca. 285 g)</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander</zutat>
+      </Salat-_Schiffchen>
+   </einkaufliste>
+   <rezept>
+      <Zwiebel-Pickles>
+          <inhalt>Zwiebeln in ein hohes Gefaess geben. Essig und alle Zutaten bis und mit Salz unter Ruehren aufkochen, ueber die Zwiebel giessen, auskuehlen. Zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Zwiebel-Pickles>
+      <Jackfruit >
+          <inhalt>Jackfruit in eine Schuessel geben, zerzupfen. Wasser mit allen Zutaten bis und mit Dattelsirup dazugiessen, mischen. Zwiebeln und Knoblauch im Kokosoel ca. 3 Min. andaempfen. Jackfruit mit der Marinade beigeben, aufkochen, Hitze reduzieren, bei mittlerer Hitze ca. 25 Min. koecheln. Jackfruit auskuehlen.</inhalt>
+      </Jackfruit >
+      <Tahina-Miso-Dressing>
+          <inhalt>Tahina, Miso-Paste, Wasser, Limettensaft und Salz gut verruehren.</inhalt>
+      </Tahina-Miso-Dressing>
+      <Salat-_Schiffchen>
+          <inhalt>Die Lattichblaetter auf Teller anrichten, mit Jackfruit und Pickles fuellen. Dressing daruebertraeufeln, mit Maiskoernern und Koriander garnieren.</inhalt>
+      </Salat-_Schiffchen>
+   </rezept>
+</Rezept>

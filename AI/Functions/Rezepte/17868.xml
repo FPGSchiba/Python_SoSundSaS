@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>208 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Jogurtmasse>
+          <quant>400 g</quant>
+          <zutat>griechischer Jogurt nature nature</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Jogurtmasse>
+      <Rhabarbermasse>
+          <quant>300 g</quant>
+          <zutat>roter Rhabarber, fein geschnitten</zutat>
+          <quant>70 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+      </Rhabarbermasse>
+   </einkaufliste>
+   <rezept>
+      <Jogurtmasse>
+          <inhalt>Jogurt, Zucker und Zitronensaft in einer Chromstahlschuessel verruehren, Schlagrahm sorgfaeltig darunterziehen.  Zugedeckt ca. 3 Std. gefrieren, dabei 3-mal durchruehren. </inhalt>
+      </Jogurtmasse>
+      <Rhabarbermasse>
+          <inhalt>Rhabarber mit Zucker und Wasser in einer Pfanne mischen, aufkochen. Hitze reduzieren, Rhabarber zugedeckt ca. 5 Min. weich koecheln, puerieren, auskuehlen. Rhabarber unter die Jogurtmasse ziehen,  zugedeckt ca. 3 Std. fertig gefrieren, dabei einmal gut durchruehren. </inhalt>
+      </Rhabarbermasse>
+   </rezept>
+</Rezept>

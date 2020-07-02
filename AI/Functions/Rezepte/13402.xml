@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>163 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Huettenkaese-Fuellung>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature, abgespuelt, abgetropft</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Salz</zutat>
+          <quant>nach Bedarf </quant>
+          <zutat>Pfeffer</zutat>
+      </Huettenkaese-Fuellung>
+      <Auberginen>
+          <quant>2 </quant>
+          <zutat>Auberginen, in 1 cm dicken Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Auberginen>
+   </einkaufliste>
+   <rezept>
+      <Huettenkaese-Fuellung>
+          <inhalt>Huettenkaese, Tomaten und Basilikum in einer Schuessel mischen, wuerzen.  </inhalt>
+      </Huettenkaese-Fuellung>
+      <Auberginen>
+          <inhalt>Auberginenscheiben beidseitig mit Oel bestreichen. In der heissen Grillpfanne portionenweise beidseitig je ca. 7 Min. braten, wuerzen. Die Haelfte der Auberginenscheiben mit je 1 EL Huettenkaese belegen, mit den restlichen Auberginenscheiben bedecken. </inhalt>
+      </Auberginen>
+   </rezept>
+</Rezept>

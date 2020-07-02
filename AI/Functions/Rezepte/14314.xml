@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>296 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muerbeteig >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>3 EL</quant>
+          <zutat>Haselnuesse, fein gehackt</zutat>
+      </Muerbeteig >
+      <Vermicelles>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>280 g</quant>
+          <zutat>tiefgekuehltes Marronipueree, aufgetaut</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kirsch</zutat>
+      </Vermicelles>
+   </einkaufliste>
+   <rezept>
+      <Muerbeteig >
+          <inhalt>Mehl, Zucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig in 12 Portionen teilen, in das vorbereitete Blech verteilen, von Hand zu Boedeli mit ca. 1 cm hohem Rand formen, Boden mit einer Gabel dicht einstechen. Nuesse darauf verteilen, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Muerbeteig >
+      <Blindbacken:>
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Boedeli aus dem Blech nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Blindbacken:>
+      <Vermicelles>
+          <inhalt>Schlagrahm auf die Boedeli verteilen. Marroni-Pueree mit dem Kirsch verruehren, durch die Vermicelles-Presse treiben und die Toertli damit verzieren</inhalt>
+      </Vermicelles>
+   </rezept>
+</Rezept>

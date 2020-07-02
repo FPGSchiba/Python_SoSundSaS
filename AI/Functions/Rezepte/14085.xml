@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>784 kcal</NaehrwertProPerson>
+       <Fett>55 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>58 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Raclette-Hawaii_>
+          <quant>800 g</quant>
+          <zutat>Raclettekaese in Scheiben (z.B.Raclettekaese mit Chili)</zutat>
+          <quant>700 g</quant>
+          <zutat>Baby-Ananas, geviertelt, in ca. 1 cm dicken Scheiben</zutat>
+          <quant>150 g</quant>
+          <zutat>Schinken in Tranchen, in feinen Streifen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Curry</zutat>
+      </Raclette-Hawaii_>
+   </einkaufliste>
+   <rezept>
+      <Raclette-Hawaii_>
+          <inhalt>Kaesescheiben in die Raclette-Pfaennchen legen, Ananas und Schinken darauf verteilen, wuerzen. Unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen.  </inhalt>
+      </Raclette-Hawaii_>
+   </rezept>
+</Rezept>

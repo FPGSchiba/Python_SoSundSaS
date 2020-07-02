@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>269 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>38 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorteig   >
+          <quant>3 1/2 dl</quant>
+          <zutat>Milch (laktosefrei), lauwarm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Pack</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>25 g</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>130 g</quant>
+          <zutat>Butter (laktosefrei), weich</zutat>
+      </Vorteig   >
+      <Teig      >
+          <quant>400 g</quant>
+          <zutat>glutenfreies Mehl</zutat>
+          <quant>100 g</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch (laktosefrei)</zutat>
+          <quant>40 g</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Teig      >
+      <Lauge     >
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verkloft</zutat>
+      </Lauge     >
+   </einkaufliste>
+   <rezept>
+      <Vorteig   >
+          <inhalt>Milch, Zucker, Hefe, Flohsamen und Butter mischen, ca. 15. Min. quellen lassen.</inhalt>
+      </Vorteig   >
+      <Teig      >
+          <inhalt>Vorteig, Mehl und alle Zutaten mit der Kuechenmaschine schnell und kurz kneten. Teig achteln, je ca. 30 cm langen Straengen formen, die an den Enden duenner werden. 4 Zoepfe flechten, auf ein mit Backpapier belegtes Blech legen. Zugedeckt bei Raumtemperatur ca. 30 Min. aufgehen lassen. </inhalt>
+      </Teig      >
+      <Lauge     >
+          <inhalt>Wasser und Natron verruehren, die Haelfte der Zoepfe mit der Natronlaugen und die andere mit Ei bestreichen. In der unteren der Haelfte des kalten Ofens einschieben. Ofen auf 200 Grad einschalten. </inhalt>
+      </Lauge     >
+      <Backen    >
+          <inhalt>Ca. 40 Min. Zoepfe herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

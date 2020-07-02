@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>54 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>220 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Anis</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kirsch</zutat>
+          <quant>320 g</quant>
+          <zutat>glutenfreies Mehl (Schaer Brot-Mix)</zutat>
+          <quant>2 TL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Eier und Puderzucker mit den Schwingbesen des Handruehrgeraets ca. 4 Min. ruehren, bis die Masse heller ist. Anis und Kirsch darunterruehren. Mehl und Flohsamen mischen, unter die Eimasse mischen. </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Teig portionenweise auf wenig Mehl ca. 1 cm dick auswallen. Beliebige Formen (z.B. Blumen) ausstechen, auf zwei leicht gefettete Bleche legen. Ca. 12 Std. oder ueber Nacht trocknen lassen. </inhalt>
+      </Formen    >
+      <Backen    >
+          <inhalt>Pro Blech ca. 15 Min. in der unteren Haelfte des auf 150 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, sorgfaeltig mit einem Spachtel vom Blech loesen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>469 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>20 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Butter    >
+          <quant>50 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>2 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Butter    >
+      <Kartoffeln>
+          <quant>800 g</quant>
+          <zutat>fest kochende Kartoffeln, in ca. 2 mm dicken Scheiben gehobelt</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Rosmarin, fein gehackt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>25 g</quant>
+          <zutat>Butter, fluessig</zutat>
+      </Kartoffeln>
+      <Gemuese    >
+          <quant>200 g</quant>
+          <zutat>Mini-Patissons, halbiert</zutat>
+          <quant>200 g</quant>
+          <zutat>Mini-Kefen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Gemuese    >
+      <Muscheln  >
+          <quant>12 </quant>
+          <zutat>Jakobsnuesse ohne Rogen (MSC) (je ca. 40 g)</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Muscheln  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter                        </inhalt>
+      </How_To    >
+      <Butter    >
+          <inhalt>Kartoffeln                    </inhalt>
+      </Butter    >
+      <Kartoffeln>
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Kartoffeln>
+      <Gemuese    >
+          <inhalt>1/2 EL beiseitegestellte Schnittlauch Butter warm werden lassen, Gemuese ca. 2 Min. andaempfen, zugedeckt ca. 10 Min. fertig daempfen, wuerzen.</inhalt>
+      </Gemuese    >
+      <Muscheln  >
+          <inhalt>Muscheln trocken tupfen. Butter in einer beschichteten Bratpfanne heiss werden lassen. Muscheln bei mittlerer Hitze beidseitig je ca. 2 Min. braten, wuerzen.</inhalt>
+      </Muscheln  >
+      <Anrichten >
+          <inhalt>Kartoffeln mit dem Messer vom Foermchenrand loesen, mithilfe eines Loeffels aus den Foermchen heben, mit dem Gemuese auf Tellern anrichten. Jakobsmuscheln daneben anrichten, Schnittlauchbutter darauf verteilen.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

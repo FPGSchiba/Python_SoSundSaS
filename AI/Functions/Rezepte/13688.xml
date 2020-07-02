@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>398 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nudeln_&amp;_Sauce>
+          <quant>400 g</quant>
+          <zutat>getrocknete Soba-Nudeln</zutat>
+          <quant>4 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>25 ml</quant>
+          <zutat>Mirin  (japanischer Reiswein)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Nudeln_&amp;_Sauce>
+      <Gemuese    >
+          <quant>2 </quant>
+          <zutat>Bundzwiebeln</zutat>
+          <quant>1 TL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>250 g</quant>
+          <zutat>duenne gruene Spargeln, holzige Enden gekuerzt</zutat>
+          <quant>50 g</quant>
+          <zutat>Meerrettich, wenn moeglich schwarzer</zutat>
+          <quant>6 </quant>
+          <zutat>Nori-Blaetter</zutat>
+          <quant>2 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Nudeln_&amp;_Sauce>
+          <inhalt>Nudeln nach Verpackungsanleitung kochen, abtropfen, kalt abspuelen. Eier ca. 7 Min. kochen, kalt abspuelen. Fuer die Sauce Mirin, Sojasauce und Zucker in einem Pfaennchen verruehren, aufkochen, 2-3 Min. koecheln, auskuehlen.</inhalt>
+      </Nudeln_&amp;_Sauce>
+      <Gemuese    >
+          <inhalt>Bundzwiebeln in ca. 4 cm lange Stuecke, dann laengs in feine Streifen schneiden, in eine Schuessel mit kaltem Wasser legen, bis sich leicht kringeln. Sesamoel in einer Bratpfanne erwaermen, Spargeln andaempfen, 2 EL Sauce beigeben, aufkochen. Nudeln und Spargeln in 4 Bowls verteilen. Bundzwiebeln abtropfen, darauf verteilen. Eier schaelen, halbieren, je zwei Haelften darauf geben. Noriblaetter zerbroeseln, mit dem Sesam ueber die Bowls streuen. Restliche Sauce separat dazu zum Dippen servieren.</inhalt>
+      </Gemuese    >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=apisdZw9OBo"/>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

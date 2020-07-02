@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>285 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>30 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>500 g</quant>
+          <zutat>Rindshuft am Stueck</zutat>
+          <quant>1 </quant>
+          <zutat>roter Chili</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>1 dl</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>light Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Fleisch   >
+      <Radiesli  >
+          <quant>2 Bund</quant>
+          <zutat>Radiesli</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Radiesli  >
+      <Kopfsalat >
+          <quant>1 </quant>
+          <zutat>Kopfsalat mit Herzen</zutat>
+      </Kopfsalat >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Fleisch in ca. 5 mm breite Streifen schneiden, Peperoncino entkernen, fein hacken, Knoblauch pressen. Limettensaft mit Sojasauce, Peperoncino, Knoblauch und Sesamoel mischen. Oel in einer Bratpfanne erhitzen, Fleisch portionenweise ca. 2 Min. braten, mit der Sauce mischen, auskuehlen.</inhalt>
+      </Fleisch   >
+      <Radiesli  >
+          <inhalt>Radiesli in Wuerfeli schneiden, Petersilie grob schneiden, beides zum Fleisch geben, wuerzen. </inhalt>
+      </Radiesli  >
+      <Kopfsalat >
+          <inhalt>Kopfsalat in Blaetter teilen, auf Tellern anrichten, Salat darauf verteilen.</inhalt>
+      </Kopfsalat >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=v7pzsRp0cao"/>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

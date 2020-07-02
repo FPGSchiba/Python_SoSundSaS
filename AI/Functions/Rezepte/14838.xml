@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>567 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>109 g </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sud_zubereiten>
+          <quant>3 dl</quant>
+          <zutat>Cassissirup (unverduennt)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 </quant>
+          <zutat>Zimtstangen</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten</zutat>
+      </Sud_zubereiten>
+      <Orangen_schaelen>
+          <quant>4 </quant>
+          <zutat>Orangen</zutat>
+      </Orangen_schaelen>
+      <Anrichten >
+          <quant>370 ml</quant>
+          <zutat>Glace Fior di Latte</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Sud_zubereiten>
+          <inhalt>Cassissirup und alle Zutaten bis und mit Vanille aufkochen, Pfanne von der Platte nehmen, etwas abkuehlen.</inhalt>
+      </Sud_zubereiten>
+      <Orangen_schaelen>
+          <inhalt>Von den Orangen Boden und Deckel, dann Schale ringsum bis auf das Fruchtfleisch wegschneiden. Orangen in eine weite Schuessel geben. Sirup daruebergiessen, auskuehlen, zugedeckt im Kuehlschrank ca. 12 Std. ziehen lassen. Orangen dabei ab und zu wenden.</inhalt>
+      </Orangen_schaelen>
+      <Anrichten >
+          <inhalt>Orangen in Scheiben schneiden. Glace mit dem Glaceausstecher zu Kugeln formen, mit den Orangen anrichten, Sirup daruebertraeufeln.</inhalt>
+      </Anrichten >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=yNIMAigQY0Y"/>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

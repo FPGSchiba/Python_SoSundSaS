@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>560 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sommergemuese>
+          <quant>500 g</quant>
+          <zutat>Auberginen (z. B. Auberginen Tonda) , in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>400 g</quant>
+          <zutat>Zucchetti, in ca. 4 cm langen Staengeln</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Schnitzen</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sommergemuese>
+      <Pasta     >
+          <quant>250 g</quant>
+          <zutat>Teigwaren (z.B. Orecchiette)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Pasta     >
+      <Pastasalat>
+          <quant>5 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>150 g</quant>
+          <zutat>Ziegenkaese (z.B. Chavraoux Tendre Buche), in ca. 7 mm breiten Scheiben, diagonal halbiert</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, grob zerzupft</zutat>
+      </Pastasalat>
+   </einkaufliste>
+   <rezept>
+      <Sommergemuese>
+          <inhalt>Auberginen und alle Zutaten bis und mit Pfeffer auf einem mit Backpapier belegten Blech mischen.</inhalt>
+      </Sommergemuese>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Blech herausnehmen, Gemuese in eine grosse Schuessel geben</inhalt>
+      </Backen    >
+      <Pasta     >
+          <inhalt>Pasta im siedenden Salzwasser al dente kochen, abtropfen. Pasta zum Gemuese geben, mischen. </inhalt>
+      </Pasta     >
+      <Pastasalat>
+          <inhalt>Essig und Oel dazugiessen, wuerzen. Pastasalat zugedeckt ca. 15 Min. ziehen lassen. Kaese und Basilikum unter den Pastasalat mischen, anrichten. </inhalt>
+      </Pastasalat>
+   </rezept>
+</Rezept>

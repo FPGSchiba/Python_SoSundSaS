@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>703 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Wurst_und_Wirz>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>rohe Schweinsbratwuerste, Wurstfleisch aus der Darm gedrueckt, zu ca. 2 cm grossen Baellchen geformt</zutat>
+          <quant>1 </quant>
+          <zutat>rotschaliger Apfel, in Schnitzen</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, in feinen Streifen</zutat>
+          <quant>600 g</quant>
+          <zutat>Wirz, in feinen Streifen</zutat>
+          <quant>250 g</quant>
+          <zutat>Champignons, in Scheibchen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Wurst_und_Wirz>
+      <Reis      >
+          <quant>200 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Reis      >
+   </einkaufliste>
+   <rezept>
+      <Wurst_und_Wirz>
+          <inhalt>Wenig Bratbutter in einer Bratpfanne erhitzen. Fleisch und Apfelschnitze portionenweise unter gelegentlichem Wenden ca. 7 Min. braten, herausnehmen. Wenig Bratbutter in derselben Pfanne erwaermen. Schalotten andaempfen, Wirz und Pilze beigeben, salzen, ca. 15 Min. mitdaempfen. Bouillon und Rahm dazugiessen, ca. 10 Min. koecheln, wuerzen. Fleisch und Apfelschnitze wieder beigeben, warm werden lassen. </inhalt>
+      </Wurst_und_Wirz>
+      <Reis      >
+          <inhalt>Reis im siedenden Salzwasser weich kochen, abtropfen. Wurst-Wirzpfanne mit dem Wildreis servieren.  </inhalt>
+      </Reis      >
+   </rezept>
+</Rezept>

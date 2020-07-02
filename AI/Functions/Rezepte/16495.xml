@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>579 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>138 g </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sirup_    >
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Zimt</zutat>
+      </Sirup_    >
+      <Chips_    >
+          <quant>1 </quant>
+          <zutat>saeuerlicher Apfel (z.B. Boskoop), in ca. 2 mm dicke Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in ca. 2 mm dicke Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Chips_    >
+   </einkaufliste>
+   <rezept>
+      <Sirup_    >
+          <inhalt>Wasser mit Zucker und Zimt aufkochen, Sirup etwas abkuehlen.</inhalt>
+      </Sirup_    >
+      <Chips_    >
+          <inhalt>Apfel und Birne mit dem Zitronensaft mischen, im Sirup wenden, etwas abtropfen, auf zwei mit Backpapier belegte Backofengitter legen.</inhalt>
+      </Chips_    >
+      <Trocknen  >
+          <inhalt>Ca. 2 Std. in der Mitte des auf 100 Grad vorgeheizten Ofens, dabei 2-mal wenden. Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, auskuehlen.</inhalt>
+      </Trocknen  >
+   </rezept>
+</Rezept>

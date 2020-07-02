@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>357 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 </quant>
+          <zutat>Suesskartoffeln (je ca. 250 g)</zutat>
+          <quant>90 g</quant>
+          <zutat>Feta (CNp)</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Meersalz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 Paeckli</quant>
+          <zutat>Granatapfelkerne (ca. 70 g)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suesskartoffeln mehrmals mit einer Gabel einstechen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: ca. 40 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Feta in Wuerfeli schneiden, Korianderblaettchen abzupfen. Suesskartoffeln der Laenge nach halbieren, mit Schnittflaechen nach oben auf die Teller legen, wuerzen. Feta, Granatapfelkerne und Koriander darauf verteilen, sofort servieren.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RCMad8ay21o"/>
+</Rezept>

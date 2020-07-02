@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>218 kcal</NaehrwertProPerson>
+       <Fett>3 g   </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gloegg     >
+          <quant>7 dl</quant>
+          <zutat>Rotwein (trocken)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Cognac oder Wodka</zutat>
+          <quant>150 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, Schale mit dem Sparschaeler abgeschaelt</zutat>
+          <quant>2 cm</quant>
+          <zutat>Ingwer, in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>6 </quant>
+          <zutat>Kardamomkapseln, zerdrueckt</zutat>
+          <quant>5 </quant>
+          <zutat>Nelken</zutat>
+          <quant>50 g</quant>
+          <zutat>Rosinen</zutat>
+          <quant>50 g</quant>
+          <zutat>Mandelstifte</zutat>
+      </Gloegg     >
+      <Servieren >
+          <quant>1 </quant>
+          <zutat>Bio-Orange, in Scheiben</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Gloegg     >
+          <inhalt>Wein und alle Zutaten bis und mit Nelken in eine Pfanne geben. Rosinen und Mandeln in ein kleines Musselintuch geben, mit einem Stueck Kuechenschnur fixieren, zum Wein in die Pfanne geben. Zugedeckt knapp vors Kochen bringen, auf der ausgeschalteten Platte zugedeckt ca. 2 Std. ziehen lassen. </inhalt>
+      </Gloegg     >
+      <Servieren >
+          <inhalt>Musselin-Paeckli entfernen. Gloegg absieben und zurueck in die Pfanne geben. Rosinen und Mandeln aus dem Tuch zum Gloegg geben und nochmals erwaermen, mit den Orangenscheiben heiss servieren. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

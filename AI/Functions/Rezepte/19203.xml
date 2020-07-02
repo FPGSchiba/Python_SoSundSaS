@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>311 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>500 g</quant>
+          <zutat>Rueebli, grob gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>Datteln, fein gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Haselnuesse, geroestet, grob gehackt</zutat>
+          <quant>50 g</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>1 </quant>
+          <zutat>Birne (ca. 200 g), grob gerieben</zutat>
+          <quant>3 EL</quant>
+          <zutat>Creme fraiche</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Fuellung   >
+      <Strudel   >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>60 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+      </Strudel   >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Strudel                       </inhalt>
+      </Fuellung   >
+      <Strudel   >
+          <inhalt>3 cm frei lassen, seitliche Raender einschlagen. Tuch anheben, Strudel locker aufrollen, mit dem Verschluss nach unten auf ein mit Backpapier belegtes Blech legen, mit wenig Butter bestreichen.</inhalt>
+      </Strudel   >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Strudel waehrend des Backens mehrmals mit der restlichen Butter bestreichen. Herausnehmen, Strudel auf einem Gitter etwas abkuehlen, mit  Puderzucker bestaeuben. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

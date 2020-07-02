@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>343 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linsensalat>
+          <quant>100 g</quant>
+          <zutat>Linsen, gekocht</zutat>
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>100 g</quant>
+          <zutat>Chorizo, in Scheibchen</zutat>
+      </Linsensalat>
+   </einkaufliste>
+   <rezept>
+      <Linsensalat>
+          <inhalt>Linsen und 3 EL Peperoni-Tomaten-Sauce mischen, in ein Geschirr zum Mitnehmen fuellen. 150 g Ofengemuese beigeben. Wenig Oel in einer Bratpfanne erhitzen. Chorizo langsam knusprig braten, abtropfen, auf dem Ofengemuese verteilen. </inhalt>
+      </Linsensalat>
+   </rezept>
+</Rezept>

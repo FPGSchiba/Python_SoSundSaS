@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>220 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>12 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>1 </quant>
+          <zutat>rosa Grapefruit</zutat>
+          <quant>150 g</quant>
+          <zutat>Nuesslisalat</zutat>
+      </Salat     >
+      <Croutons  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 Scheiben</quant>
+          <zutat>Toastbrot, in Wuerfeli</zutat>
+          <quant>30 g</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Croutons  >
+      <Sauce     >
+          <quant>1 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Von der Grapefruit Boden und Deckel, dann Schale ringsum bis auf das Fruchtfleisch wegschneiden. Fruchtfilets (Schnitze) mit einem scharfen Messer zwischen den weissen Haeutchen herausschneiden, dabei Saft auffangen. Nuesslisalat auf 4 Teller anrichten, Grapefruit-Filets darauf verteilen.</inhalt>
+      </Salat     >
+      <Croutons  >
+          <inhalt>Oel in einer beschichteten Bratpfanne erwaermen. Toastbrot, Kuerbiskerne und Ahornsirup beigeben, bei mittlerer Hitze langsam knusprig braten, wuerzen, etwas abkuehlen.</inhalt>
+      </Croutons  >
+      <Sauce     >
+          <inhalt>Aceto, aufgefangenen Grapefruitsaft und Oel verruehren, wuerzen. Sauce ueber den Salat traeufeln, Croutons darueberstreuen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>8 kcal  </NaehrwertProPerson>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Tee       >
+          <quant>5 </quant>
+          <zutat>Kraeutertee-Beutel (z.B. Alpenkraeuter)</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Pfefferminze</zutat>
+      </Tee       >
+      <Eistee    >
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+      </Eistee    >
+   </einkaufliste>
+   <rezept>
+      <Tee       >
+          <inhalt>Teebeutel mit dem Wasser uebergiessen, Zucker und Minze beigeben, ca. 10 Min. ziehen lassen. Teebeutel entfernen,  Tee auskuehlen. </inhalt>
+      </Tee       >
+      <Eistee    >
+          <inhalt>Zitronensaft beigeben, zugedeckt mind. 2 Std. kuehl stellen.</inhalt>
+      </Eistee    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>239 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>300 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 Wuerfel</quant>
+          <zutat>Hefe (ca. 20 g), zerbroeckelt</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, in Stuecken</zutat>
+          <quant>1 3/4 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Teig      >
+      <Frittieren>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Frittieren>
+      <Fuellen    >
+          <quant>150 g</quant>
+          <zutat>Himbeerkonfituere (ohne Kerne), glatt geruehrt</zutat>
+          <quant>5 EL</quant>
+          <zutat>feinster Zucker</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Salz, Zucker und Hefe in eine Schuessel geben, mischen. Butter, Milch und Ei beigeben, mischen, zu einem weichen, glatten Teig kneten. Teig in 14 Portionen teilen, zu Kugeln formen, auf ein Backpapier setzen, zugedeckt bei Raumtemperatur ca. 11/2 Std. aufgehen lassen.</inhalt>
+      </Teig      >
+      <Frittieren>
+          <inhalt>Brattopf bis 1/3 Hoehe mit Oel fuellen, auf ca. 160 Grad erhitzen. Teigkugeln portionenweise mit einer Schaumkelle, so hineinlegen, dass die Unterseite nach oben zeigt, beidseitig je ca. 2 Min. frittieren. Herausnehmen, auf Haushaltpapier abtropfen.</inhalt>
+      </Frittieren>
+      <Fuellen    >
+          <inhalt>Berliner mit einem Trinkhalm bis zu 2/3 einstechen, einige Male hin- und herfahren, bis die Oeffnung ca. 5 mm breit ist. Konfituere in einen Spritzsack mit glatter Tuelle (ca. 5 mm Ø) geben, in die Berliner spritzen. Zucker in einen tiefen Teller geben, Berliner darin wenden.</inhalt>
+      </Fuellen    >
+   </rezept>
+</Rezept>

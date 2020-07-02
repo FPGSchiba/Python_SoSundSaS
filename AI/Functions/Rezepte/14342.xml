@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>323 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Auberginen>
+          <quant>2 </quant>
+          <zutat>Auberginen (gross)</zutat>
+          <quant>wenig </quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>2 TL</quant>
+          <zutat>Sesamoel</zutat>
+      </Auberginen>
+      <Sauce     >
+          <quant>1 </quant>
+          <zutat>Birne, geschaelt, in groben Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesam, geroestet</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>1 TL</quant>
+          <zutat>Mirin </zutat>
+          <quant>1 TL</quant>
+          <zutat>Tamari</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>griechischer Jogurt nature (oder Sojajogurt)</zutat>
+          <quant>wenig </quant>
+          <zutat>Chiliflocken</zutat>
+          <quant> </quant>
+          <zutat>Himalayasalz, nach Bedarf</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer aus der Muehle, nach Bedarf</zutat>
+      </Sauce     >
+      <Broccoli-Kohlrabi-Reis>
+          <quant>200 g</quant>
+          <zutat>Broccoli</zutat>
+          <quant>100 g</quant>
+          <zutat>Kohlrabi (geschaelt gewogen)</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Himalayasalz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+      </Broccoli-Kohlrabi-Reis>
+      <Anrichten_&amp;_Garnieren>
+          <quant>2 Handvoll</quant>
+          <zutat>Nuesslisalat</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>50 g</quant>
+          <zutat>Bundzwiebeln, nur das Gruen, schraeg in Streifen</zutat>
+          <quant>wenig </quant>
+          <zutat>Ahornsirup</zutat>
+      </Anrichten_&amp;_Garnieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Auberginen                    </inhalt>
+      </How_To    >
+      <Auberginen>
+          <inhalt>Backen: 40-50 Min. in der Mitte des auf 180 Grad (Heissluft) vorgeheizten Ofens.</inhalt>
+      </Auberginen>
+      <Sauce     >
+          <inhalt>Birne im siedenden Wasser ca. 15 Min. weich kochen, abtropfen. Birne mit allen Zutaten bis und mit Jogurt im Mixer fein puerieren, wuerzen.</inhalt>
+      </Sauce     >
+      <Broccoli-Kohlrabi-Reis>
+          <inhalt>Broccoli und Kohlrabi in einem Food Prozessor sehr klein hacken (Groesse von Reiskoernern), in eine Bratpfanne geben. Sesam, Salz und Pfeffer beigeben. Alles unter staendigem Ruehren bei mittlerer Hitze ca. 10 Min. braten, bis das Gemuese gar ist.</inhalt>
+      </Broccoli-Kohlrabi-Reis>
+      <Anrichten_&amp;_Garnieren>
+          <inhalt>Birnen-Sauce auf 2 Tellern verteilen, die gebackenen Auberginen darauf anrichten, Broccoli-Kohlrabi-Reis auf die Auberginen geben. Nuesslisalat mit Limettensaft mischen, zusammen mit den Bundzwiebeln auf das Gericht geben, mit wenig Ahornsirup betraeufeln, sofort servieren.</inhalt>
+      </Anrichten_&amp;_Garnieren>
+   </rezept>
+</Rezept>

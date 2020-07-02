@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>428 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vinaigrette>
+          <quant>3 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Vinaigrette>
+      <Salat     >
+          <quant>50 g</quant>
+          <zutat>Pekannuesse, grob gehackt</zutat>
+          <quant>400 g</quant>
+          <zutat>gekochte Randenwuerfel </zutat>
+          <quant>1 </quant>
+          <zutat>Orange, geschaelt, in Wuerfeln</zutat>
+          <quant>2 </quant>
+          <zutat>weisser Chicoree (je ca. 120 g), fein geschnitten</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Vinaigrette>
+          <inhalt>Essig, Oel, Salz und Pfeffer in einer Schuessel verruehren. </inhalt>
+      </Vinaigrette>
+      <Salat     >
+          <inhalt>Pekannuesse in einer Bratpfanne ohne Fett ca. 3 Min. roesten, auskuehlen. Randen, Orange und Chicoree zur Vinaigrette geben, mischen. Pekannuesse darueberstreuen.  </inhalt>
+      </Salat     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

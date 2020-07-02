@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>344 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gewuerz-Quark>
+          <quant>3 EL</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Sambal Oelek</zutat>
+      </Gewuerz-Quark>
+      <Schnitzel-Broetli>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Kalbsplaetzli (je ca. 70 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Baguettes</zutat>
+          <quant>50 g</quant>
+          <zutat>Kresse</zutat>
+          <quant>100 g</quant>
+          <zutat>Feta, zerbroeckelt</zutat>
+          <quant>1 </quant>
+          <zutat>Tomate, in Scheiben</zutat>
+      </Schnitzel-Broetli>
+   </einkaufliste>
+   <rezept>
+      <Gewuerz-Quark>
+          <inhalt>Alle Zutaten gut verruehren.   </inhalt>
+      </Gewuerz-Quark>
+      <Schnitzel-Broetli>
+          <inhalt>Oel in beschichteter Bratpfanne erhitzen, Plaetzli beidseitig je ca. 1 Min. braten, wuerzen. Baguette in 4 gleich grosse Stuecke schneiden, diese dann quer aufschneiden, dass sie auf einer Seite noch zusammenhalten. Schnittflaechen des Brotes mit dem Gewuerz-Quark bestreichen, Kresse, Fleisch, Feta  und Tomaten in die Broetli verteilen.</inhalt>
+      </Schnitzel-Broetli>
+   </rezept>
+</Rezept>

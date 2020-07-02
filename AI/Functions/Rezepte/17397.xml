@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>665 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>65 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kalbshaxen>
+          <quant>4 </quant>
+          <zutat>Kalbshaxen (je ca. 300 g)</zutat>
+          <quant>2 </quant>
+          <zutat>Wacholderbeeren, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Anbraten</zutat>
+      </Kalbshaxen>
+      <Schmoren_im_Ofen_>
+          <quant>80 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in feinen Streifen</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, in Scheibchen</zutat>
+          <quant>200 g</quant>
+          <zutat>Knollensellerie, in Stuecken</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>6 </quant>
+          <zutat>Wacholderbeeren, zerdrueckt</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vermouth (z.B. Noilly Prat)</zutat>
+          <quant>250 g</quant>
+          <zutat>Federkohl, in Stuecken</zutat>
+          <quant>4 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Schmoren_im_Ofen_>
+      <Federkohl-Gremolata>
+          <quant>50 g</quant>
+          <zutat>Federkohl, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur abgeriebene Schale</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Federkohl-Gremolata>
+      <Schwarzwurzelpueree>
+          <quant>500 g</quant>
+          <zutat>Schwarzwurzeln, geschaelt, in Stuecken</zutat>
+          <quant>150 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Muskat</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Schwarzwurzelpueree>
+   </einkaufliste>
+   <rezept>
+      <Kalbshaxen>
+          <inhalt>Haut der Haxen ringsum mehrmals etwas einschneiden, evtl. mit Kuechenschnur nicht zu satt binden. Fleisch wuerzen, mit Mehl bestaeuben. Bratbutter im Brattopf heiss werden lassen, Haxen beidseitig je ca. 2 Min. anbraten. Herausnehmen, Hitze reduzieren. Bratfett auftupfen.</inhalt>
+      </Kalbshaxen>
+      <Schmoren_im_Ofen_>
+          <inhalt>Speckwuerfeli anbraten, Zwiebel und Knoblauch beigeben, kurz andaempfen, Sellerie kurz mitdaempfen. Thymian, Lorbeer und Wachholder beigeben, Vermouth dazugiessen, fast vollstaendig einkochen lassen. Federkohl, Bouillon, Zucker und Salz beigeben, mischen. Haxen wieder beigeben, aufkochen. Zugedeckt ca. 2 Std. in der unteren Haelfte des auf 170 Grad vorgeheizten Ofens schmoren. 15 Min. vor Ende der Garzeit Deckel entfernen. </inhalt>
+      </Schmoren_im_Ofen_>
+      <Federkohl-Gremolata>
+          <inhalt>Federkohl, Zitronenschale, Knoblauch und Salz mischen, auf den Haxen verteilen, nochmals ca. 15 Min. ueberbacken. </inhalt>
+      </Federkohl-Gremolata>
+      <Schwarzwurzelpueree>
+          <inhalt>Schwarzwurzel und Kartoffeln im Salzwasser ca. 30 Min. weich koecheln, abtropfen, puerieren. Rahm in einer kleinen Pfanne erwaermen, mit der Butter beigeben, wuerzen. </inhalt>
+      </Schwarzwurzelpueree>
+   </rezept>
+</Rezept>

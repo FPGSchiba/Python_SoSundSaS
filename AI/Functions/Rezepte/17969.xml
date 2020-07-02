@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>752 kcal</NaehrwertProPerson>
+       <Fett>50 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>125 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser, kalt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Apfelessig</zutat>
+      </Teig      >
+      <Rosenkohl >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>Rosenkohl, halbiert</zutat>
+          <quant>1 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Rosenkohl >
+      <Belag     >
+          <quant>60 g</quant>
+          <zutat>Parmesan, gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>Rohess-Speck, in Streifen</zutat>
+      </Belag     >
+      <Galette_formen_und_belegen>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Galette_formen_und_belegen>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Wasser und Essig dazugiessen, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig      >
+      <Rosenkohl >
+          <inhalt>Oel in einer Pfanne erwaermen, Rosenkohl ca. 3 Min. andaempfen. Honig daruebertraeufeln, wuerzen, auskuehlen.</inhalt>
+      </Rosenkohl >
+      <Belag     >
+          <inhalt>2 EL  Parmesan beiseite stellen, Rest mit dem Speck unter den Rosenkohl mischen.</inhalt>
+      </Belag     >
+      <Galette_formen_und_belegen>
+          <inhalt>Den Teig auf einem Backpapier rund ca. 3 mm duenn auswallen. Rosenkohl darauf verteilen, dabei rundum einen ca. 4 cm breiten Rand frei lassen. Rand mit Ei bestreichen, zur Haelfte nach innen falten, leicht andruecken, Rand mit Ei bestreichen. Beiseite gestellten Parmesan darauf verteilen.</inhalt>
+      </Galette_formen_und_belegen>
+      <Backen:   >
+          <inhalt>Ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens.</inhalt>
+      </Backen:   >
+   </rezept>
+</Rezept>

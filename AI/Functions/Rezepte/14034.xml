@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>495 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Vorbereiten>
+          <quant>100 g</quant>
+          <zutat>Glasnudeln (z.B. Mei Yang)</zutat>
+          <quant>100 g</quant>
+          <zutat>Rueebli, in Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Edamame, geschaelt</zutat>
+          <quant>50 g</quant>
+          <zutat>Mungbohnensprossen</zutat>
+          <quant>50 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>50 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Vorbereiten>
+      <Aromatisieren>
+          <quant>1 </quant>
+          <zutat>Limette, nur Saft</zutat>
+          <quant>20 g</quant>
+          <zutat>Gemuesebouillonpulver</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Ringen</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>2 TL</quant>
+          <zutat>Miso-Paste</zutat>
+      </Aromatisieren>
+      <Zubereiten>
+          <quant>4 dl</quant>
+          <zutat>Wasser, siedend</zutat>
+      </Zubereiten>
+   </einkaufliste>
+   <rezept>
+      <Vorbereiten>
+          <inhalt>Glasnudeln in die Einmachglaeser verteilen, Rueebli und alle Zutaten bis und mit Spinat darauf verteilen.  </inhalt>
+      </Vorbereiten>
+      <Aromatisieren>
+          <inhalt>Alle Zutaten in einer Schuessel verruehren, in die Glaeser giessen. Deckel schliessen, bis zur Zubereitung kuehlstellen. </inhalt>
+      </Aromatisieren>
+      <Zubereiten>
+          <inhalt>Wasser in die Einmachglaeser giessen, mit Hilfe einer Gabel gut verruehren. Deckel schliessen und ca. 5 Min. ziehen lassen.</inhalt>
+      </Zubereiten>
+   </rezept>
+</Rezept>

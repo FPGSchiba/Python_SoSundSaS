@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>175 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Energy-Ball-Masse>
+          <quant>200 g</quant>
+          <zutat>entsteinte Datteln</zutat>
+          <quant>100 g</quant>
+          <zutat>Cashew-Nuesse</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>3 EL</quant>
+          <zutat>Schokoladenpulver</zutat>
+          <quant>2 EL</quant>
+          <zutat>Cocoa Nibs</zutat>
+      </Energy-Ball-Masse>
+      <Fledermaeuse_formen>
+          <quant>12 </quant>
+          <zutat>Schokoladeguetzli, rund (z.B. Gran Cereale Cioccolato)</zutat>
+          <quant>24 </quant>
+          <zutat>Zucker-Augen</zutat>
+      </Fledermaeuse_formen>
+   </einkaufliste>
+   <rezept>
+      <Energy-Ball-Masse>
+          <inhalt>Datteln mit allen Zutaten bis und mit Cocoa-Nibs im Mixglas puerieren. </inhalt>
+      </Energy-Ball-Masse>
+      <Fledermaeuse_formen>
+          <inhalt>Aus der Masse mit nassen Haenden 12 gleich grosse Kugeln formen, jede in ein Mini-Muffinsfoermchen aus Papier setzen. Die Guetzli halbieren, je 2 Haelften als Fluegel in die Kugeln druecken, je 2 Zucker-Augen in der Mitte platzieren. Ca. 30 Min. kuehl stellen.</inhalt>
+      </Fledermaeuse_formen>
+   </rezept>
+</Rezept>

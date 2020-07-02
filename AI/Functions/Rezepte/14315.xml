@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>306 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Grundmasse>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, nur ausgekratzte Samen</zutat>
+      </Grundmasse>
+      <Parfait   >
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Parfait   >
+   </einkaufliste>
+   <rezept>
+      <Grundmasse>
+          <inhalt>Eigelbe, Zucker und Vanillesamen in einer Schuessel mit den Schwingbesen des Handruehrgeraets ruehren bis die Masse heller ist. </inhalt>
+      </Grundmasse>
+      <Parfait   >
+          <inhalt>Die Haelfte des Schlagrahms mit dem Schwingbesen unter die Masse ruehren, restlichen Rahm mit dem Gummischaber sorgfaeltig darunterziehen. Eiweisse mit Salz steif schlagen, Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Eischnee mit dem Gummischaber sorgfaeltig unter die Masse ziehen, sofort in die vorbereitete Form verteilen.</inhalt>
+      </Parfait   >
+      <Gefrieren:>
+          <inhalt>Zugedeckt ca. 4 Std.          </inhalt>
+      </Gefrieren:>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>177 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Punsch    >
+          <quant>8 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, Schale mit dem Sparschaeler abgeschaelt, ganzer Saft</zutat>
+          <quant>60 g</quant>
+          <zutat>Holundergelee</zutat>
+          <quant>2 Beutel</quant>
+          <zutat>Fruechtetee</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+      </Punsch    >
+      <Servieren >
+          <quant>1 </quant>
+          <zutat>Apfel, in Schnitzen</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange, in Scheiben</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Punsch    >
+          <inhalt>Apfelsaft und alle Zutaten bis und mit Zimtstange in eine Pfanne geben, aufkochen. Pfanne von der Platte nehmen, Punsch zugedeckt ca. 15 Min. ziehen lassen, absieben. </inhalt>
+      </Punsch    >
+      <Servieren >
+          <inhalt>Apfelschnitze und Orangenscheiben beigeben, heiss servieren. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

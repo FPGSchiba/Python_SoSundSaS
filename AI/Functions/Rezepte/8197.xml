@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>563 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>300 g</quant>
+          <zutat>Risottoreis (z.B. Carnaroli)</zutat>
+          <quant>1 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>1 1/5 Liter</quant>
+          <zutat>Gemuesebouillon, heiss</zutat>
+          <quant>500 g</quant>
+          <zutat>Kuerbis (z.B. Oranger Knirps), in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Doppelrahmfrischkaese</zutat>
+          <quant>150 g</quant>
+          <zutat>Parmesan, grob gerieben</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>30 g</quant>
+          <zutat>Kuerbiskerne, geroestet, grob gehackt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in einer Pfanne erwaermen, Zwiebel andaempfen, Reis beigeben, unter Ruehren duensten, bis er glasig ist.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Safran beigeben. Bouillon unter haeufigem Ruehren nach und nach dazugiessen, sodass der Reis immer knapp mit Fluessigkeit bedeckt ist. Nach ca. 10 Min. Kuerbis beigeben, ca. 10 Min. weiterkoecheln, bis der Reis cremig und al dente ist. Frischkaese und die Haelfte vom Parmesan unter den Risotto mischen, wuerzen, anrichten. Restlichen Parmesan und Kuerbiskerne darauf verteilen.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9D_neZK0qDc"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

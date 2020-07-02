@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>310 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Biskuit   >
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao)</zutat>
+          <quant>75 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>4 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>1 EL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Biskuit   >
+      <Fuellung   >
+          <quant>225 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>gehackte Pistazien</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Vollrahm</zutat>
+      </Fuellung   >
+      <Fuellen/Verzieren>
+          <quant>2 EL</quant>
+          <zutat>Schokoladenspaene</zutat>
+      </Fuellen/Verzieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Biskuit                       </inhalt>
+      </How_To    >
+      <Biskuit   >
+          <inhalt>Schokolade in Stuecke schneiden, ueber dem Wasserbad schmelzen.</inhalt>
+      </Biskuit   >
+      <How_To1   >
+          <inhalt>Zucker und Eigelbe mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Schokolade unter die Eigelbmasse ruehren. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Eiweisse mit dem Salz steif schlagen. Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Mehl lagenweise mit dem Eischnee auf die Masse geben, sorgfaeltig darunterziehen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Teig rechteckig, ca. 7 mm dick auf einem mit Backpapier belegten Blechruecken ausstreichen.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Biskuit mit dem Papier auf ein frisches Backpapier stuerzen, Papier sorgfaeltig abziehen. Biskuit sofort mit dem umgedrehten Blech zudecken, auskuehlen.</inhalt>
+      </How_To5   >
+      <How_To6   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To6   >
+      <How_To7   >
+          <inhalt>Mascarpone, Zucker und Pistazien in einer Schuessel   verruehren. Zitronenschale dazureiben. 2 EL Zitronensaft beigeben, verruehren.</inhalt>
+      </How_To7   >
+      <Fuellung   >
+          <inhalt>6 Himbeeren fuer die Verzierung halbieren und kuehl stellen. Rest grob zerdruecken und unter die Fuellung mischen.</inhalt>
+      </Fuellung   >
+      <How_To8   >
+          <inhalt>Rahm steif schlagen, 1/3 zugedeckt kuehl stellen, Rest sorgfaeltig unter die Fuellung ziehen</inhalt>
+      </How_To8   >
+      <How_To9   >
+          <inhalt>Biskuitraender gerade schneiden, Biskuit quer halbieren. Fuellung auf eine Haelfte verteilen, zweite Biskuithaelfte darauf legen, etwas andruecken, zugedeckt ca. 1 1/2 Std. gefrieren.</inhalt>
+      </How_To9   >
+      <How_To10  >
+          <inhalt>wenig Schokoladespaenen und den beiseitegelegten Himbeeren verzieren.</inhalt>
+      </How_To10  >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

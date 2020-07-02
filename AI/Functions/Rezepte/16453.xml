@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>554 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Quittenmus>
+          <quant>500 g</quant>
+          <zutat>Quitten</zutat>
+          <quant>4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>250 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Quittenmus>
+      <Creme     >
+          <quant>2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Creme     >
+      <Blaetterteig>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig (ca. 320 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+      </Blaetterteig>
+   </einkaufliste>
+   <rezept>
+      <Quittenmus>
+          <inhalt>Quitten mit einem Tuch gut abreiben, Stielansatz entfernen, Fruechte achteln, in eine Pfanne geben. Wasser, Zucker und 1 EL Zitronensaft verruehren, dazugiessen, zugedeckt aufkochen. Hitze reduzieren, Quitten bei mittlerer Hitze ca. 40 Min. weich kochen. Von der Platte nehmen, etwas abkuehlen. Quitten abtropfen, durchs Passe-vite zurueck in die Pfanne treiben (ergibt ca. 275 g). Restlichen Zitronensaft beigeben, unter Ruehren aufkochen, Hitze reduzieren, unter haeufigem Ruehren bei kleiner Hitze ca. 10 Min. zu einem dicklichen Mus einkochen, von der Platte nehmen, auskuehlen.</inhalt>
+      </Quittenmus>
+      <Creme     >
+          <inhalt>Milch und alle Zutaten bis und mit Eigelben mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze bis vors Kochen bringen. Pfanne sofort von der Platte nehmen. Gelatine unter die heisse Creme ruehren, durch ein Sieb in eine Schuessel giessen, zugedeckt auskuehlen, kuehl stellen, bis die Creme am Rand leicht fest ist. Creme glatt ruehren, Schlagrahm darunterziehen, zugedeckt kuehl stellen. </inhalt>
+      </Creme     >
+      <Blaetterteig>
+          <inhalt>Teig mit einer Gabel mehrmals einstechen, Zucker auf den Teig streuen. Teig laengs halbieren, dann quer in je ca. 9 Streifen schneiden. Teig mit dem Backpapier auf ein Blechruecken ziehen. </inhalt>
+      </Blaetterteig>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Cremeschnitten>
+          <inhalt>Quittenmus und Creme je in einen Spritzsack mit glatter Tuelle (ca. 12 mm Ø) fuellen. Quittenmus und Creme auf je 6 Blaetterteigstuecke verteilen, aufeinandersetzen. Mit den restlichen Blaetterteigstuecken bedecken.</inhalt>
+      </Cremeschnitten>
+   </rezept>
+</Rezept>

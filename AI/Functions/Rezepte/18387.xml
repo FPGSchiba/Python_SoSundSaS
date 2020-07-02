@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>478 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>50 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>200 g</quant>
+          <zutat>Broccoli, in kleinen Roesschen</zutat>
+          <quant>200 g</quant>
+          <zutat>Rueebli, in Scheibchen</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli,  in Scheibchen</zutat>
+          <quant>50 g</quant>
+          <zutat>Jungsalat</zutat>
+          <quant>2 Bund</quant>
+          <zutat>gemischte Kraeuter (z.B. Basilikum, Dill, Liebstoeckel und glattblaettrige Petersilie)</zutat>
+          <quant>125 g</quant>
+          <zutat>Johannisbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Salat     >
+      <Pouletbruestli>
+          <quant>4 </quant>
+          <zutat>Pouletbruestli (je ca. 160 g), laengs halbiert</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Pouletbruestli>
+      <Panieren  >
+          <quant>60 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>5 EL</quant>
+          <zutat>Kernenmix (z.B. Naturaplan Bio Campiuns Kernen-Mix)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei, verklopft</zutat>
+      </Panieren  >
+      <Braten    >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+      </Braten    >
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Aceto und Oel verruehren, wuerzen. Rueebli und alle Zutaten bis und mit Himbeeren beigeben, erst kurz vor dem Servieren mischen. </inhalt>
+      </Salat     >
+      <Pouletbruestli>
+          <inhalt>Pouletbruestli zwischen einen aufgeschnittenen Plastikbeutel legen, etwas flach klopfen (ca. 1 cm dick), wuerzen. </inhalt>
+      </Pouletbruestli>
+      <Panieren  >
+          <inhalt>Paniermehl und Kernenmix mischen, mit dem Mehl je in einen flachen Teller geben. Das Ei in einem tiefen Teller verklopfen. Poulet im Mehl wenden, ueberschuessiges Mehl abschuetteln, dann im Ei und in der Kernenmix-Paniermehl-Mischung wenden, Panade gut andruecken.</inhalt>
+      </Panieren  >
+      <Braten    >
+          <inhalt>Oel in zwei beschichteten Bratpfannen erhitzen. Hitze reduzieren, Pouletbruestli bei mittlerer Hitze beidseitig je ca. 4 Min. braten. Salat mischen, Poulet dazu servieren. </inhalt>
+      </Braten    >
+   </rezept>
+</Rezept>

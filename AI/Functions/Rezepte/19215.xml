@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>246 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, grob gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, grob gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Stuecken</zutat>
+          <quant>6 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>30 g</quant>
+          <zutat>Kresse</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, grob geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie, grob geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Butter in einer Pfanne erwaermen. Zwiebel, Knoblauch und Kartoffeln ca. 2 Min. andaempfen. Bouillon und Rahm dazugiessen, aufkochen, ca. 15 Min. bei mittlerer Hitze weich koecheln. 3/4 der Kresse und Kraeuter beigeben, Suppe fein puerieren, wuerzen. Restliche Kresse und Kraeuter darauf verteilen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>254 kcal</NaehrwertProPerson>
+       <Fett>16 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>150 g</quant>
+          <zutat>Speckwuerfeli</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in feinen Streifen</zutat>
+          <quant>3 </quant>
+          <zutat>Chicoree, laengs in Vierteln</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Orangenlikoer (z.B. Grand Marnier)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>50 g</quant>
+          <zutat>getrocknete Tomaten, in Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Thymian</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>50 g</quant>
+          <zutat>Sbrinz-Moeckli</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Speck langsam knusprig braten. Butter erwaermen, Zwiebel und Chicoree mit dem Zucker ca. 2 Min. daempfen, Speckwuerfeli, Likoer und Bouillon beigeben, aufkochen, Hitze reduzieren, zugedeckt ca. 5 Min. koecheln. Tomaten beigeben, offen ca. 1 Min. fertig koecheln, wuerzen. Zitronensaft und Thymian darunterruehren, Sbrinz auf dem fertigen Chicoree-Salat verteilen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

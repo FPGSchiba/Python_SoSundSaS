@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>377 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>4 Scheiben</quant>
+          <zutat>Brot (je ca. 80 g)</zutat>
+          <quant>400 g</quant>
+          <zutat>gemischtes Gemuese (z.B. Rueebli, Zucchetti, Peperoni, Auberginen), fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kraeutersalz</zutat>
+          <quant>150 g</quant>
+          <zutat>Raclettekaese (oder Fontina, Taleggio, Mozzarella), in Scheiben</zutat>
+          <quant> </quant>
+          <zutat>Pfeffer, aus der Muehle</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Brotscheiben auf einem mit Backpapier belegten Blech verteilen. Gemuese, Oel und Salz in einer Schuessel gut mischen, auf den Broten verteilen, mit Kaesescheiben bedecken.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: 10-15 Min. in Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, mit Pfeffer bestreuen, lauwarm geniessen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

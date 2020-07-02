@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>220 kcal</NaehrwertProPerson>
+       <Fett>10 g  </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tarte     >
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Kuchenteig  (25 c 42 cm)</zutat>
+          <quant>4 </quant>
+          <zutat>Aepfel, in kleinen Stuecken</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rosinen</zutat>
+      </Tarte     >
+      <Backen_&amp;_verzieren>
+          <quant>18 </quant>
+          <zutat>Zucker-Augen</zutat>
+      </Backen_&amp;_verzieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tarte                         </inhalt>
+      </How_To    >
+      <Tarte     >
+          <inhalt>Aepfel mit Zitronensaft und allen Zutaten bis und mit Rosinen mischen, auf dem Boden verteilen. Die zweite Teighaelfte quer in ca. 1 cm breite Streifen schneiden, kreuz und quer ueber die Fuellung legen, am Rand leicht andruecken.</inhalt>
+      </Tarte     >
+      <Backen_&amp;_verzieren>
+          <inhalt>Backen: ca. 35 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, abkuehlen, aus dem Blech nehmen, auf Gitter auskuehlen. Die Zucker-Augen in den Teig-Zwischenraeumen verteilen.</inhalt>
+      </Backen_&amp;_verzieren>
+   </rezept>
+</Rezept>

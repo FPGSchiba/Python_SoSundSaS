@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>473 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>63 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>230 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Margarine, in Stuecken, kalt</zutat>
+          <quant>8 EL</quant>
+          <zutat>Konfituere</zutat>
+      </Boden     >
+      <Fuellung   >
+          <quant>350 g</quant>
+          <zutat>Sojajogurt (Zimmertemperatur)</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanille-Puddingpulver zum Kochen, ca. 72 g</zutat>
+          <quant>40 g</quant>
+          <zutat>Margarine, fluessig, abgekuehlt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zitronensaft</zutat>
+      </Fuellung   >
+      <Anrichten >
+          <quant>100 g</quant>
+          <zutat>Sojajogurt</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Mehl, Zucker und Salz in einer Schuessel mischen. Margarine beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen. Teig in acht Portionen teilen, zu Kugeln formen, in die vorbereiteten Foermchen druecken, dabei den Rand ca. 3 cm hochziehen. Je ca. 1 EL Konfituere auf die Teigboeden geben und glattstreichen.</inhalt>
+      </Boden     >
+      <Fuellung   >
+          <inhalt>Jogurt mit Puddingpulver, Margarine und Zitronensaft verruehren, in die Foermchen verteilen.</inhalt>
+      </Fuellung   >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, in der Form etwas abkuehlen, Cheezecakes aus der Blech nehmen, auf einem Gitter auskuehlen. Zugedeckt ca. 2 Std. kuehlstellen.</inhalt>
+      </Backen    >
+      <Anrichten >
+          <inhalt>Kurz vor dem Servieren Jogurt und Himbeeren auf den Toertchen verteilen. </inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

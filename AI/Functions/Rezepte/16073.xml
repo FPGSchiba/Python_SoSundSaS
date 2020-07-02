@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>259 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>180 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>3 </quant>
+          <zutat>Eier, verklopft</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Wasser und alle Zutaten bis und mit Zitronenschale in einer Pfanne aufkochen, Hitze reduzieren. Mehl auf einmal beigeben, mit einer Kelle ca. 2 Min. ruehren, bis sich ein geschmeidiger Teigkloss bildet, der sich vom Pfannenboden loest. Pfanne von der Platte nehmen. Eier portionenweise mit den Knethaken des Handruehrgeraets darunterruehren, der Teig soll weich sein, aber nicht zerfliessen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>823 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>61 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>300 g</quant>
+          <zutat>Halbweissbrot</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>8 Tranchen</quant>
+          <zutat>Hinterschinken</zutat>
+          <quant>600 g</quant>
+          <zutat>Raclettekaese</zutat>
+          <quant>2 </quant>
+          <zutat>rote Zwiebeln</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen</zutat>
+          <quant>wenig </quant>
+          <zutat>Paprika edelsuess</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Brot in 8 Scheiben schneiden. Je 2 Scheiben in 4 gefettete ofenfeste Teller legen, mit Wein betraeufeln. Schinkentranchen darauf legen. Kaese in 12 Scheiben schneiden, darauf verteilen. Zwiebeln in Ringe, Knoblauch in Scheibchen schneiden, auf dem Kaese verteilen, wuerzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: ca. 10 Min. in der oberen Haelfte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=9bsHKG_KCg8"/>
+</Rezept>

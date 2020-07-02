@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>507 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>77 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>60 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale</zutat>
+          <quant>4 </quant>
+          <zutat>Passionsfruechte, Fruchtfleisch herausgeloest</zutat>
+          <quant>3 dl</quant>
+          <zutat>Mangopueree</zutat>
+          <quant>150 ml</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosoel, geschmolzen</zutat>
+          <quant>1 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Teig      >
+      <Glasur    >
+          <quant>60 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Mandeldrink</zutat>
+      </Glasur    >
+      <Fertigstellen_&amp;_Verzieren>
+          <quant>3 EL</quant>
+          <zutat>Kokosnussmilch-Jogurt</zutat>
+          <quant>1 </quant>
+          <zutat>Passionsfrucht, Fruchtfleisch herausgeloest</zutat>
+          <quant>2 TL</quant>
+          <zutat>Kokosflocken oder Kokoschips</zutat>
+      </Fertigstellen_&amp;_Verzieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 170 Grad vorgeheizten Ofens. Auskuehlen, in 10 gleich grosse Rechtecke schneiden.</inhalt>
+      </Teig      >
+      <Glasur    >
+          <inhalt>Puderzucker mit Vanille, Jogurt und Mandelmilch verruehren. </inhalt>
+      </Glasur    >
+      <Fertigstellen_&amp;_Verzieren>
+          <inhalt>Die Haelfte der Kuchenrechtecke mit je 2 TL Kokosjogurt bestreichen, wenig Passionsfruchtfleisch darauf geben und je ein zweites Kuchenrechteck darauf platzieren. Die Unterseite sollte hierbei gegen aussen zeigen, damit eine glatte Oberflaeche entsteht. Glasur auf den Schnitten verteilen, mit etwas Passionsfruchtfleisch und Kokosflocken verzieren.</inhalt>
+      </Fertigstellen_&amp;_Verzieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=sLzibmyOJV4"/>
+</Rezept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>459 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>500 g</quant>
+          <zutat>rund ausgewallte Blaetterteige</zutat>
+      </Teig_     >
+      <Belag_    >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>280 g</quant>
+          <zutat>Artischockenherzen in Oel, abgetropft, halbiert</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Ziegenkaese (z.B. Le petit Chevrier Surchoix), grob gerieben</zutat>
+          <quant>3 TL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>Ziegenweichkaese (z.B. Chavroux Tendre Buche), in Stuecken</zutat>
+      </Belag_    >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>8 Rondellen von je ca.12 cm Ø ausstechen, in die vorbereiteten Foermchen legen, dicht einstechen, ca. 15 Min. kuehl stellen.</inhalt>
+      </Teig_     >
+      <Belag_    >
+          <inhalt>Oel in einer Bratpfanne erhitzen, Artischockenherzen ca. 5 Min. knusprig braten, auf den Toertchen verteilen. Rahm, Eier, geriebener Ziegenkaese und Thymian verruehren, wuerzen, in die Toertchen giessen. Ziegenfrischkaese darauf verteilen. </inhalt>
+      </Belag_    >
+      <Backen_   >
+          <inhalt>Ca. 35 Min. auf der untersten Rille des auf 180 Grad vorgeheizten Ofens. Quiches herausnehmen, aus den Foermchen nehmen, auf einem Gitter etwas abkuehlen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

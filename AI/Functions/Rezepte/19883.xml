@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>522 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Butter, weich, in Stuecken</zutat>
+          <quant>130 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>75 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+      </Teig      >
+      <Waffeln   >
+          <quant> </quant>
+          <zutat>Bratbutter</zutat>
+      </Waffeln   >
+      <Beerenkompott>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Stachelbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, weich, in Stuecken</zutat>
+          <quant>130 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>75 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Mineralwasser mit Kohlensaeure</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>125 g</quant>
+          <zutat>Stachelbeeren</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+      </Beerenkompott>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Butter in einer Pfanne schmelzen, etwas abkuehlen. </inhalt>
+      </Teig      >
+      <Waffeln   >
+          <inhalt>Waffeleisen erhitzen. Mit wenig Bratbutter bestreichen,</inhalt>
+      </Waffeln   >
+      <Beerenkompott>
+          <inhalt>                              </inhalt>
+      </Beerenkompott>
+   </rezept>
+</Rezept>

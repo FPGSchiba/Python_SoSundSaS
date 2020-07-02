@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>400 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boden     >
+          <quant>180 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 TL</quant>
+          <zutat>Natron</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>70 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>120 g</quant>
+          <zutat>Margarine, kalt</zutat>
+      </Boden     >
+      <Fuellung   >
+          <quant>250 g</quant>
+          <zutat>dunkle Schokolade (z.B. Cremant, 50 % Kakao), in Stuecken</zutat>
+          <quant>3 dl</quant>
+          <zutat>Kokosmilch</zutat>
+      </Fuellung   >
+      <Verzierung>
+          <quant>1 </quant>
+          <zutat>Granatapfel, Kerne ausgeloest</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Boden     >
+          <inhalt>Mehl, Salz, Natron, Kakaopulver und Puderzucker in einer Schuessel mischen. Margarine beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Rasch zu einem Teig zusammenfuegen, nicht kneten, zugedeckt ca. 30 Min. kuehl stellen. Den Teig von Hand ins vorbereitete Blech druecken, dabei einen Rand von ca. 2 cm Hoehe formen. Ein Backpapier auf den Teigboden legen, mit getrockneten Huelsenfruechten (z.B. roten Bohnen) dicht belegen.</inhalt>
+      </Boden     >
+      <Blindbacken>
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, Backpapier und Huelsenfruechte entfernen, etwas abkuehlen, Tarteboden aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Blindbacken>
+      <Fuellung   >
+          <inhalt>Schokolade und Kokosmilch in einer kleinen Pfanne erwaermen, unter staendigem Ruehren bei kleiner Hitze schmelzen, auf den Tarteboden giessen.</inhalt>
+      </Fuellung   >
+      <Verzierung>
+          <inhalt>Granatapfelkerne auf der Schokolade verteilen. Tarte zugedeckt ca. 3 Std. kuehl stellen.</inhalt>
+      </Verzierung>
+   </rezept>
+</Rezept>

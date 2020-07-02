@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>66 kcal </NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Hirseflocken</zutat>
+          <quant>90 g</quant>
+          <zutat>Nussmischung, fein gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>60 g</quant>
+          <zutat>Schokoladen-Wuerfeli</zutat>
+          <quant>50 g</quant>
+          <zutat>Quinoa-Flocken </zutat>
+          <quant>50 g</quant>
+          <zutat>helles Dinkelmehl</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/4 dl</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Teig      >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Hirseflocken und alle Zutaten bis und mit Salz in einer Schuessel mischen. Oel und Ei beigeben, zu einem weichen Teig verruehren. </inhalt>
+      </Teig      >
+      <Formen    >
+          <inhalt>Mit einem Essloeffel ca. 50 Haeufchen formen, mit genuegend Abstand auf zwei mit Backpapier belegte Bleche geben, etwas flach druecken. </inhalt>
+      </Formen    >
+      <Backen:   >
+          <inhalt>Pro Blech ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen:   >
+   </rezept>
+</Rezept>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>232 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, gehackt</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>getrockneter Thymian</zutat>
+          <quant>300 g</quant>
+          <zutat>Wirz, in feinen Streifen</zutat>
+          <quant>300 g</quant>
+          <zutat>Pastinaken, in Wuerfeln</zutat>
+          <quant>1 </quant>
+          <zutat>rohe Rande, in Wuerfeli</zutat>
+          <quant>1 </quant>
+          <zutat>Lauch, in Ringen</zutat>
+          <quant>250 g</quant>
+          <zutat>Rueebli, in Wuerfeli</zutat>
+          <quant>300 g</quant>
+          <zutat>fest kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>80 g</quant>
+          <zutat>Aufstrich Tomaten und Peperoni</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>getrocknete Petersilie</zutat>
+          <quant>1 TL</quant>
+          <zutat>getrockneter Oregano</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fenchelsamen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kuemmel</zutat>
+          <quant>4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Pfeffer, schwarz, gemahlen</zutat>
+      </Suppe     >
+      <Anrichten_und_Garnitur>
+          <quant>1 EL</quant>
+          <zutat>Aufstrich Tomaten und Peperoni</zutat>
+          <quant>4 TL</quant>
+          <zutat>Rapsoel</zutat>
+      </Anrichten_und_Garnitur>
+   </einkaufliste>
+   <rezept>
+      <Suppe     >
+          <inhalt>Oel in einer grossen Pfanne erwaermen, Zwiebel und Thymian andaempfen. 2/3 des Gemueses beigeben, kurz mitdaempfen. Wasser dazugiessen, Tomaten-Peperoni-Aufstrich, Honig, Petersilie, Oregano, Fenchelsamen und Kuemmel beigeben. Suppe wuerzen, aufkochen, bei mittlerer Hitze ca. 30 Min. kochen, bis das Gemuese weich ist. Suppe mit Stabmixer puerieren, restliches Gemuese beigeben, bei kleiner Hitze weitere 25-30 Min. koecheln, bis das restliche Gemuese bissfest ist.</inhalt>
+      </Suppe     >
+      <Anrichten_und_Garnitur>
+          <inhalt>Suppe anrichten, mit Tomaten-Peperoni-Aufstrich und Oel garnieren.</inhalt>
+      </Anrichten_und_Garnitur>
+   </rezept>
+</Rezept>

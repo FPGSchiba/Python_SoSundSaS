@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>348 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Muffins   >
+          <quant>150 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>200 g</quant>
+          <zutat>griechischer Jogurt nature, nature</zutat>
+          <quant>150 g</quant>
+          <zutat>Dinkelmehl</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>50 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+      </Muffins   >
+      <Haferflocken_Crunch>
+          <quant>50 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+      </Haferflocken_Crunch>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Muffins                       </inhalt>
+      </How_To    >
+      <Muffins   >
+          <inhalt>Backen: 25-30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Muffins etwas abkuehlen, auf einem Gitter auskuehlen.</inhalt>
+      </Muffins   >
+      <Haferflocken_Crunch>
+          <inhalt>Haferflocken mit dem Honig in einer Pfanne 3-5 Min. roesten. Crunch auf einem Backpapier verteilen, auskuehlen. Muffins mit dem Crunch verzieren.</inhalt>
+      </Haferflocken_Crunch>
+   </rezept>
+</Rezept>

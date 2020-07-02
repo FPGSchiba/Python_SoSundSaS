@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>74 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>250 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Teig_     >
+      <Fuellung_  >
+          <quant>200 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 </quant>
+          <zutat>Pak Choi (ca. 150 g), fein geschnitten</zutat>
+          <quant>100 g</quant>
+          <zutat>Shiitake-Pilze, fein geschnitten</zutat>
+          <quant>1 Staengel</quant>
+          <zutat>Zitronengras , Inneres fein gehackt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sesamoel</zutat>
+      </Fuellung_  >
+      <Dip       >
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Mehl und Salz in einer Schuessel mischen. Wasser dazugiessen, zu einem geschmeidigen, glatten Teig kneten, zugedeckt bei Raumtemperatur ca. 20 Min. ruhen lassen.</inhalt>
+      </Teig_     >
+      <Fuellung_  >
+          <inhalt>Fleisch und alle Zutaten bis und mit Sesamoel gut mischen. </inhalt>
+      </Fuellung_  >
+      <Formen    >
+          <inhalt>Teig zu 2 Rollen von je ca. 20 cm Laenge formen. Jede Rolle in 10 gleich grosse Stuecke schneiden. Teigstuecke mit einem Wallholz auf wenig Mehl zu Rondellen von je ca. 12 cm Ø auswallen.</inhalt>
+      </Formen    >
+      <Dumplings >
+          <inhalt>Je 1 Essloeffel Fuellung auf die Mitte eines Teigstuecks geben. Dieses mit wenig Wasser bestreichen, die Raender mit Daumen und Zeigefinger zusammendruecken, in die vorbereiteten Bambuskoerbchen fuellen.</inhalt>
+      </Dumplings >
+      <Daempfen_  >
+          <inhalt>Ein Bambuskoerpchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen, aufkochen. Zweites Koerbchen darauf stellen, zugedeckt bei mittlerer Hitze ca. 5 Min. daempfen. Position der Koerbchen wechseln, ca. 5 Min. fertig daempfen.</inhalt>
+      </Daempfen_  >
+      <Dip       >
+          <inhalt>Sojasauce, Knoblauch und Koriander verruehren, als Dip zu den Dumplings servieren. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

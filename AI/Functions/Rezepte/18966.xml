@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>188 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Rueebli    >
+          <quant>400 g</quant>
+          <zutat>Mini-Rueebli</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Rueebli    >
+      <Dip       >
+          <quant>1 Dose</quant>
+          <zutat>weisse Bohnen (ca. 400 g), abgespuelt, abgetropft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>geraeucherter Paprika </zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>15 g</quant>
+          <zutat>Micro Greens (z.B. mild)</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <Rueebli    >
+          <inhalt>Rueebli, Knoblauch und Oel auf einem mit Backpapier belegten Blech mischen, salzen. </inhalt>
+      </Rueebli    >
+      <Backen    >
+          <inhalt>Ca. 55 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+      <Dip       >
+          <inhalt>Bohnen mit 3/4 der Rueebli, Oel, Wasser und Zitronensaft fein puerieren, wuerzen. Dip in einer Schale anrichten, restliche Rueebli und Micro Greens darauf legen. </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

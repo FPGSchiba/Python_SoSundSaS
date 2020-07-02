@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>8 kcal  </NaehrwertProPerson>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Tee       >
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>5 </quant>
+          <zutat>Kraeutertee-Beutel (z.B. Alpenkraeuter)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Pfefferminze</zutat>
+      </Tee       >
+      <Eistee    >
+          <quant>1 </quant>
+          <zutat>Zitrone</zutat>
+          <quant>2 Liter</quant>
+          <zutat>Wasser</zutat>
+          <quant>5 </quant>
+          <zutat>Kraeutertee-Beutel (z.B. Alpenkraeuter)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 Staengel</quant>
+          <zutat>Pfefferminze</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone</zutat>
+      </Eistee    >
+   </einkaufliste>
+   <rezept>
+      <Tee       >
+          <inhalt>Wasser aufkochen, Pfanne von der Platte nehmen. </inhalt>
+      </Tee       >
+      <Eistee    >
+          <inhalt>                              </inhalt>
+      </Eistee    >
+   </rezept>
+</Rezept>

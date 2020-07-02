@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>653 kcal</NaehrwertProPerson>
+       <Fett>34 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Federkohlreis>
+          <quant>200 g</quant>
+          <zutat>Wildreismix</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Federkohl, in Stuecken</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Federkohlreis>
+      <Mandarinen-Beurre_blanc>
+          <quant>2 dl</quant>
+          <zutat>Mandarinensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, in Stuecken, kalt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Mandarinen-Beurre_blanc>
+      <Fisch_braten_>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>8 </quant>
+          <zutat>Seezungenfilets (MSC) (je ca. 80 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 </quant>
+          <zutat>Mandarinen, filetiert</zutat>
+      </Fisch_braten_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Vorbereiten                   </inhalt>
+      </How_To    >
+      <Vorbereiten>
+          <inhalt>Federkohlreis                 </inhalt>
+      </Vorbereiten>
+      <Federkohlreis>
+          <inhalt>Mandarinen-Beurre blanc       </inhalt>
+      </Federkohlreis>
+      <Mandarinen-Beurre_blanc>
+          <inhalt>Fisch braten                  </inhalt>
+      </Mandarinen-Beurre_blanc>
+      <Fisch_braten_>
+          <inhalt>Reis auf Tellern anrichten, Fisch mit den Mandarinenfilets und der Sauce darauf verteilen. </inhalt>
+      </Fisch_braten_>
+   </rezept>
+</Rezept>

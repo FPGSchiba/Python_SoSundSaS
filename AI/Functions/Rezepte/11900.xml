@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>477 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>68 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>60 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>20 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Baby-Ananas oder Mini-Ananas</zutat>
+          <quant>1 EL</quant>
+          <zutat>brauner Rum</zutat>
+          <quant>200 g</quant>
+          <zutat>Panettone (z.B. Fine Food Panettone amaretti e chioccolato)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Ananassaft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Rohzucker (z.B. Fine Food Java Kiss)</zutat>
+          <quant>3 EL</quant>
+          <zutat>brauner Rum</zutat>
+          <quant>250 ml</quant>
+          <zutat>Kokosnussglace (z.B. Fine Food Gelato al latte con noce do coco)</zutat>
+          <quant>einige </quant>
+          <zutat>Thai-Basilikumblaetter</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Zucker und Apfelsaft in einer weiten Pfanne ohne Ruehren aufkochen. Hitze reduzieren, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein goldbrauner Caramel entsteht. Butter und Salz darunterruehren, ca. 5 Min. koecheln. Auskuehlen, Rum darunterruehren.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Ananas laengs achteln, Strunk entfernen, auf ein mit Backpapier belegtes Blech legen. </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Ananas mit Caramel bestreichen, unter dem auf 250 Grad vorgeheizten Grill ca. 10 Min. grillieren, dabei oefters mit Caramel bestreichen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Panettone in grobe Stuecke zerzupfen, auf ein Blech legen.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Trocknen im Ofen: ca. 30 Min. in der Mitte des auf 120 Grad vorgeheizten Ofens. Ananassaft mit dem Zucker in einem Pfaennchen unter Ruehren aufkochen, etwas abkuehlen, Rum darunterruehren. Panettone mit der Fluessigkeit traenken.</inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>Servieren: Ananas auf Tellern verteilen, je 1 Kugel Glace und das Panettone dazu anrichten, mit Thai-Basilikum und restlichem Caramel-Zucker verzieren. </inhalt>
+      </How_To5   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

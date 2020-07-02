@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>598 kcal</NaehrwertProPerson>
+       <Fett>36 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Biskuit   >
+          <quant>350 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>4 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Zitronen</zutat>
+          <quant>4 </quant>
+          <zutat>Eiweisse</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>400 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>150 g</quant>
+          <zutat>Weissmehl</zutat>
+      </Biskuit   >
+      <Backen    >
+          <quant>1 dl</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+      <Fuellung   >
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>50 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rahm</zutat>
+      </Fuellung   >
+      <Servieren >
+          <quant>150 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>150 g</quant>
+          <zutat>Himbeeren</zutat>
+          <quant>150 g</quant>
+          <zutat>Johannisbeeren</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Biskuit                       </inhalt>
+      </How_To    >
+      <Biskuit   >
+          <inhalt>Zucker, Eigelbe und Eier in einer Schuessel mit dem Schwingbesen des Handruehrgeraets ca. 5 Min. ruehren, bis die Masse heller ist.</inhalt>
+      </Biskuit   >
+      <How_To1   >
+          <inhalt>Wenig Zitronenschale ueber die Masse reiben. Zitrone auspressen, Saft beiseitestellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Eiweisse mit dem Salz steif schlagen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Mandeln und Mehl mischen, lagenweise mit dem Eischnee auf die Masse geben, mit dem Gummischaber sorgfaeltig darunterziehen. </inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Backen                        </inhalt>
+      </How_To4   >
+      <How_To5   >
+          <inhalt>1/3 des Teig in die vorbereitete Form fuellen. Restlichen Teig beiseitestellen. </inhalt>
+      </How_To5   >
+      <Backen    >
+          <inhalt>Backen: ca. 30 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Formenrand entfernen. Biskuits auf eine Platte stuerzen, Backpapier entfernen. Vorgang mit dem restlichen Teig 2-mal wiederholen. </inhalt>
+      </Backen    >
+      <How_To6   >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To6   >
+      <How_To7   >
+          <inhalt>1/3 der Mascarpone-Masse auf einem Biskuit verteilen</inhalt>
+      </How_To7   >
+      <Fuellung   >
+          <inhalt>Restliche Mascarpone-Masse auf dem letzten Biskuit verteilen.</inhalt>
+      </Fuellung   >
+      <Servieren >
+          <inhalt>Cakerand ringsum glatt streichen. Beeren auf dem Naked Cake verteilen. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

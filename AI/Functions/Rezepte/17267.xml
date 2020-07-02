@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>367 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knusperkruste>
+          <quant>80 g</quant>
+          <zutat>Guetzli (z.B. Gran Cereale croccante)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>50 g</quant>
+          <zutat>weisse Schokolade, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>gemahlene Bourbon-Vanille</zutat>
+      </Knusperkruste>
+      <Aepfel_vorbacken>
+          <quant>4 </quant>
+          <zutat>Aepfel, halbiert, Kerngehaeuse entfernt</zutat>
+      </Aepfel_vorbacken>
+      <Aepfel_ueberbacken>
+          <quant>4 EL</quant>
+          <zutat>Dessert Extrafin (Sauermilch)</zutat>
+      </Aepfel_ueberbacken>
+   </einkaufliste>
+   <rezept>
+      <Knusperkruste>
+          <inhalt>Guetzli in einem Plastikbeutel mit dem Wallholz fein zerdruecken, mit Butter, Schokolade, Zimt und Vanille mischen. </inhalt>
+      </Knusperkruste>
+      <Aepfel_vorbacken>
+          <inhalt>Aepfel auf ein mit Backpapier belegtes Blech legen. Ca. 25 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens backen.</inhalt>
+      </Aepfel_vorbacken>
+      <Aepfel_ueberbacken>
+          <inhalt>Aepfel herausnehmen, entstandene Fluessigkeit aus dem Kerngehaeuse auf das Blech giessen. Knusperkruste auf den Aepfeln verteilen, in der Mitte des auf 180 Grad vorgeheizten Ofens ca. 15 Min. fertig backen. Herausnehmen, Sauermilch dazu servieren. </inhalt>
+      </Aepfel_ueberbacken>
+   </rezept>
+</Rezept>

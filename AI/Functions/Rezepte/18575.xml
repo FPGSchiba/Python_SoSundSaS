@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>288 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>41 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbispueree>
+          <quant>400 g</quant>
+          <zutat>Kuerbis (z.B. Butternut), in Stuecken</zutat>
+          <quant> </quant>
+          <zutat>Wasser</zutat>
+          <quant>1 </quant>
+          <zutat>Mandarine, heiss abgespuelt, trocken getupft, wenig abgeriebene Schale und ganzer Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Ingwer, gerieben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Piment</zutat>
+      </Kuerbispueree>
+      <Kandierte_Kuerbiskerne>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>3 EL</quant>
+          <zutat>Kuerbiskerne</zutat>
+          <quant>1 TL</quant>
+          <zutat>Fenchelsamen</zutat>
+      </Kandierte_Kuerbiskerne>
+      <Porridge  >
+          <quant>7 dl</quant>
+          <zutat>Haferdrink</zutat>
+          <quant>120 g</quant>
+          <zutat>Haferflocken</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Porridge  >
+   </einkaufliste>
+   <rezept>
+      <Kuerbispueree>
+          <inhalt>Ein Daempfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen. Kuerbiswuerfel beigeben, zugedeckt bei mittlerer Hitze ca. 20 Min. sehr weich garen. Kuerbis fein puerieren, Mandarinenschale, - saft, Zucker, Ingwer und Gewuerze darunterruehren. </inhalt>
+      </Kuerbispueree>
+      <Kandierte_Kuerbiskerne>
+          <inhalt>Wasser mit dem Zucker in einer Pfanne aufkochen, sirupartig einkoecheln. Kuerbiskerne und Fenchelsamen beigeben, unter staendigem Ruehren bei mittlerer Hitze einkochen, bis der Zucker trocken wird und an den Kernen und Samen haftet. Pfanne von der Platte nehmen ca. 2 Min. weiterruehren, auf ein Backpapier geben, auskuehlen.</inhalt>
+      </Kandierte_Kuerbiskerne>
+      <Porridge  >
+          <inhalt>Haferdrink mit Haferflocken und Salz in einer Pfanne aufkochen, unter gelegentlichem Ruehren bei mittlerer Hitze ca. 10 Min. koecheln. Kuerbispueree darunterruehren. Porridge anrichten, mit den kandierten Kernen servieren. </inhalt>
+      </Porridge  >
+   </rezept>
+</Rezept>

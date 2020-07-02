@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>705 kcal</NaehrwertProPerson>
+       <Fett>35 g  </Fett>
+       <Kohlenhydrate>67 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bratspeck_>
+          <quant>150 g</quant>
+          <zutat>Bratspeck in Tranchen, in Streifen</zutat>
+      </Bratspeck_>
+      <Pasta_    >
+          <quant>150 g</quant>
+          <zutat>Bratspeck in Tranchen, in Streifen</zutat>
+          <quant>350 g</quant>
+          <zutat>Orecchiette </zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>600 g</quant>
+          <zutat>Broccoli, in Roeschen</zutat>
+          <quant>1 </quant>
+          <zutat>roter Peperoncino, entkernt, in Streifchen</zutat>
+          <quant>125 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1 EL</quant>
+          <zutat>Majoranblaettchen</zutat>
+          <quant>60 g</quant>
+          <zutat>Parmesan am Stueck</zutat>
+      </Pasta_    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bratspeck                     </inhalt>
+      </How_To    >
+      <Bratspeck_>
+          <inhalt>Pasta                         </inhalt>
+      </Bratspeck_>
+      <Pasta_    >
+          <inhalt>Orecchiette anrichten, Parmesan mit dem Sparschaeler darueberhobeln.</inhalt>
+      </Pasta_    >
+   </rezept>
+</Rezept>

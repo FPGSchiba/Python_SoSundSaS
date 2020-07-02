@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>447 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 Bund</quant>
+          <zutat>Kerbel</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch</zutat>
+          <quant>1 dl</quant>
+          <zutat>Baumnussoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>4 </quant>
+          <zutat>Schweinsplaetzli (z.B. Stotzen), (je ca. 150 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuer die Sauce die Kraeuter grob schneiden, mit dem Oel puerieren, wuerzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Fuer die Plaetzli Bratbutter in einer Bratpfanne erhitzen. Fleisch beidseitig je ca. 3 Min. braten, wuerzen. Plaetzli mit der Kraeutersauce servieren.</inhalt>
+      </How_To1   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+</Rezept>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>546 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Stachelbeeren-Chutney>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gehackt</zutat>
+          <quant>250 g</quant>
+          <zutat>Stachelbeeren, halbiert</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>3 EL</quant>
+          <zutat>Holunderbluetensirup</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Stachelbeeren-Chutney>
+      <Ofenkartoffeln>
+          <quant>500 g</quant>
+          <zutat>Baby-Kartoffeln</zutat>
+          <quant>5 </quant>
+          <zutat>Bundzwiebeln, quer und laengs halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Ofenkartoffeln>
+      <Lammrack  >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 </quant>
+          <zutat>Lammracks (je ca. 400 g)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Lammrack  >
+   </einkaufliste>
+   <rezept>
+      <Stachelbeeren-Chutney>
+          <inhalt>Oel in einer Pfanne warm werden lassen. Schalotte, Knoblauch und Ingwer andaempfen. Stachelbeeren beigeben, kurz mitdaempfen. Aceto und Holunderbluetensirup dazugiessen, salzen, aufkochen. Hitze reduzieren, unter gelegentlichem Ruehren ca. 20 Min. einkoecheln, auskuehlen. </inhalt>
+      </Stachelbeeren-Chutney>
+      <Ofenkartoffeln>
+          <inhalt>Kartoffeln, Bundzwiebeln, Oel und Salz mischen, auf einem mit Backpapier belegten Blech verteilen. </inhalt>
+      </Ofenkartoffeln>
+      <Braten    >
+          <inhalt>Ca. 20 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. </inhalt>
+      </Braten    >
+      <Lammrack  >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Fleisch wuerzen, rundum ca. 4 Min. anbraten, erst wenden, wenn sich eine Kruste gebildet hat. Herausnehmen, neben die Kartoffeln aufs Blech legen. Fleischthermometer so einstecken, dass er den Knochen nicht beruehrt. </inhalt>
+      </Lammrack  >
+      <Fertig_braten>
+          <inhalt>Ca. 20 Min. in der Mitte des Ofens. Die Kerntemperatur soll ca. 55 Grad betragen. Herausnehmen, Fleisch ca. 5 Min. ruhen lassen. Fleisch tranchieren, mit den Kartoffeln anrichten, Chutney dazu servieren.  </inhalt>
+      </Fertig_braten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

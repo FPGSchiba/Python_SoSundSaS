@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>184 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>800 g</quant>
+          <zutat>Pastinaken laengs in ca. 1 cm dicken Staebchen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Salbei</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>150 g</quant>
+          <zutat>Eierschwaemme</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Olivenoel und Honig in einer grossen Schuessel verruehren. Pastinaken und Salbeiblaetter beigeben, alles gut mischen und auf einem mit Backpapier belegten Blech verteilen, wuerzen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen: 30-35 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Nach 20 Min. das Blech herausnehmen, Eierschwaemme auf den Pastinaken verteilen, 10-15 Min. fertig backen. Nach Belieben mit Salz und Pfeffer wuerzen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

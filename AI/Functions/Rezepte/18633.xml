@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>243 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Birnen_pochieren>
+          <quant>4 </quant>
+          <zutat>Birnen, geschaelt, halbiert, entkernt</zutat>
+          <quant>2 TL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>5 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Sternanise</zutat>
+      </Birnen_pochieren>
+      <Schinkensauce>
+          <quant>200 g</quant>
+          <zutat>saurer Halbrahm</zutat>
+          <quant>100 g</quant>
+          <zutat>Schinken in Tranchen, fein geschnitten</zutat>
+          <quant>2 EL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Schinkensauce>
+   </einkaufliste>
+   <rezept>
+      <Birnen_pochieren>
+          <inhalt>Birnen mit dem Zitronensaft bestreichen. Wein mit dem Zucker und Sternanis in einer Pfanne aufkochen. Birnen beigeben, bei kleiner Hitze ca. 5 Min. knapp weich koecheln, dabei einmal wenden. Birnen zugedeckt im Sud auskuehlen.</inhalt>
+      </Birnen_pochieren>
+      <Schinkensauce>
+          <inhalt>Sauren Halbrahm, Schinken und Kraeuter verruehren, wuerzen, mit den Birnen anrichten. </inhalt>
+      </Schinkensauce>
+   </rezept>
+</Rezept>

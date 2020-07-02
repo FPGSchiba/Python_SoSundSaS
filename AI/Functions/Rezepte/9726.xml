@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>391 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+       <Eiweiss>68 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch_beizen>
+          <quant>1 1/5 kg</quant>
+          <zutat>Rindsbraten (z. B. runder Mocken)</zutat>
+          <quant>7 dl</quant>
+          <zutat>Rotwein</zutat>
+          <quant>2 dl</quant>
+          <zutat>Rotweinessig</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>1 </quant>
+          <zutat>Nelke</zutat>
+          <quant>einige </quant>
+          <zutat>Pfefferkoerner, zerdrueckt</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>1 </quant>
+          <zutat>Lauch</zutat>
+          <quant>2 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+      </Fleisch_beizen>
+      <Schmoren  >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+      </Schmoren  >
+      <Sauce_&amp;_Tranchieren>
+          <quant>2 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rotwein</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce_&amp;_Tranchieren>
+   </einkaufliste>
+   <rezept>
+      <Fleisch_beizen>
+          <inhalt>Fleisch in eine grosse Schuessel geben. Wein und Essig daruebergiessen, Zwiebel mit Lorbeerblatt und Nelke bestecken, mit dem Pfeffer beigeben. Rueebli in Stuecke, Lauch in Ringe schneiden, mit dem Thymian beigeben. Fleisch zugedeckt im Kuehlschrank ca. 4 Tage beizen, taeglich wenden.</inhalt>
+      </Fleisch_beizen>
+      <Schmoren  >
+          <inhalt>Fleisch und Gemuese herausnehmen, trocken tupfen. Fluessigkeit aufkochen, durch ein Sieb giessen, beiseite stellen. Bratbutter im Brattopf erhitzen. Fleisch salzen, rundum ca. 20 Min. anbraten. Fleisch herausnehmen. Gemuese im gleichen Topf andaempfen, ca. 5 dl beiseite gestellte Fluessigkeit dazugiessen, aufkochen. Fleisch wieder beigeben. Schmoren: zugedeckt bei kleinster Hitze ca. 2 Std. Fleisch gelegentlich wenden, wenn noetig etwas Fluessigkeit beigeben.</inhalt>
+      </Schmoren  >
+      <Sauce_&amp;_Tranchieren>
+          <inhalt>Braten herausnehmen, vor dem Tranchieren zugedeckt ca. 10 Min. ruhen lassen. Sauce durch ein Sieb in ein Pfaennchen giessen, zur Haelfte einkochen. Maizena mit dem Wein anruehren, unter Ruehren beigeben, Sauce ca. 5 Min. koecheln, Sauce wuerzen. Braten quer zur Faser tranchieren, Sauce und Gemuese dazu servieren.</inhalt>
+      </Sauce_&amp;_Tranchieren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+</Rezept>

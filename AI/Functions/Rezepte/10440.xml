@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>240 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>16 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spargelsuppe>
+          <quant>500 g</quant>
+          <zutat>gruene Spargeln</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Milch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 1/2 Bund</quant>
+          <zutat>Basilikum</zutat>
+      </Spargelsuppe>
+      <Lachs_&amp;_Anrichten>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 Tranchen</quant>
+          <zutat>geraeucherter Lachs</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pinienkerne, geroestet</zutat>
+      </Lachs_&amp;_Anrichten>
+   </einkaufliste>
+   <rezept>
+      <Spargelsuppe>
+          <inhalt>Spargeln im unteren Drittel schaelen, in Stuecke schneiden, Zwiebel vierteln und mit Spargeln, Milch und Bouillon unter gelegentlichem Ruehren ca. 20 Min. weich kochen. Basilikumblaetter der Suppe beigeben, puerieren, wuerzen.</inhalt>
+      </Spargelsuppe>
+      <Lachs_&amp;_Anrichten>
+          <inhalt>Lachstranchen halbieren. Je 2 Stueck leicht ueberlappend aufrollen, in Teller stellen, Suppe zur Lachsrose geben. Mit Pininekernen bestreuen.</inhalt>
+      </Lachs_&amp;_Anrichten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=RwobN4IO3Ew"/>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>386 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>43 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Mamaretti >
+          <quant>140 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>5 Tropfen</quant>
+          <zutat>Bittermandelaroma</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Mamaretti >
+      <Erdbeeren >
+          <quant>3 EL</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>500 g</quant>
+          <zutat>Erdbeeren, in Schnitzchen</zutat>
+      </Erdbeeren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Mamaretti                     </inhalt>
+      </How_To    >
+      <Mamaretti >
+          <inhalt>Backen: ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Mamaretti >
+      <Erdbeeren >
+          <inhalt>Puderzucker und Zitronensaft in einer Schuessel verruehren. Erdbeeren beigeben, mischen, zugedeckt ca. 30 Min. ziehen lassen. Erdbeeren mit den Mamaretti servieren.</inhalt>
+      </Erdbeeren >
+   </rezept>
+</Rezept>

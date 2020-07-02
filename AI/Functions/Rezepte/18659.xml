@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>275 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cocktail  >
+          <quant>2 1/2 dl</quant>
+          <zutat>Gin</zutat>
+          <quant>3 </quant>
+          <zutat>Zitronen, nur Saft (ca. 3 dl)</zutat>
+          <quant>6 EL</quant>
+          <zutat>Himbeersirup</zutat>
+          <quant>50 g</quant>
+          <zutat>tiefgekuehlte Himbeeren, angetaut, einige beiseite gestellt</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant> </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Cocktail  >
+   </einkaufliste>
+   <rezept>
+      <Cocktail  >
+          <inhalt>1 1/4 dl Gin, 6 EL Zitronensaft, 3 EL Sirup, die Haelfte der Himbeeren und 1 Eiweiss in einen Shaker geben, ca. 15 Sek. schuetteln. Eiswuerfel beigeben, nochmals ca. 30 Sek. schuetteln. Durch ein Sieb in 2 Glaeser giessen. Vorgang wiederholen. Glaeser mit beiseite gestellten Himbeeren verzieren. </inhalt>
+      </Cocktail  >
+   </rezept>
+</Rezept>

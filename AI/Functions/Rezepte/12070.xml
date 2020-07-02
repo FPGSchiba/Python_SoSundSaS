@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>538 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>3 dl</quant>
+          <zutat>lactosefreier Vollrahm</zutat>
+          <quant>80 g</quant>
+          <zutat>weiche Doerraprikosen, in Stuecken</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>40 g</quant>
+          <zutat>Zucker</zutat>
+      </Creme     >
+      <Aprikosenkompott>
+          <quant>250 g</quant>
+          <zutat>Aprikosen, in Schnitzchen</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Kardamomkapseln</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+      </Aprikosenkompott>
+      <Caramelisieren>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+      </Caramelisieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Creme                         </inhalt>
+      </How_To    >
+      <Creme     >
+          <inhalt>Garen: ca. 45 Min. in der Mitte des auf 120 Grad vorgeheizten Ofens. Foermchen herausnehmen, auskuehlen, zugedeckt ca. 4 Std. im Kuehlschrank fest werden lassen.</inhalt>
+      </Creme     >
+      <Aprikosenkompott>
+          <inhalt>Aprikosen, Zucker, Kardamom und Wein in einer Pfanne aufkochen, ca. 5 Min. koecheln, auskuehlen. Kardamom entfernen. </inhalt>
+      </Aprikosenkompott>
+      <Caramelisieren>
+          <inhalt>Zucker auf der Creme verteilen, mit dem Bunsenbrenner vorsichtig caramelisieren. Kompott darauf verteilen.</inhalt>
+      </Caramelisieren>
+   </rezept>
+</Rezept>

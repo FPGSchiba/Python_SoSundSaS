@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>360 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Nusspesto >
+          <quant>2 EL</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Fine Food Baumnussoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>4 Scheiben</quant>
+          <zutat>Baguettes (ca. 100 g)</zutat>
+          <quant>4 Scheiben</quant>
+          <zutat>Ziegenkaese (ca. 75 g), z.B. Chavroux Tendre Buche)</zutat>
+      </Nusspesto >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Nusspesto                     </inhalt>
+      </How_To    >
+      <Nusspesto >
+          <inhalt>Baguettescheiben ca. 3 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens roesten. Ziegenkaese auf den Brotscheiben verteilen, 5 Min. in der Mitte des Ofens ueberbacken. Etwas abkuehlen, Nusspesto darauf verteilen, sofort servieren</inhalt>
+      </Nusspesto >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

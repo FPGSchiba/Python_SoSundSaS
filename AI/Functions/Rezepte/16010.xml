@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>362 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bananenbrot>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>180 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>2 </quant>
+          <zutat>Eier (gross)</zutat>
+          <quant>1 TL</quant>
+          <zutat>Vanillepaste</zutat>
+          <quant>2 </quant>
+          <zutat>Bananen (sehr reif), fein zerdrueckt</zutat>
+          <quant>60 g</quant>
+          <zutat>Tahina </zutat>
+          <quant>200 g</quant>
+          <zutat>Halbweissmehl</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>75 g</quant>
+          <zutat>Schokolade  (z.B. Osterhasenschoggi), grob gehackt</zutat>
+          <quant>80 g</quant>
+          <zutat>Baumnusskerne, grob gehackt</zutat>
+      </Bananenbrot>
+      <Verzieren_und_Backen>
+          <quant>1 </quant>
+          <zutat>Banane, laengs halbiert</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Sesam</zutat>
+      </Verzieren_und_Backen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Bananenbrot                   </inhalt>
+      </How_To    >
+      <Bananenbrot>
+          <inhalt>Verzieren und Backen          </inhalt>
+      </Bananenbrot>
+      <Verzieren_und_Backen>
+          <inhalt>Backen: ca. 50 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Ev. gegen Ende der Backzeit mit Alufolie abdecken. Mit einem Holzstaebchen pruefen, ob das Brot durchgebacken ist. Herausnehmen, etwas abkuehlen, aus der Form nehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Verzieren_und_Backen>
+   </rezept>
+</Rezept>

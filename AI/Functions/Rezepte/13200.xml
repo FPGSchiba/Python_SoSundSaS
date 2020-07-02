@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>560 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>57 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Lammnierstueck (ca. 200 g), in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fleisch   >
+      <Gemuese    >
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>400 g</quant>
+          <zutat>Betty Bossi Mexican Mix</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 TL</quant>
+          <zutat>Fine Food Merquen</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+      </Gemuese    >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Fleisch ca. 2 Min. ruehrbraten, herausnehmen, wuerzen.</inhalt>
+      </Fleisch   >
+      <Gemuese    >
+          <inhalt>Oel in derselben Pfanne erhitzen, Gemuese ca. 3 Min. ruehrbraten. Wasser dazugiessen, wuerzen, aufkochen, Hitze reduzieren, unter gelegentlichem Ruehren ca. 10 Min. koecheln. Fleisch wieder beigeben, nur noch heiss werden lassen. Koriander darueberstreuen. </inhalt>
+      </Gemuese    >
+   </rezept>
+</Rezept>

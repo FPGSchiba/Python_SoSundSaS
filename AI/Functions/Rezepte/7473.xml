@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>664 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Marronikuchen>
+          <quant>100 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>150 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>300 g</quant>
+          <zutat>tiefgekuehltes Marronipueree, aufgetaut</zutat>
+          <quant>200 g</quant>
+          <zutat>gemahlene Haselnuesse</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnuesse, grob gehackt</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1/2 Paeckli</quant>
+          <zutat>Backpulver</zutat>
+      </Marronikuchen>
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+      <Mostcreme >
+          <quant>2 </quant>
+          <zutat>Eier, verklopft</zutat>
+          <quant>50 g</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>5 dl</quant>
+          <zutat>Suessmost</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und wenig Saft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Mostcreme >
+   </einkaufliste>
+   <rezept>
+      <Marronikuchen>
+          <inhalt>Butter und Puderzucker in einer Schuessel gut verruehren. Ein Ei nach dem anderen darunterruehren, weiterruehren, bis die Masse heller ist. Maronen-Pueree, Nuesse, Vanillezucker und Backpulver darunterruehren. Masse in die vorbereitete Form geben. </inhalt>
+      </Marronikuchen>
+      <Backen    >
+          <inhalt>ca. 45 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Kuchen herausnehmen, etwas abkuehlen, Formenrand entfernen, auf ein Gitter schieben, auskuehlen. Marronikuchen in Wuerfel schneiden, mit Puderzucker bestaeuben.</inhalt>
+      </Backen    >
+      <Mostcreme >
+          <inhalt>Eier, Zucker, Vanillezucker, Maizena und Suessmost unter Ruehren bis knapp vor den Kochpunkt bringen, dabei staendig ruehren. Pfanne von der Herdplatte ziehen, kurz weiterruehren. Creme durch ein Sieb in eine Schuessel geben, auskuehlen lassen, zugedeckt  mind. 1 Std. kuehlstellen. Kurz vor dem Servieren Zitronenschale und -saft darunterruehren, Rahm vorsichtig mit einem Gummischaber darunterziehen.</inhalt>
+      </Mostcreme >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=6pTeEdV_5P4"/>
+</Rezept>

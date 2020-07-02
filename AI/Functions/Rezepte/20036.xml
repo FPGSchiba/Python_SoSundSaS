@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>852 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>55 g  </Kohlenhydrate>
+       <Eiweiss>52 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knoepfli_  >
+          <quant>300 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Knoepfli_  >
+      <Knoepfli-Raclette_>
+          <quant>600 g</quant>
+          <zutat>Raclettekaese, in Tranchen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>milder Paprika</zutat>
+          <quant>300 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>600 g</quant>
+          <zutat>Raclettekaese, in Tranchen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>milder Paprika</zutat>
+      </Knoepfli-Raclette_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Knoepfli                       </inhalt>
+      </How_To    >
+      <Knoepfli_  >
+          <inhalt>                              </inhalt>
+      </Knoepfli_  >
+      <How_To1   >
+          <inhalt>Teig portionenweise durchs Knoepflisieb in das leicht siedende Salzwasser streichen. Knoepfli ziehen lassen, bis sie an die Oberflaeche steigen,</inhalt>
+      </How_To1   >
+      <Knoepfli-Raclette_>
+          <inhalt>                              </inhalt>
+      </Knoepfli-Raclette_>
+   </rezept>
+</Rezept>

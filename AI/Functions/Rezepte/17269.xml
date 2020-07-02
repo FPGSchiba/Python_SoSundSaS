@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>553 kcal</NaehrwertProPerson>
+       <Fett>23 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Waffeln   >
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker (ca. 8 g)</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollmilch</zutat>
+      </Waffeln   >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Backen</zutat>
+      </Backen    >
+      <Zitrus-Kompott>
+          <quant>50 g</quant>
+          <zutat>Butter</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>Bio-Orangen, wenig abgeriebene Schale, ganzer Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Zitrone, nur Saft</zutat>
+          <quant>1 </quant>
+          <zutat>Zimtstange</zutat>
+          <quant>1 </quant>
+          <zutat>Grapefruit, filetiert</zutat>
+          <quant>1 </quant>
+          <zutat>Orange, filetiert</zutat>
+          <quant>2 </quant>
+          <zutat>Clementinen, filetiert</zutat>
+          <quant>180 g</quant>
+          <zutat>Jogurt nature</zutat>
+      </Zitrus-Kompott>
+   </einkaufliste>
+   <rezept>
+      <Waffeln   >
+          <inhalt>Mehl und alle Zutaten bis und mit Vanillezucker in einer Schuessel mischen. Eier, Jogurt und Milch darunterruehren. Teig zugedeckt bei Raumtemperatur ca. 15 Min. quellen lassen.</inhalt>
+      </Waffeln   >
+      <Backen    >
+          <inhalt>Waffeleisen heiss werden lassen, mit wenig Bratbutter bestreichen. Je 1 gehaeufter Essloeffel Teig auf das Waffeleisen geben, Waffeln ca. 3 Min. backen, herausnehmen, auf einem Gitter etwas abkuehlen.</inhalt>
+      </Backen    >
+      <Zitrus-Kompott>
+          <inhalt>Butter in einer Pfanne erwaermen. Zucker beigeben, unter gelegentlichem Hin-und-her-Bewegen der Pfanne koecheln, bis ein hellbrauner Caramel entsteht. Pfanne von der Platte nehmen. Orangensaft und -schale, Zitronensaft und Zimtstange beigeben, ca. 5 Min. koecheln. Grapefruit, Orange und Clementinen in den heissen Caramel legen und ca. 5 Min. ziehen lassen, kurz mitkoecheln. Zitrus-Kompott warm mit dem Jogurt zu den Waffeln servieren. </inhalt>
+      </Zitrus-Kompott>
+   </rezept>
+</Rezept>

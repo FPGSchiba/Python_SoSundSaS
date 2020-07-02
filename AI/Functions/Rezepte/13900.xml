@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>286 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>26 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fruechte   >
+          <quant>50 g</quant>
+          <zutat>tiefgekuehlte Himbeeren, aufgetaut</zutat>
+          <quant>90 g</quant>
+          <zutat>Mangos, in Stuecken</zutat>
+      </Fruechte   >
+      <Teig      >
+          <quant>150 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 </quant>
+          <zutat>frisches Ei</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>150 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+      </Teig      >
+      <Backen    >
+          <quant>wenig </quant>
+          <zutat>Puderzucker</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Fruechte   >
+          <inhalt>Himbeeren und Mango separat puerieren.</inhalt>
+      </Fruechte   >
+      <Teig      >
+          <inhalt>Butter, Zucker, Ei und Salz mit den Schwingbesen des Handruehrgeraets ruehren, bis die Masse heller ist. Masse halbieren, Fruchtmassen separat darunterruehren. Mehl und Mandeln mischen, jeweils die Haelfte unter die Teige mischen.  </inhalt>
+      </Teig      >
+      <Lollipops >
+          <inhalt>Die beiden Teige je in einen Spritzsack mit glatter Tuelle (ca. 10 mm Ø) geben. Auf zwei mit Backpapier belegten Blechen Lollipops formen. Holzspiesschen einstecken.</inhalt>
+      </Lollipops >
+      <Backen    >
+          <inhalt>Ca. 10 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen, Lollipops auf einem Gitter auskuehlen, mit Puderzucker bestreuen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

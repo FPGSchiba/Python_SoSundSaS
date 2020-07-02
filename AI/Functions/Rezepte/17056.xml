@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>199 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>42 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbispueree>
+          <quant>300 g</quant>
+          <zutat>Kuerbis, in Wuerfeln (ergibt geruestet ca. 200 g)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Kuerbispueree>
+      <Hefeteig  >
+          <quant>450 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>Trockenhefe </zutat>
+          <quant>1 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+      </Hefeteig  >
+   </einkaufliste>
+   <rezept>
+      <Kuerbispueree>
+          <inhalt>Kuerbis mit Wasser und Salz aufkochen, zugedeckt ca. 5 Min. weichkochen, puerieren, auskuehlen, beiseite stellen (sollte ca. 220 g ergeben).</inhalt>
+      </Kuerbispueree>
+      <Hefeteig  >
+          <inhalt> Mehl mit Salz und Hefe in einer Schuessel mischen. Beiseite gestelltes Kuerbispueree, Ahornsirup und Wasser beigeben, mischen, zu einem weichen, glatten Teig kneten. Den Teig auf einer bemehlten Arbeitsflaeche ca. 10 Min. kneten, Zugedeckt bei Raumtemperatur ca. 1 1/2 Std. aufs Doppelte aufgehen lassen.</inhalt>
+      </Hefeteig  >
+      <Teigkugel_formen>
+          <inhalt>Den Teig auf wenig Mehl zu einer Kugel formen.</inhalt>
+      </Teigkugel_formen>
+      <Teig_aufteilen>
+          <inhalt>Die Teigkugel in 8 gleich grosse Stuecke teilen.</inhalt>
+      </Teig_aufteilen>
+      <Broetchen_formen>
+          <inhalt>Die Teigstuecke auf wenig Mehl zu runden Broetchen formen.</inhalt>
+      </Broetchen_formen>
+      <Kuerbisbroetchen_formen>
+          <inhalt>Fuer jedes Broetchen ein langes Stueck Schnur abschneiden und die Mitte bestimmen. Die Mitte der Schnuere oben auf die Teigkugeln legen und die Kugeln mit der Schnur umdrehen. Die zwei Schnurstuecke zusammenziehen und kreuzen, sodass sich die auf der Unterseite der Kugeln ein Kreuz bildet. Die Kugeln erneut umdrehen und den Schritt wiederholen, bis die Kugeln in je 8 gleich grosse Abschnitte unterteilt sind. Die Schnur auf der Oberseite verknoten und die Enden abschneiden. </inhalt>
+      </Kuerbisbroetchen_formen>
+      <Broetchen_aufgehen_lassen>
+          <inhalt>Broetchen auf ein mit Backpapier belegtes Blech legen. Mit Klarsichtfolie bedecken, weitere 30 Min. aufgehen lassen. Der Teig wird rund um die Schnur aufgehen und eine Kuerbisform bilden.</inhalt>
+      </Broetchen_aufgehen_lassen>
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 170 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen. Schnur vorsichtig entfernen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

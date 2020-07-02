@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>259 kcal</NaehrwertProPerson>
+       <Fett>11 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tarte-Tatin_>
+          <quant>150 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>20 g</quant>
+          <zutat>Butterfloeckli</zutat>
+          <quant>1 Paeckli</quant>
+          <zutat>Vanillezucker</zutat>
+          <quant>350 g</quant>
+          <zutat>Rhabarber, in ca. 6 cm langen Staengeln</zutat>
+          <quant>1 </quant>
+          <zutat>rechteckig ausgewallter Blaetterteig, in 2 Rechtecke von je ca. 30 x 10 cm geschnitten</zutat>
+      </Tarte-Tatin_>
+      <Backen_   >
+          <quant>15 g</quant>
+          <zutat>Micro Greens </zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Tarte-Tatin_>
+          <inhalt>Je die Haelfte des Zuckers innerhalb der gezeichneten Rechtecke auf dem Backpapier verteilen, Butterfloeckli darauf legen. Rhabarber dicht nebeneinander auf den Zucker legen, mit Vanillezucker bestreuen, Teigstuecke locker ueber den Rhabarber legen.</inhalt>
+      </Tarte-Tatin_>
+      <Backen_   >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, Tartes kurz stehen lassen, beide mit Hilfe des Blechs auf ein Gitter stuerzen. Backpapier entfernen, etwas abkuehlen, Micro Greens ueber die Tartes streuen, lauwarm servieren.</inhalt>
+      </Backen_   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=hZ9GA6CR69Y"/>
+</Rezept>

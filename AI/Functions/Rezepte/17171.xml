@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>646 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>76 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Bananenschalen>
+          <quant>1 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>2 </quant>
+          <zutat>Bananen (nur Max Havelar, Bio), nur die Schale, in ca. 1 1/2 cm breiten Streifen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+      </Bananenschalen>
+      <Pancakes_Teig>
+          <quant>2 </quant>
+          <zutat>Eigelbe</zutat>
+          <quant>400 g</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant>160 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>2 </quant>
+          <zutat>Eiweisse</zutat>
+      </Pancakes_Teig>
+      <Pancakes  >
+          <quant>30 g</quant>
+          <zutat>Kokosfett</zutat>
+          <quant>50 g</quant>
+          <zutat>Kokosraspel, geroestet</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Ahornsirup</zutat>
+      </Pancakes  >
+   </einkaufliste>
+   <rezept>
+      <Bananenschalen>
+          <inhalt>Oel in einer Pfanne erwaermen. Bananenschale und Zucker beigeben, ca. 2 Min. daempfen. Herausnehmen, beiseite stellen. </inhalt>
+      </Bananenschalen>
+      <Pancakes_Teig>
+          <inhalt>Eigelbe und Kokosmilch verruehren. Mehl und Backpulver mischen, beigeben, gut verruehren, bis ein glatter Teig entsteht. Beiseite gestellte Bananenschalen beigeben, daruntermischen, ca. 15 Min. stehen lassen. Eiweisse steif schlagen, sorgfaeltig unter den Teig mischen. </inhalt>
+      </Pancakes_Teig>
+      <Pancakes  >
+          <inhalt>Kokosfett in einer beschichteten Bratpfanne erhitzen. Teig portionenweise in die Pfanne giessen so, dass Pancakes von ca. 7 cm Ø entstehen. Hitze reduzieren. Ca. 11/2 Min. backen, bis sich die Unterseite von selbst loest, Pancake wenden, ca. 1 Min. fertig backen, zugedeckt warm stellen. Restliche Pancakes gleich zubereiten. Pancakes mit den Kokosraspeln bestreuen, Ahornsirup daruebertraeufeln. </inhalt>
+      </Pancakes  >
+   </rezept>
+</Rezept>

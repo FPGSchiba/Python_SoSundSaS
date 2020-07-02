@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>441 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glasnudeln>
+          <quant>100 g</quant>
+          <zutat>Glasnudeln</zutat>
+          <quant> </quant>
+          <zutat>Wasser, siedend</zutat>
+      </Glasnudeln>
+      <Gemuese_kochen>
+          <quant>500 g</quant>
+          <zutat>Broccoli, in Roeschen</zutat>
+          <quant>300 g</quant>
+          <zutat>tiefgekuehlte Erbsli</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Gemuese_kochen>
+      <Gemuese_braten>
+          <quant>1 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>3 </quant>
+          <zutat>Bundzwiebeln mit dem Gruen, in Ringen</zutat>
+          <quant>2 </quant>
+          <zutat>Kaffirlimetten-Blaetter (Thai-Kit), fein gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherter Tofu, in Wuerfeln</zutat>
+      </Gemuese_braten>
+      <Sauce     >
+          <quant>3 EL</quant>
+          <zutat>Limettensaft</zutat>
+          <quant>3 EL</quant>
+          <zutat>geroestetes Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Fischsauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Glasnudeln>
+          <inhalt>Glasnudeln in eine Schuessel geben, Wasser daruebergiessen, ca. 4 Min. stehen lassen. Nudeln kalt abspuelen, abtropfen, mit der Schere in Stuecke schneiden.</inhalt>
+      </Glasnudeln>
+      <Gemuese_kochen>
+          <inhalt>Broccoli und Erbsli im Salzwasser ca. 5 Min. knapp weich kochen, abtropfen, kurz in eiskaltes Wasser legen, abtropfen.</inhalt>
+      </Gemuese_kochen>
+      <Gemuese_braten>
+          <inhalt>Oel in einer weiten beschichteten Bratpfanne heiss werden lassen. Gemuese mit den Bundzwiebeln, Limettenblaettern und Tofu ca. 4 Min. ruehrbraten. </inhalt>
+      </Gemuese_braten>
+      <Sauce     >
+          <inhalt>Limettensaft, Oel und Fischsauce verruehren. Glasnudeln, Gemuese und Koriander beigeben, mischen, salzen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

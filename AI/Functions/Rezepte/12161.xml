@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>337 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>500 g</quant>
+          <zutat>Tofu nature</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe</zutat>
+          <quant>2 TL</quant>
+          <zutat>dunkles Sesamoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel</zutat>
+          <quant>1 </quant>
+          <zutat>rote Peperoni</zutat>
+          <quant>1 Dose</quant>
+          <zutat>Ananasscheiben mit dem Saft (ca. 220 g)</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Ketchup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tofu in ca. 2 cm grosse Wuerfel schneiden. Knoblauch pressen, mit Sesamoel und Sojasauce verruehren, zum Tofu geben, gut mischen, zugedeckt ca. 15 Min. marinieren.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Oel im Wok oder einer weiten Bratpfanne erhitzen. Tofu ca. 5 Min. ruehrbraten, herausnehmen, beiseite stellen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Zwiebel in Schnitze, Peperoni in ca. 2 cm grosse Stuecke schneiden. Ananas abtropfen, den Saft dabei auffangen, Ananans in Stueckli schneiden. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Wenig Oel im Wok erhitzen. Zwiebel und Peperoni ca. 5 Min. ruehrbraten. Ananassaft mit Wasser, Sojasauce, Essig, Ketchup, Maizena und Zucker verruehren, zum Gemuese geben, aufkochen. Ananas und Tofu beigeben, nur heiss werden lassen, wuerzen.</inhalt>
+      </How_To3   >
+      <How_To4   >
+          <inhalt>Dazu passt: Reis.             </inhalt>
+      </How_To4   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=I7e3o-6Vo58"/>
+</Rezept>

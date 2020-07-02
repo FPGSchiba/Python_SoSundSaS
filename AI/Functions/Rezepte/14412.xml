@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>575 kcal</NaehrwertProPerson>
+       <Fett>8 g   </Fett>
+       <Kohlenhydrate>79 g  </Kohlenhydrate>
+       <Eiweiss>45 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Spaghetti >
+          <quant>400 g</quant>
+          <zutat>Spaghetti (BARILLA No. 5)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Spaghetti >
+      <Sauce     >
+          <quant>400 g</quant>
+          <zutat>geschnetzeltes Pouletfleisch</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>getrockneter Oregano</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Erbsli, angetaut</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Spaghetti                     </inhalt>
+      </How_To    >
+      <Spaghetti >
+          <inhalt>Sauce                         </inhalt>
+      </Spaghetti >
+      <Sauce     >
+          <inhalt>Beiseite gestelltes Poulet und Erbsli beigeben, aufkochen, ca. 2 Min. koecheln, Petersilie beigeben. Spaghetti mit der Sauce anrichten.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

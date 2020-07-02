@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>318 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig_     >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Teig_     >
+      <Belag_    >
+          <quant>150 g</quant>
+          <zutat>Ricotta</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgeriebene Schale und 3 EL Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mandelstifte</zutat>
+          <quant>500 g</quant>
+          <zutat>Tomaten (z.B. Coeur de Boeuf und Cherry-Tomaten), in Scheiben</zutat>
+      </Belag_    >
+      <Backen_   >
+          <quant>100 g</quant>
+          <zutat>Cherry-Tomaten, halbiert</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Basilikum, Blaettchen abgezupft</zutat>
+      </Backen_   >
+   </einkaufliste>
+   <rezept>
+      <Teig_     >
+          <inhalt>Teigblaetter auseinanderfalten, mit Oel bestreichen, auf einem mit Backpapier belegtem Blech aufeinanderlegen. Rand ca. 3 cm einklappen.  </inhalt>
+      </Teig_     >
+      <Belag_    >
+          <inhalt>Ricotta und alle Zutaten bis und mit Pfeffer verruehren, auf dem Teig verteilen, Mandelstifte darueberstreuen, Tomaten darauf legen. </inhalt>
+      </Belag_    >
+      <Backen_   >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Tomaten und Oel mischen, auf der Tarte verteilen, wuerzen, Basilikumblaettchen darueberstreuen. </inhalt>
+      </Backen_   >
+   </rezept>
+</Rezept>

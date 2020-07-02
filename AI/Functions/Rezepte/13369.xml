@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>406 kcal</NaehrwertProPerson>
+       <Fett>21 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Glace_    >
+          <quant>1/2 </quant>
+          <zutat>Charentais-Melone, in Stuecken</zutat>
+          <quant>250 g</quant>
+          <zutat>tiefgekuehlte Himbeeren</zutat>
+          <quant>100 g</quant>
+          <zutat>Puderzucker</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Vollrahm, steif geschlagen</zutat>
+      </Glace_    >
+      <Crumble_  >
+          <quant>100 g</quant>
+          <zutat>Kokosflocken</zutat>
+          <quant>75 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>75 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+      </Crumble_  >
+      <Servieren >
+          <quant>1/2 </quant>
+          <zutat>Charentais-Melone, in Scheiben</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Glace                         </inhalt>
+      </How_To    >
+      <Glace_    >
+          <inhalt>Crumble                       </inhalt>
+      </Glace_    >
+      <Crumble_  >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, abkuehlen. </inhalt>
+      </Crumble_  >
+      <Servieren >
+          <inhalt>Glace auf den Melonenscheiben anrichten, Crumble darueberstreuen. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

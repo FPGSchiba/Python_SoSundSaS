@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>12 kcal </NaehrwertProPerson>
+       <Kohlenhydrate>3 g   </Kohlenhydrate>
+   </meta>
+   <einkaufliste>
+      <Aprikosen_&amp;_Wuerzmischung>
+          <quant>100 g</quant>
+          <zutat>grobkoerniges Meersalz</zutat>
+          <quant>50 g</quant>
+          <zutat>weiche Doerraprikosen (sauer), grob gehackt</zutat>
+          <quant>30 g</quant>
+          <zutat>grobkoerniger Rohzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>getrockneter Rosmarin</zutat>
+          <quant>2 TL</quant>
+          <zutat>Knoblauchpulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Chilipulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>milder Curry</zutat>
+      </Aprikosen_&amp;_Wuerzmischung>
+   </einkaufliste>
+   <rezept>
+      <Aprikosen_&amp;_Wuerzmischung>
+          <inhalt>Alle Zutaten mischen, im Cutter grob mahlen, auf ein mit Backpapier belegtes Blech verteilen.</inhalt>
+      </Aprikosen_&amp;_Wuerzmischung>
+      <Backen_&amp;_Trocknen>
+          <inhalt>ca. 10 Min. in der Mitte des auf 150 Grad vorgeheizten Ofens. Wuerzmischung herausnehmen, auskuehlen, in die Glaeser fuellen, gut verschliessen.</inhalt>
+      </Backen_&amp;_Trocknen>
+   </rezept>
+</Rezept>

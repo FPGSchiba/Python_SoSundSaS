@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>104 kcal</NaehrwertProPerson>
+       <Kohlenhydrate>17 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Cocktail  >
+          <quant>2 </quant>
+          <zutat>Limetten, heiss abgespuelt, trocken getupft</zutat>
+          <quant>3 EL</quant>
+          <zutat>Gin</zutat>
+          <quant>2 </quant>
+          <zutat>starke Espressi</zutat>
+          <quant>6 EL</quant>
+          <zutat>Ingwersirup</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>einige </quant>
+          <zutat>Eiswuerfel</zutat>
+      </Cocktail  >
+   </einkaufliste>
+   <rezept>
+      <Cocktail  >
+          <inhalt>Von den Limetten mit dem Sparschaeler die Schale duenn abschaelen, eindrehen. Die Haelfte des Gins, 1 Espresso, 3 EL Sirup, Saft von 1 Limette und 1 Eiweiss in einen Shaker fuellen, mit Eiswuerfel auffuellen. Shaker gut verschliessen, ca. 30 Sek. gut schuetteln. Eiswuerfel in die Glaeser verteilen, Cocktail durch ein Sieb in 2 Glaeser giessen. Vorgang wiederholen. Glaeser mit der Limettenschale verzieren. </inhalt>
+      </Cocktail  >
+   </rezept>
+</Rezept>

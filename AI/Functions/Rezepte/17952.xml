@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>635 kcal</NaehrwertProPerson>
+       <Fett>6 g   </Fett>
+       <Kohlenhydrate>107 g </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren >
+          <quant>400 g</quant>
+          <zutat>Teigwaren (z.B. Penne)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren >
+      <Sauce     >
+          <quant>230 g</quant>
+          <zutat>Linsen (braun oder gruen)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, gerieben</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rotwein (oder Gemuesebouillon)</zutat>
+          <quant>700 g</quant>
+          <zutat>passierte Tomaten</zutat>
+          <quant>3 1/2 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Teigwaren >
+          <inhalt>Teigwaren im siedenden Salzwasser al dente kochen, abtropfen.</inhalt>
+      </Teigwaren >
+      <Sauce     >
+          <inhalt>Linsen in einem Sieb kalt abspuelen, abtropfen. Oel in einer Pfanne erhitzen, Zwiebel andaempfen, Linsen beigeben, kurz mitdaempfen. Rueebli beigeben, Wein dazugiessen, aufkochen, etwas einkochen. Tomaten und Wasser dazugiessen, aufkochen, bei kleiner Hitze ca. 20 Min. koecheln. Sauce wuerzen, Penne daruntermischen, heiss werden lassen, sofort servieren.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

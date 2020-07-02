@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>390 kcal</NaehrwertProPerson>
+       <Fett>27 g  </Fett>
+       <Kohlenhydrate>21 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Linsen    >
+          <quant>240 g</quant>
+          <zutat>Betty Bossi gruene Linsen mit Rueebli und Sellerie, vorgekocht</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Linsen    >
+      <Salat     >
+          <quant>200 g</quant>
+          <zutat>Stangensellerie, in feinen Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, entkernt, in Wuerfeli</zutat>
+          <quant>30 g</quant>
+          <zutat>Haselnuesse, grob gehackt</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Linsen    >
+          <inhalt>Linsen nach Angabe auf der Verpackung zubereiten. Essig, Oel, Salz und Pfeffer in einer Schuessel verruehren, warme Linsen beigeben.</inhalt>
+      </Linsen    >
+      <Salat     >
+          <inhalt>Sellerie und Apfel beigeben, mischen, Haselnuesse darueberstreuen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

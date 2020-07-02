@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>412 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>44 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>800 g</quant>
+          <zutat>Schweinsvoressen</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>3 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>2 </quant>
+          <zutat>Lorbeerblaetter</zutat>
+          <quant>2 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>2 TL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fleisch mit Haushaltpapier trockentupfen. Salz, Pfeffer und Mehl mischen. Fleisch portionenweise darin wenden. Oel in einem Brattopf erhitzen, Fleisch portionenweise anbraten. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Fleisch zurueck in den Brattopf geben, Bouillon und Lorbeerblaetter beigeben. Zugedeckt unter gelegentlichem Ruehren bei kleiner Hitze ca. 1 1/2 Std. schmoren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Senf, Honig und Rahm beigeben, nur heiss werden lassen, wuerzen.</inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Dazu passen: Nudeln oder Kartoffeln.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

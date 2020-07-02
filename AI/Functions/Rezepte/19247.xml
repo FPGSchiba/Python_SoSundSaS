@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>350 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>29 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Speck     >
+          <quant>150 g</quant>
+          <zutat>geraeucherter Speck, in Staebli</zutat>
+      </Speck     >
+      <Suppe     >
+          <quant>1 </quant>
+          <zutat>Zwiebel, gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gehackt</zutat>
+          <quant>200 g</quant>
+          <zutat>Lauch, in Streifen</zutat>
+          <quant>800 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant>1 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oregano, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suppe     >
+   </einkaufliste>
+   <rezept>
+      <Speck     >
+          <inhalt>Speck in einer grossen Pfanne ohne Fett langsam knusprig braten, 1/4 herausnehmen, fuer die Garnitur zugedeckt beiseite stellen.</inhalt>
+      </Speck     >
+      <Suppe     >
+          <inhalt>Zwiebel, Knoblauch und Lauch in derselben Pfanne im Speckfett ca. 5 Min. daempfen. Kartoffeln beigeben, ca. 3 Min. mitdaempfen. Bouillon dazugiessen, aufkochen. Hitze reduzieren, zugedeckt ca. 20 Min. weich koecheln. Suppe puerieren. Rahm dazugiessen, nur heiss werden lassen, Oregano beigeben, wuerzen. Suppe anrichten, mit dem beiseite gestellten Speck und wenig Oregano garnieren.</inhalt>
+      </Suppe     >
+   </rezept>
+</Rezept>

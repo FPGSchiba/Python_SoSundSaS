@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>494 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>54 g  </Kohlenhydrate>
+       <Eiweiss>21 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Polentaschnitten>
+          <quant>8 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>250 g</quant>
+          <zutat>grobkoerniger Maisgriess (Bramata)</zutat>
+          <quant>150 g</quant>
+          <zutat>geriebener Parmesan</zutat>
+          <quant>105 g</quant>
+          <zutat>Aufstrich Randen</zutat>
+          <quant>100 g</quant>
+          <zutat>rohe Randen, blanchiert, in feinen Streifen</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>wenig </quant>
+          <zutat>Bratbutter</zutat>
+      </Polentaschnitten>
+      <Zitronenvinaigrette>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, abgerieben Schale und Saft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Basilikum, fein geschnitten</zutat>
+          <quant>wenig </quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Zitronenvinaigrette>
+      <Fenchel-Ingwersalat_>
+          <quant>400 g</quant>
+          <zutat>Fenchel, fein gehobelt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+      </Fenchel-Ingwersalat_>
+   </einkaufliste>
+   <rezept>
+      <Polentaschnitten>
+          <inhalt>Wasser mit Salz und Muskat aufkochen. Mais einruehren, unter gelegentlichem Ruehren bei kleinster Hitze ca. 10 Min. koecheln, etwas abkuehlen. Parmesan, Aufstrich und  Randenstreifen darunterruehren, wuerzen. Polenta auf einem kalt abgespuelten Blechruecken ca. 3 cm dick rechteckig ausstreichen, auskuehlen, dann in gleich grosse Stuecke schneiden. Bratbutter in einer beschichteten Bratpfanne erhitzen. Schnitten portionenweise bei mittlerer Hitze goldbraun braten, warm stellen.</inhalt>
+      </Polentaschnitten>
+      <Zitronenvinaigrette>
+          <inhalt>Zitronenschale und -saft mit Oel und Basilikum in einer Schuessel verruehren, wuerzen, kuehl stellen.</inhalt>
+      </Zitronenvinaigrette>
+      <Fenchel-Ingwersalat_>
+          <inhalt>Fenchel und Ingwer. mit der Vinaigrette mischen. Zusammen mit den Polentaschnitten servieren.</inhalt>
+      </Fenchel-Ingwersalat_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

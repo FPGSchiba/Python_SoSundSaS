@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>312 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>8 Scheiben</quant>
+          <zutat>Ruchbrot (ca. 400 g)</zutat>
+          <quant>200 g</quant>
+          <zutat>Bio-Frischkaese nature</zutat>
+          <quant>2 EL</quant>
+          <zutat>Mineralwasser</zutat>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>8 </quant>
+          <zutat>hart gekochte Eier</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Radiesli, in Scheibchen</zutat>
+          <quant>35 g</quant>
+          <zutat>Zwiebelsprossen</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Brotscheiben ca. 10 Min. auf dem Ofengitter im auf 180 Grad vorgeheizten Ofen (Heissluft) roesten, herausnehmen, etwas abkuehlen.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Frischkaese mit Mineralwasser, Senf und Pfeffer verruehren, auf den Brotscheiben verteilen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Eier in Scheiben schneiden, auf dem Brot anrichten, Radiesli und Sprossen darauf verteilen, wuerzen. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Schnittlauch mit Oel verruehren, ueber das Eiercarpaccio traeufeln.</inhalt>
+      </How_To3   >
+   </rezept>
+</Rezept>

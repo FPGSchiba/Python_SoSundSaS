@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>126 kcal</NaehrwertProPerson>
+       <Fett>5 g   </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lauchfuellung>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>200 g</quant>
+          <zutat>lactosefreier Magerquark</zutat>
+          <quant>3 EL</quant>
+          <zutat>lactosefreie Milch</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Apfel, grob gerieben</zutat>
+          <quant>250 g</quant>
+          <zutat>Lauch, laengs halbiert, in feinen Streifen</zutat>
+          <quant>250 g</quant>
+          <zutat>mehlig kochende Kartoffeln, grob gerieben</zutat>
+      </Lauchfuellung>
+      <Kuechlein_zubereiten>
+          <quant>1 </quant>
+          <zutat>glutenfreier Blaetterteig (ausgewallt, ca. 32 cm Ø, Leisi)</zutat>
+      </Kuechlein_zubereiten>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Lauchfuellung                  </inhalt>
+      </How_To    >
+      <Lauchfuellung>
+          <inhalt>Kuechlein zubereiten           </inhalt>
+      </Lauchfuellung>
+      <Kuechlein_zubereiten>
+          <inhalt>Backen: ca. 22 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Kuechlein_zubereiten>
+   </rezept>
+</Rezept>

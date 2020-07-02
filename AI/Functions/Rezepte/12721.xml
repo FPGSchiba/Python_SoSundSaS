@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>540 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>43 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>600 g</quant>
+          <zutat>Pouletbruestli, in ca. 2 cm grossen Wuerfeln</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sambal Oelek</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Poulet    >
+      <Gemuese    >
+          <quant>600 g</quant>
+          <zutat>Wirz, in Streifen</zutat>
+          <quant>2 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>scharfer Curry</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Gemuese    >
+      <Haube     >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+      </Haube     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Poulet                        </inhalt>
+      </How_To    >
+      <Poulet    >
+          <inhalt>Gemuese                        </inhalt>
+      </Poulet    >
+      <Gemuese    >
+          <inhalt>Haube                         </inhalt>
+      </Gemuese    >
+      <Haube     >
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Haube     >
+   </rezept>
+</Rezept>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>307 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>15 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Panieren  >
+          <quant>2 </quant>
+          <zutat>Kohlrabi</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>40 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>120 g</quant>
+          <zutat>Paniermehl</zutat>
+      </Panieren  >
+      <Braten    >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Braten    >
+      <Dip       >
+          <quant>1 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 </quant>
+          <zutat>Kohlrabi</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>40 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>120 g</quant>
+          <zutat>Paniermehl</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie</zutat>
+          <quant>250 g</quant>
+          <zutat>Halbfettquark</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Dip       >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Panieren                      </inhalt>
+      </How_To    >
+      <Panieren  >
+          <inhalt>Kohlrabi schaelen, in ca. 5 mm dicke Scheiben schneiden, wuerzen. </inhalt>
+      </Panieren  >
+      <Braten    >
+          <inhalt>Bratbutter in einer beschichteten Bratpfanne erhitzen, Hitze reduzieren. Kohlrabi portionenweise beidseitig je ca. 7 Min. braten, warm stellen.</inhalt>
+      </Braten    >
+      <Dip       >
+          <inhalt>Petersilie fein schneiden,    </inhalt>
+      </Dip       >
+   </rezept>
+</Rezept>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>375 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suppe     >
+          <quant>400 g</quant>
+          <zutat>Blumenkohl</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Suppe     >
+      <Roesten    >
+          <quant>8 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant> </quant>
+          <zutat>Salz, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Zitronenpfeffer</zutat>
+      </Roesten    >
+      <Speckchipps_>
+          <quant>12 Tranchen</quant>
+          <zutat>Bratspeck</zutat>
+          <quant>1 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+      </Speckchipps_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Suppe                         </inhalt>
+      </How_To    >
+      <Suppe     >
+          <inhalt>Blumenkohl in Scheiben, Schalotten in Ringe, Aepfel in Wuerfeli schneiden</inhalt>
+      </Suppe     >
+      <How_To1   >
+          <inhalt>Gemuese und Aepfel mit dem Olivenoel in einer Schuessel mischen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Roesten                        </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Geroestetes Gemuese in eine Pfanne geben. Gemuesebouillon und Rahm dazugiessen, aufkochen, ca. 10 Min. bei mittlerer Hitze koecheln.</inhalt>
+      </How_To3   >
+      <Roesten    >
+          <inhalt>Speckchipps                   </inhalt>
+      </Roesten    >
+      <Speckchipps_>
+          <inhalt>Backen: ca. 15 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, mit der Suppe servieren. </inhalt>
+      </Speckchipps_>
+   </rezept>
+</Rezept>

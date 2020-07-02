@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>482 kcal</NaehrwertProPerson>
+       <Fett>32 g  </Fett>
+       <Kohlenhydrate>52 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade_>
+          <quant>200 g</quant>
+          <zutat>dunkle Schokolade (70% Kakao), zerbroeckelt</zutat>
+      </Schokolade_>
+      <Buttermasse_>
+          <quant>200 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+      </Buttermasse_>
+      <Teig_     >
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>2 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 </quant>
+          <zutat>Birne, in Wuerfeli</zutat>
+      </Teig_     >
+      <Dekoration_>
+          <quant>2 </quant>
+          <zutat>Birnen (z.B. Forelle), in ca. 5 mm dicken Scheiben, halbiert</zutat>
+          <quant>40 g</quant>
+          <zutat>Haselnuesse</zutat>
+          <quant>40 g</quant>
+          <zutat>Mandeln</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+      </Dekoration_>
+      <Backen    >
+          <quant>1 Stueck</quant>
+          <zutat>Alufolie</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Schokolade_>
+          <inhalt>Schokolade in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen.</inhalt>
+      </Schokolade_>
+      <Buttermasse_>
+          <inhalt>Butter in eine Schuessel geben, Zucker und Salz darunterruehren. Ein Ei nach dem andern darunterruehren, weiterruehren, bis die Masse heller ist. Schokolade beigeben, mischen. </inhalt>
+      </Buttermasse_>
+      <Teig_     >
+          <inhalt>Mehl, Mandeln und Backpulver mischen, abwechslungsweise mit der Milch und Birnenwuerfeli unter die Masse ruehren. Teig in die vorbereitete Form fuellen. </inhalt>
+      </Teig_     >
+      <Dekoration_>
+          <inhalt>Birnen, Haselnuesse und Mandeln mit Zitronensaft und Zucker mischen. Birnen in den Teig stecken, Mandeln und Nuesse darauf verteilen.  </inhalt>
+      </Dekoration_>
+      <Backen    >
+          <inhalt>Ca. 45 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens, herausnehmen, mit Alufolie zudecken, ca. 25 Min. fertig backen. Herausnehmen, etwas abkuehlen, Formenrand entfernen, auf ein Gitter schieben, auskuehlen. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>457 kcal</NaehrwertProPerson>
+       <Fett>31 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kabis     >
+          <quant>600 g</quant>
+          <zutat>Weisskabis</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Kabis     >
+      <Fuellung   >
+          <quant>400 g</quant>
+          <zutat>Hackfleisch (Rind)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Salbeiblaetter, fein geschnitten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>100 g</quant>
+          <zutat>Kalbsbraet</zutat>
+          <quant>1 </quant>
+          <zutat>gekochte Kartoffel, in Wuerfeli</zutat>
+      </Fuellung   >
+      <Rouladen_fuellen_und_schmoren>
+          <quant>1 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant>1 dl</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>2 TL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Rouladen_fuellen_und_schmoren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Kabis                         </inhalt>
+      </How_To    >
+      <Kabis     >
+          <inhalt>Strunk herausschneiden, Blaetter sorgfaeltig abloesen, dicke Blattrippen flach schneiden. Blaetter portionenweise im Salzwasser ca. 5 Min. blanchieren, kurz in kaltem Wasser abschrecken. 8 grosse Blaetter auf einem Tuch auslegen, kleinere Blaetter darauf verteilen.</inhalt>
+      </Kabis     >
+      <How_To1   >
+          <inhalt>Fleisch im Oel anbraten. Zwiebel und Salbei beigeben, kurz mitdaempfen. Mehl darueber streuen, mischen, Bouillon dazugiessen, wuerzen, 5-10 Min. koecheln, auskuehlen. Braet und Kartoffelwuerfeli daruntermischen.</inhalt>
+      </How_To1   >
+      <Fuellung   >
+          <inhalt>Fuellung gleichmaessig auf die Blaetter verteilen, Blattseiten einschlagen, Rouladen mit Kuechenschnur binden, dann mit dem Verschluss nach unten in eine gefettete, ofenfeste Form legen, Bouillon dazugiessen, Form mit Alufolie verschliessen.</inhalt>
+      </Fuellung   >
+      <Rouladen_fuellen_und_schmoren>
+          <inhalt>Rouladen herausnehmen, warm stellen. Sud in ein Pfaennchen absieben, auf ca. 1 dl einkochen. Halbrahm und Tomatenpueree darunterruehren, ca. 2 Min. koecheln, Sauce wuerzen.</inhalt>
+      </Rouladen_fuellen_und_schmoren>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=jD0BL21VXNk"/>
+   <video href="https://www.youtube.com/watch?v=gd2vtJZ1xTw"/>
+</Rezept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>600 kcal</NaehrwertProPerson>
+       <Fett>39 g  </Fett>
+       <Kohlenhydrate>56 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gurken-Granita>
+          <quant>1 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/2 </quant>
+          <zutat>Gurke (ca. 250 g), in Stuecken</zutat>
+          <quant>3 Zweiglein</quant>
+          <zutat>Pfefferminze, Blaetter abgezupft</zutat>
+      </Gurken-Granita>
+      <Mousse    >
+          <quant>3 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>150 g</quant>
+          <zutat>weisse Schokolade, fein gehackt</zutat>
+      </Mousse    >
+      <Anrichten >
+          <quant>30 g</quant>
+          <zutat>Meringue-Schalen, zerbroeckelt</zutat>
+      </Anrichten >
+   </einkaufliste>
+   <rezept>
+      <Gurken-Granita>
+          <inhalt>Wasser mit dem Zucker in einer kleinen Pfanne aufkochen, Hitze reduzieren, ca. 2 Min. koecheln. Sirup in eine Chromstahlschuessel giessen, etwas abkuehlen. Gurke mit Pfefferminze puerieren, durch ein Sieb zum Sirup streichen. Masse zugedeckt ca. 5 Std. gefrieren, dabei 4-mal mit einer Gabel aufkratzen, bis die Masse koernig gefroren ist.</inhalt>
+      </Gurken-Granita>
+      <Mousse    >
+          <inhalt>Rahm in einer Pfanne warm werden lassen, er darf nicht kochen. Pfanne von der Platte nehmen, Schokolade beigeben, ruehren, bis sie geschmolzen ist, auskuehlen. Zugedeckt im Kuehlschrank ca. 5 Std. kuehl stellen. </inhalt>
+      </Mousse    >
+      <Anrichten >
+          <inhalt>Schokoladerahm mit den Schwingbesen des Handruehrgeraets steif schlagen. Mousse in einen Spritzsack mit glatter Tuelle (ca. 1 cm Ø) geben. Meringues in den Glaesern verteilen, Mousse darauf spritzen. Granita auf dem Mousse anrichten, sofort servieren.</inhalt>
+      </Anrichten >
+   </rezept>
+</Rezept>

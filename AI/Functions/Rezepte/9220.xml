@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>175 kcal</NaehrwertProPerson>
+       <Fett>7 g   </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>24 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant>1 1/2 dl</quant>
+          <zutat>trockener weisser Vermouth (z.B. Noilly Prat)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Fischbouillon</zutat>
+          <quant>1 EL</quant>
+          <zutat>eingelegte gruene Pfefferkoerner, kalt abgespuelt, abgetropft</zutat>
+          <quant>1 </quant>
+          <zutat>Vanilleschote, laengs aufgeschnitten, Samen ausgekratzt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Sauce     >
+      <Fisch     >
+          <quant>1 EL</quant>
+          <zutat>Bratbutter</zutat>
+          <quant>500 g</quant>
+          <zutat>Seezungenfilets (MSC), halbiert</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Vermouth und Bouillon mit Pfeffer und Vanillesamen in eine Pfanne geben. Halbierte Vanilleschote nochmals halbieren, beigeben, zusammen aufkochen. Hitze reduzieren. Bei kleiner Hitze ca. 5 Min. koecheln. Vanilleschoten herausnehmen, fuer die Garnitur beiseite stellen. Butter und Mehl verruehren, portionenweise unter die Sauce ruehren. Sauce ca. 2 Min. koecheln, salzen.</inhalt>
+      </Sauce     >
+      <Fisch     >
+          <inhalt>Bratbutter in beschichteter Bratpfanne heiss werden lassen. Fischfilets portionenweise bei mittlerer Hitze beidseitig je ca. 2 Min. braten, salzen. </inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

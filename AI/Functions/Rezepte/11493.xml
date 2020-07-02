@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>435 kcal</NaehrwertProPerson>
+       <Fett>28 g  </Fett>
+       <Kohlenhydrate>34 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>3 </quant>
+          <zutat>Schalotten, in Schnitzchen</zutat>
+          <quant>800 g</quant>
+          <zutat>rohe Randen, grob gerieben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 </quant>
+          <zutat>Strudelteige  (je ca. 120 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig</zutat>
+          <quant>150 g</quant>
+          <zutat>Blauschimmelkaese (z.B. Gorgonzola), in Stuecken</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnuesse, geroestet, grob gehackt</zutat>
+          <quant> </quant>
+          <zutat>Butterfloeckli</zutat>
+          <quant>wenig </quant>
+          <zutat>Fleur de Sel</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Fuellung                       </inhalt>
+      </How_To    >
+      <Fuellung   >
+          <inhalt>Butter in einer Pfanne warm werden lassen. Schalotten und Randen ca. 2 Min. andaempfen. Aceto beigeben, Thymian daruntermischen, salzen, auskuehlen.</inhalt>
+      </Fuellung   >
+      <How_To1   >
+          <inhalt>Backen: ca. 30 Min. auf der untersten Rille des auf 200 Grad vorgeheizten Ofens, gegen Ende der Backzeit evtl. mit Alufolie abdecken. Kuchen herausnehmen, etwas abkuehlen, Formenrand entfernen, auf eine Platte schieben, warm servieren.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

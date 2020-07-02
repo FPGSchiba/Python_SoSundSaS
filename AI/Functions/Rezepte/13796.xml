@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>575 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>9 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Buttermilch-Glace>
+          <quant>2 1/2 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, nur 1/2 abgeriebene Schale</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eigelbe</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Buttermilch</zutat>
+          <quant>200 g</quant>
+          <zutat>Creme fraiche</zutat>
+      </Buttermilch-Glace>
+      <Crumble   >
+          <quant>300 g</quant>
+          <zutat>Zwetschgen, halbiert, entsteint</zutat>
+          <quant>250 g</quant>
+          <zutat>Brombeeren</zutat>
+          <quant>250 g</quant>
+          <zutat>Heidelbeeren</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter, fluessig, ausgekuehlt</zutat>
+          <quant>100 g</quant>
+          <zutat>grobe Haferflocken</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlene Mandeln</zutat>
+          <quant>3 EL</quant>
+          <zutat>Rohzucker</zutat>
+      </Crumble   >
+   </einkaufliste>
+   <rezept>
+      <Buttermilch-Glace>
+          <inhalt>Rahm und Zitronenschale in einer Pfanne erwaermen. Eigelbe und Zucker in einer Schuessel verruehren. Die Haelfte des warmen Rahms darunterruehren, alles zurueck in die Pfanne geben. Masse unter staendigem Ruehren bei mittlerer Hitze bis vors Kochen bringen.  Masse durch ein Sieb in eine weite Chromstahlschuessel giessen, auskuehlen. Buttermilch und Creme fraiche unter die ausgekuehlte Masse ruehren, zugedeckt  ca. 5 Std. gefrieren, dabei 3-4 mal durchruehren. </inhalt>
+      </Buttermilch-Glace>
+      <Crumble   >
+          <inhalt>Fruechte und Zucker mischen, in die vorbereitete Form verteilen. Butter, Haferflocken, Mandeln und Zucker mit einer Gabel mischen, bis die Masse kruemelig ist, Crumble auf den Fruechten verteilen.</inhalt>
+      </Crumble   >
+      <Backen    >
+          <inhalt>Ca. 30 Min. in der Mitte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen.</inhalt>
+      </Backen    >
+      <Servieren >
+          <inhalt>Glace ca. 15 Min. vor dem Servieren aus dem Tiefkuehler nehmen. Mit dem Crumble servieren. </inhalt>
+      </Servieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=5ai86Mx7l8s"/>
+</Rezept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>347 kcal</NaehrwertProPerson>
+       <Fett>18 g  </Fett>
+       <Kohlenhydrate>25 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung   >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>2 </quant>
+          <zutat>Zwiebeln, in feinen Streifen</zutat>
+          <quant>500 g</quant>
+          <zutat>Champignons, in Scheiben</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>6 </quant>
+          <zutat>Eier</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 EL</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Burritos  >
+          <quant>6 </quant>
+          <zutat>Weizen-Tortillas</zutat>
+          <quant>130 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Burritos  >
+   </einkaufliste>
+   <rezept>
+      <Fuellung   >
+          <inhalt>Wenig Bratbutter in einer beschichteten Bratpfanne erwaermen. Zwiebeln kurz andaempfen, Pilze ca. 10 Min. mitdaempfen, salzen. Pilze beiseite stellen. Eier, Milch und Petersilie verklopfen, wuerzen. Wenig Bratbutter in derselben Pfanne erwaermen. Eimasse in die Pfanne giessen, etwas stocken lassen, mit der Bratschaufel hin und her schieben, bis die Eimasse leicht fest, aber noch feucht ist. </inhalt>
+      </Fuellung   >
+      <Burritos  >
+          <inhalt>Tortillas auslegen. Kaese, Pilze, Ruehrei und Spinat in der Mitte verteilen. Tortillas seitlich einschlagen und aufrollen, mit Kuechenschnur binden. Bratpfanne heiss werden lassen, Burritos beidseitig je ca. 2 Min. anbraten.  </inhalt>
+      </Burritos  >
+   </rezept>
+</Rezept>

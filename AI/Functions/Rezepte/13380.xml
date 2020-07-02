@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>502 kcal</NaehrwertProPerson>
+       <Fett>20 g  </Fett>
+       <Kohlenhydrate>51 g  </Kohlenhydrate>
+       <Eiweiss>27 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Patty_    >
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>1 </quant>
+          <zutat>Rueebli, grob gerieben</zutat>
+          <quant>1 </quant>
+          <zutat>Zucchetti (ca. 200 g), grob gerieben</zutat>
+          <quant>10 g</quant>
+          <zutat>Kresse, fein geschnitten</zutat>
+          <quant>4 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Patty_    >
+      <Sauce_    >
+          <quant>5 EL</quant>
+          <zutat>Creme fraiche mit Kraeutern</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce_    >
+      <Clown-Gesicht_>
+          <quant>4 </quant>
+          <zutat>Burger-Broetli, aufgeschnitten</zutat>
+          <quant>einige </quant>
+          <zutat>Eisbergsalatblaetter</zutat>
+          <quant>1 </quant>
+          <zutat>hart gekochtes Ei, in Scheiben</zutat>
+          <quant>2 </quant>
+          <zutat>entsteinte schwarze Oliven, in Ringen</zutat>
+          <quant>2 </quant>
+          <zutat>rote Cherry-Tomaten, halbiert</zutat>
+          <quant>1 </quant>
+          <zutat>Essiggurke, krumm, laengs in Scheiben</zutat>
+          <quant>20 g</quant>
+          <zutat>Kresse</zutat>
+      </Clown-Gesicht_>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Patty                         </inhalt>
+      </How_To    >
+      <Patty_    >
+          <inhalt>Holzkohle-/Gas-/Elektrogrill: ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) beidseitig je ca. 6 Min. grillieren. </inhalt>
+      </Patty_    >
+      <Sauce_    >
+          <inhalt>Creme fraiche und Tomatenpueree verruehren, wuerzen.</inhalt>
+      </Sauce_    >
+      <Clown-Gesicht_>
+          <inhalt>Broetli mit der Schnittflaeche nach unten auf mittlerer Stufe (ca. 200 Grad) ca. 1 Min. grillieren. Mit je 1 EL Sauce bestreichen, mit je 1 Salatblatt und je 1 Patty belegen. Fuer die Augen je 2 Scheiben Ei auf die obere Fleischhaelfte legen, je 2 Olivenringe als Pupillen darauflegen. Als Nase je 1 Tomatenhaelfte und als Mund je 1 Scheibe Gurke verwenden. Mit wenig Kresse die Haare formen.</inhalt>
+      </Clown-Gesicht_>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=8svkCG_1r1s"/>
+</Rezept>

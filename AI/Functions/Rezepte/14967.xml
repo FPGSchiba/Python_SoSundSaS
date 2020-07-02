@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>194 kcal</NaehrwertProPerson>
+       <Fett>1 g   </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>2 </quant>
+          <zutat>Aepfel, geschaelt, in Schnitzen</zutat>
+          <quant>300 g</quant>
+          <zutat>Cranberrys</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>200 ml</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Nelkenpulver</zutat>
+          <quant>2 </quant>
+          <zutat>Zimtstangen</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Alle Zutaten in einer Pfanne unter Ruehren aufkochen. Zugedeckt unter gelegentlichem Ruehren bei mittlerer Hitze ca. 30 Min. einkochen. Zimtstangen entfernen. Chutney mit dem Kartoffelstampfer grob zerdruecken.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Chutney in die sauberen, heiss ausgespuelten Glaeser fuellen, Glaeser verschliessen, auf einem Tuch auskuehlen.</inhalt>
+      </How_To1   >
+   </rezept>
+</Rezept>

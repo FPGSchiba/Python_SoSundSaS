@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>443 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>3 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>75 g</quant>
+          <zutat>feine Vollkorn-Haferflocken</zutat>
+          <quant>1 </quant>
+          <zutat>Banane</zutat>
+          <quant>1 EL</quant>
+          <zutat>Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>2 EL</quant>
+          <zutat>Pekannuesse, gehackt</zutat>
+          <quant>4 EL</quant>
+          <zutat>Jogurt nature</zutat>
+          <quant>1 EL</quant>
+          <zutat>weisses Mandelmus</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Milchwasser, Salz und Haferflocken in einer Pfanne aufkochen, unter gelegentlichem Ruehren bei kleiner Hitze ca. 5 Min. koecheln. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Banane laengs halbieren, mit dem Honig in einer beschichteten Bratpfanne beidseitig anbraten.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Kokosraspel und Pekannuesse ohne Fett roesten. Porridge in Bowls anrichten, Banane, Jogurt, Mandelmus, Kokosraspel und Pekannuesse darauf verteilen.</inhalt>
+      </How_To2   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=AGb3y3pum8o"/>
+</Rezept>

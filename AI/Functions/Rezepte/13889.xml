@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1219 kcal</NaehrwertProPerson>
+       <Fett>66 g  </Fett>
+       <Kohlenhydrate>70 g  </Kohlenhydrate>
+       <Eiweiss>66 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Brot_vorbereiten>
+          <quant>1 </quant>
+          <zutat>Brot, rund (z.B Buurebrot; ca. 450 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+      </Brot_vorbereiten>
+      <Fondue    >
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, halbiert</zutat>
+          <quant>200 g</quant>
+          <zutat>rezenter Gruyere, grob gerieben</zutat>
+          <quant>200 g</quant>
+          <zutat>mittelreifer Gruyere, grob gerieben</zutat>
+          <quant>200 g</quant>
+          <zutat>milder Emmentaler, grob gerieben</zutat>
+          <quant>200 g</quant>
+          <zutat>Freiburger Vacherin, grob gerieben</zutat>
+          <quant>4 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>4 TL</quant>
+          <zutat>Maizena</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kirsch</zutat>
+          <quant>wenig </quant>
+          <zutat>Muskat</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fondue    >
+   </einkaufliste>
+   <rezept>
+      <Brot_vorbereiten>
+          <inhalt>An der Oberseite des Brotes einen ca. 2 cm dicken Deckel abschneiden. Brotinneres sorgfaeltig herausschneiden, in Wuerfel schneiden. Brotwuerfel mit Oel und Knoblauch mischen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Brot_vorbereiten>
+      <Backen    >
+          <inhalt>Brotwuerfel ca. 10 Min.  in der Mitte des auf 180 Grad vorgeheizten Ofens backen. Waehrend den letzten 5 Min. das ausgehoehlte Brot und den Brotdeckel mitbacken. </inhalt>
+      </Backen    >
+      <Fondue    >
+          <inhalt>Fonduepfanne mit Knoblauch ausreiben, Kaese in die Pfanne geben. Wein mit Maizena verruehren, dazugiessen, Kaese unter staendigem Ruehren bei kleiner Hitze zu einer saemigen Masse koecheln, Kirsch beigeben, wuerzen. Fondue in das ausgehoehlte Brot giessen, Brotcroutons darin tunken. </inhalt>
+      </Fondue    >
+   </rezept>
+</Rezept>

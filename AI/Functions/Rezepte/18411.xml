@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>177 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>9 g   </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Zwetschgensauce>
+          <quant>150 g</quant>
+          <zutat>Zwetschgen, in Wuerfeli</zutat>
+          <quant>2 EL</quant>
+          <zutat>Aceto balsamico bianco</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Zwetschgensauce>
+      <Carpaccio >
+          <quant>100 g</quant>
+          <zutat>Hirschtrockenfleisch</zutat>
+          <quant>150 g</quant>
+          <zutat>Zwetschgen, in Schnitzen</zutat>
+          <quant>30 g</quant>
+          <zutat>Sbrinz, in Spaenen</zutat>
+          <quant>25 g</quant>
+          <zutat>Rucola</zutat>
+      </Carpaccio >
+   </einkaufliste>
+   <rezept>
+      <Zwetschgensauce>
+          <inhalt>Zwetschgen, Essig, Oel, Wasser und Honig in eine Pfanne geben, aufkochen. Zugedeckt ca. 3 Min. koecheln, wuerzen und auskuehlen.</inhalt>
+      </Zwetschgensauce>
+      <Carpaccio >
+          <inhalt>Fleisch auf eine Platte legen. Zwetschgen, Kaese und Rucola darauf verteilen, mit der Zwetschgensauce betraeufeln. </inhalt>
+      </Carpaccio >
+   </rezept>
+</Rezept>

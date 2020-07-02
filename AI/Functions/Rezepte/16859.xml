@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>1055 kcal</NaehrwertProPerson>
+       <Fett>68 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>59 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kuerbiswuerfel>
+          <quant>3 dl</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>3 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>100 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Sternanis</zutat>
+          <quant>1 </quant>
+          <zutat>Nelke</zutat>
+          <quant>1 </quant>
+          <zutat>Lorbeerblatt</zutat>
+          <quant>700 g</quant>
+          <zutat>Kuerbis (z.B. Butternut), in ca. 1 cm grossen Wuerfeln (ergibt ca. 500 g)</zutat>
+          <quant>20 g</quant>
+          <zutat>Ingwer, fein geschnitten</zutat>
+      </Kuerbiswuerfel>
+      <Knusprige_Kuerbiskerne>
+          <quant>4 EL</quant>
+          <zutat>Kuerbiskerne, grob gehackt</zutat>
+          <quant>1 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 Msp.</quant>
+          <zutat>Cayennepfeffer</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Zimt</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Knusprige_Kuerbiskerne>
+      <Raclette  >
+          <quant>800 g</quant>
+          <zutat>Raclettekaese in Scheiben</zutat>
+      </Raclette  >
+   </einkaufliste>
+   <rezept>
+      <Kuerbiswuerfel>
+          <inhalt>Essig und Wasser mit Zucker, Salz, Sternanis, Nelke und Lorbeerblatt aufkochen. Kuerbis und Ingwer beigeben, ca. 15 Min. koecheln, in der Fluessigkeit auskuehlen.</inhalt>
+      </Kuerbiswuerfel>
+      <Knusprige_Kuerbiskerne>
+          <inhalt>Kuerbiskerne und alle Zutaten bis und mit Salz in einer Schuessel mischen. Kuerbiskerne in einer beschichteten Bratpfanne bei mittlerer Hitze ca. 5 Min. ruehrbraten, bis der Zucker caramelisiert ist, Kerne auf ein Backpapier geben, auskuehlen. </inhalt>
+      </Knusprige_Kuerbiskerne>
+      <Raclette  >
+          <inhalt>Kuerbiswuerfel abtropfen. Raclettekaese in die Raclette-Pfaennchen legen, Kuerbiswuerfel darauf verteilen. Unter dem Raclette-Ofen-Grill ca. 8 Min. schmelzen, mit Kuerbiskernen bestreuen.</inhalt>
+      </Raclette  >
+   </rezept>
+</Rezept>

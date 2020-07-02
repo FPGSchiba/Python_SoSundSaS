@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>237 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Salat     >
+          <quant>2 </quant>
+          <zutat>Avocados, halbiert, in Lamellen</zutat>
+          <quant>1/2 </quant>
+          <zutat>Chinakohl, in Streifen</zutat>
+          <quant>1 </quant>
+          <zutat>rote Zwiebel, in Streifen</zutat>
+          <quant>100 g</quant>
+          <zutat>Rauchlachs (in Scheiben), zerzupft</zutat>
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature (nature)</zutat>
+      </Salat     >
+      <Salatsauce>
+          <quant>1 EL</quant>
+          <zutat>grobkoerniger Senf</zutat>
+          <quant>3 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>4 EL</quant>
+          <zutat>Rapsoel</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kerbel, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>wenig </quant>
+          <zutat>Kerbel zum Garnieren</zutat>
+      </Salatsauce>
+   </einkaufliste>
+   <rezept>
+      <Salat     >
+          <inhalt>Zutaten mischen, auf 4 Tellern anrichten.</inhalt>
+      </Salat     >
+      <Salatsauce>
+          <inhalt>alle Zutaten verruehren, wuerzen. Die Sauce kurz vor dem Servieren ueber den Salat traeufeln, mit zerzupftem Kerbel garnieren.</inhalt>
+      </Salatsauce>
+   </rezept>
+</Rezept>

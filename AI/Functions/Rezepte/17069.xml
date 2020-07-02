@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>417 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>58 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Hartweizen>
+          <quant>100 g</quant>
+          <zutat>vorgekochter Hartweizen (Ebly®)</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Hartweizen>
+      <Sauce     >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Sauce     >
+      <Salat     >
+          <quant>400 g</quant>
+          <zutat>gekochte Randenwuerfel </zutat>
+          <quant>2 </quant>
+          <zutat>Clementinen, heiss abgespuelt, trocken getupft</zutat>
+          <quant>100 g</quant>
+          <zutat>Jungspinat</zutat>
+      </Salat     >
+   </einkaufliste>
+   <rezept>
+      <Hartweizen>
+          <inhalt>Hartweizen im Salzwasser zugedeckt bei kleiner Hitze ca. 10 Min. weich koecheln, abtropfen. </inhalt>
+      </Hartweizen>
+      <Sauce     >
+          <inhalt>Oel und Essig in einer grossen Schuessel verruehren, salzen. Hartweizen beigeben. </inhalt>
+      </Sauce     >
+      <Salat     >
+          <inhalt>Von einer Clementine wenig Schale direkt zum Hartweizen abreiben. Clementinen schaelen, in Schnitzchen teilen, mit den Randen und dem Jungspinat zum Hartweizen geben, mischen. </inhalt>
+      </Salat     >
+   </rezept>
+</Rezept>

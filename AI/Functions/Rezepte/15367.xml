@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>346 kcal</NaehrwertProPerson>
+       <Fett>13 g  </Fett>
+       <Kohlenhydrate>27 g  </Kohlenhydrate>
+       <Eiweiss>23 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>wenig </quant>
+          <zutat>Oel</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, gepresst</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein geschnitten</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>schwarze Bohnen, je ca. 210 g, abgespuelt, abgetropft</zutat>
+          <quant>2 dl</quant>
+          <zutat>Weisswein (z.B. Chardonnay Chile Viña Sutil)</zutat>
+          <quant>4 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>80 g</quant>
+          <zutat>Brie (z.B. Val d'Arve Brie Romandie, zerbroeckelt)</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer grossen Pfanne warm werden lassen. Knoblauch und Zwiebel ca. 5 Min. andaempfen. Bohnen kurz mitdaempfen. Wein dazugiessen, vollstaendig einkochen. Bouillon dazugiessen, aufkochen, Hitze reduzieren, ca. 15 Min. koecheln, Suppe puerieren. Suppe in tiefen Tellern anrichten. Brie darauf verteilen. </inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

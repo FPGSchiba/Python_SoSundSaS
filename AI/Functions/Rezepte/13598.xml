@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>755 kcal</NaehrwertProPerson>
+       <Fett>46 g  </Fett>
+       <Kohlenhydrate>50 g  </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>200 g</quant>
+          <zutat>glutenfreies Mehl (Schaer Brot-Mix)</zutat>
+          <quant>1 1/2 TL</quant>
+          <zutat>gemahlene Flohsamen</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>glutenfreies Backpulver (Dr. Oetker)</zutat>
+          <quant>1/2 Briefchen</quant>
+          <zutat>Safran</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>lactosefreie Butter, in Stuecken, kalt</zutat>
+          <quant>150 g</quant>
+          <zutat>lactosefreier Magerquark</zutat>
+      </Teig      >
+      <Fuellung   >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>300 g</quant>
+          <zutat>Wirz, in feinen Streifen</zutat>
+          <quant>300 g</quant>
+          <zutat>Kuerbis, grob gerieben</zutat>
+          <quant>3 EL</quant>
+          <zutat>getrocknete Cranberrys</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Fuellung   >
+      <Fisch_zubereiten>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Thymian, fein geschnitten</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Lachsfilet ohne Haut (ca. 500 g), graue Fettschicht entfernt</zutat>
+      </Fisch_zubereiten>
+      <Formen    >
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Formen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl und alle Zutaten bis und mit Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Quark beigeben, mischen, zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.</inhalt>
+      </Teig      >
+      <Fuellung   >
+          <inhalt>Oel in einer Pfanne heiss werden lassen. Wirz und Kuerbis ca. 4 Min. ruehrbraten. Cranberrys beigeben. wuerzen, etwas abkuehlen.</inhalt>
+      </Fuellung   >
+      <Fisch_zubereiten>
+          <inhalt>Oel mit Schalotte, Thymian und Salz verruehren, Fisch damit bestreichen.</inhalt>
+      </Fisch_zubereiten>
+      <Formen    >
+          <inhalt>Teig auf einem Backpapier rechteckig (ca. 30 x 40 cm) auswallen. Fuellung in der Laenge des Fisches auf die Teigmitte geben, Fisch darauflegen. Teigraender mit Ei bestreichen, locker ueber das Fleisch legen, gut andruecken, auf ein  Blech ziehen. Paeckli mit Ei bestreichen, mit einer Gabel einstechen. </inhalt>
+      </Formen    >
+      <Backen:   >
+          <inhalt>Ca. 18 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.  </inhalt>
+      </Backen:   >
+   </rezept>
+</Rezept>

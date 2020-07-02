@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>410 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>7 g   </Kohlenhydrate>
+       <Eiweiss>28 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tomaten-Rahmspinat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>400 g</quant>
+          <zutat>Blattspinat</zutat>
+          <quant>300 g</quant>
+          <zutat>Cherry-Tomaten, geviertelt</zutat>
+          <quant>200 g</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Zitrone, wenig abgeriebene Schale, 2 TL Saft</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Tomaten-Rahmspinat>
+      <Fisch     >
+          <quant>4 </quant>
+          <zutat>Lachsforellenfilets   (je ca. 120 g), entgraetet</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Fisch     >
+   </einkaufliste>
+   <rezept>
+      <Tomaten-Rahmspinat>
+          <inhalt>Oel in einer weiten Pfanne erwaermen. Zwiebel und Knoblauch andaempfen. Spinat beigeben, unter gelentlichem Ruehren zusammen fallen lassen. Tomaten beigeben, mischen, Saucen Halbrahm dazugiessen, ca. 5 Min. koecheln. Zitronenschale und -saft daruntermischen, wuerzen. </inhalt>
+      </Tomaten-Rahmspinat>
+      <Fisch     >
+          <inhalt>Fischfilets wuerzen. Oel in einer beschichteten Bratpfanne erhitzen. Hitze reduzieren, Fischfilets beidseitig je ca. 21/2  Min. braten. Tomaten-Rahmspinat dazu servieren. </inhalt>
+      </Fisch     >
+   </rezept>
+</Rezept>

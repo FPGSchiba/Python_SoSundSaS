@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>900 kcal</NaehrwertProPerson>
+       <Fett>58 g  </Fett>
+       <Kohlenhydrate>64 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tofu      >
+          <quant>1 EL</quant>
+          <zutat>Agavensirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1 Stueck</quant>
+          <zutat>Karma Bio Tofu nature, in Staengeln</zutat>
+      </Tofu      >
+      <Crunch    >
+          <quant>80 g</quant>
+          <zutat>Dinkelpops (z.B. Naturaplan Bio-Pops und Flakes Mix)</zutat>
+          <quant>40 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Backpulver</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Bier</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+      </Crunch    >
+      <Frittieren>
+          <quant> </quant>
+          <zutat>Oel zum Frittieren</zutat>
+      </Frittieren>
+      <Broccoli_und_Dip>
+          <quant>200 g</quant>
+          <zutat>Broccoli, in Roeschen</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>150 g</quant>
+          <zutat>Karma Jocos nature</zutat>
+          <quant>1 EL</quant>
+          <zutat>Koriander, fein geschnitten</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Broccoli_und_Dip>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Tofu                          </inhalt>
+      </How_To    >
+      <Tofu      >
+          <inhalt>Sirup und Sojasauce verruehren. Tofu staengel damit bestreichen. </inhalt>
+      </Tofu      >
+      <How_To1   >
+          <inhalt>Crunch                        </inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Frittieren                    </inhalt>
+      </How_To2   >
+      <Crunch    >
+          <inhalt>Broccoli und Dip              </inhalt>
+      </Crunch    >
+      <Frittieren>
+          <inhalt>Broccoli beigeben, salzen, zugedeckt</inhalt>
+      </Frittieren>
+      <Broccoli_und_Dip>
+          <inhalt>garen. Jogurt und Koriander in eine Schuessel geben, wuerzen, gut mischen. Sweet and Crunchy Tofu mit Broccoli und Dip servieren.</inhalt>
+      </Broccoli_und_Dip>
+   </rezept>
+</Rezept>

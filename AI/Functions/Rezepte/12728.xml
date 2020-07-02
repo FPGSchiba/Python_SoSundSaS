@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>588 kcal</NaehrwertProPerson>
+       <Fett>44 g  </Fett>
+       <Kohlenhydrate>35 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Creme     >
+          <quant>3 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>2 dl</quant>
+          <zutat>Halbrahm</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 </quant>
+          <zutat>frische Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade (64% Kakao), fein gehackt</zutat>
+      </Creme     >
+      <Verzierung>
+          <quant>2 dl</quant>
+          <zutat>Halbrahm kalt, flaumig geschlagen</zutat>
+          <quant>150 g</quant>
+          <zutat>Erdbeeren, in Scheibchen</zutat>
+          <quant>20 g</quant>
+          <zutat>Guetzli (z.B. Bricelets), fein gehackt</zutat>
+      </Verzierung>
+   </einkaufliste>
+   <rezept>
+      <Creme     >
+          <inhalt>Milch und alle Zutaten bis und mit den Eiern mit dem Schwingbesen verruehren, unter staendigem Ruehren bei mittlerer Hitze zum Kochen bringen. Pfanne sofort von der Platte nehmen, Schokolade darunterruehren, schmelzen. Creme durch ein Sieb in eine Schuessel giessen. Klarsichtfolie direkt auf die Creme legen, auskuehlen, ca. 2 Std. kuehl stellen.</inhalt>
+      </Creme     >
+      <Verzierung>
+          <inhalt>Creme glatt ruehren, in Glaeser verteilen. Rahm, Erdbeeren und Guetzli darauf verteilen.</inhalt>
+      </Verzierung>
+   </rezept>
+</Rezept>

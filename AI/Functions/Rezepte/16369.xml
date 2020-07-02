@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>567 kcal</NaehrwertProPerson>
+       <Fett>42 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Suesskartoffelsuppe_>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Suesskartoffel (ca. 300 g), in Wuerfeli</zutat>
+          <quant>2 dl</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Kokosmilch</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Suesskartoffelsuppe_>
+      <Servieren >
+          <quant>50 g</quant>
+          <zutat>gesalzene Erdnuesse, grob gehackt</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, Blaetter abgezupft</zutat>
+      </Servieren >
+   </einkaufliste>
+   <rezept>
+      <Suesskartoffelsuppe_>
+          <inhalt>Oel in einer Pfanne erhitzen, Kartoffelwuerfeli beigeben, ca. 3 Min. andaempfen. Bouillon und Kokosmilch dazugiessen, aufkochen, Hitze reduzieren, ca. 10 Min. koecheln. Kartoffelwuerfeli mit der Fluessigkeit puerieren, wuerzen.</inhalt>
+      </Suesskartoffelsuppe_>
+      <Servieren >
+          <inhalt>Erdnuesse und Koriander auf der Suppe anrichten. </inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

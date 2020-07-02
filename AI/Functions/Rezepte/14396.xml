@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>430 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>26 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Roesti_    >
+          <quant>600 g</quant>
+          <zutat>Gschwellti (fest kochende Sorte), vom Vortag, grob gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>Rueebli, grob gerieben</zutat>
+          <quant>100 g</quant>
+          <zutat>tiefgekuehlte Erbsli</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Roesti_    >
+      <Roesti-Pfaennchen__>
+          <quant>300 g</quant>
+          <zutat>Emmentaler, grob gerieben</zutat>
+      </Roesti-Pfaennchen__>
+   </einkaufliste>
+   <rezept>
+      <Roesti_    >
+          <inhalt>Kartoffeln, Rueebli und Erbsli in einer Schuessel mischen, wuerzen. </inhalt>
+      </Roesti_    >
+      <Roesti-Pfaennchen__>
+          <inhalt>Roesti in die Raclette-Pfaennchen verteilen, unter dem Raclette-Ofen-Grill oder in der Mitte des auf 180 Grad vorgeheizten Ofens ca. 15 Min. grillieren. Kaese darauf verteilen, ca. 5 Min. schmelzen. </inhalt>
+      </Roesti-Pfaennchen__>
+   </rezept>
+</Rezept>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>674 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>47 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Knoepfliteig>
+          <quant>15 g</quant>
+          <zutat>getrocknete Steinpilze</zutat>
+          <quant>300 g</quant>
+          <zutat>Knoepflimehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 1/2 dl</quant>
+          <zutat>Milchwasser (1/2 Milch / 1/2 Wasser)</zutat>
+          <quant>3 </quant>
+          <zutat>frische Eier</zutat>
+      </Knoepfliteig>
+      <Knoepfli   >
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Knoepfli   >
+      <Fleisch_  >
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>500 g</quant>
+          <zutat>geschnetzeltes Rehfleisch</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+      </Fleisch_  >
+      <Sauce_    >
+          <quant>1 </quant>
+          <zutat>Schalotte, fein gehackt</zutat>
+          <quant>150 g</quant>
+          <zutat>Stangensellerie, in Scheibchen</zutat>
+          <quant>250 g</quant>
+          <zutat>Eierschwaemme</zutat>
+          <quant>10 g</quant>
+          <zutat>getrocknete Steinpilze, in Wasser eingeweicht, abgetropft, in Streifen</zutat>
+          <quant>200 g</quant>
+          <zutat>Saucen-Halbrahm</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <Knoepfliteig>
+          <inhalt>Pilze im Cutter mahlen oder fein hacken, mit dem Knoepflimehl und Salz in einer Schuessel mischen. In der Mitte eine Mulde eindruecken. Milchwasser mit den Eiern verruehren, nach und nach unter Ruehren in die Mulde giessen, mit einer Kelle mischen und so lange klopfen, bis der Teig Blasen wirft. Zugedeckt bei Raumtemperatur ca. 30 Min. quellen lassen.</inhalt>
+      </Knoepfliteig>
+      <Knoepfli   >
+          <inhalt>Teig portionenweise durchs Knoepflisieb ins leicht siedende Salzwasser streichen. Knoepfli ziehen lassen, bis sie an die Oberflaeche steigen, mit einer Schaumkelle herausnehmen, abtropfen und warm stellen.</inhalt>
+      </Knoepfli   >
+      <Fleisch_  >
+          <inhalt>Bratbutter in einer Bratpfanne erhitzen. Fleisch portionenweise ca. 3 Min. anbraten, herausnehmen, salzen und warm stellen. Bratfett auftupfen, evtl. etwas Bratbutter beigeben.  </inhalt>
+      </Fleisch_  >
+      <Sauce_    >
+          <inhalt>Schalotte kurz andaempfen, Sellerie und Pilze beigeben, ca. 10 Min. mitdaempfen. Saucen-Halbrahm dazugiessen, ca. 5 Min. koecheln, salzen. Fleisch wieder beigeben, nur noch heiss werden lassen. Petersilie darueberstreuen, mit den Knoepfli anrichten. </inhalt>
+      </Sauce_    >
+   </rezept>
+</Rezept>

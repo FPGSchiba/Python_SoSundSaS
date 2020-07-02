@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>305 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>2 g   </Kohlenhydrate>
+       <Eiweiss>35 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fleisch   >
+          <quant>2 </quant>
+          <zutat>Kalbskoteletts (je ca. 200 g)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+      </Fleisch   >
+      <Sauce     >
+          <quant>4 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Reisessig</zutat>
+          <quant>1 EL</quant>
+          <zutat>milder Senf</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Fleisch   >
+          <inhalt>Fleisch wuerzen, Bratbutter in einer Bratpfanne erhitzen. Koteletts beidseitig je ca. 2 Min. braten, zugedeckt ca. 5 Min. ruhen lassen. </inhalt>
+      </Fleisch   >
+      <Sauce     >
+          <inhalt>Wasser, Sojasauce, Essig und Senf in dieselbe Pfanne geben, Bratsatz loesen, Sauce unter Ruehren bei kleiner Hitze ca. 2 Min. koecheln. Fleisch mit der Sauce anrichten.  </inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

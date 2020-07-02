@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>349 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Romanesco >
+          <quant>1 kg</quant>
+          <zutat>Romanesco, in Scheiben</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+      </Romanesco >
+      <Sauce_    >
+          <quant>200 g</quant>
+          <zutat>Huettenkaese nature</zutat>
+          <quant>3 EL</quant>
+          <zutat>Weissweinessig</zutat>
+          <quant>3 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>4 </quant>
+          <zutat>hart gekochte Eier, in Scheiben</zutat>
+          <quant>20 g</quant>
+          <zutat>Kresse</zutat>
+          <quant>20 g</quant>
+          <zutat>gesalzene Erdnuesse (z.B. Wasabi)</zutat>
+      </Sauce_    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Romanesco                     </inhalt>
+      </How_To    >
+      <Romanesco >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Romanesco >
+      <Sauce_    >
+          <inhalt>Huettenkaese, Essig und Oel verruehren, wuerzen. Romanesco und Eier auf Tellern anrichten, Sauce daruebertraeufeln, Kresse und Nuesse darueberstreuen.</inhalt>
+      </Sauce_    >
+   </rezept>
+</Rezept>

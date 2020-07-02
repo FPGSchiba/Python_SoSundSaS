@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>234 kcal</NaehrwertProPerson>
+       <Fett>14 g  </Fett>
+       <Kohlenhydrate>22 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Kokosmasse>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Kokosraspel</zutat>
+      </Kokosmasse>
+      <Nestli    >
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+      </Nestli    >
+      <Fuellung   >
+          <quant>250 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Vanillejogurt</zutat>
+          <quant>einige </quant>
+          <zutat>Zuckereili</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Kokosraspel</zutat>
+          <quant>wenig </quant>
+          <zutat>Butter</zutat>
+          <quant>250 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant>1 Becher</quant>
+          <zutat>Vanillejogurt</zutat>
+          <quant>einige </quant>
+          <zutat>Zuckereili</zutat>
+      </Fuellung   >
+   </einkaufliste>
+   <rezept>
+      <Kokosmasse>
+          <inhalt>Ei, Zucker und Salz in eine Schuessel geben, mit den Schwingbesen des Mixers schaumig ruehren. </inhalt>
+      </Kokosmasse>
+      <Nestli    >
+          <inhalt>                              </inhalt>
+      </Nestli    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der Mitte des auf 160 Grad vorgeheizten Ofens. Herausnehmen, in der Form etwas abkuehlen, aus der Form loesen, auf einem Gitter auskuehlen. </inhalt>
+      </Backen    >
+      <Fuellung   >
+          <inhalt>Erdbeeren in Schnitze schneiden. </inhalt>
+      </Fuellung   >
+   </rezept>
+</Rezept>

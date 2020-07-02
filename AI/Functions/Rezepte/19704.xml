@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>240 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese_vorbereiten>
+          <quant>1 </quant>
+          <zutat>Aubergine, laengs in Scheiben</zutat>
+          <quant>1 </quant>
+          <zutat>gelbe Peperoni, geviertelt</zutat>
+          <quant>200 g</quant>
+          <zutat>Mini-Zucchetti </zutat>
+          <quant>600 g</quant>
+          <zutat>Fleischtomaten (z.B. Ochsenherz), in Scheiben</zutat>
+          <quant>4 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>4 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>300 g</quant>
+          <zutat>Rispen-Cherry-Tomaten</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, in Schnitzen</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Thymian</zutat>
+          <quant>4 Zweiglein</quant>
+          <zutat>Oregano</zutat>
+      </Gemuese_vorbereiten>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 Zweiglein</quant>
+          <zutat>Oregano, Blaettchen abgezupft</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </einkaufliste>
+   <rezept>
+      <Gemuese_vorbereiten>
+          <inhalt>Aubergine, Peperoni, Zucchetti und Tomaten in einer Schuessel mit 3 EL Oel und der Haelfte des Knoblauchs mischen, salzen. Cherry-Tomaten und Zwiebel in eine Grillschale geben, mit restlichem Oel, Knoblauch und Kraeutern mischen. </inhalt>
+      </Gemuese_vorbereiten>
+      <Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+          <inhalt>Aubergine, Peperoni, Zucchetti und Tomaten wie auch die Grillschale bei geschlossenem Deckel ueber mittelstarker Glut / auf mittlerer Stufe (ca. 200 Grad) ca. 20 Min. grillieren, von Zeit zu Zeit wenden. Aubergine, Peperoni und Tomaten vom Grill nehmen, in grobe Stuecke schneiden, mit den Zucchetti auf eine Platte geben. Cherry-Tomaten ca.10 Min. laenger grillieren, auf dem Ratatouille verteilen. Oel daruebertraeufeln, Oregano darueberstreuen, wuerzen. </inhalt>
+      </Grillieren_(Holzkohle-,_Gas-,_Elektrogrill)>
+   </rezept>
+</Rezept>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>660 kcal</NaehrwertProPerson>
+       <Fett>37 g  </Fett>
+       <Kohlenhydrate>47 g  </Kohlenhydrate>
+       <Eiweiss>29 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Chips     >
+          <quant>600 g</quant>
+          <zutat>fest kochende Kartoffeln, fein gehobelt</zutat>
+          <quant>3 </quant>
+          <zutat>Rueebli, fein gehobelt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Kraeutersalz</zutat>
+      </Chips     >
+      <Fleisch   >
+          <quant>24 Tranchen</quant>
+          <zutat>Fleischkaese (ca. 180 g)</zutat>
+          <quant>12 Tranchen</quant>
+          <zutat>Hinterschinken (ca. 100 g), halbiert</zutat>
+          <quant>150 g</quant>
+          <zutat>Gruyere, in 12 Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>2 </quant>
+          <zutat>Eier</zutat>
+          <quant>100 g</quant>
+          <zutat>Cornflakes, zerdrueckt</zutat>
+          <quant> </quant>
+          <zutat>Bratbutter zum Braten</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+      </Fleisch   >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Chips                         </inhalt>
+      </How_To    >
+      <Chips     >
+          <inhalt>Backen: ca. 30 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Chips     >
+      <Fleisch   >
+          <inhalt>Je 2 Tranchen Fleischkaese aufeinanderlegen. Je eine Schinkentranche und ein Stueck Kaese darauf legen, aufrollen.  Mehl in einen flachen Teller geben. Eier in einem tiefen Teller verklopfen, Cornflakes in einen flachen Teller geben. Fleischkaeserollen portionenweise im Mehl wenden, ueberschuessiges Mehl abschuetteln, im Ei, dann in den Cornflakes wenden, Panade gut andruecken. Bratbutter in einer weiten beschichteten Bratpfanne heiss werden lassen. Hitze reduzieren, Rollen portionenweise bei mittlerer Hitze rundum je ca. 8 Min. braten, herausnehmen, auf Haushaltpapier abtropfen. Fleischkaese mit dem Ofengemuese anrichten, Petersilie darueberstreuen.</inhalt>
+      </Fleisch   >
+   </rezept>
+</Rezept>

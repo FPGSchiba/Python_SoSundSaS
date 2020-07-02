@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>647 kcal</NaehrwertProPerson>
+       <Fett>24 g  </Fett>
+       <Kohlenhydrate>71 g  </Kohlenhydrate>
+       <Eiweiss>33 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Sauce     >
+          <quant> </quant>
+          <zutat>Oel zum Braten</zutat>
+          <quant>300 g</quant>
+          <zutat>Hackfleisch (Rind und Schwein)</zutat>
+          <quant>250 g</quant>
+          <zutat>Rueebli, grob gerieben</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (400 g)</zutat>
+          <quant>2 </quant>
+          <zutat>Landjaeger geschaelt, in ca. 5 mm dicken Scheiben</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Fleischbouillon</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+      </Sauce     >
+      <Teigwaren_kochen>
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Penne)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Petersilie, fein geschnitten</zutat>
+      </Teigwaren_kochen>
+   </einkaufliste>
+   <rezept>
+      <Sauce     >
+          <inhalt>Oel in einer Bratpfanne heiss werden lassen. Fleisch und Ruebeli portionenweise anbraten, herausnehmen. Bratfett auftupfen. Tomaten, Landjaeger und Fleisch beigeben, mischen. Bouillon dazugiessen, aufkochen. Hitze reduzieren, zugedeckt ca. 15 Min. koecheln, wuerzen.</inhalt>
+      </Sauce     >
+      <Teigwaren_kochen>
+          <inhalt>Teigwaren im Salzwasser al dente kochen. Teigwaren mit der Sauce mischen, anrichten, Petersilie darueberstreuen.</inhalt>
+      </Teigwaren_kochen>
+   </rezept>
+</Rezept>

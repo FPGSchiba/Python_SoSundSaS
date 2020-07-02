@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>49 kcal </NaehrwertProPerson>
+       <Fett>2 g   </Fett>
+       <Kohlenhydrate>6 g   </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Boedeli    >
+          <quant>1 </quant>
+          <zutat>ausgewallter Muerbeteig  (ca. 32 cm Ø)</zutat>
+      </Boedeli    >
+      <Mandelmasse>
+          <quant>1 </quant>
+          <zutat>frisches Eiweiss</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>2 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>60 g</quant>
+          <zutat>gemahlene geschaelte Mandeln</zutat>
+          <quant>1 Msp.</quant>
+          <zutat>Vanillepaste</zutat>
+      </Mandelmasse>
+      <Fuellen    >
+          <quant>3 EL</quant>
+          <zutat>Brombeerkonfituere</zutat>
+      </Fuellen    >
+      <Verzieren >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Verzieren >
+   </einkaufliste>
+   <rezept>
+      <Boedeli    >
+          <inhalt>Teig entrollen, mit einem gezackten Ausstecher ca. 28 Rondellen von je ca. 5 cm Ø ausstechen. Auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Boedeli    >
+      <Mandelmasse>
+          <inhalt>Eiweiss mit dem Salz steif schlagen. Zucker beigeben, weiterschlagen, bis der Eischnee glaenzt. Mandeln und Vanille sorgfaeltig mit einem Gummischaber unter den Eischnee ziehen. Masse in einen Spritzsack mit runder Tuelle (ca. 8 mm Ø) geben, als Nestli auf die Teigboedeli spritzen.</inhalt>
+      </Mandelmasse>
+      <Fuellen    >
+          <inhalt>Konfituere verruehren, in einen Einweg-Spritzsack geben, an der Spitze ca. 1cm abschneiden, Konfituere in die Vertiefungen spritzen.</inhalt>
+      </Fuellen    >
+      <Backen    >
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 180 Grad vorgeheizten Ofens. Herausnehmen, mit dem Backpapier auf ein Gitter ziehen, auskuehlen.</inhalt>
+      </Backen    >
+      <Verzieren >
+          <inhalt>Nestli mit Puderzucker bestaeuben.</inhalt>
+      </Verzieren >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+</Rezept>

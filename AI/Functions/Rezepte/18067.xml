@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>349 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>36 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Stangen   >
+          <quant>1 Paeckli</quant>
+          <zutat>Strudelteig  (ca. 120 g)</zutat>
+          <quant>50 g</quant>
+          <zutat>Butter, fluessig, abgekuehlt</zutat>
+          <quant>100 g</quant>
+          <zutat>Mandelmasse</zutat>
+          <quant>250 g</quant>
+          <zutat>Himbeeren</zutat>
+      </Stangen   >
+      <Backen    >
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <Stangen   >
+          <inhalt>Teigblaetter sorgfaeltig auseinanderfalten, mit wenig Butter bestreichen, alle Teigblaetter aufeinanderlegen, in 4 Rechtecke schneiden. Mandelmasse auf das untere Drittel der Rechtecke verteilen, dabei seitlich einen Rand von ca. 2 cm frei lassen. Himbeeren auf der Mandelmasse verteilen, seitliche Teigraender einschlagen. Stangen aufrollen, mit dem Verschluss nach unten auf ein mit Backpapier belegtes Blech legen, mit der restlichen Butter bestreichen.</inhalt>
+      </Stangen   >
+      <Backen    >
+          <inhalt>Ca. 20 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Herausnehmen, etwas abkuehlen. Himbeer-Mandel-Stangen mit Puderzucker bestaeuben. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

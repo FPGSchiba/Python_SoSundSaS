@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>494 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>11 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>500 g</quant>
+          <zutat>Suesskartoffeln, in ca. 1 cm grossen Wuerfeln</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>Betty Bossi Federkohl-Mix</zutat>
+      </Gemuese    >
+      <Sauce     >
+          <quant>1 </quant>
+          <zutat>Zitrone, nur der Saft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf</zutat>
+          <quant>2 EL</quant>
+          <zutat>Karma Mandelmus weiss</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Gemuese    >
+          <inhalt>Oel erwaermen, Suesskartoffeln ca. 10 Min. daempfen. Federkohl beigeben, ca. 5 Min. fertigdaempfen, wuerzen.</inhalt>
+      </Gemuese    >
+      <Sauce     >
+          <inhalt>Zitronensaft mit Oel und Mandelmus gut verruehren, wuerzen. Lauwarmes Gemuese beigeben, mischen.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>

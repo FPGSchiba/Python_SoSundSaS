@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>177 kcal</NaehrwertProPerson>
+       <Fett>4 g   </Fett>
+       <Kohlenhydrate>31 g  </Kohlenhydrate>
+       <Eiweiss>2 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Fine Food Olio extra vergine di oliva</zutat>
+          <quant>2 </quant>
+          <zutat>Schalotten, fein gehackt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>frischer Kaffee</zutat>
+          <quant>4 EL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>3 EL</quant>
+          <zutat>Whiskey</zutat>
+          <quant>250 g</quant>
+          <zutat>gehackte Tomaten</zutat>
+          <quant>1 EL</quant>
+          <zutat>Tomatenpueree</zutat>
+          <quant>4 EL</quant>
+          <zutat>Rohzucker</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Rosmarin, fein geschnitten</zutat>
+          <quant> </quant>
+          <zutat>Chiliflocken, nach Bedarf</zutat>
+          <quant>1 1/2 EL</quant>
+          <zutat>Fine Food Smoked Sesame Salt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer Pfanne erwaermen, Schalotten und Knoblauch ca. 1 Min. andaempfen. Sojasauce und alle Zutaten bis und mit Whisky dazugiessen. Tomaten und alle Zutaten bis und mit Salz beigeben. Sauce unter gelegentlichem Ruehren bei kleiner Hitze ca. 30 Min. koecheln, bis sie dickfluessig ist. Pfanne vom Herd nehmen, auskuehlen.</inhalt>
+      </How_To    >
+   </rezept>
+</Rezept>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>480 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>76 g  </Kohlenhydrate>
+       <Eiweiss>7 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>5 </quant>
+          <zutat>frische Eiweisse</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>200 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1 TL</quant>
+          <zutat>Essig</zutat>
+          <quant>4 </quant>
+          <zutat>Blondorangen</zutat>
+          <quant>100 g</quant>
+          <zutat>dunkle Schokolade, zerbroeckelt</zutat>
+          <quant>30 g</quant>
+          <zutat>Butter, weich</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Eiweisse mit dem Salz steif schlagen. Die Haelfte des Zuckers beigeben, weiterschlagen, bis die Masse glaenzt. Restlichen Zucker und Essig beigeben, weiterschlagen, bis die Masse feinporig, glaenzend und sehr</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>steif ist. Masse auf ein mit Backpapier belegtes Blech (ca. 20 cm Ø) verteilen, mit einer Gabel Spitzen formen.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Backen/Trocknen: ca. 20 Min. in der unteren Haelfte des auf 150 Grad vorgeheizten Ofens. Hitze auf 120 Grad reduzieren, Pavlova ca. 1 Std. 40 Min. trocknen lassen. Pavlova im ausgeschalteten, geoeffneten Ofen auskuehlen lassen. </inhalt>
+      </How_To2   >
+      <How_To3   >
+          <inhalt>Von den Blondorangen Boden und Deckel, dann Schale ringsum bis auf das Fruchtfleisch wegschneiden. Fruchtfilets (Schnitze) mit einem scharfen Messer zwischen den weissen Haeutchen herausschneiden. Schokolade und Butter in eine duennwandige Schuessel geben, ueber das nur leicht siedende Wasserbad haengen, sie darf das Wasser nicht beruehren. Schokolade schmelzen, glatt ruehren. Schokolade auf der Pavlova verteilen, Orangenfilets darauf verteilen.</inhalt>
+      </How_To3   >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=l6iiJYcwnFM"/>
+   <video href="https://www.youtube.com/watch?v=kFNRv3d_i4o"/>
+   <video href="https://www.youtube.com/watch?v=LCkphS6zfvw"/>
+   <video href="https://www.youtube.com/watch?v=yNIMAigQY0Y"/>
+</Rezept>

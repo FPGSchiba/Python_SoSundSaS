@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>600 kcal</NaehrwertProPerson>
+       <Fett>43 g  </Fett>
+       <Kohlenhydrate>39 g  </Kohlenhydrate>
+       <Eiweiss>10 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Aubergine, in Wuerfeln</zutat>
+          <quant>2 Stueck</quant>
+          <zutat>Tomaten, in Wuerfeln</zutat>
+          <quant>2 Dosen</quant>
+          <zutat>Karma Bio Kichererbsen</zutat>
+          <quant>1 Glas</quant>
+          <zutat>Karma Bio Korma Sauce</zutat>
+          <quant>1/2 Bund</quant>
+          <zutat>Koriander, zerzupft</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Oel in einer beschichteten Bratpfanne heiss werden lassen. Zwiebel und Knoblauch ca. 1 Min. ruehrbraten. Aubergine, Tomaten und Kichererbsen beigeben, zugedeckt</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>bei mittlerer Hitze ca. 10 Min.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>daempfen. Korma Sauce dazugiessen, aufkochen, ca. 10 Min. koecheln, bis das Gemuese knapp weich ist, Koriander darueberstreuen. </inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

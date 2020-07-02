@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>419 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>19 g  </Kohlenhydrate>
+       <Eiweiss>18 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Limettenbutter>
+          <quant>75 g</quant>
+          <zutat>Butter, weich</zutat>
+          <quant>1 </quant>
+          <zutat>Limette, heiss abgespuelt, trocken getupft, abgeriebene Schale und 1 TL Saft</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Fleur de Sel</zutat>
+      </Limettenbutter>
+      <Selleriepueree>
+          <quant>300 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant>500 g</quant>
+          <zutat>Knollensellerie, in Wuerfeln</zutat>
+          <quant>1 dl</quant>
+          <zutat>Rahm</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Selleriepueree>
+      <Jakobsnuesse>
+          <quant>1/2 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>12 </quant>
+          <zutat>Jakobsnuesse</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Jakobsnuesse>
+   </einkaufliste>
+   <rezept>
+      <Limettenbutter>
+          <inhalt>Butter, Limettenschale und -saft und Salz mit den Schwingbesen des Handruehrgeraets schaumig ruehren, auf einem mit Folie ueberzogenem Brettchen zu einem Rechteck formen, zugedeckt ca. 1 Stunde kuehl stellen.</inhalt>
+      </Limettenbutter>
+      <Selleriepueree>
+          <inhalt>Daempfkoerbchen in eine weite Pfanne stellen, Wasser bis knapp unter den Koerbchenboden einfuellen. Gemuese beigeben, zugedeckt bei mittlerer Hitze ca. 20 Min. weich garen. Rahm heiss werden lassen, Pfanne von der Platte nehmen. Gemuese durchs Passevite in den Rahm treiben, wuerzen. </inhalt>
+      </Selleriepueree>
+      <Jakobsnuesse>
+          <inhalt>Butter in einer beschichteten Bratpfanne heiss werden lassen. Hitze reduzieren, Jakobsnuesse bei mittlerer Hitze beidseitig je ca. 2 Min. braten, wuerzen. Selleriepueree auf Teller verteilen, Jakobsnuesse und Limettenbutter darauf anrichten. </inhalt>
+      </Jakobsnuesse>
+   </rezept>
+</Rezept>

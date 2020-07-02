@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>550 kcal</NaehrwertProPerson>
+       <Fett>45 g  </Fett>
+       <Kohlenhydrate>32 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Panna_cotta>
+          <quant>5 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>4 EL</quant>
+          <zutat>Zucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Rosmarinnadeln, grob gehackt</zutat>
+          <quant>3 Blaetter</quant>
+          <zutat>Gelatine, ca. 5 Min. in kaltem Wasser eingelegt, abgetropft</zutat>
+      </Panna_cotta>
+      <Kumquats  >
+          <quant>200 g</quant>
+          <zutat>Kumquats, heiss abgespuelt, geviertelt, entkernt</zutat>
+          <quant>2 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Wasser</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Rosmarinnadeln, fein geschnitten</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Thymianblaettchen, fein geschnitten</zutat>
+      </Kumquats  >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Panna cotta                   </inhalt>
+      </How_To    >
+      <Panna_cotta>
+          <inhalt>Pfanne von der Platte nehmen. Gelatine unter die heisse Fluessigkeit ruehren, durch ein Sieb in einen Messbecher giessen, in die vorbereiteten Foermchen fuellen, auskuehlen, zugedeckt im Kuehlschrank ca. 6 Std. oder ueber Nacht fest werden lassen.</inhalt>
+      </Panna_cotta>
+      <Kumquats  >
+          <inhalt>Kumquats mit Honig und Wasser zugedeckt ca. 10 Min. koecheln. Rosmarin und Thymian beigeben und ca. 5 Min. mitkoecheln. Sauce auskuehlen. </inhalt>
+      </Kumquats  >
+      <Servieren >
+          <inhalt>Panna Cotta mit einer Messerspitze sorgfaeltig vom Foermchenrand loesen, Foermchen kurz in warmes Wasser tauchen, Panna Cotta auf Teller stuerzen, Kumquats darauf verteilen.</inhalt>
+      </Servieren >
+   </rezept>
+</Rezept>

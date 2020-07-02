@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>381 kcal</NaehrwertProPerson>
+       <Fett>25 g  </Fett>
+       <Kohlenhydrate>28 g  </Kohlenhydrate>
+       <Eiweiss>8 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Liste     >
+          <quant>6 </quant>
+          <zutat>Mandarinen</zutat>
+          <quant>3 EL</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>2 EL</quant>
+          <zutat>Orangenlikoer (z.B. Grand Marnier)</zutat>
+          <quant>100 g</quant>
+          <zutat>Loeffelbiskuits</zutat>
+          <quant>150 g</quant>
+          <zutat>Rahmquark</zutat>
+          <quant>250 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>1/2 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kakaopulver</zutat>
+          <quant>1/2 EL</quant>
+          <zutat>Zimt</zutat>
+      </Liste     >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Von 3 Mandarinen Saft auspressen (ca. 1 dl), mit Zucker und Likoer verruehren. Restliche Mandarinen schaelen, halbieren, quer in Scheiben schneiden.</inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Die Haelfte der Loeffelbiskuits in die Glaeser verteilen. Die Haelfte der Fluessigkeit daruebertraeufeln. Mandarinen darauflegen. Quark, Mascarpone und Milch gut verruehren.</inhalt>
+      </How_To1   >
+      <How_To2   >
+          <inhalt>Die Haelfte der Masse auf den Mandarinen verteilen, Biskuits darauflegen, mit restlicher Fluessigkeit betraeufeln, restliche Masse darauf verteilen. Zugedeckt ca. 2 Std. kuehl stellen. Kakao und Zimt mischen, Tiramisu kurz vor dem Servieren damit bestaeuben.</inhalt>
+      </How_To2   >
+   </rezept>
+</Rezept>

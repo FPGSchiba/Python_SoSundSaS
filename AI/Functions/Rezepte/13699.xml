@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>593 kcal</NaehrwertProPerson>
+       <Fett>41 g  </Fett>
+       <Kohlenhydrate>37 g  </Kohlenhydrate>
+       <Eiweiss>14 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Quiche    >
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Vollkornkuchenteig</zutat>
+          <quant>2 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>10 </quant>
+          <zutat>Bundrueebli (ca. 600 g)</zutat>
+          <quant>2 dl</quant>
+          <zutat>Vollrahm</zutat>
+          <quant>4 </quant>
+          <zutat>Eier</zutat>
+          <quant>2 EL</quant>
+          <zutat>Honigsenf</zutat>
+          <quant>2 EL</quant>
+          <zutat>schwarzer Sesam</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+      </Quiche    >
+   </einkaufliste>
+   <rezept>
+      <Quiche    >
+          <inhalt>Teig mitsamt dem Backpapier in ein Blech (ca. 30 cm Durchmesser) legen. Mit einer Gabel dicht einstechen, Paniermehl darauf verteilen. Das Gruen der Rueebli bis auf ca. 3 cm Laenge kuerzen. Rahm mit Eiern, Senf und Sesam verruehren, wuerzen, auf den Teig giessen. Rueebli in den Guss legen.</inhalt>
+      </Quiche    >
+      <Backen    >
+          <inhalt>Ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

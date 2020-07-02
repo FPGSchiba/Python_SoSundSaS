@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>506 kcal</NaehrwertProPerson>
+       <Fett>26 g  </Fett>
+       <Kohlenhydrate>40 g  </Kohlenhydrate>
+       <Eiweiss>25 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fill_Header>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Pizzateig  (z. B. Rustico, ca. 28 cm Ø)</zutat>
+          <quant>1 dl</quant>
+          <zutat>Vollmilch</zutat>
+          <quant>200 g</quant>
+          <zutat>Feta, in Wuerfeln</zutat>
+      </Fill_Header>
+      <Backen    >
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>400 g</quant>
+          <zutat>gemischte  Pilze, (z. B. Champignons und Pleurotus), in Vierteln</zutat>
+          <quant>1 dl</quant>
+          <zutat>Weisswein</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 Bund</quant>
+          <zutat>Schnittlauch, fein geschnitten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie, fein geschnitten</zutat>
+          <quant>80 g</quant>
+          <zutat>Rohschinken in Tranchen, zerzupft</zutat>
+      </Backen    >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig mit dem Backpapier aufs Blech legen, Milch und Feta zusammen puerieren, Pizzateig damit bestreichen, dabei ringsum einen Rand von ca. 2 cm frei lassen. </inhalt>
+      </How_To    >
+      <How_To1   >
+          <inhalt>Backen                        </inhalt>
+      </How_To1   >
+      <Backen    >
+          <inhalt>Oel erhitzen, Zwiebeln und Pilze ca. 5 Min. ruehrbraten. Wein dazugiessen, vollstaendig einkoechen, wuerzen, Kraeuter daruntermischen. Pilze und Rohschinken auf der Tarte verteilen.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

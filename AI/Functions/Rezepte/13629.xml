@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>404 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>14 g  </Kohlenhydrate>
+       <Eiweiss>19 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Ketchup   >
+          <quant>1 </quant>
+          <zutat>Zwiebel, fein gehackt</zutat>
+          <quant>1 </quant>
+          <zutat>Knoblauchzehe, fein gehackt</zutat>
+          <quant>1/2 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 1/2 dl</quant>
+          <zutat>Apfelsaft</zutat>
+          <quant>2 EL</quant>
+          <zutat>Apfelessig</zutat>
+          <quant>1 Dose</quant>
+          <zutat>gehackte Tomaten (ca. 400 g)</zutat>
+          <quant>1 EL</quant>
+          <zutat>fluessiger Honig</zutat>
+          <quant>1 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>2 Prisen</quant>
+          <zutat>Cayennepfeffer</zutat>
+      </Ketchup   >
+      <Cervelats >
+          <quant>4 </quant>
+          <zutat>Cervelats</zutat>
+          <quant>60 g</quant>
+          <zutat>geriebener Gruyere</zutat>
+          <quant>50 g</quant>
+          <zutat>Essiggurken, in Wuerfeli</zutat>
+      </Cervelats >
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Ketchup                       </inhalt>
+      </How_To    >
+      <Ketchup   >
+          <inhalt>Zwiebel, Knoblauch und Ingwer im Oel andaempfen. Apfelsaft und Essig dazugiessen, auf ca. die Haelfte einkochen. Tomaten beigeben, aufkochen, bei kleiner Hitze ca. 30 Min. koecheln. Honig beigeben, wuerzen, puerieren, auskuehlen.</inhalt>
+      </Ketchup   >
+      <How_To1   >
+          <inhalt>Mit dem Apfelkern-Ausstecher laengs in der Mitte der Cervelats je ein Loch ausstechen. Von den ausgestochenen Wurststaengeln je zwei 2 cm lange Stuecke abschneiden. Kaese und Gurkenwuerfeli mischen. Die Loecher am Ende der Cervelats mit je einem Wurststueck verschliessen, Cervelats von den anderen Enden her bis auf ca. 2 cm mit Kaesemasse fuellen, mit den restlichen Wurststuecken verschliessen. Cervelats mehrmals schraeg ca. 2 mm tief einschneiden.</inhalt>
+      </How_To1   >
+      <Cervelats >
+          <inhalt>Ketchup dazu servieren.       </inhalt>
+      </Cervelats >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=3DyKqBGY5Ls"/>
+</Rezept>

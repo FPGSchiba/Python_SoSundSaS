@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>269 kcal</NaehrwertProPerson>
+       <Fett>19 g  </Fett>
+       <Kohlenhydrate>10 g  </Kohlenhydrate>
+       <Eiweiss>13 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Fuellung_  >
+          <quant>40 g</quant>
+          <zutat>Kapernaepfel (z.B. Fine Food Kapernaepfel), abgespuelt, abgetropft, fein gehackt</zutat>
+          <quant>1 EL</quant>
+          <zutat>Senf</zutat>
+          <quant>1 TL</quant>
+          <zutat>Dill, grob geschnitten</zutat>
+          <quant>4 EL</quant>
+          <zutat>Clotted cream</zutat>
+          <quant>1 EL</quant>
+          <zutat>Oel (Fine Food Olivenoel mit Zitrone)</zutat>
+          <quant>2 TL</quant>
+          <zutat>Meerrettich, gerieben</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Fleur de Sel</zutat>
+          <quant>wenig </quant>
+          <zutat>tasmanischer Pfeffer</zutat>
+          <quant>200 g</quant>
+          <zutat>geraeucherter Lachs (z.B. Fine Food Hot Smoked Salmon)</zutat>
+      </Fuellung_  >
+      <Taschen_  >
+          <quant>1/2 Paeckli</quant>
+          <zutat>Strudelteig  (2 Blaetter)</zutat>
+          <quant>4 EL</quant>
+          <zutat>Butter, fluessig</zutat>
+      </Taschen_  >
+   </einkaufliste>
+   <rezept>
+      <Fuellung_  >
+          <inhalt>Kapern mit allen Zutaten bis und mit Pfeffer mischen. Lachs zerzupfen, daruntermischen. </inhalt>
+      </Fuellung_  >
+      <Taschen_  >
+          <inhalt>Teigblaetter sorgfaeltig auseinanderfalten. Teigblatt mit Butter bestreichen, 2. Teigblatt darauflegen. 20 Quadrate von je ca. 7 cm schneiden. Je ca. 1 TL Fuellung auf die Teigmitte verteilen, Rand mit wenig Butter bestreichen, ueber der Fuellung zu einem Spitz falten. Auf ein mit Backpapier belegtes Blech legen, Taschen mit restlicher Butter bestreichen. </inhalt>
+      </Taschen_  >
+      <Backen    >
+          <inhalt>Ca. 10 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. </inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

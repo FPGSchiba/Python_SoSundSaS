@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>783 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>69 g  </Kohlenhydrate>
+       <Eiweiss>32 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Lauchfuellung>
+          <quant>1 EL</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, gehackt</zutat>
+          <quant>600 g</quant>
+          <zutat>Lauch, in Ringen</zutat>
+          <quant>1 </quant>
+          <zutat>Bio-Orange oder Bio-Zitrone, abgeriebene Schale und Saft</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>2 EL</quant>
+          <zutat>Creme fraiche</zutat>
+      </Lauchfuellung>
+      <Pastete   >
+          <quant>2 </quant>
+          <zutat>rund ausgewallte Blaetterteige</zutat>
+          <quant>2 EL</quant>
+          <zutat>Paniermehl</zutat>
+          <quant>500 g</quant>
+          <zutat>Goldbuttfilets (MSC)</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>1 </quant>
+          <zutat>Ei, verklopft</zutat>
+      </Pastete   >
+   </einkaufliste>
+   <rezept>
+      <Lauchfuellung>
+          <inhalt>Butter in einer Pfanne erwaermen. Zwiebel kurz andaempfen, Lauch beigeben, ca. 5 Min. mitdaempfen. Orangenschale und -saft zum Lauch geben, wuerzen. Lauch zugedeckt ca. 5 Min. koecheln, etwas abkuehlen, Creme fraiche daruntermischen.</inhalt>
+      </Lauchfuellung>
+      <Pastete   >
+          <inhalt>Einen Teig mit dem Backpapier in ein Waehenblech (ca. 30 cm Durchmesser) legen. Teigboden mit einer Gabel dicht einstechen, mit Paniermehl bestreuen, Lauchfuellung darauf verteilen, glatt streichen. Fischfilets wuerzen, auf den Lauch legen. Vorstehenden Teigrand ueber die Fuellung legen, mit Ei bestreichen. Zweiten Teig mit einer Gabel dicht einstechen, auf die Fuellung legen, vorstehende Teigraender kuerzen, Rand gut andruecken. Pastete mit Ei bestreichen.</inhalt>
+      </Pastete   >
+      <Backen    >
+          <inhalt>Ca. 25 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Auf einem Gitter etwas abkuehlen, warm servieren.</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

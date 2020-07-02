@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>599 kcal</NaehrwertProPerson>
+       <Fett>30 g  </Fett>
+       <Kohlenhydrate>60 g  </Kohlenhydrate>
+       <Eiweiss>17 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Pesto     >
+          <quant>40 g</quant>
+          <zutat>Basilikumblaetter</zutat>
+          <quant>70 g</quant>
+          <zutat>Pinienkerne oder Zedernkerne</zutat>
+          <quant>2 TL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>20 g</quant>
+          <zutat>getrocknete Tomaten in Oel, abgetropft</zutat>
+          <quant>1 EL</quant>
+          <zutat>Limettensaft, frisch gepresst</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz, jodiert</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+      </Pesto     >
+      <Tarte     >
+          <quant>2 </quant>
+          <zutat>Suesskartoffeln</zutat>
+          <quant>1 </quant>
+          <zutat>Kartoffel</zutat>
+          <quant>2 </quant>
+          <zutat>Rueebli</zutat>
+          <quant>wenig </quant>
+          <zutat>Oel oder Fett fuer die Springform</zutat>
+          <quant>1 </quant>
+          <zutat>rund ausgewallter Dinkel-Kuchenteig</zutat>
+          <quant>200 g</quant>
+          <zutat>Seidentofu</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kurkuma</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz, jodiert</zutat>
+          <quant>wenig </quant>
+          <zutat>Sesam</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer aus der Muehle</zutat>
+      </Tarte     >
+   </einkaufliste>
+   <rezept>
+      <Pesto     >
+          <inhalt>Alle Zutaten bis auf Salz und Pfeffer im Blitzhacker oder Mixer zu einem Pesto verarbeiten. Mit Salz und Pfeffer abschmecken. Pesto beiseite stellen.</inhalt>
+      </Pesto     >
+      <Tarte     >
+          <inhalt>Den Backofen auf 180 Grad Umluft vorheizen. Die Sueﬂkartoffeln und die Kartoffel in Scheiben schneiden. Die ungeschaelten, aber gruendlich gewaschenen Rueebli in lange, breite Streifen schneiden. Alles im Daempfsieb ueber kochendem Wasser 10 Minuten garen, danach kalt abschrecken. Eine gefettete Kuchenform mit dem Dinkelteig auslegen. Den Boden mit einer Gabel gleichmaeﬂig einstechen. Die Raender mit Pesto bestreichen und einrollen. Den Teigboden im vorgeheizten Ofen 10 Minuten vorbacken und auskuehlen lassen. Den Seidentofu mit dem Kurkuma und Salz mit dem Puerierstab puerieren. Den Teigboden mit dem restlichen Pesto bestreichen und mit dem gedaempften Gemuese auslegen. Die Seidentofumischung darauf verteilen und 15 Minuten backen. Die Tarte aus dem Backofen nehmen, Sesam und Pfeffer darauf verteilen und weitere 5 Minuten fertig backen.</inhalt>
+      </Tarte     >
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=j461Wr8fFRI"/>
+</Rezept>

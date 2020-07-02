@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>453 kcal</NaehrwertProPerson>
+       <Fett>29 g  </Fett>
+       <Kohlenhydrate>11 g  </Kohlenhydrate>
+       <Eiweiss>34 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>1 </quant>
+          <zutat>ausgewallter Muerbeteig </zutat>
+          <quant>25 g</quant>
+          <zutat>gehackte Pistazien</zutat>
+      </Teig      >
+      <Mascarpone-Creme>
+          <quant>150 g</quant>
+          <zutat>Mascarpone</zutat>
+          <quant>100 g</quant>
+          <zutat>Zitronenjogurt</zutat>
+          <quant>200 g</quant>
+          <zutat>Erdbeeren</zutat>
+          <quant> </quant>
+          <zutat>Puderzucker zum Bestaeuben</zutat>
+      </Mascarpone-Creme>
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Teig entrollen, mit der Haelfte der Pistazien bestreuen, mit dem Wallholz darueberwallen. 4 Rondellen von je ca. 14 cm Ø ausstechen, auf ein mit Backpapier belegtes Blech legen. Den restlichen Teig mit  einem Ausstecher z.B. Hasen  ausstechen, diese neben die Tarteboedeli auf das Blech legen.</inhalt>
+      </Teig      >
+      <Backen    >
+          <inhalt>Ca. 8 Min. in der Mitte des auf 220 Grad vorgeheizten Ofens. Herausnehmen, auf einem Gitter auskuehlen.</inhalt>
+      </Backen    >
+      <Mascarpone-Creme>
+          <inhalt>Mascarpone und Jogurt verruehren, auf die Boedeli verteilen. Erdbeeren darauf geben, mit Puderzucker bestaeuben. Restliche Pista-zien darueberstreuen.</inhalt>
+      </Mascarpone-Creme>
+   </rezept>
+</Rezept>

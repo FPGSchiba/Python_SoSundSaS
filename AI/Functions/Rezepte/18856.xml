@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>375 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>49 g  </Kohlenhydrate>
+       <Eiweiss>12 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Reis_kochen>
+          <quant>200 g</quant>
+          <zutat>Venere-Reis (schwarzer Reis)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Reis_kochen>
+      <Gebratener_Reis_&amp;_Gemuese>
+          <quant>1 EL</quant>
+          <zutat>Kokosoel</zutat>
+          <quant>1 </quant>
+          <zutat>Bundzwiebel mit dem Gruen, in Ringen, Gruen beiseite gestellt</zutat>
+          <quant>2 </quant>
+          <zutat>Knoblauchzehen, fein gehackt</zutat>
+          <quant>1 cm</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>400 g</quant>
+          <zutat>Broccoli, in kleinen Roeschen</zutat>
+          <quant>200 g</quant>
+          <zutat>tiefgekuehlte Erbsli, angetaut</zutat>
+          <quant>4 EL</quant>
+          <zutat>Sojasauce</zutat>
+          <quant>2 EL</quant>
+          <zutat>Sesamoel</zutat>
+      </Gebratener_Reis_&amp;_Gemuese>
+      <Anrichten_&amp;_garnieren>
+          <quant>1 EL</quant>
+          <zutat>Sesam</zutat>
+          <quant>300 g</quant>
+          <zutat>Beetroot Kimchi (Karma)</zutat>
+      </Anrichten_&amp;_garnieren>
+   </einkaufliste>
+   <rezept>
+      <Reis_kochen>
+          <inhalt>Reis im siedenden Salzwasser ca. 40 Min. knapp weich kochen, abtropfen, zugedeckt beiseite stellen.</inhalt>
+      </Reis_kochen>
+      <Gebratener_Reis_&amp;_Gemuese>
+          <inhalt>Oel in einer Bratpfanne erwaermen. Bundzwiebel, Knoblauch und Ingwer ca. 3 Min. andaempfen. Hitze erhoehen. Broccoli und beiseite gestellten Reis beigeben, ca. 3 Min. ruehrbraten. Erbsli, Sojasauce und Sesamoel beigeben, unter gelegentlichem Ruehren ca.  3 Min. fertig braten.</inhalt>
+      </Gebratener_Reis_&amp;_Gemuese>
+      <Anrichten_&amp;_garnieren>
+          <inhalt>Gebratener Reis anrichten, mit Sesam und beiseite gestelltem Bundzwiebelgruen garnieren. Kimchi dazu servieren.</inhalt>
+      </Anrichten_&amp;_garnieren>
+   </rezept>
+</Rezept>

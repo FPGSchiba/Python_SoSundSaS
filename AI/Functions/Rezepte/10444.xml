@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>443 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>61 g  </Kohlenhydrate>
+       <Eiweiss>22 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teigwaren >
+          <quant>350 g</quant>
+          <zutat>Teigwaren (z.B. Muescheli)</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+      </Teigwaren >
+      <Gemuese_&amp;_Anrichten>
+          <quant>250 g</quant>
+          <zutat>Kefen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>300 g</quant>
+          <zutat>Datteltomaten</zutat>
+          <quant>1 Bund</quant>
+          <zutat>glattblaettrige Petersilie</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer</zutat>
+          <quant>50 g</quant>
+          <zutat>Sbrinz am Stueck</zutat>
+      </Gemuese_&amp;_Anrichten>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teigwaren                     </inhalt>
+      </How_To    >
+      <Teigwaren >
+          <inhalt>Gemuese &amp; Anrichten        </inhalt>
+      </Teigwaren >
+      <Gemuese_&amp;_Anrichten>
+          <inhalt>ruehrbraten. Petersilie grob schneiden. Beiseite gestelltes Kochwasser, Teigwaren und Petersilie beigeben, wuerzen. Kaese mit Sparschaeler darueberhobeln.</inhalt>
+      </Gemuese_&amp;_Anrichten>
+   </rezept>
+   <video href="https://www.youtube.com/watch?v=DReFP-z8RHc"/>
+   <video href="https://www.youtube.com/watch?v=ecHyFpImzqs"/>
+</Rezept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>409 kcal</NaehrwertProPerson>
+       <Fett>22 g  </Fett>
+       <Kohlenhydrate>46 g  </Kohlenhydrate>
+       <Eiweiss>5 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Tarte-Boden>
+          <quant>200 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>80 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>1/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>100 g</quant>
+          <zutat>Butter</zutat>
+          <quant>1 </quant>
+          <zutat>Ei</zutat>
+      </Tarte-Boden>
+      <Blindbacken>
+          <quant>1/2 Pack</quant>
+          <zutat>dunkle Kuchenglasur (ca. 60 g), geschmolzen</zutat>
+      </Blindbacken>
+      <Creme     >
+          <quant>440 g</quant>
+          <zutat>tiefgekuehltes Marronipueree, aufgetaut</zutat>
+          <quant>1 dl</quant>
+          <zutat>Milch</zutat>
+          <quant>3 dl</quant>
+          <zutat>Rahm, steif geschlagen</zutat>
+      </Creme     >
+      <Fertigstellen>
+          <quant>1/4 dl</quant>
+          <zutat>Wasser</zutat>
+          <quant>50 g</quant>
+          <zutat>Zucker</zutat>
+          <quant>50 g</quant>
+          <zutat>Baumnusskerne</zutat>
+          <quant>50 g</quant>
+          <zutat>Meringue-Schalen Mini</zutat>
+      </Fertigstellen>
+   </einkaufliste>
+   <rezept>
+      <Tarte-Boden>
+          <inhalt>Mehl, Zucker und Salz in einer Schuessel mischen. Butter beigeben, von Hand zu einer gleichmaessig kruemeligen Masse verreiben. Ei beigeben, rasch zu einem weichen Teig zusammenfuegen, nicht kneten. Teig flach druecken, zugedeckt ca. 30 Min. kuehl stellen.  Teig zwischen zwei Backpapier rund (ca. 28 cm Ø) auswallen. Oberes Backpapier entfernen, Teig mit dem Backpapier ins Backblech legen. Teigboden mit einer Gabel dicht einstechen,  mit dem entfernten Backpapier belegen und mit getrockneten Huelsenfruechten beschweren.</inhalt>
+      </Tarte-Boden>
+      <Blindbacken>
+          <inhalt>Ca. 15 Min. in der unteren Haelfte des auf 200 Grad vorgeheizten Ofens. Backpapier und Huelsenfruechte entfernen, ca. 10 Min. fertig backen. Herausnehmen, etwas abkuehlen, auf ein Gitter schieben, auskuehlen. Tarte-Boden mit der Kuchenglasur bestreichen, ca. 10 Min. kuehl stellen. </inhalt>
+      </Blindbacken>
+      <Creme     >
+          <inhalt>Marroni-Pueree und Milch glatt ruehren, Schlagrahm sorgfaeltig darunterziehen. 3/4 der Creme auf dem Tarte-Boden verteilen, glatt streichen. Restliche Vermicellecreme in einen Spritzsack mit gezackter Tuelle fuellen, beides kuehl stellen. </inhalt>
+      </Creme     >
+      <Fertigstellen>
+          <inhalt>Wasser mit dem Zucker in einer kleinen Pfanne aufkochen, sirupartig einkoecheln. Nuesse beigeben, unter staendigem Ruehren bei mittlerer Hitze einkochen, bis der Zucker trocken wird und an den Nuessen haftet. Pfanne von der Platte nehmen ca. 2 Min. weiterruehren, auf ein Backpapier geben, auskuehlen. Restliche Creme auf die Tarte spritzen, mit den Nuessen und Meringues verzieren. </inhalt>
+      </Fertigstellen>
+   </rezept>
+</Rezept>

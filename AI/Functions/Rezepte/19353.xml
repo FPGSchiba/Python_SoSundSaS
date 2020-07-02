@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>453 kcal</NaehrwertProPerson>
+       <Fett>17 g  </Fett>
+       <Kohlenhydrate>23 g  </Kohlenhydrate>
+       <Eiweiss>1 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Schokolade>
+          <quant>2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 125 g)</zutat>
+      </Schokolade>
+      <Dekorieren>
+          <quant>6 g</quant>
+          <zutat>Soft Waffeln (ca. 250 g)</zutat>
+          <quant>12 </quant>
+          <zutat>Holzstaengeli</zutat>
+          <quant>3 EL</quant>
+          <zutat>Nonpareilles</zutat>
+          <quant>2 Beutel</quant>
+          <zutat>dunkle Kuchenglasur (ca. 125 g)</zutat>
+          <quant>6 g</quant>
+          <zutat>Soft Waffeln (ca. 250 g)</zutat>
+          <quant>12 </quant>
+          <zutat>Holzstaengeli</zutat>
+          <quant>3 EL</quant>
+          <zutat>Nonpareilles</zutat>
+      </Dekorieren>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Schokolade                    </inhalt>
+      </How_To    >
+      <Schokolade>
+          <inhalt>Kuchenglasur im Wasserbad oder in der Mikrowelle schmelzen, in eine Schuessel giessen. </inhalt>
+      </Schokolade>
+      <How_To1   >
+          <inhalt>                              </inhalt>
+      </How_To1   >
+      <Dekorieren>
+          <inhalt>                              </inhalt>
+      </Dekorieren>
+   </rezept>
+</Rezept>

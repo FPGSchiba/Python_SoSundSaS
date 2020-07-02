@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>215 kcal</NaehrwertProPerson>
+       <Fett>9 g   </Fett>
+       <Kohlenhydrate>30 g  </Kohlenhydrate>
+       <Eiweiss>4 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>2 EL</quant>
+          <zutat>Leinsamen</zutat>
+          <quant>110 ml</quant>
+          <zutat>Mandeldrink</zutat>
+          <quant>2 TL</quant>
+          <zutat>Ahornsirup</zutat>
+          <quant>1 EL</quant>
+          <zutat>Zitronensaft</zutat>
+          <quant>1 TL</quant>
+          <zutat>Zimt</zutat>
+          <quant>1 Prise</quant>
+          <zutat>Salz</zutat>
+          <quant>60 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>1 TL</quant>
+          <zutat>Backpulver</zutat>
+      </Teig      >
+      <Bananen_backen>
+          <quant>3 </quant>
+          <zutat>Bananen, in Dritteln</zutat>
+          <quant> </quant>
+          <zutat>Oel zum Backen</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kokosraspel</zutat>
+      </Bananen_backen>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Teig                          </inhalt>
+      </How_To    >
+      <Teig      >
+          <inhalt>Teig ca. 30 Min. zugedeckt im Kuehlschrank ruhen lassen.</inhalt>
+      </Teig      >
+      <Bananen_backen>
+          <inhalt>Bananen portionenweise durch den Teig ziehen (mit den Fingern geht's am besten). Wenig Oel in einer Bratpfanne erhitzen, Bananen bei mittlerer Hitze rundum goldbraun backen. Aus der Pfanne nehmen, Kokosraspeln darueberstreuen.</inhalt>
+      </Bananen_backen>
+   </rezept>
+</Rezept>

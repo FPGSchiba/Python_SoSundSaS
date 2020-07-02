@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>270 kcal</NaehrwertProPerson>
+       <Fett>15 g  </Fett>
+       <Kohlenhydrate>24 g  </Kohlenhydrate>
+       <Eiweiss>6 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Gemuese    >
+          <quant>250 g</quant>
+          <zutat>mehlig kochende Kartoffeln, in Wuerfeln</zutat>
+          <quant> </quant>
+          <zutat>Salzwasser, siedend</zutat>
+          <quant>4 Staengel</quant>
+          <zutat>Lauch, in ca. 1 cm breiten Ringen</zutat>
+          <quant>2 </quant>
+          <zutat>Aepfel, geschaelt, entkernt, in Stuecken</zutat>
+          <quant>2 EL</quant>
+          <zutat>Olivenoel</zutat>
+      </Gemuese    >
+      <Suppe     >
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>1 </quant>
+          <zutat>Zwiebel, gehackt</zutat>
+          <quant>3 </quant>
+          <zutat>Knoblauchzehen, gepresst</zutat>
+          <quant>1 1/4 Liter</quant>
+          <zutat>Gemuesebouillon</zutat>
+          <quant>1/2 TL</quant>
+          <zutat>Kardamompulver</zutat>
+          <quant>1 TL</quant>
+          <zutat>Kuemmel</zutat>
+          <quant>wenig </quant>
+          <zutat>Zimt</zutat>
+          <quant> </quant>
+          <zutat>Salz, Pfeffer, nach Bedarf, nach Bedarf</zutat>
+      </Suppe     >
+      <Suppe_anrichten>
+          <quant>1 EL</quant>
+          <zutat>Olivenoel</zutat>
+          <quant>wenig </quant>
+          <zutat>Pfeffer, grob gemahlen</zutat>
+          <quant>1 EL</quant>
+          <zutat>Kernenmix</zutat>
+      </Suppe_anrichten>
+   </einkaufliste>
+   <rezept>
+      <How_To    >
+          <inhalt>Gemuese                        </inhalt>
+      </How_To    >
+      <Gemuese    >
+          <inhalt>Backen: ca. 35 Min. in der Mitte des auf 200 Grad vorgeheizten Ofens. </inhalt>
+      </Gemuese    >
+      <Suppe     >
+          <inhalt>Oel in einer grossen Pfanne erwaermen, Zwiebel und Knoblauch 5 Min. andaempfen. Bouillon dazugiessen, aufkochen. Das gebackene Gemuese beigeben. Suppe mit dem Stabmixer puerieren, wuerzen, aufkochen. </inhalt>
+      </Suppe     >
+      <Suppe_anrichten>
+          <inhalt>Suppe in Schalen anrichten, mit Olivenoel, Pfeffer und Kernen garnieren.</inhalt>
+      </Suppe_anrichten>
+   </rezept>
+</Rezept>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>190 kcal</NaehrwertProPerson>
+       <Fett>12 g  </Fett>
+       <Kohlenhydrate>16 g  </Kohlenhydrate>
+       <Eiweiss>3 g   </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Teig      >
+          <quant>100 g</quant>
+          <zutat>Weissmehl</zutat>
+          <quant>100 g</quant>
+          <zutat>gemahlener Rohzucker</zutat>
+          <quant>3 </quant>
+          <zutat>Eier</zutat>
+      </Teig      >
+      <Fuellen    >
+          <quant>125 g</quant>
+          <zutat>Butter</zutat>
+          <quant>150 g</quant>
+          <zutat>dunkle Schokolade (64% Kakao), grob gehackt</zutat>
+          <quant>2 EL</quant>
+          <zutat>Kaffeelikoer (z.B. Kahlua)</zutat>
+          <quant>100 g</quant>
+          <zutat>Knuspermueesli (z.B. Bio Choco Amaranth)</zutat>
+      </Fuellen    >
+   </einkaufliste>
+   <rezept>
+      <Teig      >
+          <inhalt>Mehl, Zucker und Eier in einer Schuessel mit einem Schwingbesen gut mischen.</inhalt>
+      </Teig      >
+      <Fuellen    >
+          <inhalt>Butter mit der Schokolade in einer Pfanne schmelzen, mit dem Likoer unter die Masse ruehren. Teig in die vorbereitete Form fuellen, Mueesli darueberstreuen.</inhalt>
+      </Fuellen    >
+      <Backen    >
+          <inhalt>Ca. 10 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens. Die Brownies muessen innen noch leicht feucht sein. Herausnehmen, etwas abkuehlen, Form entfernen, in 18 Stuecke schneiden, auf einem Gitter auskuehlen,</inhalt>
+      </Backen    >
+   </rezept>
+</Rezept>

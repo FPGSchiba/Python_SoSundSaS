@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+   <meta>
+       <NaehrwertProPerson>546 kcal</NaehrwertProPerson>
+       <Fett>40 g  </Fett>
+       <Kohlenhydrate>8 g   </Kohlenhydrate>
+       <Eiweiss>36 g  </Eiweiss>
+   </meta>
+   <einkaufliste>
+      <Poulet    >
+          <quant>2 EL</quant>
+          <zutat>Erdnussoel</zutat>
+          <quant>3 EL</quant>
+          <zutat>Tandooripaste</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>1 </quant>
+          <zutat>Poulet  (ca. 1,1 kg)</zutat>
+      </Poulet    >
+      <Sauce     >
+          <quant>300 g</quant>
+          <zutat>griechischer Jogurt nature, nature</zutat>
+          <quant>70 g</quant>
+          <zutat>Mandelblaettchen, geroestet</zutat>
+          <quant>1 TL</quant>
+          <zutat>Ingwer, fein gerieben</zutat>
+          <quant>3/4 TL</quant>
+          <zutat>Salz</zutat>
+          <quant>wenig </quant>
+          <zutat>Cayennepfeffer</zutat>
+      </Sauce     >
+   </einkaufliste>
+   <rezept>
+      <Poulet    >
+          <inhalt>Oel, Tandooripaste und Salz verruehren. Poulet innen und aussen kalt abspuelen, trocken tupfen, mit der Wuerzpaste bestreichen, auf ein mit Backpapier belegtes Blech legen.</inhalt>
+      </Poulet    >
+      <Braten_im_Ofen>
+          <inhalt>Ca. 50 Min. in der unteren Haelfte des auf 220 Grad vorgeheizten Ofens.</inhalt>
+      </Braten_im_Ofen>
+      <Sauce     >
+          <inhalt>Alle Zutaten verruehren. Zum Poulet servieren.</inhalt>
+      </Sauce     >
+   </rezept>
+</Rezept>
