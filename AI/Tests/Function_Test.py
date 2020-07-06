@@ -1,5 +1,6 @@
-from Functions import Scrapper_Fooby
+from Functions.Scrapper import Scrapper_Fooby
+from Functions.Scrapper import Scrapper_PW
 
-URL = ""
-URL = input("Geben Sie einen Fooby URL an: ")
-Scrapper_Fooby.ScrapFooby(URL)
+
+Len = int(input("Geben Sie die PW länge ein: "))
+print(Scrapper_PW.GetRandomPW(Len))

@@ -7,8 +7,7 @@
 # ================
 # No Copy Right yet
 
-import time
-from Functions import Scrapper_Fooby
+from Functions.Scrapper import Scrapper_Fooby
 
 finished = False
 

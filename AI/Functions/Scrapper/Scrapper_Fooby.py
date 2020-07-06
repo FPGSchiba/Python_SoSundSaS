@@ -8,7 +8,6 @@
 # No Copy Right yet
 
 import requests
-import sys
 from bs4 import BeautifulSoup
 
 def deleteTagsEinzel(inpString):
