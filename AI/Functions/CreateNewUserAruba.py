@@ -46,30 +46,5 @@ def CreateNewUser():
     with requests.Session() as s:
 
         url = "https://aruba01.apgsga.ch:4343/screens/cmnutil/gc_data.xml"
-        r = s.post(url, verify=True, cert=["C:\\CertificateAruba.cer", "C:\\CertificateAruba.cer"], data=login_data, headers=headers)
-
-        HTTPResponse = requests.packages.urllib3.response.HTTPResponse
-        orig_HTTPResponse__init__ = HTTPResponse.__init__
-
-        def new_HTTPResponse__init__(self, *args, **kwargs):
-            orig_HTTPResponse__init__(self, *args, **kwargs)
-            try:
-                self.peercert = self._connection.sock.getpeercert()
-            except AttributeError:
-                pass
-
-        HTTPResponse.__init__ = new_HTTPResponse__init__
-
-        HTTPAdapter = requests.adapters.HTTPAdapter
-        orig_HTTPAdapter_build_response = HTTPAdapter.build_response
-
-        def new_HTTPAdapter_build_response(self, request, resp):
-            response = orig_HTTPAdapter_build_response(self, request, resp)
-            try:
-                response.peercert = resp.peercert
-            except AttributeError:
-                pass
-            return response
-
-        HTTPAdapter.build_response = new_HTTPAdapter_build_response
+        r = s.post(url, data=login_data, headers=headers)
         print(r.content)
