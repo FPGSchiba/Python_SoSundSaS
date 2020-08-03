@@ -1,5 +1,3 @@
-from Functions.Scrapper import Scrapper_Fooby
-from Functions.Scrapper import Scrapper_PW
-from Functions import CreateNewUserAruba
+from Functions.Random import CreateNewUserAruba
 
 CreateNewUserAruba.CreateNewUser()
