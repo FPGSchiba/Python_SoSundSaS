@@ -4,7 +4,6 @@
 
 import psutil
 import GPUtil
-from tabulate import tabulate
 
 
 def get_size(bytes):

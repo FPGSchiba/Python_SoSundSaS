@@ -1,14 +1,18 @@
+# Version 1.0
+
 # first of all import the socket library
 import socket
 import threading
+from Functions.ScanHardware import *
 
 # next create a socket object
 s = socket.socket()
+ServerVersion = 'Version: 1.0'
 print("Socket successfully created")
 
 # reserve a port on your computer in our
 # case it is 12345 but it can be anything
-port = 12345
+port = 5050
 
 # Next bind to the port
 # we have not typed any ip in the ip field
@@ -16,7 +20,7 @@ port = 12345
 # this makes the server listen to requests
 # coming from other computers on the network
 s.bind(('', port))
-print("socket binded to %s" % (port))
+print("socket binded to %s" % port)
 
 # put the socket into listening mode
 s.listen(5)
@@ -25,16 +29,32 @@ print("socket is listening")
 
 class client_thread(threading.Thread):
 
-    @staticmethod
-    def Connected(c):
-        # send a thank you message to the client.
-        data = 'Thank you for connecting'
-        c.send(data.encode())
-        # Close the connection with the client
-        c.close()
+    def Connected(self, client):
+        connected = True
+        data = ServerVersion
+        client.send(data.encode())
+        clientVersion = client.recv(1024).decode()
+        print("Checking Version...")
+        if clientVersion == ServerVersion:
+            print("Version is OK")
+            while connected:
+                try:
+                    inputString = client.recv(1024).decode()
+                except:
+                    print("Client disconnected")
+                    client.close()
+                    break
+                self.CommandInput(inputString, client)
+        else:
+            print("Client has a other Version aborting...")
+            client.close()
 
     def run(self, c):
         self.Connected(c)
+
+    def CommandInput(self, input, client):
+        if input == "GetCPU":
+            client.send(str(CPU_Precent()).encode())
 
 
 # a forever loop until we interrupt it or
@@ -47,5 +67,3 @@ while True:
     # Create a Thread to Handle Clients
     ct = client_thread()
     ct.run(c)
-
-
