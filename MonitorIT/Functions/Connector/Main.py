@@ -55,6 +55,7 @@ class client_thread(threading.Thread):
     def CommandInput(self, input, client):
         if input == "GetCPU":
             client.send(str(CPU_Precent()).encode())
+            print("sent CPU values")
 
 
 # a forever loop until we interrupt it or
