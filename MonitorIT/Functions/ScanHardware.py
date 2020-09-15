@@ -57,12 +57,6 @@ def DISK_Max():
 
 def GPU_Usage():
     gpus = GPUtil.getGPUs()
-    list_gpus = []
     for gpu in gpus:
-        print("SoS")
-        gpu_load = f"{gpu.load * 100}%"
-        gpu_temperature = f"{gpu.temperature} °C"
-        list_gpus.append((
-            f"GPU-Load: {gpu_load}", f"GPU-Temp: {gpu_temperature}"
-        ))
-    return list_gpus
+        gpu_load = gpu.load * 100
+    return gpu_load
