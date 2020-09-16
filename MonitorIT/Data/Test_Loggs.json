@@ -26,16 +26,7 @@
                 "Day average",
                 "Day average"
             ],
-            "Month-Log": [
-                "Week average",
-                "Week average",
-                "Week average"
-            ],
-            "Year-Log": [
-                "Month average",
-                "Month average",
-                "Month average"
-            ]
+            "Month-Log": "Week average"
         }
     }
 }
