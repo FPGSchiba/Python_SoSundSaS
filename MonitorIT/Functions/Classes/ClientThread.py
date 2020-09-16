@@ -24,7 +24,7 @@ class client_thread(threading.Thread):
                 self.CommandInput(inputString)
         else:
             print("Client has a other Version aborting...")
-            client.close()
+            self.client.close()
 
     def run(self, c):
         self.client = c
