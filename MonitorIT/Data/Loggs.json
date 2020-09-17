@@ -1,0 +1,15 @@
+{
+    "Logg": {
+        "LoggPerTime": {
+            "Minute-Log": [
+                "ws565           // 2020-09-17 - CPU:   2% || MEM:  58% || GPU:   0% || DPC:  31% || DMX:   292GB || DFR:   201GB",
+                "ws565           // 2020-09-17 - CPU:   6% || MEM:  56% || GPU:   0% || DPC:  31% || DMX:   292GB || DFR:   201GB",
+                "ws565           // 2020-09-17 - CPU:   7% || MEM:  56% || GPU:   0% || DPC:  31% || DMX:   292GB || DFR:   201GB"
+            ],
+            "Hour-Log": [],
+            "Day-Log": [],
+            "Week-Log": [],
+            "Month-Log": []
+        }
+    }
+}

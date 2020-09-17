@@ -57,6 +57,7 @@ def DISK_Max():
 
 def GPU_Usage():
     gpus = GPUtil.getGPUs()
+    gpu_load = 0
     for gpu in gpus:
         gpu_load = gpu.load * 100
     return gpu_load

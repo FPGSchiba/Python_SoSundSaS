@@ -1,6 +1,6 @@
 import threading
 import time
-import datetime as DateTime
+import datetime
 import json
 import socket
 import re
@@ -26,32 +26,40 @@ class logging_Thread(threading.Thread):
 
     def run(self):
         time.sleep(5)
+        self.read()
         self.Loop()
+
+    def read(self):
+        try:
+            with open('../../Data/Loggs.json', 'r') as f:
+                self.data = json.load(f)
+        finally:
+            return None
 
     def cutFile(self, input, string):
         if input == "cpu":
-            ret = re.match(r'CPU:\s(\s|\d)(\s|\d)\d', string)
-            return re.match(r'\d+', ret)
+            ret = re.search(r'CPU:\s(\s|\d)(\s|\d)\d', string).group(0)
+            return re.search(r'\d+', ret).group(0)
         if input == "mem":
-            ret = re.match(r'MEM:\s(\s|\d)(\s|\d)\d', string)
-            return re.match(r'\d+', ret)
+            ret = re.search(r'MEM:\s(\s|\d)(\s|\d)\d', string).group(0)
+            return re.search(r'\d+', ret).group(0)
         if input == "gpu":
-            ret = re.match(r'GPU:\s(\s|\d)(\s|\d)\d', string)
-            return re.match(r'\d+', ret)
+            ret = re.search(r'GPU:\s(\s|\d)(\s|\d)\d', string).group(0)
+            return re.search(r'\d+', ret).group(0)
         if input == "dpc":
-            ret = re.match(r'DPC:\s(\s|\d)(\s|\d)\d', string)
-            return re.match(r'\d+', ret)
+            ret = re.search(r'DPC:\s(\s|\d)(\s|\d)\d', string).group(0)
+            return re.search(r'\d+', ret).group(0)
         if input == "dmx":
-            ret = re.match(r'DMX:\s(\s|\d)(\s|\d)(\s|\d)(\s|\d)\d', string)
-            return re.match(r'\d+', ret)
+            ret = re.search(r'DMX:\s(\s|\d)(\s|\d)(\s|\d)(\s|\d)\d', string).group(0)
+            return re.search(r'\d+', ret).group(0)
         if input == "dfr":
-            ret = re.match(r'DFR:\s(\s|\d)(\s|\d)(\s|\d)(\s|\d)\d', string)
-            return re.match(r'\d+', ret)
+            ret = re.search(r'DFR:\s(\s|\d)(\s|\d)(\s|\d)(\s|\d)\d', string).group(0)
+            return re.search(r'\d+', ret).group(0)
 
     def Loop(self):
         while True:
             with open('../../Data/Loggs.json', 'w') as f:
-                self.data['Logg']['LoggPerTime']['Minute-Log'].append("{computername:15s} // {DateTime:10s} - CPU: {cpu:3f}% || MEM: {mem:3f}% || GPU: {gpu:3f}% || DPC: {dpc:3f}% || DMX: {dmx:5f}GB || DFR: {dfr:5f}GB".format(computername=socket.gethostname(), DateTime=DateTime.datetime.now(), cpu=CPU_Precent(), mem=MEM_Precent(), gpu=GPU_Usage(), dpc=DISK_Usage(), dmx=DISK_Max(), dfr=DISK_Free()))
+                self.data['Logg']['LoggPerTime']['Minute-Log'].append("{computername:15s} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=CPU_Precent(), mem=MEM_Precent(), gpu=GPU_Usage(), dpc=DISK_Usage(), dmx=DISK_Max(), dfr=DISK_Free()))
                 if self.data['Logg']['LoggPerTime']['Minute-Log'].__len__() >= 60:
                     cpus = []
                     mems = []
@@ -66,13 +74,14 @@ class logging_Thread(threading.Thread):
                         dpcs.append(int(self.cutFile("dpc", i)))
                         dmxs.append(int(self.cutFile("dmx", i)))
                         dfrs.append(int(self.cutFile("dfr", i)))
-                    cpuav = int(sum(cpus) / len(cpus))
-                    memav = int(sum(mems) / len(mems))
-                    gpuav = int(sum(gpus) / len(gpus))
-                    dpcav = int(sum(dpcs) / len(dpcs))
-                    dmxav = int(sum(dmxs) / len(dmxs))
-                    dfrav = int(sum(dfrs) / len(dfrs))
-                    self.data['Logg']['LoggPerTime']['Hour-Log'].append("{computername:s15} // {DateTime:10s} - CPU: {cpu:3f}% || MEM: {mem:3f}% || GPU: {gpu:3f}% || DPC: {dpc:3f}% || DMX: {dmx:5f}GB || DFR: {dfr:5f}GB".format(computername=socket.gethostname(), DateTime=DateTime.datetime.now(), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
+                    cpuav = sum(cpus) / len(cpus)
+                    memav = sum(mems) / len(mems)
+                    gpuav = sum(gpus) / len(gpus)
+                    dpcav = sum(dpcs) / len(dpcs)
+                    dmxav = sum(dmxs) / len(dmxs)
+                    dfrav = sum(dfrs) / len(dfrs)
+                    self.data['Logg']['LoggPerTime']['Minute-Log'].clear()
+                    self.data['Logg']['LoggPerTime']['Hour-Log'].append("{computername:s15} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
                 if self.data['Logg']['LoggPerTime']['Hour-Log'].__len__() >= 24:
                     cpus = []
                     mems = []
@@ -87,13 +96,14 @@ class logging_Thread(threading.Thread):
                         dpcs.append(int(self.cutFile("dpc", i)))
                         dmxs.append(int(self.cutFile("dmx", i)))
                         dfrs.append(int(self.cutFile("dfr", i)))
-                    cpuav = int(sum(cpus) / len(cpus))
-                    memav = int(sum(mems) / len(mems))
-                    gpuav = int(sum(gpus) / len(gpus))
-                    dpcav = int(sum(dpcs) / len(dpcs))
-                    dmxav = int(sum(dmxs) / len(dmxs))
-                    dfrav = int(sum(dfrs) / len(dfrs))
-                    self.data['Logg']['LoggPerTime']['Day-Log'].append("{computername:s15} // {DateTime:10s} - CPU: {cpu:3f}% || MEM: {mem:3f}% || GPU: {gpu:3f}% || DPC: {dpc:3f}% || DMX: {dmx:5f}GB || DFR: {dfr:5f}GB".format(computername=socket.gethostname(), DateTime=DateTime.datetime.now(), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
+                    cpuav = sum(cpus) / len(cpus)
+                    memav = sum(mems) / len(mems)
+                    gpuav = sum(gpus) / len(gpus)
+                    dpcav = sum(dpcs) / len(dpcs)
+                    dmxav = sum(dmxs) / len(dmxs)
+                    dfrav = sum(dfrs) / len(dfrs)
+                    self.data['Logg']['LoggPerTime']['Hour-Log'].clear()
+                    self.data['Logg']['LoggPerTime']['Day-Log'].append("{computername:s15} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
                 if self.data['Logg']['LoggPerTime']['Day-Log'].__len__() >= 7:
                     cpus = []
                     mems = []
@@ -108,13 +118,14 @@ class logging_Thread(threading.Thread):
                         dpcs.append(int(self.cutFile("dpc", i)))
                         dmxs.append(int(self.cutFile("dmx", i)))
                         dfrs.append(int(self.cutFile("dfr", i)))
-                    cpuav = int(sum(cpus) / len(cpus))
-                    memav = int(sum(mems) / len(mems))
-                    gpuav = int(sum(gpus) / len(gpus))
-                    dpcav = int(sum(dpcs) / len(dpcs))
-                    dmxav = int(sum(dmxs) / len(dmxs))
-                    dfrav = int(sum(dfrs) / len(dfrs))
-                    self.data['Logg']['LoggPerTime']['Week-Log'].append("{computername:s15} // {DateTime:10s} - CPU: {cpu:3f}% || MEM: {mem:3f}% || GPU: {gpu:3f}% || DPC: {dpc:3f}% || DMX: {dmx:5f}GB || DFR: {dfr:5f}GB".format(computername=socket.gethostname(), DateTime=DateTime.datetime.now(), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
+                    cpuav = sum(cpus) / len(cpus)
+                    memav = sum(mems) / len(mems)
+                    gpuav = sum(gpus) / len(gpus)
+                    dpcav = sum(dpcs) / len(dpcs)
+                    dmxav = sum(dmxs) / len(dmxs)
+                    dfrav = sum(dfrs) / len(dfrs)
+                    self.data['Logg']['LoggPerTime']['Day-Log'].clear()
+                    self.data['Logg']['LoggPerTime']['Week-Log'].append("{computername:s15} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
                 if self.data['Logg']['LoggPerTime']['Week-Log'].__len__() >= 4:
                     cpus = []
                     mems = []
@@ -129,16 +140,17 @@ class logging_Thread(threading.Thread):
                         dpcs.append(int(self.cutFile("dpc", i)))
                         dmxs.append(int(self.cutFile("dmx", i)))
                         dfrs.append(int(self.cutFile("dfr", i)))
-                    cpuav = int(sum(cpus) / len(cpus))
-                    memav = int(sum(mems) / len(mems))
-                    gpuav = int(sum(gpus) / len(gpus))
-                    dpcav = int(sum(dpcs) / len(dpcs))
-                    dmxav = int(sum(dmxs) / len(dmxs))
-                    dfrav = int(sum(dfrs) / len(dfrs))
-                    self.data['Logg']['LoggPerTime']['Month-Log'].append("{computername:s15} // {DateTime:10s} - CPU: {cpu:3f}% || MEM: {mem:3f}% || GPU: {gpu:3f}% || DPC: {dpc:3f}% || DMX: {dmx:5f}GB || DFR: {dfr:5f}GB".format(computername=socket.gethostname(), DateTime=DateTime.datetime.now(), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
-                    with open('../../Data/Loggs{mon:d4}.json'.format(mon=DateTime.now().date())) as outfile:
-                        json.dump(self.data, outfile)
+                    cpuav = sum(cpus) / len(cpus)
+                    memav = sum(mems) / len(mems)
+                    gpuav = sum(gpus) / len(gpus)
+                    dpcav = sum(dpcs) / len(dpcs)
+                    dmxav = sum(dmxs) / len(dmxs)
+                    dfrav = sum(dfrs) / len(dfrs)
+                    self.data['Logg']['LoggPerTime']['Week-Log'].clear()
+                    self.data['Logg']['LoggPerTime']['Month-Log'].append("{computername:s15} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
+                    with open('../../Data/Loggs{mon:d4}.json'.format(mon=datetime.datetime.now().date())) as outfile:
+                        json.dump(self.data, outfile, indent=4)
                     self.data.clear()
-                json.dump(self.data, f)
-            print("Log entry done: " + DateTime.datetime.now())
+                json.dump(self.data, f, indent=4)
+            print("Log entry done: " + str(str(datetime.datetime.now())))
             time.sleep(60)
