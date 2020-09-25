@@ -1,21 +1,8 @@
-# Version 1.0
-# Author: Jann Erhardt
-# Build: 1.0
+import datetime
+from hashlib import md5
+from Functions.Threads.WarningThread import *
 
-from Functions.ScanHardware import *
-import time
-from datetime import datetime
+wt = warning_Thread()
+wt.start()
 
-# while True:
-#     time.sleep(1)
-#     print("=" * 30)
-#     print(CPU_Precent())
-#     print(MEM_Precent())
-#     print(DISK_Usage())
-#     print(DISK_Free())
-#     try:
-#         print(GPU_Usage()[0])
-#         print(GPU_Usage()[1])
-#     except:
-#         continue
-
+print("SoS")

@@ -6,7 +6,7 @@ import socket
 from datetime import datetime
 date_object = str(datetime.now().date())
 
-with open('../../Data/Loggs.json', 'r') as f:
+with open('../../Data/Logs/Loggs.json', 'r') as f:
     data = json.load(f)
 
 data = ["ws565           // 2020-09-17 - CPU:   2% || MEM:  58% || GPU:   0% || DPC:  31% || DMX:   292GB || DFR:   201GB"]

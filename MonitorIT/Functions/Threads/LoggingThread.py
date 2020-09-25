@@ -5,6 +5,7 @@ import json
 import socket
 import re
 from Functions.ScanHardware import *
+from Functions.userHandling import *
 
 
 class logging_Thread(threading.Thread):
@@ -31,7 +32,7 @@ class logging_Thread(threading.Thread):
 
     def read(self):
         try:
-            with open('../../Data/Loggs.json', 'r') as f:
+            with open('../../Data/Logs/Loggs.json', 'r') as f:
                 self.data = json.load(f)
         finally:
             return None
@@ -58,7 +59,7 @@ class logging_Thread(threading.Thread):
 
     def Loop(self):
         while True:
-            with open('../../Data/Loggs.json', 'w') as f:
+            with open('../../Data/Logs/Loggs.json', 'w') as f:
                 self.data['Logg']['LoggPerTime']['Minute-Log'].append("{computername:15s} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=CPU_Precent(), mem=MEM_Precent(), gpu=GPU_Usage(), dpc=DISK_Usage(), dmx=DISK_Max(), dfr=DISK_Free()))
                 if self.data['Logg']['LoggPerTime']['Minute-Log'].__len__() >= 60:
                     cpus = []
@@ -148,7 +149,7 @@ class logging_Thread(threading.Thread):
                     dfrav = sum(dfrs) / len(dfrs)
                     self.data['Logg']['LoggPerTime']['Week-Log'].clear()
                     self.data['Logg']['LoggPerTime']['Month-Log'].append("{computername:15s} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=cpuav, mem=memav, gpu=gpuav, dpc=dpcav, dmx=dmxav, dfr=dfrav))
-                    with open(f'../../Data/Loggs{datetime.datetime.now().date()}.json', 'w') as outfile:
+                    with open(f'../../Data/Logs/Loggs{datetime.datetime.now().date()}.json', 'w') as outfile:
                         json.dump(self.data, outfile, indent=4)
                     self.data['Logg']['LoggPerTime']['Minute-Log'].clear()
                     self.data['Logg']['LoggPerTime']['Hour-Log'].clear()

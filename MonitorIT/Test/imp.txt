@@ -1,0 +1,11 @@
+root passwort = passw0rd
+rights:
+ 2 = edit
+ 1 = see
+
+Manage rights - User rights - Warning Rights - Dashboard rights
+
+Manage rights -> Shutdown / restart etc.
+User rights -> Modify / add users
+Warning rights -> change email / edit settings etc.
+Dashboard rights -> See Dashboard / edit Dashboards
