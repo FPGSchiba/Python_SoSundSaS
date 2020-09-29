@@ -9,7 +9,6 @@ from Crypto.Random import *
 
 def writeKey(file):
     key = get_random_bytes(32)  # 32 bytes * 8 = 256 bits (1 byte = 8 bits)
-
     # Save the key to a file
     file_out = open(file, "wb")  # wb = write bytes
     file_out.write(key)

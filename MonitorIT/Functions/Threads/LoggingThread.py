@@ -156,5 +156,5 @@ class logging_Thread(threading.Thread):
                     self.data['Logg']['LoggPerTime']['Day-Log'].clear()
                     self.data['Logg']['LoggPerTime']['Month-Log'].clear()
                 json.dump(self.data, f, indent=4)
-            print("Log entry done: " + str(str(datetime.datetime.now())))
+            print("Log entry done: " + str(datetime.datetime.now()))
             time.sleep(59.99)
