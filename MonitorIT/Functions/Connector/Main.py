@@ -27,5 +27,5 @@ while True:
     c, addr = s.accept()
     print('Got connection from', addr)
 
-    ct = connection_thread()
-    ct.run(c, addr)
+    ct = connection_thread(c, addr)
+    ct.start()

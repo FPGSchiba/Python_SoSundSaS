@@ -9,17 +9,18 @@ class dashboard_thread(threading.Thread):
         super().__init__()
         self.client = None
         self.adress = None
+        self.connected = True
 
     def Connected(self):
-        connected = True
-        while connected:
+        print("Dashboard started")
+        while self.connected:
             try:
                 inputString = self.client.recv(1024).decode()
             except DisconnectedError:
-                print("Client" + self.adress + " disconnected")
-                self.client.close()
+                print("Client" + self.adress + " not responding")
                 break
             self.CommandInput(inputString)
+        print("Dashboard Closed")
 
     def run(self, c, addr):
         self.client = c
@@ -29,23 +30,18 @@ class dashboard_thread(threading.Thread):
     def CommandInput(self, input):
         if input == "GetCPU":
             self.client.send(str(CPU_Precent()).encode())
-            print("sent CPU values")
         elif input == "GetGPU":
             self.client.send(str(GPU_Usage()).encode())
-            print("sent GPU values")
         elif input == "GetMEM":
             self.client.send(str(MEM_Precent()).encode())
-            print("sent MEM values")
         elif input == "GetDPC":
             self.client.send(str(DISK_Usage()).encode())
-            print("sent DPC values")
         elif input == "GetDMX":
             self.client.send(str(DISK_Max()).encode())
-            print("sent DMX values")
         elif input == "GetDFR":
             self.client.send(str(DISK_Free()).encode())
-            print("sent DFR values")
+        elif input == "disconnect":
+            self.connected = False
         else:
-            print("not supported string aborting...")
+            print("unhandled String aborting")
             self.client.close()
-

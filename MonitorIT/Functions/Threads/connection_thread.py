@@ -10,25 +10,28 @@ ServerVersion = 'Version: 1.1'
 
 class connection_thread(threading.Thread):
 
-    def __init__(self):
+    def __init__(self, c, addr):
         threading.Thread.__init__(self)
-        self.adress = None
+        self.client = c
+        self.adress = str(addr)
         self.username = ""
         self.password = ""
-        self.client = None
         self.connected = False
 
     def Connected(self):
+        isError = False
         try:
-            isError = False
             self.client.send(ServerVersion.encode())
             clientVersion = self.client.recv(1024).decode()
             print("Checking Version...")
             if clientVersion == ServerVersion:
                 print("Version is OK")
+                self.client.send("sending Name".encode())
                 self.client.send(socket.gethostname().encode())
                 for i in range(3):
+                    self.client.send("need user".encode())
                     self.username = self.client.recv(1024).decode()
+                    self.client.send("need pw".encode())
                     self.password = self.client.recv(1024).decode()
                     if userIsAllowedToConnect(self.username, self.password):
                         self.client.send("connected".encode())
@@ -56,11 +59,12 @@ class connection_thread(threading.Thread):
         if self.connected:
             print("Client: " + self.adress + " successfully logged in")
             while self.connected:
+                clientOrder = ""
                 try:
                     clientOrder = self.client.recv(1024).decode()
                     if clientOrder == "see-dashboard":
                         if userIsAllowedToSeeRight(self.username, self.password, "right-dashboard"):
-                            self.client("starting Dashboard".encode())
+                            self.client.send("starting Dashboard".encode())
                             dt = dashboard_thread()
                             dt.run(self.client, self.adress)
                         else:
@@ -71,12 +75,26 @@ class connection_thread(threading.Thread):
                             self.client.send(getOverview().encode())
                         else:
                             self.client.send("no Permission".encode())
+                    if clientOrder == "disconnect":
+                        print("Client " + self.adress + " disconnected")
+                        self.client.close()
+                        isError = False
+                        break
                 except DisconnectedError:
                     print("Client " + self.adress + " disconnected")
                     self.client.close()
+                    isError = True
+                    break
                 except ConnectionResetError:
                     print("Client " + self.adress + " disconnected")
                     self.client.close()
+                    isError = True
+                    break
+                except OSError:
+                    print("Client " + self.adress + " disconnected")
+                    self.client.close()
+                    isError = True
+                    break
         elif not isError:
             try:
                 self.client.send("abort".encode())
@@ -89,7 +107,5 @@ class connection_thread(threading.Thread):
             except DisconnectedError:
                 print("Cannot close a closed connection")
 
-    def run(self, c, addr):
-        self.client = c
-        self.adress = str(addr)
+    def run(self):
         self.Connected()

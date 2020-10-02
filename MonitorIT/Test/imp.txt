@@ -1,4 +1,4 @@
-root passwort = passw0rd
+root password = passw0rd
 rights:
  2 = edit
  1 = see
@@ -9,3 +9,8 @@ Manage rights -> Shutdown / restart etc.
 User rights -> Modify / add users
 Warning rights -> change email / edit settings etc.
 Dashboard rights -> See Dashboard / edit Dashboards
+
+To setup Mail:
+ 1. Choose your Email
+ 2. Make a txt-file with your password in the .Data/Mail/ folder
+ 3. Start the Program -> File will be deleted after first run
