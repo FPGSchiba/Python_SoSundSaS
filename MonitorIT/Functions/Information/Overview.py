@@ -31,11 +31,14 @@ def getStatus(argument):
 
 def getOverview():
     Overview = []
-    with open("../Data/Logs/WarningHistory.json", "r") as f:
+    with open("../../Data/Logs/WarningHistory.json", "r") as f:
         try:
             Overview.append(len(json.loads(f)))
         except TypeError:
             Overview.append(0)
     Overview.append(getUserCount())
     Overview.append(getStatus(Overview[0]))
-    return Overview
+    temp = ""
+    for i in Overview:
+        temp += str(i) + "|"
+    return temp

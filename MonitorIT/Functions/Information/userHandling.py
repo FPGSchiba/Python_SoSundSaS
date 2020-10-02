@@ -27,6 +27,11 @@ def checkFile(initData):
         Encode(initData)
 
 
+def getUserCount():
+    data = Decode()
+    return len(data)
+
+
 def userIsAllowedToConnect(username, hashedpassword):
     data = Decode()
     try:
@@ -39,7 +44,7 @@ def userIsAllowedToSeeRight(username, hashedpassword, right):
     data = Decode()
     try:
         if data[username]["password"] == hashedpassword:
-            if data[username]["rights"][right] == 2 or data[username]["rights"]["right-dashboard"] == 1:
+            if data[username]["rights"][right] == 2 or data[username]["rights"][right] == 1:
                 return True
         else:
             return False

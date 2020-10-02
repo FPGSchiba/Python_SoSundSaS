@@ -3,7 +3,7 @@ import json
 import re
 import threading
 import time
-from Functions.ScanHardware import *
+from Functions.Information.ScanHardware import *
 from Functions.Mail.CritMail import *
 import socket
 

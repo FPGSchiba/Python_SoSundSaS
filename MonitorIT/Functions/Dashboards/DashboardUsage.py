@@ -1,4 +1,4 @@
-from Functions.ScanHardware import *
+from Functions.Information.ScanHardware import *
 import matplotlib.pyplot as plt
 import time
 

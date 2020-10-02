@@ -3,6 +3,7 @@ from Functions.Threads.DashboardThread import dashboard_thread
 from Functions.Threads.LoggingThread import *
 from Functions.Threads.WarningThread import *
 from Functions.Mail.CritMail import *
+from Functions.Information.Overview import *
 
 ServerVersion = 'Version: 1.1'
 
@@ -53,6 +54,7 @@ class connection_thread(threading.Thread):
             print("Client " + self.adress + " disconnected")
             self.client.close()
         if self.connected:
+            print("Client: " + self.adress + " successfully logged in")
             while self.connected:
                 try:
                     clientOrder = self.client.recv(1024).decode()
@@ -63,7 +65,16 @@ class connection_thread(threading.Thread):
                             dt.run(self.client, self.adress)
                         else:
                             self.client.send("no Permission".encode())
+                    if clientOrder == "get-overview":
+                        if userIsAllowedToSeeRight(self.username, self.password, "right-dashboard"):
+                            self.client.send("sending Overview".encode())
+                            self.client.send(getOverview().encode())
+                        else:
+                            self.client.send("no Permission".encode())
                 except DisconnectedError:
+                    print("Client " + self.adress + " disconnected")
+                    self.client.close()
+                except ConnectionResetError:
                     print("Client " + self.adress + " disconnected")
                     self.client.close()
         elif not isError:

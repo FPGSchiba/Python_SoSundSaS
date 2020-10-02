@@ -1,11 +1,10 @@
 import threading
 import time
 import datetime
-import json
 import socket
 import re
-from Functions.ScanHardware import *
-from Functions.userHandling import *
+from Functions.Information.ScanHardware import *
+from Functions.Information.userHandling import *
 
 
 class logging_Thread(threading.Thread):

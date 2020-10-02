@@ -1,5 +1,5 @@
 import threading
-from Functions.ScanHardware import *
+from Functions.Information.ScanHardware import *
 from Functions.Errors.Errors import *
 
 
