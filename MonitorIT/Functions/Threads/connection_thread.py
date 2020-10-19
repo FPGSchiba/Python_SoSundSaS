@@ -38,8 +38,16 @@ class connection_thread(threading.Thread):
                         self.connected = True
                         break
                     else:
-                        self.client.send("wrong".encode())
-                        print("Username or Password incorrect")
+                        if i < 2:
+                            self.client.send("wrong".encode())
+                            print("Username or Password incorrect")
+                        else:
+                            try:
+                                self.client.send("abort".encode())
+                                print("to many wrong answers aborting...")
+                            except OSError:
+                                print("already lost connection to: " + self.adress)
+                            sendEmail(socket.gethostname() + " - Crit", "Authentication-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: too many wrong Authentication from " + self.adress, ['craftzockerlp@gmail.com'])
             else:
                 self.client.send("abort".encode())
                 print("Client has a other Version aborting...")
@@ -96,12 +104,6 @@ class connection_thread(threading.Thread):
                     isError = True
                     break
         elif not isError:
-            try:
-                self.client.send("abort".encode())
-                print("to many wrong answers aborting...")
-            except OSError:
-                print("already lost connection to: " + self.adress)
-            sendEmail(socket.gethostname() + " - Crit", "Authentication-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: too many wrong Authentication from " + self.adress, ['craftzockerlp@gmail.com'])
             try:
                 self.client.close()
             except DisconnectedError:

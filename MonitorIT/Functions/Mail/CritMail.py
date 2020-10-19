@@ -6,8 +6,8 @@ from Functions.Crypt import *
 
 
 def sendEmail(subject, body, to):
-    keyFile = "../Data/Mail/key.bin"
-    passFile = "../Data/Mail/pass.bin"
+    keyFile = "../../Data/Mail/key.bin"
+    passFile = "../../Data/Mail/pass.bin"
     gmail_user = 'monitorit.email@gmail.com'
 
     if not isfile(keyFile):
@@ -42,4 +42,3 @@ def sendEmail(subject, body, to):
         print(e)
         print("failed to send email")
         return False
-

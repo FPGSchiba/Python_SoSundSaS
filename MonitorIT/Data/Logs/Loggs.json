@@ -45,7 +45,17 @@
                 "ws565           // 2020-10-02 - CPU:  19% || MEM:  71% || GPU:   0% || DPC:  42% || DMX:   292GB || DFR:   169GB",
                 "ws565           // 2020-10-02 - CPU:  14% || MEM:  71% || GPU:   0% || DPC:  42% || DMX:   292GB || DFR:   169GB",
                 "ws565           // 2020-10-02 - CPU:   7% || MEM:  72% || GPU:   0% || DPC:  42% || DMX:   292GB || DFR:   169GB",
-                "ws565           // 2020-10-02 - CPU:  21% || MEM:  71% || GPU:   0% || DPC:  42% || DMX:   292GB || DFR:   169GB"
+                "ws565           // 2020-10-02 - CPU:  21% || MEM:  71% || GPU:   0% || DPC:  42% || DMX:   292GB || DFR:   169GB",
+                "ws565           // 2020-10-19 - CPU:  11% || MEM:  59% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:   8% || MEM:  71% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:   6% || MEM:  70% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:  16% || MEM:  73% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:  17% || MEM:  73% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:  18% || MEM:  76% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:  11% || MEM:  75% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:  33% || MEM:  75% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:   6% || MEM:  75% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   153GB",
+                "ws565           // 2020-10-19 - CPU:   7% || MEM:  75% || GPU:   0% || DPC:  48% || DMX:   292GB || DFR:   152GB"
             ],
             "Hour-Log": [
                 "ws565           // 2020-09-18 - CPU:   7% || MEM:  57% || GPU:   0% || DPC:  39% || DMX:   292GB || DFR:   179GB",

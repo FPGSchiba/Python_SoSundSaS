@@ -15,22 +15,22 @@ while True:
 	except:
 		input("input error try again.")
 		eing = 5
-	if(not eing == 5):
+	if eing == 0:
+		break
+	if not eing == 5 or not eing == 0:
 		first_number = int(input("Bitte die erste Zahl eingeben: "))
 		second_number = int(input("Bitte die zweite Zahl eingeben: "))		
 
 		out = 0
 
 		# Verarbeitung
-		if(eing == 1):
+		if eing == 1:
 			out = first_number + second_number
-		if(eing == 2):
+		if eing == 2:
 			out = first_number - second_number
-		if(eing == 3):
-			out =  first_number * second_number
-		if(eing == 4):
+		if eing == 3:
+			out = first_number * second_number
+		if eing == 4:
 			out = first_number / second_number
-		if(eing == 0):
-			break
 		
 		input("Das ist das Resultat: " + str(out))
