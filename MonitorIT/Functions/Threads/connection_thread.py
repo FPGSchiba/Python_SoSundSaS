@@ -1,6 +1,5 @@
 from Functions.Errors.Errors import *
 from Functions.Threads.DashboardThread import dashboard_thread
-from Functions.Threads.LoggingThread import *
 from Functions.Threads.WarningThread import *
 from Functions.Mail.CritMail import *
 from Functions.Information.Overview import *
