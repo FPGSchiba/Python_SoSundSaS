@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Stiky" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -89,6 +89,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,41 +104,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588766202236">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1604399603710">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1588766202236" />
-    <state x="683" y="190" key="FileChooserDialogImpl" timestamp="1590659464640">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="683" y="190" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1590659464640" />
-    <state width="1899" height="235" key="GridCell.Tab.0.bottom" timestamp="1589106183125">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1589106183125" />
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1588766259927" />
-    <state width="1899" height="235" key="GridCell.Tab.0.center" timestamp="1589106183125">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="235" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1589106183125" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1588766259927" />
-    <state width="1899" height="235" key="GridCell.Tab.0.left" timestamp="1589106183125">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="235" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1589106183125" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1588766259927" />
-    <state width="1899" height="235" key="GridCell.Tab.0.right" timestamp="1589106183125">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="235" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1589106183125" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1588766259927" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1588772454778">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1588772454778" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588857853933">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588857853933" />
+    <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1604399603710" />
   </component>
 </project>
