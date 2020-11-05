@@ -1,6 +1,6 @@
 import threading
 from Functions.Information.ScanHardware import *
-from Functions.Errors.Errors import *
+from Functions.Util.Errors import *
 
 
 class dashboard_thread(threading.Thread):
@@ -44,4 +44,5 @@ class dashboard_thread(threading.Thread):
             self.connected = False
         else:
             print("unhandled String aborting")
-            self.client.close()
+            self.client.send("abort".encode())
+            self.connected = False

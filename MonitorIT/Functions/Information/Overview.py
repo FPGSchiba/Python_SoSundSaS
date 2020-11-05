@@ -1,4 +1,4 @@
-from Functions.Information.userHandling import *
+from Functions.Util.userHandling import *
 
 
 class Switch(dict):
@@ -21,10 +21,10 @@ def clamp(n):
 def getStatus(argument):
     arg = clamp(argument)
     switch = Switch({
-        range(0, 10): "Good Running",
+        range(0, 10): "Good running",
         range(11, 30): "OK running",
-        range(31, 100): "Look for better Performance",
-        range(101, 10001): "Bad please clear History file or check your Server"
+        range(31, 100): "More or less running",
+        range(101, 10001): "Bad running or olf history file"
     })
     return switch[arg]
 

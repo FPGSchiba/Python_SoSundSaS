@@ -1,7 +1,7 @@
 import hashlib
 import json
 from os.path import isfile
-from Functions.Crypt import *
+from Functions.Util.Crypt import *
 
 
 def Encode(data):

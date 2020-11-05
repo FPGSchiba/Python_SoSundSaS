@@ -4,7 +4,7 @@ import datetime
 import socket
 import re
 from Functions.Information.ScanHardware import *
-from Functions.Information.userHandling import *
+from Functions.Util.userHandling import *
 
 
 class logging_Thread(threading.Thread):

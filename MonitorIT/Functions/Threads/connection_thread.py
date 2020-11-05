@@ -1,7 +1,7 @@
-from Functions.Errors.Errors import *
+from Functions.Util.Errors import *
 from Functions.Threads.DashboardThread import dashboard_thread
 from Functions.Threads.WarningThread import *
-from Functions.Mail.CritMail import *
+from Functions.Util.CritMail import *
 from Functions.Information.Overview import *
 
 ServerVersion = 'Version: 1.1'
@@ -16,6 +16,7 @@ class connection_thread(threading.Thread):
         self.username = ""
         self.password = ""
         self.connected = False
+        self.wrongUsers = 3
 
     def Connected(self):
         isError = False
@@ -27,7 +28,7 @@ class connection_thread(threading.Thread):
                 print("Version is OK")
                 self.client.send("sending Name".encode())
                 self.client.send(socket.gethostname().encode())
-                for i in range(3):
+                for i in range(self.wrongUsers):
                     self.client.send("need user".encode())
                     self.username = self.client.recv(1024).decode()
                     self.client.send("need pw".encode())
@@ -37,7 +38,7 @@ class connection_thread(threading.Thread):
                         self.connected = True
                         break
                     else:
-                        if i < 2:
+                        if i < self.wrongUsers - 1:
                             self.client.send("wrong".encode())
                             print("Username or Password incorrect")
                         else:
@@ -66,7 +67,6 @@ class connection_thread(threading.Thread):
         if self.connected:
             print("Client: " + self.adress + " successfully logged in")
             while self.connected:
-                clientOrder = ""
                 try:
                     clientOrder = self.client.recv(1024).decode()
                     if clientOrder == "see-dashboard":

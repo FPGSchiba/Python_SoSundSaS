@@ -5,6 +5,7 @@ import socket
 
 # import connection handling
 from Functions.Threads.connection_thread import *
+from Functions.Threads.LoggingThread import *
 
 lt = logging_Thread()
 lt.start()
