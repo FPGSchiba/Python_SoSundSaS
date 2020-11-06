@@ -1,40 +1,25 @@
-import os
 import smtplib
+import socket
 from datetime import datetime
-from os.path import isfile
-from Functions.Util.Crypt import *
+from Functions.Util.Settings import *
 
 
-def sendEmail(subject, body, to):
-    keyFile = "../../Data/Mail/key.bin"
-    passFile = "../../Data/Mail/pass.bin"
-    gmail_user = 'monitorit.email@gmail.com'
-
-    if not isfile(keyFile):
-        writeKey(keyFile)
-
-    key = readKey(keyFile)
-    if isfile("../Data/Mail/pass.txt"):
-        with open("../Data/Mail/pass.txt", "r") as f:
-            encryptData(f.readline(14).encode(), passFile, key)
-            f.close()
-        os.remove("../Data/Mail/pass.txt")
-
-    password = readData(passFile, key).decode()
-    sent_from = gmail_user
+def sendEmail(body):
+    sett = settings()
+    FullBody = body + "\n" + sett.GetSendingAdditional()
     msg = "\r\n".join([
-        f"From: {sent_from}",
-        f"To: {to}",
-        f"Subject: {subject}",
+        f"From: {sett.GetSenderMail()}",
+        f"To: {sett.GetMailList()}",
+        f"Subject: {socket.gethostname() + sett.GetSendingSubject()}",
         "",
-        f"{body}"
+        f"{FullBody}"
     ])
 
     try:
-        server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+        server = smtplib.SMTP_SSL(sett.GetServerName(), sett.GetServerPort())
         server.ehlo()
-        server.login(gmail_user, password)
-        server.sendmail(sent_from, to, msg)
+        server.login(sett.GetSenderMail(), sett.GetSenderPassword())
+        server.sendmail(sett.GetSenderMail(), sett.GetMailList(), msg)
         server.close()
         print('Critical sent at: ' + str(datetime.now()))
         return True

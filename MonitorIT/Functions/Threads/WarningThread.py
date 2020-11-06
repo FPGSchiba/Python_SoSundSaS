@@ -3,6 +3,7 @@ import json
 import re
 import threading
 import time
+from os.path import isfile
 from Functions.Information.ScanHardware import *
 from Functions.Util.CritMail import *
 import socket
@@ -11,15 +12,16 @@ import socket
 class warning_Thread(threading.Thread):
     def __init__(self):
         threading.Thread.__init__(self)
-        self.fileName = "../../Data/Logs/WarningLogs.json"
+        self.sett = settings()
+        self.fileName = "../Data/Logs/WarningLogs.json"
         self.Data = {"info": {"CPU": [], "GPU": [], "MEM": [], "DPC": [], "DMX": [], "DFR": []}, "warn": {"CPU": [], "GPU": [], "MEM": [], "DPC": [], "DMX": [], "DFR": []}, "crit": {"CPU": [], "GPU": [], "MEM": [], "DPC": [], "DMX": [], "DFR": []}}
         self.History = []
-        self.HistoryFile = "../../Data/Logs/WarningHistory.json"
-        self.CPUMax = 70
-        self.GPUMax = 70
-        self.MEMMax = 80
-        self.DPCMax = 70
-        self.DFRMax = 100
+        self.HistoryFile = "../Data/Logs/WarningHistory.json"
+        self.CPUMax = self.sett.GetWarnCPU()
+        self.GPUMax = self.sett.GetWarnGPU()
+        self.MEMMax = self.sett.GetWarnMEM()
+        self.DPCMax = self.sett.GetWarnDPC()
+        self.DFRMax = self.sett.GetWarnDFR()
         self.CPU = 0
         self.GPU = 0
         self.MEM = 0
@@ -34,38 +36,44 @@ class warning_Thread(threading.Thread):
             if len(self.Data["info"][input]) > 2:
                 vs = []
                 for i in self.Data["info"][input]:
-                    vs.append(re.search(r'\d{1,3}', i).group(0))
-                av = str(sum(vs) / len(vs))
+                    vs.append(re.search(r' \d{1,3}\.\d{1}', i).group(0))
+                temps = [float(i) for i in vs]
+                av = sum(temps) / len(temps)
                 self.Data["warn"][input].append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + input + "-Inf: " + str(av) + "% used")
+                self.Data["info"][input] = []
                 if len(self.Data["warn"][input]) > 2:
                     for i in self.Data["warn"][input]:
-                        vs.append(re.search(r'\d{1,3}', i).group(0))
-                    av = str(sum(vs) / len(vs))
-                    self.Data["warn"][input].append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + input + "-Inf: " + str(av) + "% used")
-                    sendEmail(socket.gethostname() + " - Crit", input + "-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: " + str(av) + "% used", ['craftzockerlp@gmail.com'])
+                        vs.append(re.search(r' \d{1,3}\.\d{1}', i).group(0))
+                    temps = [float(i) for i in vs]
+                    av = sum(temps) / len(temps)
+                    self.Data["crit"][input].append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + input + "-Inf: " + str(av) + "% used")
+                    self.Data["warn"][input] = []
+                    sendEmail(input + "-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: " + str(av) + "% used")
                     self.History.append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + socket.gethostname() + " - Crit\n" + input + "-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: " + str(av) + "% used")
         else:
             if len(self.Data["info"][input]) > 2:
                 vs = []
                 for i in self.Data["info"][input]:
-                    vs.append(re.search(r'\d{1,3}', i).group(0))
-                av = str(sum(vs) / len(vs))
+                    vs.append(re.search(r' \d{1,3}\.\d{1}', i).group(0))
+                temps = [float(i) for i in vs]
+                av = sum(temps) / len(temps)
                 self.Data["warn"][input].append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + input, "-Inf: " + str(av) + "GB Free")
                 if len(self.Data["warn"][input]) > 2:
                     for i in self.Data["warn"][input]:
-                        vs.append(re.search(r'\d{1,3}', i).group(0))
-                    av = str(sum(vs) / len(vs))
-                    self.Data["warn"][input].append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + input + "-Inf: " + str(av) + "GB Free")
-                    sendEmail(socket.gethostname() + " - Crit", input + "-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: " + str(av) + "GB Free", ['craftzockerlp@gmail.com'])
+                        vs.append(re.search(r' \d{1,3}\.\d{1}', i).group(0))
+                    temps = [float(i) for i in vs]
+                    av = sum(temps) / len(temps)
+                    self.Data["crit"][input].append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + input + "-Inf: " + str(av) + "GB Free")
+                    sendEmail(input + "-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: " + str(av) + "GB Free")
                     self.History.append(datetime.now().strftime("%d.%m.%Y %H:%M") + " - " + socket.gethostname() + " - Crit\n" + input + "-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: " + str(av) + "GB Free")
 
     def Loop(self):
         if isfile(self.fileName):
             try:
                 with open(self.fileName, "r") as f:
-                    self.Data = json.loads(f)
+                    self.Data = json.load(f)
                 with open(self.HistoryFile, "r") as f:
-                    self.History = json.loads(f)
+                    self.History = json.load(f)
             except TypeError:
                 print("Warn: No content in Warning/History File")
         while True:

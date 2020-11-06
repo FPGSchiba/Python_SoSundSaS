@@ -11,12 +11,13 @@ class connection_thread(threading.Thread):
 
     def __init__(self, c, addr):
         threading.Thread.__init__(self)
+        self.sett = settings()
         self.client = c
         self.adress = str(addr)
         self.username = ""
         self.password = ""
         self.connected = False
-        self.wrongUsers = 3
+        self.wrongUsers = self.sett.GetTries()
 
     def Connected(self):
         isError = False
@@ -47,7 +48,7 @@ class connection_thread(threading.Thread):
                                 print("to many wrong answers aborting...")
                             except OSError:
                                 print("already lost connection to: " + self.adress)
-                            sendEmail(socket.gethostname() + " - Crit", "Authentication-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: too many wrong Authentication from " + self.adress, ['craftzockerlp@gmail.com'])
+                            sendEmail("Authentication-Crit: \n" + "Time: " + datetime.now().strftime("%d.%m.%Y %H:%M") + "\nValue: too many wrong Authentication from " + self.adress)
             else:
                 self.client.send("abort".encode())
                 print("Client has a other Version aborting...")
@@ -67,6 +68,7 @@ class connection_thread(threading.Thread):
         if self.connected:
             print("Client: " + self.adress + " successfully logged in")
             while self.connected:
+                clientOrder = ""
                 try:
                     clientOrder = self.client.recv(1024).decode()
                     if clientOrder == "see-dashboard":
@@ -82,23 +84,30 @@ class connection_thread(threading.Thread):
                             self.client.send(getOverview().encode())
                         else:
                             self.client.send("no Permission".encode())
+                    if clientOrder == "get-settings":
+                        if userIsAllowedToSeeRight(self.username, self.password, "right-manage"):
+                            self.client.send("sending Settings".encode())
+                            self.client.send(str(sett.Data).encode())
+                            print("sent Settings")
+                        else:
+                            self.client.send("no Permission".encode())
                     if clientOrder == "disconnect":
                         print("Client " + self.adress + " disconnected")
                         self.client.close()
                         isError = False
                         break
-                except DisconnectedError:
-                    print("Client " + self.adress + " disconnected")
+                except DisconnectedError as er:
+                    print("Client " + self.adress + " disconnected bc: " + er.message)
                     self.client.close()
                     isError = True
                     break
-                except ConnectionResetError:
-                    print("Client " + self.adress + " disconnected")
+                except ConnectionResetError as er:
+                    print("Client " + self.adress + " disconnected bc: " + er.message)
                     self.client.close()
                     isError = True
                     break
-                except OSError:
-                    print("Client " + self.adress + " disconnected")
+                except OSError as er:
+                    print("Client " + self.adress + " disconnected bc: " + er.message)
                     self.client.close()
                     isError = True
                     break

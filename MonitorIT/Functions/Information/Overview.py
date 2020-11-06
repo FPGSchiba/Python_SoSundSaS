@@ -1,4 +1,7 @@
+from Functions.Util.Settings import settings
 from Functions.Util.userHandling import *
+
+sett = settings()
 
 
 class Switch(dict):
@@ -12,8 +15,8 @@ class Switch(dict):
 def clamp(n):
     if n < 0:
         return 0
-    elif n > 10000:
-        return 10000
+    elif n > sett.GetBadMax():
+        return sett.GetBadMax() - 1
     else:
         return n
 
@@ -21,17 +24,17 @@ def clamp(n):
 def getStatus(argument):
     arg = clamp(argument)
     switch = Switch({
-        range(0, 10): "Good running",
-        range(11, 30): "OK running",
-        range(31, 100): "More or less running",
-        range(101, 10001): "Bad running or olf history file"
+        range(sett.GetGoodMin(), sett.GetGoodMax()): "Good running",
+        range(sett.GetOkMin(), sett.GetOkMax()): "OK running",
+        range(sett.GetLessMin(), sett.GetLessMax()): "More or less running",
+        range(sett.GetBadMin(), sett.GetBadMax()): "Bad running or olf history file"
     })
     return switch[arg]
 
 
 def getOverview():
     Overview = []
-    with open("../../Data/Logs/WarningHistory.json", "r") as f:
+    with open("../Data/Logs/WarningHistory.json", "r") as f:
         try:
             Overview.append(len(json.loads(f)))
         except TypeError:

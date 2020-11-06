@@ -105,9 +105,9 @@ global userFileName
 global connectionFileName
 global keyFile
 global Data
-userFileName = "../../Data/User/users.bin"
-keyFile = "../../Data/User/key.bin"
-connectionFileName = "../../Data/User/connection.bin"
+userFileName = "../Data/User/users.bin"
+keyFile = "../Data/User/key.bin"
+connectionFileName = "../Data/User/connection.bin"
 Data = {
     "root": {
         "username": "root",

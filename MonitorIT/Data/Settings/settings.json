@@ -1,0 +1,47 @@
+{
+  "overview": {
+    "status": {
+      "good":{
+        "goodMin": 0,
+        "goodMax": 10
+      },
+      "ok": {
+        "okMin": 11,
+        "okMax": 30
+      },
+      "less": {
+        "lessMin": 31,
+        "lessMax": 100
+      },
+      "bad": {
+        "badMin": 101,
+        "badMax": 10001
+      }
+    }
+  },
+  "connection": {
+    "tries": 3
+  },
+  "warning": {
+    "CPUMax": 70,
+    "GPUMax": 70,
+    "MEMMax": 90,
+    "DPCMax": 70,
+    "DFRMax": 100
+  },
+  "mail": {
+    "sending": {
+      "server": {
+        "name": "smtp.gmail.com",
+        "port": 465
+      },
+      "sender-mail": "monitorit.email@gmail.com",
+      "password": "TheP@ssw0rd",
+      "subject": " - Crit",
+      "additional": "Additional Info: \n Testing Phase"
+    },
+    "to-mail": [
+      "craftzockerlp@gmail.com"
+    ]
+  }
+}

@@ -58,7 +58,7 @@ class logging_Thread(threading.Thread):
 
     def Loop(self):
         while True:
-            with open('../../Data/Logs/Loggs.json', 'w') as f:
+            with open('../Data/Logs/Loggs.json', 'w') as f:
                 self.data['Logg']['LoggPerTime']['Minute-Log'].append("{computername:15s} // {datetime:10s} - CPU: {cpu:3.0f}% || MEM: {mem:3.0f}% || GPU: {gpu:3.0f}% || DPC: {dpc:3.0f}% || DMX: {dmx:5.0f}GB || DFR: {dfr:5.0f}GB".format(computername=socket.gethostname(), datetime=str(datetime.datetime.now().date()), cpu=CPU_Precent(), mem=MEM_Precent(), gpu=GPU_Usage(), dpc=DISK_Usage(), dmx=DISK_Max(), dfr=DISK_Free()))
                 if self.data['Logg']['LoggPerTime']['Minute-Log'].__len__() >= 60:
                     cpus = []
