@@ -6,14 +6,14 @@ from Functions.Util.Settings import *
 
 def sendEmail(body):
     sett = settings()
-    FullBody = body + "\n" + sett.GetSendingAdditional()
+    FullBody = body + "\nAdditional Info: \n" + sett.GetSendingAdditional()
     msg = "\r\n".join([
         f"From: {sett.GetSenderMail()}",
         f"To: {sett.GetMailList()}",
         f"Subject: {socket.gethostname() + sett.GetSendingSubject()}",
         "",
         f"{FullBody}"
-    ])
+    ]).encode('utf-8')
 
     try:
         server = smtplib.SMTP_SSL(sett.GetServerName(), sett.GetServerPort())

@@ -2,7 +2,10 @@
     "Logg": {
         "LoggPerTime": {
             "Minute-Log": [
-                "ws565           // 2020-11-06 - CPU:   6% || MEM:  81% || GPU:   0% || DPC:  56% || DMX:   292GB || DFR:   127GB"
+                "ws565           // 2020-11-09 - CPU:   7% || MEM:  81% || GPU:   0% || DPC:  58% || DMX:   292GB || DFR:   124GB",
+                "ws565           // 2020-11-09 - CPU:  11% || MEM:  80% || GPU:   0% || DPC:  58% || DMX:   292GB || DFR:   124GB",
+                "ws565           // 2020-11-09 - CPU:   5% || MEM:  80% || GPU:   0% || DPC:  58% || DMX:   292GB || DFR:   124GB",
+                "ws565           // 2020-11-09 - CPU:   7% || MEM:  82% || GPU:   0% || DPC:  58% || DMX:   292GB || DFR:   124GB"
             ],
             "Hour-Log": [],
             "Day-Log": [],

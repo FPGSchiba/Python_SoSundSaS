@@ -87,8 +87,19 @@ class connection_thread(threading.Thread):
                     if clientOrder == "get-settings":
                         if userIsAllowedToSeeRight(self.username, self.password, "right-manage"):
                             self.client.send("sending Settings".encode())
-                            self.client.send(str(sett.Data).encode())
-                            print("sent Settings")
+                            if self.client.recv(1024).decode() == "send Settings":
+                                self.client.send(str(sett.Data).encode())
+                                print("sent Settings")
+                        else:
+                            self.client.send("no Permission".encode())
+                    if clientOrder == "set-settings":
+                        if userIsAllowedToEditRight(self.username, self.password, "right-manage"):
+                            self.client.send("get Settings".encode())
+                            if not self.client.recv(1024).decode() == "abort":
+                                sett.SetSettings(json.loads(self.client.recv(1024).decode()))
+                                print("changed Settings")
+                            else:
+                                print("settings changing aborted")
                         else:
                             self.client.send("no Permission".encode())
                     if clientOrder == "disconnect":

@@ -1,47 +1,47 @@
 {
-  "overview": {
-    "status": {
-      "good":{
-        "goodMin": 0,
-        "goodMax": 10
-      },
-      "ok": {
-        "okMin": 11,
-        "okMax": 30
-      },
-      "less": {
-        "lessMin": 31,
-        "lessMax": 100
-      },
-      "bad": {
-        "badMin": 101,
-        "badMax": 10001
-      }
-    }
-  },
-  "connection": {
-    "tries": 3
-  },
-  "warning": {
-    "CPUMax": 70,
-    "GPUMax": 70,
-    "MEMMax": 90,
-    "DPCMax": 70,
-    "DFRMax": 100
-  },
-  "mail": {
-    "sending": {
-      "server": {
-        "name": "smtp.gmail.com",
-        "port": 465
-      },
-      "sender-mail": "monitorit.email@gmail.com",
-      "password": "TheP@ssw0rd",
-      "subject": " - Crit",
-      "additional": "Additional Info: \n Testing Phase"
+    "Overview": {
+        "Status": {
+            "Good": {
+                "GoodMin": 0,
+                "GoodMax": 10
+            },
+            "Ok": {
+                "OkMin": 11,
+                "OkMax": 30
+            },
+            "Less": {
+                "LessMin": 31,
+                "LessMax": 100
+            },
+            "Bad": {
+                "BadMin": 101,
+                "BadMax": 10001
+            }
+        }
     },
-    "to-mail": [
-      "craftzockerlp@gmail.com"
-    ]
-  }
+    "Connection": {
+        "Tries": 3
+    },
+    "Warning": {
+        "CpuMax": 70,
+        "GpuMax": 70,
+        "MemMax": 90,
+        "DpcMax": 70,
+        "DfrMax": 100
+    },
+    "Mail": {
+        "Sending": {
+            "Server": {
+                "Name": "smtp.gmail.com",
+                "Port": 465
+            },
+            "SenderMail": "monitorit.email@gmail.com",
+            "Password": "TheP@ssw0rd",
+            "Subject": " - Crit",
+            "Additional": "Test"
+        },
+        "ToMail": [
+            "craftzockerlp@gmail.com"
+        ]
+    }
 }
