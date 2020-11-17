@@ -72,20 +72,20 @@ class connection_thread(threading.Thread):
                 try:
                     clientOrder = self.client.recv(1024).decode()
                     if clientOrder == "see-dashboard":
-                        if userIsAllowedToSeeRight(self.username, self.password, "right-dashboard"):
+                        if userIsAllowedToSeeRight(self.username, self.password, "rightDashboard"):
                             self.client.send("starting Dashboard".encode())
                             dt = dashboard_thread()
                             dt.run(self.client, self.adress)
                         else:
                             self.client.send("no Permission".encode())
                     if clientOrder == "get-overview":
-                        if userIsAllowedToSeeRight(self.username, self.password, "right-dashboard"):
+                        if userIsAllowedToSeeRight(self.username, self.password, "rightDashboard"):
                             self.client.send("sending Overview".encode())
                             self.client.send(getOverview().encode())
                         else:
                             self.client.send("no Permission".encode())
                     if clientOrder == "get-settings":
-                        if userIsAllowedToSeeRight(self.username, self.password, "right-manage"):
+                        if userIsAllowedToSeeRight(self.username, self.password, "rightManage"):
                             self.client.send("sending Settings".encode())
                             if self.client.recv(1024).decode() == "send Settings":
                                 self.client.send(str(sett.Data).encode())
@@ -93,15 +93,26 @@ class connection_thread(threading.Thread):
                         else:
                             self.client.send("no Permission".encode())
                     if clientOrder == "set-settings":
-                        if userIsAllowedToEditRight(self.username, self.password, "right-manage"):
+                        if userIsAllowedToEditRight(self.username, self.password, "rightManage"):
                             self.client.send("get Settings".encode())
                             if not self.client.recv(1024).decode() == "abort":
-                                sett.SetSettings(json.loads(self.client.recv(1024).decode()))
-                                print("changed Settings")
+                                try:
+                                    sett.SetSettings(json.loads(self.client.recv(1024).decode()))
+                                    print("changed Settings")
+                                except Exception as e:
+                                    print("could not Save Settings bc: " + e)
                             else:
                                 print("settings changing aborted")
                         else:
                             self.client.send("no Permission".encode())
+                    if clientOrder == "get-user":
+                        temp = getAllUsers(self.username, self.password)
+                        if not temp:
+                            self.client.send("no Permission".encode())
+                        else:
+                            self.client.send("sending Users".encode())
+                            self.client.send(str(temp).encode())
+                            print("Users sent")
                     if clientOrder == "disconnect":
                         print("Client " + self.adress + " disconnected")
                         self.client.close()
@@ -113,12 +124,12 @@ class connection_thread(threading.Thread):
                     isError = True
                     break
                 except ConnectionResetError as er:
-                    print("Client " + self.adress + " disconnected bc: " + er.message)
+                    print("Client " + self.adress + " disconnected bc: " + er)
                     self.client.close()
                     isError = True
                     break
                 except OSError as er:
-                    print("Client " + self.adress + " disconnected bc: " + er.message)
+                    print("Client " + self.adress + " disconnected bc: " + er)
                     self.client.close()
                     isError = True
                     break

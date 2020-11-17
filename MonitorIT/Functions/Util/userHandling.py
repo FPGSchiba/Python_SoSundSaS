@@ -29,25 +29,31 @@ def checkFile(initData):
 
 def getUserCount():
     data = Decode()
-    return len(data)
+    return data["users"]
 
 
 def userIsAllowedToConnect(username, hashedpassword):
     data = Decode()
     try:
-        return data[username]["password"] == hashedpassword
-    except KeyError:
+        for i in range(getUserCount() - 1):
+            if data[str(i)]["username"] == username:
+                return data[str(i)]["password"] == hashedpassword
+        return False
+    except Exception as er:
+        print("error user: " + er)
         return False
 
 
 def userIsAllowedToSeeRight(username, hashedpassword, right):
     data = Decode()
     try:
-        if data[username]["password"] == hashedpassword:
-            if data[username]["rights"][right] == 2 or data[username]["rights"][right] == 1:
-                return True
-        else:
-            return False
+        for i in range(getUserCount() - 1):
+            if data[str(i)]["username"] == username:
+                if data[str(i)]["password"] == hashedpassword:
+                    return data[str(i)]["rights"][right] == 2 or data[str(i)]["rights"][right] == 1
+            else:
+                return False
+        return False
     except KeyError:
         return False
 
@@ -55,11 +61,15 @@ def userIsAllowedToSeeRight(username, hashedpassword, right):
 def userIsAllowedToEditRight(username, hashedpassword, right):
     data = Decode()
     try:
-        if data[username]["password"] == hashedpassword:
-            return data[username]["rights"][right] == 2
-        else:
-            return False
-    except KeyError:
+        for i in range(getUserCount() - 1):
+            if data[str(i)]["username"] == username:
+                if data[str(i)]["password"] == hashedpassword:
+                    return data[str(i)]["rights"][right] == 2
+            else:
+                return False
+        return False
+    except KeyError as er:
+        print("error user: " + er)
         return False
 
 
@@ -101,22 +111,49 @@ def deleteConnectionToken(addr):
         print("Adress " + addr + " had no Connection-Token")
 
 
+def getAllUsers(username, password):
+    data = Decode()
+    if userIsAllowedToSeeRight(username, password, "rightUser"):
+        return data
+    else:
+        return False
+
+
+def setAllUsers(username, password, data):
+    if userIsAllowedToEditRight(username, password, "rightUser"):
+        Encode(data)
+        return True
+    else:
+        return False
+
+
 global userFileName
 global connectionFileName
 global keyFile
-global Data
 userFileName = "../Data/User/users.bin"
 keyFile = "../Data/User/key.bin"
 connectionFileName = "../Data/User/connection.bin"
+global Data
 Data = {
-    "root": {
+    "users": 2,
+    "0": {
         "username": "root",
         "password": "bed128365216c019988915ed3add75fb",
         "rights": {
-            "right-manage": 2,
-            "right-user": 2,
-            "right-warning": 2,
-            "right-dashboard": 2
+            "rightManage": 2,
+            "rightUser": 2,
+            "rightWarning": 2,
+            "rightDashboard": 2
+        }
+    },
+    "1": {
+        "username": "dummy",
+        "password": "43278dca20581b0682058a274cbf0c43",
+        "rights": {
+            "rightManage": 0,
+            "rightUser": 0,
+            "rightWarning": 0,
+            "rightDashboard": 0
         }
     }
 }
