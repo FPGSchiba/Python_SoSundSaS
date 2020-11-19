@@ -2,21 +2,11 @@
     "Logg": {
         "LoggPerTime": {
             "Minute-Log": [
-                "ws565           // 2020-11-13 - CPU:   9% || MEM:  86% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:  18% || MEM:  87% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:  22% || MEM:  86% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   6% || MEM:  86% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   9% || MEM:  86% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   5% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  85% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   3% || MEM:  85% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB",
-                "ws565           // 2020-11-13 - CPU:   4% || MEM:  84% || GPU:   0% || DPC:  60% || DMX:   292GB || DFR:   116GB"
+                "ws565           // 2020-11-19 - CPU:  19% || MEM:  79% || GPU:   0% || DPC:  61% || DMX:   292GB || DFR:   113GB",
+                "ws565           // 2020-11-19 - CPU:   7% || MEM:  82% || GPU:   0% || DPC:  61% || DMX:   292GB || DFR:   113GB",
+                "ws565           // 2020-11-19 - CPU:   8% || MEM:  81% || GPU:   0% || DPC:  61% || DMX:   292GB || DFR:   113GB",
+                "ws565           // 2020-11-19 - CPU:   7% || MEM:  81% || GPU:   0% || DPC:  61% || DMX:   292GB || DFR:   113GB",
+                "ws565           // 2020-11-19 - CPU:   9% || MEM:  81% || GPU:   0% || DPC:  61% || DMX:   292GB || DFR:   113GB"
             ],
             "Hour-Log": [],
             "Day-Log": [],
