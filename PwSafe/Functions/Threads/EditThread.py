@@ -3,6 +3,7 @@ from tkinter import *
 import tkinter.font as font
 import json
 import tkinter
+from tkinter import messagebox
 
 
 class Details(threading.Thread):
@@ -62,29 +63,39 @@ class Details(threading.Thread):
             Button(self.options, text="Save", command=lambda: self.updPw()).grid(row=4, column=0, pady=20), self.options.grid(row=1, column=0)
 
     def updPw(self):
-        updatedName = self.root.n.get()
-        updatedPw = self.root.p.get()
-        updatedWebsite = self.root.w.get()
-        updatedDescription = self.root.d.get()
+        if not self.NameExists():
+            updatedName = self.root.n.get()
+            updatedPw = self.root.p.get()
+            updatedWebsite = self.root.w.get()
+            updatedDescription = self.root.d.get()
 
-        self.pwData[updatedName] = self.pwData.pop(self.currentPwName)
+            self.pwData[updatedName] = self.pwData.pop(self.currentPwName)
 
-        self.pwData[updatedName]["name"] = str(updatedName)
-        self.pwData[updatedName]["Password"] = str(updatedPw)
-        self.pwData[updatedName]["website"] = str(updatedWebsite)
-        self.pwData[updatedName]["Description"] = str(updatedDescription)
+            self.pwData[updatedName]["name"] = str(updatedName)
+            self.pwData[updatedName]["Password"] = str(updatedPw)
+            self.pwData[updatedName]["website"] = str(updatedWebsite)
+            self.pwData[updatedName]["Description"] = str(updatedDescription)
 
-        jsFile = open("../../Data/Passwords.json", "w")
-        json.dump(self.pwData, jsFile)
-        jsFile.close()
+            jsFile = open("../../Data/Passwords.json", "w")
+            json.dump(self.pwData, jsFile)
+            jsFile.close()
 
-        self.pwList.delete(ANCHOR)
-        self.pwList.insert(self.currentPW, "       " + str(updatedName) + "-----" + str(updatedPw + "       "))
-        self.root.destroy()
+            self.pwList.delete(ANCHOR)
+            self.pwList.insert(self.currentPW, "       " + str(updatedName) + "-----" + str(updatedPw + "       "))
+            self.root.destroy()
+        else:
+            messagebox.showerror("Name Exists", "The name already exists for another Password.")
 
     def run(self):
         if not len(self.currentPW) == 0:
             self.root.mainloop()
+
+    def NameExists(self):
+        name = str(self.root.n.get())
+        for i in self.pwData:
+            if name == i:
+                return True
+        return False
 
     def getCurrentPassword(self):
         return str(self.pwList.curselection()).replace(",", "").replace("(", "").replace(")", "")
